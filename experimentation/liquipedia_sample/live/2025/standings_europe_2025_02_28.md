@@ -380,4 +380,4 @@
 | 375      |    374 | Elite Klan Violet                         | Emma, kim, Madam, Moraltis, Tess                            | [details](details/2025_02_28/0601--elite_klan_violet--emma-kim-madam-moraltis-tess.md)                                  |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by liquipedia.net_<br />

@@ -13,6 +13,7 @@ const RegionList = ['Europe', 'Americas', 'Asia'];
 
 const summaryFolder = 'details/';
 const format = '.md';
+const experiment = 'experimentation/liquipedia_sample';
 
 
 function formatLine( line, newline = false ){ 
@@ -27,8 +28,8 @@ function generateOutput( teams, regions = [0,1,2], strDate ){
     let fileDate = strDate.replaceAll('-','_');
     let year = fileDate.slice(0,4);
     let dayOfMonth = Number( strDate.slice(-2) );
-    let invitationFolder = `../invitation/${year}/`;  
-    let liveFolder= `../live/${year}/`
+    let invitationFolder = `../${experiment}/invitation/${year}/`;  
+    let liveFolder= `../${experiment}/live/${year}/`
 
     if ( dayOfMonth < 8 ) {                  
         if ( !fs.existsSync( invitationFolder + `${ summaryFolder }${ fileDate }/` ) )
@@ -123,7 +124,7 @@ function displayRankings( teams, regions = [0,1,2], strDate ) {
     output += '\n' + tableString + '\n';
 
     output += formatLine( '', true );
-    output += formatLine( '_Event data for Regional Standings provided by HLTV.org_' );
+    output += formatLine( '_Event data for Regional Standings provided by liquipedia.net_' );
 
     //console.log( output );
     return output;
@@ -297,7 +298,7 @@ function displayTeamRankingSummary( team, teams, strDate ){
     output += formatLine( `<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_` );
     output += formatLine( '', true );
     output += formatLine( '---', true );
-    output += formatLine( '_Event data for Regional Standings provided by HLTV.org_' );
+    output += formatLine( '_Event data for Regional Standings provided by liquipedia.net_' );
 
     return output;
 }

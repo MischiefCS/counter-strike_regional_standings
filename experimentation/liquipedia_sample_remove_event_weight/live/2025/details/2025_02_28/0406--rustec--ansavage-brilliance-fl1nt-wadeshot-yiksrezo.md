@@ -76,4 +76,4 @@ To calculate a roster's Bounty Offered:<br />
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
 
 ---
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by liquipedia.net_<br />

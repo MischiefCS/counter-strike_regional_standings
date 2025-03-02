@@ -141,4 +141,4 @@
 | 136      |    387 | Metanoia Female                   | alineuai, alu, cafofa, Lawlesiris, nehcka         | [details](details/2025_02_28/0597--metanoia_female--alineuai-alu-cafofa-lawlesiris-nehcka.md)                |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by liquipedia.net_<br />

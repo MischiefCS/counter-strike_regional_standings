@@ -97,4 +97,4 @@
 | 92       |    404 | BERMOOD                          | ares666x, dARkjezz, jaw1ko, Schwarzkopf, sorr1k    | [details](details/2025_02_28/0580--bermood--ares666x-darkjezz-jaw1ko-schwarzkopf-sorr1k.md)                  |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by liquipedia.net_<br />

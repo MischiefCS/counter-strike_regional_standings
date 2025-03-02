@@ -97,4 +97,4 @@
 | 92       |    400 | Northwest                        | aspas, keyglock, ORIGLONIKO, sergelen19k, starDUST | [details](details/2025_02_28/0582--northwest--aspas-keyglock-origloniko-sergelen19k-stardust.md)             |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by liquipedia.net_<br />

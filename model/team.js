@@ -206,15 +206,13 @@ class Team {
             team.wonMatches.forEach( teamMatch => {
                 let id = teamMatch.match.umid;
                 let timestampModifier = context.getTimestampModifier( teamMatch.match.matchStartTime );
-                let prizepool = getPrizePool( teamMatch );
-                let stakesModifier = curveFunction( Math.min( prizepool / 1000000, 1 ) ); //prizepool of the event is curved the same as a bounty, and is limited to $1,000,000.
-                let matchContext = timestampModifier * stakesModifier;
+                let matchContext = timestampModifier;
 
                 let scaledBounty = teamMatch.opponent.bountyOffered * matchContext;
                 let scaledNetwork = teamMatch.opponent.ownNetwork * matchContext;
 
-                bounties.push( { id: id, context: stakesModifier, base: teamMatch.opponent.bountyOffered, val: scaledBounty } );
-                network.push(  { id: id, context: stakesModifier, base: teamMatch.opponent.ownNetwork   , val: scaledNetwork } );
+                bounties.push( { id: id, context: 1, base: teamMatch.opponent.bountyOffered, val: scaledBounty } );
+                network.push(  { id: id, context: 1, base: teamMatch.opponent.ownNetwork   , val: scaledNetwork } );
             } );
     
             bounties.sort( (a,b) => b.val - a.val );

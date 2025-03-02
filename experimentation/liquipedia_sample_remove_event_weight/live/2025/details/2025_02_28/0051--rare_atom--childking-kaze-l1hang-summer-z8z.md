@@ -1,0 +1,104 @@
+### Roster Details<br />
+Team Name: Rare Atom<br />
+Roster: ChildKing, kaze, L1haNg, Summer, z8z<br />
+Global Rank: [51](../../standings_global_2025_02_28.md)<br />
+<br />
+Region: [Asia]( ../../standings_asia_2025_02_28.md)<br />
+Regional Rank: [4]( ../../standings_asia_2025_02_28.md)<br />
+<br />
+Final Rank Value:  1146.3<br />
+<br />
+Final Rank Value (1146.3) = Starting Rank Value (1198.5) + Head To Head Adjustments (-52.2)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.435[<sup>1</sup>](#table2)
+- Bounty Collected: 0.380[<sup>2</sup>](#table1)
+- Opponent Network: 0.568[<sup>2</sup>](#table1)
+- LAN Wins: 0.218[<sup>2</sup>](#table1)
+
+The average of these factors is 0.400<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1198.5
+- 400 + ( ( 0.400 - 0.000 ) / ( 0.802 - 0.000 ) ) * 1600 = 1198.5
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|           44 |       67 | 2025-02-26 | Lynn Vision Gaming         | L   | 1.000      | -            | -                | -                | -         |   -18.29 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           43 |       73 | 2025-02-26 | Lynn Vision Gaming         | W   | 1.000      | 1.000        | 0.020 (0.020)    | -                | 0 (0.000) |    12.99 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           42 |       79 | 2025-02-26 | Shika                      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.52 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           41 |      127 | 2025-02-25 | DogEvil                    | W   | 1.000      | 1.000        | 0.028 (0.028)    | 0.608 (0.608)    | 0 (0.000) |    11.05 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           40 |      163 | 2025-02-23 | T.Beast                    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     0.50 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           39 |      302 | 2025-02-18 | THE (Russian team)         | W   | 1.000      | 1.000        | -                | 0.497 (0.497)    | 0 (0.000) |     6.98 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           38 |      305 | 2025-02-18 | THE (Russian team)         | L   | 1.000      | -            | -                | -                | -         |   -25.08 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           37 |      413 | 2025-02-13 | Gods Reign                 | W   | 1.000      | 1.000        | 0.024 (0.024)    | 0.573 (0.573)    | 0 (0.000) |     7.58 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           36 |      415 | 2025-02-13 | Gods Reign                 | W   | 1.000      | 1.000        | 0.024 (0.024)    | 0.573 (0.573)    | 0 (0.000) |     8.10 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           35 |      420 | 2025-02-12 | ATOX Esports               | L   | 1.000      | -            | -                | -                | -         |    -5.36 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           34 |      466 | 2025-02-10 | TYLOO                      | W   | 1.000      | 1.000        | 0.022 (0.022)    | 0.491 (0.491)    | -         |    15.62 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           33 |      503 | 2025-02-09 | DogEvil                    | W   | 1.000      | 1.000        | 0.028 (0.028)    | 0.608 (0.608)    | -         |    11.92 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           32 |      538 | 2025-02-08 | JiJieHao                   | W   | 1.000      | -            | -                | -                | -         |     4.05 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           31 |      618 | 2025-02-07 | DogEvil                    | W   | 1.000      | 1.000        | 0.028 (0.028)    | 0.608 (0.608)    | -         |    12.75 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           30 |      687 | 2025-02-07 | THE (Russian team)         | L   | 1.000      | -            | -                | -                | -         |   -24.65 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           29 |      913 | 2025-01-26 | Harizma                    | L   | 0.978      | -            | -                | -                | -         |   -24.00 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           28 |      915 | 2025-01-26 | Harizma                    | W   | 0.978      | 1.000        | -                | 0.586 (0.573)    | -         |     6.35 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           27 |      946 | 2025-01-24 | -72C                       | L   | 0.965      | -            | -                | -                | -         |   -25.08 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           26 |      953 | 2025-01-24 | -72C                       | W   | 0.965      | -            | -                | -                | -         |     4.89 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           25 |     1006 | 2025-01-22 | The QUBE Esports           | W   | 0.952      | -            | -                | -                | -         |     2.12 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           24 |     1009 | 2025-01-22 | The QUBE Esports           | W   | 0.952      | -            | -                | -                | -         |     2.17 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           23 |     1026 | 2025-01-21 | The Huns Esports           | L   | 0.945      | -            | -                | -                | -         |   -15.57 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           22 |     1031 | 2025-01-21 | The Huns Esports           | L   | 0.945      | -            | -                | -                | -         |   -16.92 | ChildKing, kaze, L1haNg, Summer, z8z      |
+|           21 |     1112 | 2024-12-30 | DogEvil                    | W   | 0.798      | 1.000        | 0.028 (0.022)    | 0.608 (0.485)    | -         |     8.26 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           20 |     1114 | 2024-12-30 | Lynn Vision Gaming         | W   | 0.797      | 1.000        | 0.020 (0.016)    | -                | -         |     8.33 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           19 |     1129 | 2024-12-29 | Steel Helmet               | W   | 0.791      | -            | -                | -                | -         |     0.68 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           18 |     1139 | 2024-12-28 | ATOX Esports               | L   | 0.789      | -            | -                | -                | -         |    -4.54 | ChildKing, L1haNg, somebody, Summer, z8z  |
+|           17 |     1174 | 2024-12-28 | Eruption                   | L   | 0.784      | -            | -                | -                | -         |   -16.71 | ChildKing, L1haNg, somebody, Summer, z8z  |
+|           16 |     1199 | 2024-12-27 | ATOX Esports               | L   | 0.779      | -            | -                | -                | -         |    -5.21 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           15 |     1206 | 2024-12-27 | The Huns Esports           | W   | 0.777      | 1.000        | 0.029 (0.023)    | 0.854 (0.664)    | 1 (0.777) |    10.13 | ChildKing, L1haNg, somebody, Summer, z8z  |
+|           14 |     1210 | 2024-12-26 | Steel Helmet               | W   | 0.777      | -            | -                | -                | -         |     0.55 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           13 |     1579 | 2024-12-14 | THE (Russian team)         | W   | 0.691      | -            | -                | -                | -         |     3.62 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           12 |     1668 | 2024-12-13 | FengDa Gaming              | W   | 0.685      | -            | -                | -                | -         |     3.13 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           11 |     1753 | 2024-12-11 | THE (Russian team)         | W   | 0.671      | -            | -                | -                | -         |     3.54 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           10 |     1793 | 2024-12-10 | Never Say Never-           | W   | 0.665      | -            | -                | -                | -         |     1.15 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            9 |     2547 | 2024-11-25 | Boring Players             | W   | 0.570      | -            | -                | -                | -         |     0.50 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            8 |     2548 | 2024-11-25 | Exusiai                    | W   | 0.569      | -            | -                | -                | -         |     0.23 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            7 |     3347 | 2024-11-12 | TALON                      | W   | 0.478      | -            | -                | -                | 1 (0.478) |     0.84 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            6 |     3402 | 2024-11-11 | Looking4Org (Russian team) | W   | 0.471      | -            | -                | -                | 1 (0.471) |     2.12 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            5 |     4035 | 2024-10-31 | Team Spirit Academy        | L   | 0.398      | -            | -                | -                | -         |    -5.32 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            4 |     4041 | 2024-10-31 | CYBERSHOKE Esports         | W   | 0.397      | -            | -                | -                | -         |     4.88 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            3 |     4108 | 2024-10-30 | Team Spirit Academy        | L   | 0.391      | -            | -                | -                | -         |    -5.22 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            2 |     4141 | 2024-10-29 | Endpoint                   | L   | 0.386      | -            | -                | -                | -         |    -9.71 | ChildKing, kaze, L1haNg, somebody, Summer |
+|            1 |     4153 | 2024-10-29 | Johnny Speeds              | L   | 0.386      | -            | -                | -                | -         |    -8.04 | ChildKing, kaze, L1haNg, somebody, Summer |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($14,335.00)
+- Divide that value by the 5th highest value among all rosters ($285,971.63)
+- The final value (0.05) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+Top ten winnings for this roster:<br />
+
+| Event Date | Age Weight | Prize Winnings | Scaled Winnings |
+| :- | -: | :- | :- |
+| 2024-12-30 |      0.798 | $15,000.00     | $11,964.24      |
+| 2024-12-29 |      0.790 | $3,000.00      | $2,370.76       |
+
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by HLTV.org_<br />

@@ -6,9 +6,9 @@ Global Rank: [197](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [122]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  626.0<br />
+Final Rank Value:  625.9<br />
 <br />
-Final Rank Value (626.0) = Starting Rank Value (626.6) + Head To Head Adjustments (-0.6)<br />
+Final Rank Value (625.9) = Starting Rank Value (626.5) + Head To Head Adjustments (-0.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.119<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 626.6
-- 400 + ( ( 0.119 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 626.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 626.5
+- 400 + ( ( 0.119 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 626.5
 
 
 #### Factors<br />
@@ -39,11 +39,11 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            7 |     1845 | 2024-10-20 | Eco Warriors               | L   | 0.320      | -            | -                | -                | -         |    -2.89 | Joanana, ManeschijnX, meli, spike, suns1de |
 |            6 |     1863 | 2024-10-19 | BIG EQUIPA                 | L   | 0.312      | -            | -                | -                | -         |    -3.29 | Joanana, ManeschijnX, meli, spike, suns1de |
-|            5 |     1883 | 2024-10-18 | NIP Impact                 | W   | 0.306      | 0.460        | 0.011 (0.002)    | 0.060 (0.008)    | 0 (0.000) |     5.82 | Joanana, ManeschijnX, meli, spike, suns1de |
-|            4 |     2478 | 2024-09-26 | ENCE Athena                | W   | 0.160      | 0.460        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.78 | Joanana, ManeschijnX, meli, spike, suns1de |
+|            5 |     1883 | 2024-10-18 | NIP Impact                 | W   | 0.306      | 0.455        | 0.011 (0.002)    | 0.060 (0.008)    | 0 (0.000) |     5.82 | Joanana, ManeschijnX, meli, spike, suns1de |
+|            4 |     2478 | 2024-09-26 | ENCE Athena                | W   | 0.160      | 0.455        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.78 | Joanana, ManeschijnX, meli, spike, suns1de |
 |            3 |     2743 | 2024-09-19 | Team Denmark (Female team) | L   | 0.113      | -            | -                | -                | -         |    -1.48 | Joanana, ManeschijnX, meli, spike, suns1de |
 |            2 |     2843 | 2024-09-15 | Team Spirit Female         | L   | 0.086      | -            | -                | -                | -         |    -1.40 | Hikomi, Joanana, ManeschijnX, meli, ratons |
-|            1 |     2974 | 2024-09-11 | Team Spirit Female         | W   | 0.060      | 0.460        | 0.002 (0.000)    | 0.046 (0.001)    | 0 (0.000) |     0.91 | Joanana, ManeschijnX, meli, spike, suns1de |
+|            1 |     2974 | 2024-09-11 | Team Spirit Female         | W   | 0.060      | 0.455        | 0.002 (0.000)    | 0.046 (0.001)    | 0 (0.000) |     0.91 | Joanana, ManeschijnX, meli, spike, suns1de |
 
 <br />
 <span id="table2"></span><br />

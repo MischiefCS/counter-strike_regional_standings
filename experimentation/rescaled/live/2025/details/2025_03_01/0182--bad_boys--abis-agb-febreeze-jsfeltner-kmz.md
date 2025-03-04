@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     1005 | 2024-12-06 | Alter Iron Club  | L   | 0.636      | -            | -                | -                | -         |    -8.85 | ABis, AGB, febreeze, jsfeltner, KmZ |
+|            5 |     1005 | 2024-12-06 | Alter Iron Club  | L   | 0.636      | -            | -                | -                | -         |    -8.86 | ABis, AGB, febreeze, jsfeltner, KmZ |
 |            4 |     1032 | 2024-12-05 | MCS Gaming       | W   | 0.629      | 0.372        | 0.002 (0.001)    | 0.060 (0.014)    | 0 (0.000) |     8.36 | ABis, AGB, febreeze, jsfeltner, KmZ |
 |            3 |     1065 | 2024-12-04 | OutGoing eSports | W   | 0.622      | 0.372        | 0.001 (0.000)    | 0.037 (0.009)    | 0 (0.000) |     8.60 | ABis, AGB, febreeze, jsfeltner, KmZ |
 |            2 |     1086 | 2024-12-03 | HoleSmokers      | W   | 0.616      | 0.372        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.99 | ABis, AGB, febreeze, jsfeltner, KmZ |

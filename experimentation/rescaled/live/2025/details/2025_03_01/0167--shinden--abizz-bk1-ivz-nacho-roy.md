@@ -41,8 +41,8 @@ Note:<br />
 |           20 |      203 | 2025-02-16 | UNO MILLE         | L   | 1.000      | -            | -                | -                | -         |   -14.70 | abizz, BK1, ivz, nacho, roy      |
 |           19 |      270 | 2025-02-14 | Game Hunters      | W   | 1.000      | 0.371        | 0.001 (0.000)    | 0.302 (0.112)    | 0 (0.000) |    13.62 | abizz, BK1, ivz, nacho, roy      |
 |           18 |      334 | 2025-02-11 | Atrix Esports     | W   | 1.000      | 0.371        | 0.001 (0.000)    | 0.037 (0.014)    | 0 (0.000) |    12.28 | abizz, BK1, ivz, nacho, roy      |
-|           17 |      487 | 2025-02-07 | Imperial Esports  | L   | 1.000      | -            | -                | -                | -         |    -3.36 | abizz, BK1, ivz, nacho, roy      |
-|           16 |      698 | 2025-01-10 | Legacy            | L   | 0.868      | -            | -                | -                | -         |    -6.20 | abizz, BK1, ivz, relentless, roy |
+|           17 |      487 | 2025-02-07 | Imperial Esports  | L   | 1.000      | -            | -                | -                | -         |    -3.38 | abizz, BK1, ivz, nacho, roy      |
+|           16 |      698 | 2025-01-10 | Legacy            | L   | 0.868      | -            | -                | -                | -         |    -6.21 | abizz, BK1, ivz, relentless, roy |
 |           15 |      706 | 2025-01-09 | Patins da Ferrari | W   | 0.861      | 0.403        | 0.000 (0.000)    | 0.128 (0.044)    | 0 (0.000) |     8.65 | abizz, BK1, ivz, relentless, roy |
 |           14 |      811 | 2024-12-18 | Fake do Biru      | W   | 0.714      | 0.403        | 0.000 (0.000)    | 0.194 (0.056)    | 0 (0.000) |     8.21 | abizz, BK1, ivz, relentless, roy |
 |           13 |      831 | 2024-12-16 | 9z Academy        | W   | 0.700      | 0.403        | 0.000 (0.000)    | 0.210 (0.059)    | 0 (0.000) |     6.80 | abizz, BK1, ivz, relentless, roy |
@@ -51,7 +51,7 @@ Note:<br />
 |           10 |     1302 | 2024-11-22 | VELOX Argentina   | L   | 0.541      | -            | -                | -                | -         |   -12.28 | abizz, BK1, ivz, relentless, roy |
 |            9 |     1333 | 2024-11-21 | Nitro.GG          | L   | 0.533      | -            | -                | -                | -         |    -8.94 | abizz, BK1, ivz, relentless, roy |
 |            8 |     1383 | 2024-11-18 | LaChampionsLiga   | W   | 0.514      | 0.371        | 0.003 (0.001)    | 0.199 (0.038)    | 0 (0.000) |     6.71 | abizz, BK1, ivz, relentless, roy |
-|            7 |     1644 | 2024-11-06 | Hype Esports      | L   | 0.435      | -            | -                | -                | -         |    -7.04 | abizz, BK1, ivz, relentless, roy |
+|            7 |     1644 | 2024-11-06 | Hype Esports      | L   | 0.435      | -            | -                | -                | -         |    -7.05 | abizz, BK1, ivz, relentless, roy |
 |            6 |     1679 | 2024-11-03 | MIBR Academy      | W   | 0.415      | 0.371        | 0.001 (0.000)    | 0.328 (0.050)    | 0 (0.000) |     5.90 | abizz, BK1, ivz, relentless, roy |
 |            5 |     1702 | 2024-11-02 | VELOX Argentina   | W   | 0.407      | 0.371        | 0.000 (0.000)    | 0.121 (0.018)    | 0 (0.000) |     3.59 | abizz, BK1, ivz, relentless, roy |
 |            4 |     1742 | 2024-10-31 | TROPA DO TACO     | L   | 0.394      | -            | -                | -                | -         |    -6.26 | abizz, BK1, ivz, relentless, roy |

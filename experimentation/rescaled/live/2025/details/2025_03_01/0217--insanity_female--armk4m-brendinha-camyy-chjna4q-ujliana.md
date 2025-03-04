@@ -8,7 +8,7 @@ Regional Rank: [62]( ../../standings_americas_2025_03_01.md)<br />
 <br />
 Final Rank Value:  605.3<br />
 <br />
-Final Rank Value (605.3) = Starting Rank Value (607.3) + Head To Head Adjustments (-1.9)<br />
+Final Rank Value (605.3) = Starting Rank Value (607.2) + Head To Head Adjustments (-1.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.109<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 607.3
-- 400 + ( ( 0.109 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 607.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 607.2
+- 400 + ( ( 0.109 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 607.2
 
 
 #### Factors<br />
@@ -38,14 +38,14 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |     1879 | 2024-10-18 | MIBR Female          | L   | 0.307      | -            | -                | -                | -         |    -4.42 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
-|            8 |     2237 | 2024-10-03 | Atrix Esports        | W   | 0.207      | 0.467        | 0.001 (0.000)    | 0.037 (0.004)    | 0 (0.000) |     3.38 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
+|            8 |     2237 | 2024-10-03 | Atrix Esports        | W   | 0.207      | 0.465        | 0.001 (0.000)    | 0.037 (0.004)    | 0 (0.000) |     3.38 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
 |            7 |     2445 | 2024-09-27 | Thekillaz            | L   | 0.167      | -            | -                | -                | -         |    -2.65 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
 |            6 |     2475 | 2024-09-26 | FURIA Esports Female | L   | 0.160      | -            | -                | -                | -         |    -0.54 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
 |            5 |     2595 | 2024-09-24 | Capivaras            | W   | 0.147      | 0.272        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.74 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
 |            4 |     2642 | 2024-09-23 | Thekillaz            | L   | 0.140      | -            | -                | -                | -         |    -2.23 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
-|            3 |     2773 | 2024-09-18 | Thekillaz            | W   | 0.107      | 0.467        | 0.001 (0.000)    | 0.026 (0.001)    | 0 (0.000) |     1.68 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
-|            2 |     2937 | 2024-09-12 | Capivaras            | W   | 0.067      | 0.467        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.80 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
-|            1 |     3124 | 2024-09-05 | Peak Academy Female  | W   | 0.020      | 0.467        | 0.001 (0.000)    | 0.018 (0.000)    | 0 (0.000) |     0.32 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
+|            3 |     2773 | 2024-09-18 | Thekillaz            | W   | 0.107      | 0.465        | 0.001 (0.000)    | 0.026 (0.001)    | 0 (0.000) |     1.68 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
+|            2 |     2937 | 2024-09-12 | Capivaras            | W   | 0.067      | 0.465        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.80 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
+|            1 |     3124 | 2024-09-05 | Peak Academy Female  | W   | 0.020      | 0.465        | 0.001 (0.000)    | 0.018 (0.000)    | 0 (0.000) |     0.32 | armk4m, Brendinha, cAmyy, chjna4Q, ujliana |
 
 <br />
 <span id="table2"></span><br />

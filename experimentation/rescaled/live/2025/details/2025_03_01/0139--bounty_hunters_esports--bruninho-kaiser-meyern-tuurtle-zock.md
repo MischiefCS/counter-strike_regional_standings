@@ -6,9 +6,9 @@ Global Rank: [139](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [33]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  718.3<br />
+Final Rank Value:  718.1<br />
 <br />
-Final Rank Value (718.3) = Starting Rank Value (685.9) + Head To Head Adjustments (32.3)<br />
+Final Rank Value (718.1) = Starting Rank Value (685.9) + Head To Head Adjustments (32.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,13 +38,13 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |      153 | 2025-02-20 | Sharks Esports | L   | 1.000      | -            | -                | -                | -         |    -5.42 | Bruninho, KAISER, meyern, Tuurtle, zock  |
-|            8 |      224 | 2025-02-15 | Dusty Roots    | W   | 1.000      | 0.468        | 0.008 (0.004)    | 0.422 (0.198)    | 0 (0.000) |    17.07 | Bruninho, KAISER, meyern, Tuurtle, zock  |
-|            7 |      265 | 2025-02-14 | KRÜ Esports    | W   | 1.000      | 0.468        | 0.001 (0.001)    | 0.169 (0.079)    | 0 (0.000) |    13.91 | Bruninho, KAISER, meyern, Tuurtle, zock  |
-|            6 |      328 | 2025-02-11 | AdalYamigos    | W   | 1.000      | 0.468        | 0.003 (0.001)    | 0.226 (0.106)    | 0 (0.000) |    18.81 | Bruninho, KAISER, meyern, Tuurtle, zock  |
+|            8 |      224 | 2025-02-15 | Dusty Roots    | W   | 1.000      | 0.466        | 0.008 (0.004)    | 0.422 (0.197)    | 0 (0.000) |    17.06 | Bruninho, KAISER, meyern, Tuurtle, zock  |
+|            7 |      265 | 2025-02-14 | KRÜ Esports    | W   | 1.000      | 0.466        | 0.001 (0.001)    | 0.169 (0.079)    | 0 (0.000) |    13.90 | Bruninho, KAISER, meyern, Tuurtle, zock  |
+|            6 |      328 | 2025-02-11 | AdalYamigos    | W   | 1.000      | 0.466        | 0.003 (0.001)    | 0.226 (0.106)    | 0 (0.000) |    18.81 | Bruninho, KAISER, meyern, Tuurtle, zock  |
 |            5 |      348 | 2025-02-10 | UNO MILLE      | L   | 1.000      | -            | -                | -                | -         |   -14.95 | Bruninho, KAISER, meyern, Tuurtle, zock  |
 |            4 |      512 | 2025-02-06 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -6.25 | Bruninho, KAISER, meyern, Tuurtle, zock  |
 |            3 |      536 | 2025-02-05 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |   -10.23 | Bruninho, KAISER, meyern, Tuurtle, zock  |
-|            2 |      543 | 2025-02-05 | BESTIA         | W   | 1.000      | 0.468        | 0.045 (0.021)    | 0.572 (0.268)    | 0 (0.000) |    25.36 | Bruninho, KAISER, meyern, Tuurtle, zock  |
+|            2 |      543 | 2025-02-05 | BESTIA         | W   | 1.000      | 0.468        | 0.045 (0.021)    | 0.572 (0.268)    | 0 (0.000) |    25.35 | Bruninho, KAISER, meyern, Tuurtle, zock  |
 |            1 |     1703 | 2024-11-02 | UNO MILLE      | L   | 0.407      | -            | -                | -                | -         |    -5.99 | bnc, Bruninho, KAISER, meyern, SHOOWTiME |
 
 <br />

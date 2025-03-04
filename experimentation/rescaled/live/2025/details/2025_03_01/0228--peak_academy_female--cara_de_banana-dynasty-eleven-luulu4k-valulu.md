@@ -8,7 +8,7 @@ Regional Rank: [66]( ../../standings_americas_2025_03_01.md)<br />
 <br />
 Final Rank Value:  595.4<br />
 <br />
-Final Rank Value (595.4) = Starting Rank Value (601.0) + Head To Head Adjustments (-5.6)<br />
+Final Rank Value (595.4) = Starting Rank Value (600.9) + Head To Head Adjustments (-5.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.106<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 601.0
-- 400 + ( ( 0.106 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 601.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 600.9
+- 400 + ( ( 0.106 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 600.9
 
 
 #### Factors<br />
@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     1877 | 2024-10-18 | Capivaras            | W   | 0.307      | 0.482        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.75 | Cara de Banana, DynasTy, eleveN, Luulu4k, valulu |
+|            8 |     1877 | 2024-10-18 | Capivaras            | W   | 0.307      | 0.480        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.75 | Cara de Banana, DynasTy, eleveN, Luulu4k, valulu |
 |            7 |     2273 | 2024-10-02 | Fluxo Demons         | L   | 0.200      | -            | -                | -                | -         |    -1.90 | Cara de Banana, DynasTy, eleveN, Luulu4k, valulu |
 |            6 |     2534 | 2024-09-25 | Atrix Esports        | L   | 0.154      | -            | -                | -                | -         |    -2.26 | Cara de Banana, DynasTy, eleveN, Luulu4k, valulu |
 |            5 |     2583 | 2024-09-24 | Fluxo Demons         | L   | 0.148      | -            | -                | -                | -         |    -1.44 | Cara de Banana, DynasTy, eleveN, Luulu4k, valulu |

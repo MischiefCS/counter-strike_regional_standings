@@ -6,9 +6,9 @@ Global Rank: [178](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [117]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  656.0<br />
+Final Rank Value:  655.8<br />
 <br />
-Final Rank Value (656.0) = Starting Rank Value (666.2) + Head To Head Adjustments (-10.2)<br />
+Final Rank Value (655.8) = Starting Rank Value (666.2) + Head To Head Adjustments (-10.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |       94 | 2025-02-23 | Inner Circle Esports | L   | 1.000      | -            | -                | -                | -         |   -22.07 | cairne, Dawy, Flierax, nifee, onic     |
-|           10 |      367 | 2025-02-10 | Nemiga Gaming        | L   | 1.000      | -            | -                | -                | -         |    -4.12 | cairne, Dawy, Flierax, nifee, onic     |
+|           11 |       94 | 2025-02-23 | Inner Circle Esports | L   | 1.000      | -            | -                | -                | -         |   -22.06 | cairne, Dawy, Flierax, nifee, onic     |
+|           10 |      367 | 2025-02-10 | Nemiga Gaming        | L   | 1.000      | -            | -                | -                | -         |    -4.14 | cairne, Dawy, Flierax, nifee, onic     |
 |            9 |      376 | 2025-02-10 | Team Falcons         | L   | 1.000      | -            | -                | -                | -         |    -0.06 | cairne, Dawy, Flierax, nifee, onic     |
-|            8 |      433 | 2025-02-08 | Ex-Daystar           | W   | 1.000      | 0.467        | 0.000 (0.000)    | 0.060 (0.028)    | 0 (0.000) |     5.59 | cairne, Dawy, Flierax, nifee, s-chilla |
-|            7 |      438 | 2025-02-08 | OG                   | L   | 1.000      | -            | -                | -                | -         |    -5.01 | cairne, Dawy, Flierax, nifee, s-chilla |
-|            6 |      450 | 2025-02-08 | CYBERSHOKE Esports   | W   | 1.000      | 0.467        | 0.010 (0.005)    | 1.000 (0.467)    | 0 (0.000) |    24.76 | cairne, Dawy, Flierax, nifee, s-chilla |
+|            8 |      433 | 2025-02-08 | Ex-Daystar           | W   | 1.000      | 0.467        | 0.000 (0.000)    | 0.060 (0.028)    | 0 (0.000) |     5.60 | cairne, Dawy, Flierax, nifee, s-chilla |
+|            7 |      438 | 2025-02-08 | OG                   | L   | 1.000      | -            | -                | -                | -         |    -5.05 | cairne, Dawy, Flierax, nifee, s-chilla |
+|            6 |      450 | 2025-02-08 | CYBERSHOKE Esports   | W   | 1.000      | 0.467        | 0.010 (0.005)    | 1.000 (0.467)    | 0 (0.000) |    24.61 | cairne, Dawy, Flierax, nifee, s-chilla |
 |            5 |      948 | 2024-12-09 | TEAM NEXT LEVEL      | L   | 0.653      | -            | -                | -                | -         |    -8.39 | ch1rs, Dawy, Flierax, nifee, Psycho    |
 |            4 |     3076 | 2024-09-07 | Leo Team             | L   | 0.033      | -            | -                | -                | -         |    -0.37 | cairne, Dawy, Flierax, nifee, Psycho   |
 |            3 |     3133 | 2024-09-05 | FLuffy Gangsters     | L   | 0.020      | -            | -                | -                | -         |    -0.27 | cairne, Dawy, Flierax, nifee, Psycho   |

@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |      473 | 2025-02-08 | TYLOO                     | L   | 1.000      | -            | -                | -                | -         |   -11.57 | deffen, Haski4, lame, yato, ZinGY   |
+|           17 |      473 | 2025-02-08 | TYLOO                     | L   | 1.000      | -            | -                | -                | -         |   -11.59 | deffen, Haski4, lame, yato, ZinGY   |
 |           16 |     1042 | 2024-12-05 | Chinggis Warriors         | W   | 0.625      | 0.358        | 0.016 (0.004)    | 0.555 (0.124)    | 0 (0.000) |    11.41 | deffen, Geneka, Haski4, lame, ZinGY |
 |           15 |     1051 | 2024-12-05 | DogEvil                   | L   | 0.624      | -            | -                | -                | -         |   -15.42 | deffen, Geneka, Haski4, lame, ZinGY |
 |           14 |     1054 | 2024-12-04 | Chinggis Warriors         | W   | 0.624      | 0.358        | 0.016 (0.004)    | 0.555 (0.124)    | 0 (0.000) |    11.38 | deffen, Geneka, Haski4, lame, ZinGY |
@@ -48,7 +48,7 @@ Note:<br />
 |            9 |     1964 | 2024-10-15 | Gods Reign                | W   | 0.285      | 0.452        | 0.014 (0.002)    | 0.360 (0.046)    | 1 (0.285) |     6.10 | deffen, Haski4, lame, Sange, ZinGY  |
 |            8 |     2047 | 2024-10-09 | Ex-GR Gaming              | L   | 0.245      | -            | -                | -                | -         |    -4.35 | deffen, Haski4, lame, Sange, ZinGY  |
 |            7 |     2053 | 2024-10-09 | Ex-GR Gaming              | L   | 0.245      | -            | -                | -                | -         |    -4.44 | deffen, Haski4, lame, Sange, ZinGY  |
-|            6 |     2104 | 2024-10-08 | Lynn Vision Gaming        | W   | 0.238      | 0.452        | 0.011 (0.001)    | 0.301 (0.032)    | 1 (0.238) |     4.67 | deffen, Haski4, lame, Sange, ZinGY  |
+|            6 |     2104 | 2024-10-08 | Lynn Vision Gaming        | W   | 0.238      | 0.452        | 0.011 (0.001)    | 0.301 (0.032)    | 1 (0.238) |     4.66 | deffen, Haski4, lame, Sange, ZinGY  |
 |            5 |     2110 | 2024-10-08 | Lynn Vision Gaming        | W   | 0.238      | 0.452        | 0.011 (0.001)    | 0.301 (0.032)    | 1 (0.238) |     4.75 | deffen, Haski4, lame, Sange, ZinGY  |
 |            4 |     2135 | 2024-10-07 | Gods Reign                | W   | 0.232      | 0.452        | 0.014 (0.001)    | 0.360 (0.038)    | 1 (0.232) |     5.11 | deffen, Haski4, lame, Sange, ZinGY  |
 |            3 |     2137 | 2024-10-07 | Gods Reign                | W   | 0.231      | 0.452        | 0.014 (0.001)    | 0.360 (0.038)    | 1 (0.231) |     5.19 | deffen, Haski4, lame, Sange, ZinGY  |

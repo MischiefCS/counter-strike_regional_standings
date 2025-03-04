@@ -6,22 +6,22 @@ Global Rank: [230](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [136]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  591.5<br />
+Final Rank Value:  591.1<br />
 <br />
-Final Rank Value (591.5) = Starting Rank Value (553.2) + Head To Head Adjustments (38.3)<br />
+Final Rank Value (591.1) = Starting Rank Value (552.7) + Head To Head Adjustments (38.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
 - Bounty Collected: 0.266[<sup>2</sup>](#table1)
-- Opponent Network: 0.056[<sup>2</sup>](#table1)
+- Opponent Network: 0.055[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.080<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 553.2
-- 400 + ( ( 0.080 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 553.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 552.7
+- 400 + ( ( 0.080 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 552.7
 
 
 #### Factors<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      710 | 2025-01-09 | KONO.ECF         | L   | 0.859      | -            | -                | -                | -         |   -11.09 | hAdji, Patti, Sapec, VLDN, Woro2k |
-|            5 |      714 | 2025-01-08 | FLuffy Gangsters | W   | 0.853      | 0.503        | 0.005 (0.002)    | 0.419 (0.180)    | 0 (0.000) |    17.50 | hAdji, Patti, Sapec, VLDN, Woro2k |
-|            4 |      722 | 2025-01-06 | WOPA Esport      | W   | 0.838      | 0.503        | 0.028 (0.012)    | 0.499 (0.210)    | 0 (0.000) |    19.92 | hAdji, Patti, Sapec, VLDN, Woro2k |
-|            3 |      725 | 2025-01-05 | Los kogutos      | L   | 0.832      | -            | -                | -                | -         |    -3.86 | hAdji, Patti, Sapec, VLDN, Woro2k |
-|            2 |      734 | 2025-01-03 | ECSTATIC         | L   | 0.818      | -            | -                | -                | -         |    -2.79 | hAdji, Patti, Sapec, VLDN, Woro2k |
-|            1 |      741 | 2024-12-28 | GenOne           | W   | 0.780      | 0.503        | 0.009 (0.003)    | 0.424 (0.166)    | 0 (0.000) |    18.67 | hAdji, Patti, Sapec, VLDN, Woro2k |
+|            6 |      710 | 2025-01-09 | KONO.ECF         | L   | 0.859      | -            | -                | -                | -         |   -11.08 | hAdji, Patti, Sapec, VLDN, Woro2k |
+|            5 |      714 | 2025-01-08 | FLuffy Gangsters | W   | 0.853      | 0.497        | 0.005 (0.002)    | 0.419 (0.178)    | 0 (0.000) |    17.51 | hAdji, Patti, Sapec, VLDN, Woro2k |
+|            4 |      722 | 2025-01-06 | WOPA Esport      | W   | 0.838      | 0.497        | 0.028 (0.012)    | 0.499 (0.208)    | 0 (0.000) |    19.93 | hAdji, Patti, Sapec, VLDN, Woro2k |
+|            3 |      725 | 2025-01-05 | Los kogutos      | L   | 0.832      | -            | -                | -                | -         |    -3.85 | hAdji, Patti, Sapec, VLDN, Woro2k |
+|            2 |      734 | 2025-01-03 | ECSTATIC         | L   | 0.818      | -            | -                | -                | -         |    -2.82 | hAdji, Patti, Sapec, VLDN, Woro2k |
+|            1 |      741 | 2024-12-28 | GenOne           | W   | 0.780      | 0.497        | 0.009 (0.003)    | 0.424 (0.164)    | 0 (0.000) |    18.66 | hAdji, Patti, Sapec, VLDN, Woro2k |
 
 <br />
 <span id="table2"></span><br />

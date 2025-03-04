@@ -6,9 +6,9 @@ Global Rank: [194](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [121]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  632.6<br />
+Final Rank Value:  632.3<br />
 <br />
-Final Rank Value (632.6) = Starting Rank Value (628.5) + Head To Head Adjustments (4.0)<br />
+Final Rank Value (632.3) = Starting Rank Value (628.3) + Head To Head Adjustments (4.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.120<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 628.5
-- 400 + ( ( 0.120 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 628.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 628.3
+- 400 + ( ( 0.120 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 628.3
 
 
 #### Factors<br />
@@ -38,12 +38,12 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            7 |     2803 | 2024-09-17 | FAVBET Team      | L   | 0.100      | -            | -                | -                | -         |    -0.70 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
-|            6 |     2840 | 2024-09-15 | FLuffy Gangsters | W   | 0.087      | 0.602        | 0.005 (0.000)    | 0.419 (0.022)    | 0 (0.000) |     1.65 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
-|            5 |     2909 | 2024-09-13 | Daystar          | W   | 0.073      | 0.602        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     1.12 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
-|            4 |     2984 | 2024-09-11 | Dynamo Eclot     | W   | 0.059      | 0.602        | 0.126 (0.004)    | 0.674 (0.024)    | 0 (0.000) |     1.74 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
+|            6 |     2840 | 2024-09-15 | FLuffy Gangsters | W   | 0.087      | 0.591        | 0.005 (0.000)    | 0.419 (0.021)    | 0 (0.000) |     1.65 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
+|            5 |     2909 | 2024-09-13 | Daystar          | W   | 0.073      | 0.591        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     1.12 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
+|            4 |     2984 | 2024-09-11 | Dynamo Eclot     | W   | 0.059      | 0.591        | 0.126 (0.004)    | 0.674 (0.023)    | 0 (0.000) |     1.74 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
 |            3 |     3078 | 2024-09-07 | Endpoint         | L   | 0.032      | -            | -                | -                | -         |    -0.33 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
-|            2 |     3137 | 2024-09-05 | UNiTY esports    | W   | 0.019      | 0.602        | 0.025 (0.000)    | 0.177 (0.002)    | 0 (0.000) |     0.43 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
-|            1 |     3205 | 2024-09-03 | Leo Team         | W   | 0.006      | 0.602        | 0.023 (0.000)    | 0.508 (0.002)    | 0 (0.000) |     0.13 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
+|            2 |     3137 | 2024-09-05 | UNiTY esports    | W   | 0.019      | 0.591        | 0.025 (0.000)    | 0.177 (0.002)    | 0 (0.000) |     0.43 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
+|            1 |     3205 | 2024-09-03 | Leo Team         | W   | 0.006      | 0.591        | 0.023 (0.000)    | 0.508 (0.002)    | 0 (0.000) |     0.13 | BøghmagiC, Fessor, h4rn, sense, Tapewaare |
 
 <br />
 <span id="table2"></span><br />

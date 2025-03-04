@@ -6,9 +6,9 @@ Global Rank: [82](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [10]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  859.8<br />
+Final Rank Value:  859.7<br />
 <br />
-Final Rank Value (859.8) = Starting Rank Value (872.3) + Head To Head Adjustments (-12.6)<br />
+Final Rank Value (859.7) = Starting Rank Value (872.3) + Head To Head Adjustments (-12.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           40 |       29 | 2025-02-26 | HOTU                          | W   | 1.000      | 0.384        | -                | 0.217 (0.083)    | -         |     9.52 | ariucle, controlez, efire, NEUZ, ROUX   |
+|           40 |       29 | 2025-02-26 | HOTU                          | W   | 1.000      | 0.384        | -                | 0.217 (0.083)    | -         |     9.51 | ariucle, controlez, efire, NEUZ, ROUX   |
 |           39 |       42 | 2025-02-25 | The Huns Esports              | W   | 1.000      | 0.384        | 0.025 (0.010)    | 0.516 (0.198)    | -         |    20.30 | ariucle, controlez, efire, NEUZ, ROUX   |
 |           38 |       63 | 2025-02-24 | The QUBE Esports              | W   | 1.000      | -            | -                | -                | -         |     2.60 | ariucle, controlez, efire, NEUZ, ROUX   |
 |           37 |      320 | 2025-02-11 | The Huns Esports              | L   | 1.000      | -            | -                | -                | -         |   -10.76 | ariucle, controlez, efire, NEUZ, ROUX   |
@@ -71,7 +71,7 @@ Note:<br />
 |            9 |     2223 | 2024-10-03 | ATOX Esports                  | L   | 0.210      | -            | -                | -                | -         |    -1.74 | AccuracyTG, ariucle, efire, ROUX, Zesta |
 |            8 |     2289 | 2024-10-02 | Ex-GR Gaming                  | W   | 0.198      | 0.417        | 0.011 (0.001)    | 0.096 (0.008)    | 1 (0.198) |     2.10 | AccuracyTG, ariucle, efire, ROUX, Zesta |
 |            7 |     2294 | 2024-10-02 | Ex-GR Gaming                  | W   | 0.198      | 0.417        | 0.011 (0.001)    | -                | 1 (0.198) |     2.13 | AccuracyTG, ariucle, efire, ROUX, Zesta |
-|            6 |     2343 | 2024-10-01 | Lynn Vision Gaming            | L   | 0.192      | -            | -                | -                | -         |    -2.91 | AccuracyTG, ariucle, efire, ROUX, Zesta |
+|            6 |     2343 | 2024-10-01 | Lynn Vision Gaming            | L   | 0.192      | -            | -                | -                | -         |    -2.92 | AccuracyTG, ariucle, efire, ROUX, Zesta |
 |            5 |     2347 | 2024-10-01 | Lynn Vision Gaming            | L   | 0.191      | -            | -                | -                | -         |    -2.96 | AccuracyTG, ariucle, efire, ROUX, Zesta |
 |            4 |     2457 | 2024-09-27 | Chinggis Warriors             | W   | 0.164      | -            | -                | -                | -         |     0.34 | AccuracyTG, ariucle, efire, ROUX, Zesta |
 |            3 |     2466 | 2024-09-26 | The Huns Esports              | W   | 0.163      | 0.384        | 0.025 (0.002)    | 0.516 (0.032)    | -         |     3.48 | AccuracyTG, ariucle, efire, ROUX, Zesta |

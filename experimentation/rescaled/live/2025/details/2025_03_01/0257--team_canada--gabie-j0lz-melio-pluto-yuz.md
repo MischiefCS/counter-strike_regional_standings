@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1455 | 2024-11-15 | Metizport                   | L   | 0.492      | -            | -                | -                | -         |    -0.56 | Gabie, J0LZ, Melio, Pluto, YuZ     |
+|           12 |     1455 | 2024-11-15 | Metizport                   | L   | 0.492      | -            | -                | -                | -         |    -0.57 | Gabie, J0LZ, Melio, Pluto, YuZ     |
 |           11 |     1462 | 2024-11-15 | Mindfreak (Australian team) | L   | 0.491      | -            | -                | -                | -         |    -4.47 | Gabie, J0LZ, Melio, Pluto, YuZ     |
 |           10 |     1475 | 2024-11-14 | Team Norway                 | L   | 0.487      | -            | -                | -                | -         |    -6.64 | Gabie, J0LZ, Melio, Pluto, YuZ     |
 |            9 |     1515 | 2024-11-13 | Los kogutos                 | L   | 0.479      | -            | -                | -                | -         |    -1.79 | Gabie, J0LZ, Melio, Pluto, YuZ     |

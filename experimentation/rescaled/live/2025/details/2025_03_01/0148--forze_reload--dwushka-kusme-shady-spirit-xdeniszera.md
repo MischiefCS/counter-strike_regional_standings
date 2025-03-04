@@ -6,9 +6,9 @@ Global Rank: [148](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [100]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  699.2<br />
+Final Rank Value:  699.1<br />
 <br />
-Final Rank Value (699.2) = Starting Rank Value (689.6) + Head To Head Adjustments (9.5)<br />
+Final Rank Value (699.1) = Starting Rank Value (689.6) + Head To Head Adjustments (9.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,11 +38,11 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |      793 | 2024-12-20 | AMKAL ESPORTS         | L   | 0.725      | -            | -                | -                | -         |    -9.53 | dwushka, KusMe, shady, spirit, xdENiSZERA |
-|            5 |      804 | 2024-12-19 | K27                   | W   | 0.719      | 0.368        | 0.004 (0.001)    | 0.139 (0.037)    | 0 (0.000) |    11.06 | dwushka, KusMe, shady, spirit, xdENiSZERA |
+|            5 |      804 | 2024-12-19 | K27                   | W   | 0.719      | 0.368        | 0.004 (0.001)    | 0.139 (0.037)    | 0 (0.000) |    11.05 | dwushka, KusMe, shady, spirit, xdENiSZERA |
 |            4 |      847 | 2024-12-15 | RUSH B (Russian team) | L   | 0.693      | -            | -                | -                | -         |    -5.92 | dwushka, KusMe, shady, spirit, xdENiSZERA |
 |            3 |     1069 | 2024-12-04 | Monte                 | L   | 0.620      | -            | -                | -                | -         |    -6.01 | dwushka, KusMe, shady, spirit, xdENiSZERA |
 |            2 |     1093 | 2024-12-03 | Viperio               | W   | 0.612      | 0.415        | 0.002 (0.000)    | 0.055 (0.014)    | 0 (0.000) |     7.28 | dwushka, KusMe, shady, spirit, xdENiSZERA |
-|            1 |     1118 | 2024-12-02 | BC.Game Esports       | W   | 0.605      | 0.415        | 0.022 (0.005)    | 0.276 (0.069)    | 0 (0.000) |    12.65 | dwushka, KusMe, shady, spirit, xdENiSZERA |
+|            1 |     1118 | 2024-12-02 | BC.Game Esports       | W   | 0.605      | 0.415        | 0.022 (0.005)    | 0.276 (0.069)    | 0 (0.000) |    12.64 | dwushka, KusMe, shady, spirit, xdENiSZERA |
 
 <br />
 <span id="table2"></span><br />

@@ -8,7 +8,7 @@ Regional Rank: [119]( ../../standings_europe_2025_03_01.md)<br />
 <br />
 Final Rank Value:  648.2<br />
 <br />
-Final Rank Value (648.2) = Starting Rank Value (651.6) + Head To Head Adjustments (-3.3)<br />
+Final Rank Value (648.2) = Starting Rank Value (651.6) + Head To Head Adjustments (-3.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,8 +38,8 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            7 |      143 | 2025-02-21 | Dark Cloud Esports                        | L   | 1.000      | -            | -                | -                | -         |   -12.39 | cronuss, HObbit, klain, oz1k, sh1geo |
-|            6 |     1157 | 2024-11-30 | GenOne                                    | L   | 0.593      | -            | -                | -                | -         |    -6.92 | cronuss, HObbit, Jyo, lattykk, oz1k  |
-|            5 |     1207 | 2024-11-28 | Copenhagen Wolves (American organization) | L   | 0.579      | -            | -                | -                | -         |    -5.29 | cronuss, HObbit, Jyo, lattykk, oz1k  |
+|            6 |     1157 | 2024-11-30 | GenOne                                    | L   | 0.593      | -            | -                | -                | -         |    -6.93 | cronuss, HObbit, Jyo, lattykk, oz1k  |
+|            5 |     1207 | 2024-11-28 | Copenhagen Wolves (American organization) | L   | 0.579      | -            | -                | -                | -         |    -5.31 | cronuss, HObbit, Jyo, lattykk, oz1k  |
 |            4 |     1232 | 2024-11-26 | ARROW (German team)                       | W   | 0.566      | 0.394        | 0.013 (0.003)    | 0.077 (0.017)    | 0 (0.000) |    11.48 | cronuss, HObbit, Jyo, lattykk, oz1k  |
 |            3 |     1692 | 2024-11-03 | FLuffy Gangsters                          | W   | 0.412      | 0.406        | 0.005 (0.001)    | 0.419 (0.070)    | 0 (0.000) |     7.25 | cronuss, HObbit, Jyo, lattykk, oz1k  |
 |            2 |     1706 | 2024-11-02 | RUSH B (Russian team)                     | L   | 0.407      | -            | -                | -                | -         |    -2.81 | cronuss, HObbit, Jyo, lattykk, oz1k  |

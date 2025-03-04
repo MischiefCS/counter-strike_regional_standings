@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |     1452 | 2024-11-15 | The Huns Esports | W   | 0.492      | 0.617        | 0.025 (0.008)    | 0.516 (0.157)    | 1 (0.492) |    13.73 | Darber, NEOFRAG, olik, pandi7o, PerdY |
-|            4 |     1460 | 2024-11-15 | Dusty Roots      | L   | 0.491      | -            | -                | -                | -         |    -5.03 | Darber, NEOFRAG, olik, pandi7o, PerdY |
+|            4 |     1460 | 2024-11-15 | Dusty Roots      | L   | 0.491      | -            | -                | -                | -         |    -5.04 | Darber, NEOFRAG, olik, pandi7o, PerdY |
 |            3 |     1469 | 2024-11-14 | Partizan Esports | L   | 0.488      | -            | -                | -                | -         |    -0.97 | Darber, NEOFRAG, olik, pandi7o, PerdY |
 |            2 |     1507 | 2024-11-13 | SINNERS Academy  | W   | 0.480      | 0.617        | 0.001 (0.000)    | 0.059 (0.017)    | 1 (0.480) |     9.58 | Darber, NEOFRAG, olik, pandi7o, PerdY |
 |            1 |     1511 | 2024-11-13 | Kitsune Esports  | W   | 0.480      | 0.617        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.480) |     3.62 | Darber, NEOFRAG, olik, pandi7o, PerdY |

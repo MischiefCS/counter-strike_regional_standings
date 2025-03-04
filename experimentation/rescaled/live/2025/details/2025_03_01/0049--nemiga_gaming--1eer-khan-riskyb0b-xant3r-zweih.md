@@ -6,9 +6,9 @@ Global Rank: [49](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [35]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  991.7<br />
+Final Rank Value:  990.6<br />
 <br />
-Final Rank Value (991.7) = Starting Rank Value (1034.1) + Head To Head Adjustments (-42.4)<br />
+Final Rank Value (990.6) = Starting Rank Value (1033.7) + Head To Head Adjustments (-43.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.333<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1034.1
-- 400 + ( ( 0.333 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1034.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1033.7
+- 400 + ( ( 0.333 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1033.7
 
 
 #### Factors<br />
@@ -37,42 +37,42 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           42 |      147 | 2025-02-21 | CYBERSHOKE Esports   | L   | 1.000      | -            | -                | -                | -         |   -18.74 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           41 |      269 | 2025-02-14 | B8                   | L   | 1.000      | -            | -                | -                | -         |   -10.96 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           40 |      298 | 2025-02-13 | Sashi Esport         | W   | 1.000      | 0.537        | 0.013 (0.007)    | 0.582 (0.313)    | 0 (0.000) |    15.72 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           39 |      342 | 2025-02-11 | Metizport            | L   | 1.000      | -            | -                | -                | -         |   -14.61 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           38 |      367 | 2025-02-10 | TEAM NEXT LEVEL      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.12 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           37 |      375 | 2025-02-10 | BetBoom Team         | L   | 1.000      | -            | -                | -                | -         |   -10.24 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           36 |      530 | 2025-02-06 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |   -24.20 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           35 |      558 | 2025-02-05 | Imperial Female      | W   | 1.000      | 0.630        | 0.134 (0.085)    | 0.210 (0.132)    | 0 (0.000) |    13.14 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           34 |      566 | 2025-02-05 | B8                   | L   | 1.000      | -            | -                | -                | -         |   -12.46 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           33 |      678 | 2025-01-17 | FURIA                | L   | 0.912      | -            | -                | -                | -         |    -2.51 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           32 |     1379 | 2024-11-18 | BetBoom Team         | L   | 0.516      | -            | -                | -                | -         |    -7.13 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           31 |     1388 | 2024-11-17 | Rebels Gaming        | W   | 0.510      | 1.000        | -                | 0.318 (0.162)    | 1 (0.510) |     2.58 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           30 |     1404 | 2024-11-17 | Cloud9               | L   | 0.505      | -            | -                | -                | -         |   -10.98 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           42 |      147 | 2025-02-21 | CYBERSHOKE Esports   | L   | 1.000      | -            | -                | -                | -         |   -18.88 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           41 |      269 | 2025-02-14 | B8                   | L   | 1.000      | -            | -                | -                | -         |   -11.00 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           40 |      298 | 2025-02-13 | Sashi Esport         | W   | 1.000      | 0.537        | 0.013 (0.007)    | 0.582 (0.313)    | 0 (0.000) |    15.69 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           39 |      342 | 2025-02-11 | Metizport            | L   | 1.000      | -            | -                | -                | -         |   -14.60 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           38 |      367 | 2025-02-10 | TEAM NEXT LEVEL      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.14 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           37 |      375 | 2025-02-10 | BetBoom Team         | L   | 1.000      | -            | -                | -                | -         |   -10.21 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           36 |      530 | 2025-02-06 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |   -24.17 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           35 |      558 | 2025-02-05 | Imperial Female      | W   | 1.000      | 0.630        | 0.134 (0.085)    | 0.210 (0.132)    | 0 (0.000) |    13.18 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           34 |      566 | 2025-02-05 | B8                   | L   | 1.000      | -            | -                | -                | -         |   -12.50 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           33 |      678 | 2025-01-17 | FURIA                | L   | 0.912      | -            | -                | -                | -         |    -2.50 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           32 |     1379 | 2024-11-18 | BetBoom Team         | L   | 0.516      | -            | -                | -                | -         |    -7.11 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           31 |     1388 | 2024-11-17 | Rebels Gaming        | W   | 0.510      | 1.000        | -                | 0.318 (0.162)    | 1 (0.510) |     2.59 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           30 |     1404 | 2024-11-17 | Cloud9               | L   | 0.505      | -            | -                | -                | -         |   -10.96 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           29 |     1418 | 2024-11-16 | MOUZ                 | L   | 0.503      | -            | -                | -                | -         |    -0.12 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           28 |     1604 | 2024-11-09 | Natus Vincere Junior | L   | 0.452      | -            | -                | -                | -         |    -8.27 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           27 |     1621 | 2024-11-08 | 500                  | W   | 0.445      | 0.573        | 0.086 (0.022)    | 1.000 (0.255)    | 0 (0.000) |     7.80 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           28 |     1604 | 2024-11-09 | Natus Vincere Junior | L   | 0.452      | -            | -                | -                | -         |    -8.38 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           27 |     1621 | 2024-11-08 | 500                  | W   | 0.445      | 0.573        | 0.086 (0.022)    | 1.000 (0.255)    | 0 (0.000) |     7.53 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           26 |     1641 | 2024-11-07 | PARIVISION           | W   | 0.438      | -            | -                | -                | 0 (0.000) |     1.89 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           25 |     1662 | 2024-11-05 | Wild Lotus           | W   | 0.426      | 0.573        | -                | 0.462 (0.113)    | -         |     2.42 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           24 |     1846 | 2024-10-20 | HEROIC               | L   | 0.319      | -            | -                | -                | -         |    -2.56 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           23 |     1859 | 2024-10-19 | BC.Game Esports      | W   | 0.313      | 0.674        | 0.077 (0.016)    | 0.912 (0.192)    | 1 (0.313) |     7.17 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           23 |     1859 | 2024-10-19 | BC.Game Esports      | W   | 0.313      | 0.663        | 0.077 (0.016)    | 0.912 (0.189)    | 1 (0.313) |     6.95 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           22 |     1862 | 2024-10-19 | 3DMAX                | W   | 0.312      | 0.730        | 0.295 (0.067)    | 0.626 (0.143)    | -         |     9.37 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           21 |     1868 | 2024-10-19 | Fnatic               | W   | 0.311      | 0.674        | 0.047 (0.010)    | 0.490 (0.103)    | 1 (0.311) |     5.72 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           20 |     1893 | 2024-10-18 | Fluxo                | W   | 0.304      | 0.674        | 0.054 (0.011)    | -                | 1 (0.304) |     4.00 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           21 |     1868 | 2024-10-19 | Fnatic               | W   | 0.311      | 0.663        | 0.047 (0.010)    | 0.490 (0.101)    | 1 (0.311) |     5.70 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           20 |     1893 | 2024-10-18 | Fluxo                | W   | 0.304      | 0.663        | 0.054 (0.011)    | -                | 1 (0.304) |     4.00 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           19 |     1904 | 2024-10-17 | HEROIC               | L   | 0.299      | -            | -                | -                | -         |    -2.14 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           18 |     1918 | 2024-10-17 | Aurora Gaming        | W   | 0.297      | 0.674        | -                | 0.481 (0.096)    | 1 (0.297) |     2.50 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           18 |     1918 | 2024-10-17 | Aurora Gaming        | W   | 0.297      | 0.663        | -                | 0.481 (0.095)    | 1 (0.297) |     2.50 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           17 |     1931 | 2024-10-16 | 3DMAX                | W   | 0.293      | 0.730        | 0.295 (0.063)    | 0.626 (0.134)    | -         |     8.84 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           16 |     1943 | 2024-10-16 | HEROIC               | L   | 0.291      | -            | -                | -                | -         |    -2.08 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|           15 |     2482 | 2024-09-26 | GUN5 Esports         | W   | 0.160      | 0.499        | 0.099 (0.008)    | -                | -         |     1.95 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|           15 |     2482 | 2024-09-26 | GUN5 Esports         | W   | 0.160      | 0.499        | 0.099 (0.008)    | -                | -         |     1.94 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           14 |     2487 | 2024-09-26 | RUSTEC               | W   | 0.159      | -            | -                | -                | -         |     0.14 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           13 |     2619 | 2024-09-24 | 9INE                 | L   | 0.145      | -            | -                | -                | -         |    -3.85 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           12 |     2649 | 2024-09-23 | Johnny Speeds        | W   | 0.140      | -            | -                | -                | -         |     1.37 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           11 |     2654 | 2024-09-23 | AMKAL ESPORTS        | L   | 0.139      | -            | -                | -                | -         |    -3.67 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |           10 |     2679 | 2024-09-22 | 9Pandas              | W   | 0.131      | 0.544        | 0.084 (0.006)    | -                | -         |     2.05 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|            9 |     2694 | 2024-09-21 | CYBERSHOKE Esports   | W   | 0.126      | -            | -                | -                | -         |     1.44 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|            9 |     2694 | 2024-09-21 | CYBERSHOKE Esports   | W   | 0.126      | -            | -                | -                | -         |     1.40 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |            8 |     2712 | 2024-09-20 | 9INE                 | L   | 0.119      | -            | -                | -                | -         |    -3.18 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
-|            7 |     2752 | 2024-09-19 | 9Pandas              | W   | 0.111      | -            | -                | -                | -         |     1.77 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
+|            7 |     2752 | 2024-09-19 | 9Pandas              | W   | 0.111      | -            | -                | -                | -         |     1.78 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |            6 |     2780 | 2024-09-18 | SINNERS Esports      | W   | 0.106      | -            | -                | -                | -         |     1.23 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |            5 |     2832 | 2024-09-16 | BOGATYRI             | W   | 0.091      | -            | -                | -                | -         |     0.08 | 1eeR, khaN, riskyb0b, Xant3r, zweih |
 |            4 |     2953 | 2024-09-12 | Monte                | W   | 0.065      | -            | -                | -                | -         |     0.44 | 1eeR, khaN, riskyb0b, Xant3r, zweih |

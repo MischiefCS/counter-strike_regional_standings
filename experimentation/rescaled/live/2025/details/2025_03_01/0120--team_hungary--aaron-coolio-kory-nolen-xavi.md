@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |     1440 | 2024-11-15 | ALTERNATE aTTaX | L   | 0.493      | -            | -                | -                | -         |    -4.93 | Aaron, coolio, kory, noleN, xavi  |
+|            7 |     1440 | 2024-11-15 | ALTERNATE aTTaX | L   | 0.493      | -            | -                | -                | -         |    -4.94 | Aaron, coolio, kory, noleN, xavi  |
 |            6 |     1448 | 2024-11-15 | Team Kosovo     | W   | 0.492      | 0.617        | 0.000 (0.000)    | 0.022 (0.007)    | 1 (0.492) |     3.25 | Aaron, coolio, kory, noleN, xavi  |
 |            5 |     1486 | 2024-11-14 | Team Chile      | W   | 0.486      | 0.617        | 0.000 (0.000)    | 0.059 (0.018)    | 1 (0.486) |     2.48 | Aaron, coolio, kory, noleN, xavi  |
 |            4 |     1489 | 2024-11-14 | Team Jordan     | W   | 0.485      | 0.617        | 0.000 (0.000)    | 0.029 (0.009)    | 1 (0.485) |     2.31 | Aaron, coolio, kory, noleN, xavi  |
-|            3 |     1495 | 2024-11-14 | GTZ.ESPORTS     | L   | 0.485      | -            | -                | -                | -         |    -1.83 | Aaron, coolio, kory, noleN, xavi  |
+|            3 |     1495 | 2024-11-14 | GTZ.ESPORTS     | L   | 0.485      | -            | -                | -                | -         |    -1.84 | Aaron, coolio, kory, noleN, xavi  |
 |            2 |     1600 | 2024-11-09 | Budapest Five   | W   | 0.453      | 0.256        | 0.001 (0.000)    | 0.027 (0.003)    | 1 (0.453) |     3.56 | Aaron, balage, Kamion, kory, xavi |
 |            1 |     1611 | 2024-11-09 | SKIBIDIES       | W   | 0.451      | 0.256        | 0.000 (0.000)    | 0.027 (0.003)    | 1 (0.451) |     3.38 | Aaron, balage, Kamion, kory, xavi |
 

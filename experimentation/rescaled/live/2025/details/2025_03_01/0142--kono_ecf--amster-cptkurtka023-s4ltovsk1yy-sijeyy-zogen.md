@@ -6,9 +6,9 @@ Global Rank: [142](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [95]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  711.7<br />
+Final Rank Value:  711.3<br />
 <br />
-Final Rank Value (711.7) = Starting Rank Value (606.0) + Head To Head Adjustments (105.7)<br />
+Final Rank Value (711.3) = Starting Rank Value (606.0) + Head To Head Adjustments (105.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,18 +38,18 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           14 |      226 | 2025-02-15 | Rebels Gaming                             | L   | 1.000      | -            | -                | -                | -         |   -12.95 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|           13 |      232 | 2025-02-15 | BAKS Esports                              | W   | 1.000      | 0.409        | 0.000 (0.000)    | 0.060 (0.025)    | 0 (0.000) |     5.01 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|           12 |      240 | 2025-02-15 | RUSH B (Russian team)                     | W   | 1.000      | 0.409        | 0.027 (0.011)    | 0.569 (0.233)    | 0 (0.000) |    24.35 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|           11 |      398 | 2025-02-09 | CYBERSHOKE Esports                        | L   | 1.000      | -            | -                | -                | -         |    -7.98 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
+|           13 |      232 | 2025-02-15 | BAKS Esports                              | W   | 1.000      | 0.409        | 0.000 (0.000)    | 0.060 (0.025)    | 0 (0.000) |     5.02 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
+|           12 |      240 | 2025-02-15 | RUSH B (Russian team)                     | W   | 1.000      | 0.409        | 0.027 (0.011)    | 0.569 (0.233)    | 0 (0.000) |    24.36 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
+|           11 |      398 | 2025-02-09 | CYBERSHOKE Esports                        | L   | 1.000      | -            | -                | -                | -         |    -8.13 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
 |           10 |      541 | 2025-02-05 | Zero Tenacity                             | W   | 1.000      | 0.411        | 0.026 (0.011)    | 0.507 (0.208)    | 0 (0.000) |    21.61 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|            9 |      577 | 2025-02-04 | Adventurers                               | W   | 1.000      | 0.411        | 0.000 (0.000)    | 0.041 (0.017)    | 0 (0.000) |     9.86 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|            8 |      647 | 2025-01-28 | ECSTATIC                                  | L   | 0.984      | -            | -                | -                | -         |    -7.03 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|            7 |      655 | 2025-01-25 | Copenhagen Wolves (American organization) | L   | 0.967      | -            | -                | -                | -         |    -8.00 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|            6 |      664 | 2025-01-24 | Iberian Soul                              | W   | 0.959      | 0.444        | 0.015 (0.007)    | 0.644 (0.274)    | 0 (0.000) |    22.95 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
-|            5 |      705 | 2025-01-10 | SINNERS Esports                           | L   | 0.864      | -            | -                | -                | -         |    -5.48 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
-|            4 |      710 | 2025-01-09 | BadGuys                                   | W   | 0.859      | 0.468        | 0.000 (0.000)    | 0.148 (0.060)    | 0 (0.000) |    11.09 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
-|            3 |      723 | 2025-01-05 | ECSTATIC                                  | W   | 0.833      | 0.468        | 0.033 (0.013)    | 1.000 (0.390)    | 0 (0.000) |    22.03 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
-|            2 |      732 | 2025-01-03 | Rhyno Esports                             | W   | 0.819      | 0.468        | 0.013 (0.005)    | 0.279 (0.107)    | 0 (0.000) |    20.87 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
+|            9 |      577 | 2025-02-04 | Adventurers                               | W   | 1.000      | 0.411        | 0.000 (0.000)    | 0.041 (0.017)    | 0 (0.000) |     9.85 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
+|            8 |      647 | 2025-01-28 | ECSTATIC                                  | L   | 0.984      | -            | -                | -                | -         |    -7.10 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
+|            7 |      655 | 2025-01-25 | Copenhagen Wolves (American organization) | L   | 0.967      | -            | -                | -                | -         |    -8.04 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
+|            6 |      664 | 2025-01-24 | Iberian Soul                              | W   | 0.959      | 0.444        | 0.015 (0.007)    | 0.644 (0.274)    | 0 (0.000) |    22.93 | amster, cptkurtka023, s4ltovsk1yy, Sijeyy, zogeN |
+|            5 |      705 | 2025-01-10 | SINNERS Esports                           | L   | 0.864      | -            | -                | -                | -         |    -5.50 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
+|            4 |      710 | 2025-01-09 | BadGuys                                   | W   | 0.859      | 0.468        | 0.000 (0.000)    | 0.148 (0.060)    | 0 (0.000) |    11.08 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
+|            3 |      723 | 2025-01-05 | ECSTATIC                                  | W   | 0.833      | 0.468        | 0.033 (0.013)    | 1.000 (0.390)    | 0 (0.000) |    21.97 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
+|            2 |      732 | 2025-01-03 | Rhyno Esports                             | W   | 0.819      | 0.468        | 0.013 (0.005)    | 0.279 (0.107)    | 0 (0.000) |    20.86 | amster, byr9, cptkurtka023, s4ltovsk1yy, Sijeyy  |
 |            1 |      749 | 2024-12-27 | CS2NEWS                                   | W   | 0.773      | 0.468        | 0.000 (0.000)    | 0.047 (0.017)    | 0 (0.000) |     9.34 | amster, byr9, kensizor, s4ltovsk1yy, Sijeyy      |
 
 <br />

@@ -6,9 +6,9 @@ Global Rank: [113](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [79]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  762.1<br />
+Final Rank Value:  761.8<br />
 <br />
-Final Rank Value (762.1) = Starting Rank Value (791.0) + Head To Head Adjustments (-28.9)<br />
+Final Rank Value (761.8) = Starting Rank Value (790.9) + Head To Head Adjustments (-29.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.205<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 791.0
-- 400 + ( ( 0.205 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 791.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 790.9
+- 400 + ( ( 0.205 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 790.9
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      722 | 2025-01-06 | BadGuys                | L   | 0.838      | -            | -                | -                | -         |   -19.92 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|           22 |      726 | 2025-01-05 | Wu-Tang Clan           | W   | 0.831      | 0.417        | 0.000 (0.000)    | -                | 0 (0.000) |     2.67 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|           23 |      722 | 2025-01-06 | BadGuys                | L   | 0.838      | -            | -                | -                | -         |   -19.93 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|           22 |      726 | 2025-01-05 | Wu-Tang Clan           | W   | 0.831      | 0.417        | 0.000 (0.000)    | -                | 0 (0.000) |     2.68 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |           21 |      737 | 2024-12-29 | CS2NEWS                | L   | 0.785      | -            | -                | -                | -         |   -20.16 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|           20 |      743 | 2024-12-28 | EYEBALLERS             | L   | 0.778      | -            | -                | -                | -         |   -12.81 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|           20 |      743 | 2024-12-28 | EYEBALLERS             | L   | 0.778      | -            | -                | -                | -         |   -12.89 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |           19 |      756 | 2024-12-25 | KONO.ECF               | L   | 0.758      | -            | -                | -                | -         |   -13.35 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |           18 |      757 | 2024-12-24 | ENCE Academy           | W   | 0.752      | 0.448        | 0.009 (0.003)    | 0.230 (0.078)    | 0 (0.000) |    10.13 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |           17 |      758 | 2024-12-24 | ALASKA                 | L   | 0.751      | -            | -                | -                | -         |    -7.01 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |           16 |      759 | 2024-12-23 | ESC Gaming             | W   | 0.745      | 0.448        | -                | 0.207 (0.069)    | 0 (0.000) |     4.84 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|           15 |      760 | 2024-12-23 | Heimo Esports          | W   | 0.744      | 0.447        | 0.004 (0.001)    | 0.111 (0.037)    | 0 (0.000) |     7.97 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|           15 |      760 | 2024-12-23 | Heimo Esports          | W   | 0.744      | 0.445        | 0.004 (0.001)    | 0.111 (0.037)    | 0 (0.000) |     7.98 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |           14 |      768 | 2024-12-22 | ADEPTS                 | W   | 0.739      | -            | -                | -                | 0 (0.000) |     3.74 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|           13 |      775 | 2024-12-22 | Astralis Talent        | W   | 0.738      | 0.447        | 0.002 (0.001)    | 0.388 (0.128)    | 0 (0.000) |     8.92 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|           13 |      775 | 2024-12-22 | Astralis Talent        | W   | 0.738      | 0.445        | 0.002 (0.001)    | 0.388 (0.127)    | 0 (0.000) |     8.92 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |           12 |      779 | 2024-12-21 | ALASKA                 | W   | 0.732      | 0.448        | 0.030 (0.010)    | 0.626 (0.206)    | 0 (0.000) |    17.21 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|           11 |      785 | 2024-12-21 | KONO.ECF               | W   | 0.731      | 0.447        | 0.020 (0.007)    | 0.361 (0.118)    | 0 (0.000) |    10.84 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|           10 |      794 | 2024-12-20 | Heimo Esports          | L   | 0.725      | -            | -                | -                | -         |   -14.10 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|            9 |      817 | 2024-12-18 | Viperio                | W   | 0.712      | 0.447        | 0.002 (0.001)    | -                | 0 (0.000) |     6.21 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|           11 |      785 | 2024-12-21 | KONO.ECF               | W   | 0.731      | 0.445        | 0.020 (0.007)    | 0.361 (0.117)    | 0 (0.000) |    10.84 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|           10 |      794 | 2024-12-20 | Heimo Esports          | L   | 0.725      | -            | -                | -                | -         |   -14.09 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|            9 |      817 | 2024-12-18 | Viperio                | W   | 0.712      | 0.445        | 0.002 (0.001)    | -                | 0 (0.000) |     6.22 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |            8 |      820 | 2024-12-18 | ESC Gaming             | L   | 0.711      | -            | -                | -                | -         |   -17.54 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|            7 |     1184 | 2024-11-29 | Betclic Apogee Esports | L   | 0.587      | -            | -                | -                | -         |    -6.49 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|            6 |     1228 | 2024-11-26 | Insilio                | W   | 0.567      | 0.509        | -                | 0.399 (0.115)    | -         |     4.81 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|            7 |     1184 | 2024-11-29 | Betclic Apogee Esports | L   | 0.587      | -            | -                | -                | -         |    -6.52 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|            6 |     1228 | 2024-11-26 | Insilio                | W   | 0.567      | 0.509        | -                | 0.399 (0.115)    | -         |     4.80 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |            5 |     1234 | 2024-11-26 | 9INE                   | W   | 0.566      | 0.509        | 0.011 (0.003)    | 0.150 (0.043)    | -         |     7.12 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
-|            4 |     1245 | 2024-11-25 | Natus Vincere Junior   | L   | 0.559      | -            | -                | -                | -         |    -3.78 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
+|            4 |     1245 | 2024-11-25 | Natus Vincere Junior   | L   | 0.559      | -            | -                | -                | -         |    -3.88 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |            3 |     1277 | 2024-11-23 | Astralis Talent        | W   | 0.547      | 0.274        | 0.002 (0.000)    | 0.388 (0.058)    | 1 (0.547) |     7.13 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |            2 |     1465 | 2024-11-15 | HOTU                   | L   | 0.491      | -            | -                | -                | -         |   -10.31 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |
 |            1 |     1527 | 2024-11-13 | HOTU                   | W   | 0.477      | 0.220        | 0.000 (0.000)    | 0.217 (0.023)    | -         |     4.94 | Gnøffe, Leakz, PR1mE, sL1m3, Vster |

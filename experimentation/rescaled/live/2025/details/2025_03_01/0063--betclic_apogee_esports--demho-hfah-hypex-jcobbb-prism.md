@@ -6,22 +6,22 @@ Global Rank: [63](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [45]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  902.7<br />
+Final Rank Value:  901.2<br />
 <br />
-Final Rank Value (902.7) = Starting Rank Value (908.9) + Head To Head Adjustments (-6.2)<br />
+Final Rank Value (901.2) = Starting Rank Value (907.5) + Head To Head Adjustments (-6.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.342[<sup>1</sup>](#table2)
-- Bounty Collected: 0.403[<sup>2</sup>](#table1)
-- Opponent Network: 0.325[<sup>2</sup>](#table1)
+- Bounty Collected: 0.402[<sup>2</sup>](#table1)
+- Opponent Network: 0.322[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.267<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 908.9
-- 400 + ( ( 0.267 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 908.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 907.5
+- 400 + ( ( 0.267 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 907.5
 
 
 #### Factors<br />
@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |      101 | 2025-02-23 | Ninjas in Pyjamas                         | L   | 1.000      | -            | -                | -                | -         |   -23.32 | Demho, hfah, hypex, jcobbb, Prism |
-|           34 |      162 | 2025-02-20 | Rhyno Esports                             | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.27 | Demho, hfah, hypex, jcobbb, Prism |
-|           33 |      170 | 2025-02-19 | Ninjas in Pyjamas                         | L   | 1.000      | -            | -                | -                | -         |   -24.27 | Demho, hfah, hypex, jcobbb, Prism |
-|           32 |      292 | 2025-02-13 | Passion UA                                | L   | 1.000      | -            | -                | -                | -         |    -5.50 | Demho, hfah, hypex, jcobbb, Prism |
-|           31 |      454 | 2025-02-08 | ALASKA                                    | L   | 1.000      | -            | -                | -                | -         |   -15.63 | Demho, hfah, hypex, jcobbb, Prism |
-|           30 |      462 | 2025-02-08 | GTZ.ESPORTS                               | W   | 1.000      | 0.640        | 0.080 (0.051)    | 0.431 (0.276)    | 0 (0.000) |    20.86 | Demho, hfah, hypex, jcobbb, Prism |
-|           29 |      491 | 2025-02-07 | FAVBET Team                               | W   | 1.000      | 0.460        | 0.029 (0.014)    | 0.608 (0.280)    | 0 (0.000) |    12.42 | Demho, hfah, hypex, jcobbb, Prism |
-|           28 |      524 | 2025-02-06 | Copenhagen Wolves (American organization) | L   | 1.000      | -            | -                | -                | -         |   -18.93 | Demho, hfah, hypex, jcobbb, Prism |
-|           27 |      527 | 2025-02-06 | Monte                                     | W   | 1.000      | 0.640        | -                | 0.477 (0.305)    | 0 (0.000) |    11.66 | Demho, hfah, hypex, jcobbb, Prism |
-|           26 |      580 | 2025-02-04 | Fnatic                                    | L   | 1.000      | -            | -                | -                | -         |    -9.08 | Demho, hfah, hypex, jcobbb, Prism |
-|           25 |      602 | 2025-02-02 | 500                                       | W   | 1.000      | 0.640        | 0.086 (0.055)    | 1.000 (0.640)    | 0 (0.000) |    21.94 | Demho, hfah, hypex, jcobbb, Prism |
-|           24 |      638 | 2025-01-29 | FAVBET Team                               | W   | 0.992      | 0.461        | 0.029 (0.013)    | 0.608 (0.278)    | 0 (0.000) |    14.21 | Demho, hfah, hypex, jcobbb, Prism |
-|           23 |      646 | 2025-01-28 | ALASKA                                    | W   | 0.985      | 0.461        | 0.030 (0.014)    | 0.626 (0.284)    | 0 (0.000) |    18.37 | Demho, hfah, hypex, jcobbb, Prism |
-|           22 |      660 | 2025-01-24 | Fire Flux Esports                         | L   | 0.960      | -            | -                | -                | -         |   -15.12 | Demho, hfah, hypex, jcobbb, Prism |
-|           21 |      766 | 2024-12-22 | 9INE                                      | L   | 0.740      | -            | -                | -                | -         |    -8.81 | Demho, hfah, hypex, jcobbb, Prism |
-|           20 |      769 | 2024-12-22 | Nexus Gaming                              | W   | 0.739      | 0.658        | 0.178 (0.087)    | 0.497 (0.241)    | 0 (0.000) |    16.91 | Demho, hfah, hypex, jcobbb, Prism |
-|           19 |      778 | 2024-12-21 | 500                                       | W   | 0.733      | 0.658        | 0.086 (0.042)    | 1.000 (0.482)    | 0 (0.000) |    17.83 | Demho, hfah, hypex, jcobbb, Prism |
-|           18 |      781 | 2024-12-21 | Megoshort                                 | W   | 0.732      | -            | -                | -                | 0 (0.000) |     2.20 | Demho, hfah, hypex, jcobbb, Prism |
-|           17 |      790 | 2024-12-20 | 9INE                                      | L   | 0.726      | -            | -                | -                | -         |    -8.70 | Demho, hfah, hypex, jcobbb, Prism |
-|           16 |      916 | 2024-12-12 | Chimera Esports                           | L   | 0.672      | -            | -                | -                | -         |   -10.21 | Demho, hfah, hypex, jcobbb, Prism |
-|           15 |      932 | 2024-12-11 | Natus Vincere Junior                      | L   | 0.664      | -            | -                | -                | -         |    -7.30 | Demho, hfah, hypex, jcobbb, Prism |
-|           14 |      951 | 2024-12-09 | Tricked Esport                            | W   | 0.652      | 0.561        | 0.033 (0.012)    | 0.673 (0.246)    | -         |     9.53 | Demho, hfah, hypex, jcobbb, Prism |
-|           13 |     1041 | 2024-12-05 | Iberian Soul                              | L   | 0.625      | -            | -                | -                | -         |    -9.14 | Demho, hfah, hypex, jcobbb, Prism |
-|           12 |     1117 | 2024-12-02 | Dark Cloud Esports                        | L   | 0.605      | -            | -                | -                | -         |   -13.77 | Demho, hfah, hypex, jcobbb, Prism |
-|           11 |     1136 | 2024-12-01 | Team Sampi                                | W   | 0.598      | -            | -                | -                | -         |     6.36 | Demho, hfah, hypex, jcobbb, Prism |
-|           10 |     1154 | 2024-11-30 | Tricked Esport                            | L   | 0.593      | -            | -                | -                | -         |    -9.81 | Demho, hfah, hypex, jcobbb, Prism |
-|            9 |     1165 | 2024-11-30 | KONO.ECF                                  | W   | 0.592      | -            | -                | -                | -         |     5.49 | Demho, hfah, hypex, jcobbb, Prism |
-|            8 |     1184 | 2024-11-29 | WOPA Esport                               | W   | 0.587      | -            | -                | -                | -         |     6.49 | Demho, hfah, hypex, jcobbb, Prism |
-|            7 |     1194 | 2024-11-29 | Illuminar Gaming                          | L   | 0.584      | -            | -                | -                | -         |   -12.63 | Demho, hfah, hypex, jcobbb, Prism |
-|            6 |     1213 | 2024-11-27 | Tricked Esport                            | W   | 0.573      | 0.557        | 0.033 (0.010)    | 0.673 (0.215)    | -         |     8.21 | Demho, hfah, hypex, jcobbb, Prism |
-|            5 |     1218 | 2024-11-27 | GUN5 Esports                              | W   | 0.573      | 0.557        | 0.099 (0.031)    | -                | -         |     9.91 | Demho, hfah, hypex, jcobbb, Prism |
-|            4 |     1222 | 2024-11-27 | Tricked Esport                            | L   | 0.571      | -            | -                | -                | -         |   -10.06 | Demho, hfah, hypex, jcobbb, Prism |
-|            3 |     1236 | 2024-11-26 | Astralis Talent                           | W   | 0.565      | -            | -                | -                | -         |     4.78 | Demho, hfah, hypex, jcobbb, Prism |
-|            2 |     1247 | 2024-11-25 | Chimera Esports                           | L   | 0.558      | -            | -                | -                | -         |    -9.48 | Demho, hfah, hypex, jcobbb, Prism |
-|            1 |     1322 | 2024-11-22 | Tricked Esport                            | W   | 0.537      | -            | -                | -                | -         |     7.16 | Demho, hfah, hypex, jcobbb, Prism |
+|           35 |      101 | 2025-02-23 | Ninjas in Pyjamas                         | L   | 1.000      | -            | -                | -                | -         |   -23.27 | Demho, hfah, hypex, jcobbb, Prism |
+|           34 |      162 | 2025-02-20 | Rhyno Esports                             | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.33 | Demho, hfah, hypex, jcobbb, Prism |
+|           33 |      170 | 2025-02-19 | Ninjas in Pyjamas                         | L   | 1.000      | -            | -                | -                | -         |   -24.23 | Demho, hfah, hypex, jcobbb, Prism |
+|           32 |      292 | 2025-02-13 | Passion UA                                | L   | 1.000      | -            | -                | -                | -         |    -5.47 | Demho, hfah, hypex, jcobbb, Prism |
+|           31 |      454 | 2025-02-08 | ALASKA                                    | L   | 1.000      | -            | -                | -                | -         |   -15.58 | Demho, hfah, hypex, jcobbb, Prism |
+|           30 |      462 | 2025-02-08 | GTZ.ESPORTS                               | W   | 1.000      | 0.629        | 0.080 (0.050)    | 0.431 (0.271)    | 0 (0.000) |    20.88 | Demho, hfah, hypex, jcobbb, Prism |
+|           29 |      491 | 2025-02-07 | FAVBET Team                               | W   | 1.000      | 0.460        | 0.029 (0.014)    | 0.608 (0.280)    | 0 (0.000) |    12.46 | Demho, hfah, hypex, jcobbb, Prism |
+|           28 |      524 | 2025-02-06 | Copenhagen Wolves (American organization) | L   | 1.000      | -            | -                | -                | -         |   -18.90 | Demho, hfah, hypex, jcobbb, Prism |
+|           27 |      527 | 2025-02-06 | Monte                                     | W   | 1.000      | 0.629        | -                | 0.477 (0.300)    | 0 (0.000) |    11.73 | Demho, hfah, hypex, jcobbb, Prism |
+|           26 |      580 | 2025-02-04 | Fnatic                                    | L   | 1.000      | -            | -                | -                | -         |    -9.06 | Demho, hfah, hypex, jcobbb, Prism |
+|           25 |      602 | 2025-02-02 | 500                                       | W   | 1.000      | 0.629        | 0.086 (0.054)    | 1.000 (0.629)    | 0 (0.000) |    21.56 | Demho, hfah, hypex, jcobbb, Prism |
+|           24 |      638 | 2025-01-29 | FAVBET Team                               | W   | 0.992      | 0.461        | 0.029 (0.013)    | 0.608 (0.278)    | 0 (0.000) |    14.23 | Demho, hfah, hypex, jcobbb, Prism |
+|           23 |      646 | 2025-01-28 | ALASKA                                    | W   | 0.985      | 0.461        | 0.030 (0.014)    | 0.626 (0.284)    | 0 (0.000) |    18.41 | Demho, hfah, hypex, jcobbb, Prism |
+|           22 |      660 | 2025-01-24 | Fire Flux Esports                         | L   | 0.960      | -            | -                | -                | -         |   -15.20 | Demho, hfah, hypex, jcobbb, Prism |
+|           21 |      766 | 2024-12-22 | 9INE                                      | L   | 0.740      | -            | -                | -                | -         |    -8.80 | Demho, hfah, hypex, jcobbb, Prism |
+|           20 |      769 | 2024-12-22 | Nexus Gaming                              | W   | 0.739      | 0.658        | 0.178 (0.087)    | 0.497 (0.241)    | 0 (0.000) |    16.95 | Demho, hfah, hypex, jcobbb, Prism |
+|           19 |      778 | 2024-12-21 | 500                                       | W   | 0.733      | 0.658        | 0.086 (0.042)    | 1.000 (0.482)    | 0 (0.000) |    17.59 | Demho, hfah, hypex, jcobbb, Prism |
+|           18 |      781 | 2024-12-21 | Megoshort                                 | W   | 0.732      | -            | -                | -                | 0 (0.000) |     2.22 | Demho, hfah, hypex, jcobbb, Prism |
+|           17 |      790 | 2024-12-20 | 9INE                                      | L   | 0.726      | -            | -                | -                | -         |    -8.68 | Demho, hfah, hypex, jcobbb, Prism |
+|           16 |      916 | 2024-12-12 | Chimera Esports                           | L   | 0.672      | -            | -                | -                | -         |   -10.28 | Demho, hfah, hypex, jcobbb, Prism |
+|           15 |      932 | 2024-12-11 | Natus Vincere Junior                      | L   | 0.664      | -            | -                | -                | -         |    -7.42 | Demho, hfah, hypex, jcobbb, Prism |
+|           14 |      951 | 2024-12-09 | Tricked Esport                            | W   | 0.652      | 0.550        | 0.033 (0.012)    | 0.673 (0.241)    | -         |     9.54 | Demho, hfah, hypex, jcobbb, Prism |
+|           13 |     1041 | 2024-12-05 | Iberian Soul                              | L   | 0.625      | -            | -                | -                | -         |    -9.13 | Demho, hfah, hypex, jcobbb, Prism |
+|           12 |     1117 | 2024-12-02 | Dark Cloud Esports                        | L   | 0.605      | -            | -                | -                | -         |   -13.75 | Demho, hfah, hypex, jcobbb, Prism |
+|           11 |     1136 | 2024-12-01 | Team Sampi                                | W   | 0.598      | -            | -                | -                | -         |     6.39 | Demho, hfah, hypex, jcobbb, Prism |
+|           10 |     1154 | 2024-11-30 | Tricked Esport                            | L   | 0.593      | -            | -                | -                | -         |    -9.79 | Demho, hfah, hypex, jcobbb, Prism |
+|            9 |     1165 | 2024-11-30 | KONO.ECF                                  | W   | 0.592      | -            | -                | -                | -         |     5.52 | Demho, hfah, hypex, jcobbb, Prism |
+|            8 |     1184 | 2024-11-29 | WOPA Esport                               | W   | 0.587      | -            | -                | -                | -         |     6.52 | Demho, hfah, hypex, jcobbb, Prism |
+|            7 |     1194 | 2024-11-29 | Illuminar Gaming                          | L   | 0.584      | -            | -                | -                | -         |   -12.60 | Demho, hfah, hypex, jcobbb, Prism |
+|            6 |     1213 | 2024-11-27 | Tricked Esport                            | W   | 0.573      | 0.557        | 0.033 (0.010)    | 0.673 (0.215)    | -         |     8.23 | Demho, hfah, hypex, jcobbb, Prism |
+|            5 |     1218 | 2024-11-27 | GUN5 Esports                              | W   | 0.573      | 0.557        | 0.099 (0.031)    | -                | -         |     9.88 | Demho, hfah, hypex, jcobbb, Prism |
+|            4 |     1222 | 2024-11-27 | Tricked Esport                            | L   | 0.571      | -            | -                | -                | -         |   -10.03 | Demho, hfah, hypex, jcobbb, Prism |
+|            3 |     1236 | 2024-11-26 | Astralis Talent                           | W   | 0.565      | -            | -                | -                | -         |     4.80 | Demho, hfah, hypex, jcobbb, Prism |
+|            2 |     1247 | 2024-11-25 | Chimera Esports                           | L   | 0.558      | -            | -                | -                | -         |    -9.56 | Demho, hfah, hypex, jcobbb, Prism |
+|            1 |     1322 | 2024-11-22 | Tricked Esport                            | W   | 0.537      | -            | -                | -                | -         |     7.19 | Demho, hfah, hypex, jcobbb, Prism |
 
 <br />
 <span id="table2"></span><br />

@@ -6,9 +6,9 @@ Global Rank: [244](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [76]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  553.1<br />
+Final Rank Value:  553.0<br />
 <br />
-Final Rank Value (553.1) = Starting Rank Value (610.2) + Head To Head Adjustments (-57.2)<br />
+Final Rank Value (553.0) = Starting Rank Value (610.2) + Head To Head Adjustments (-57.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,7 +41,7 @@ Note:<br />
 |           21 |      436 | 2025-02-08 | Chicken Coop Esports | L   | 1.000      | -            | -                | -                | -         |   -13.37 | alula, Experative, spud, TR0JN, Weeza   |
 |           20 |      861 | 2024-12-14 | Alter Iron Club      | L   | 0.689      | -            | -                | -                | -         |    -7.47 | Experative, Nyyx, rayxts, TR0JN, Weeza  |
 |           19 |      888 | 2024-12-13 | Bad News Capybaras   | L   | 0.682      | -            | -                | -                | -         |    -8.63 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|           18 |     2007 | 2024-10-09 | Bad News Capybaras   | W   | 0.249      | 0.494        | 0.001 (0.000)    | 0.148 (0.018)    | 0 (0.000) |     4.64 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|           18 |     2007 | 2024-10-09 | Bad News Capybaras   | W   | 0.249      | 0.492        | 0.001 (0.000)    | 0.148 (0.018)    | 0 (0.000) |     4.64 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           17 |     2016 | 2024-10-09 | Bad News Capybaras   | L   | 0.248      | -            | -                | -                | -         |    -3.23 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           16 |     2195 | 2024-10-04 | Legacy               | L   | 0.215      | -            | -                | -                | -         |    -0.96 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           15 |     2225 | 2024-10-03 | Chill Guys           | L   | 0.209      | -            | -                | -                | -         |    -2.92 | Experative, nicx, rayxts, TR0JN, Weeza  |
@@ -50,7 +50,7 @@ Note:<br />
 |           12 |     2313 | 2024-10-01 | Mythic               | L   | 0.195      | -            | -                | -                | -         |    -4.02 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           11 |     2387 | 2024-09-29 | Akimbo Esports       | W   | 0.181      | 0.408        | 0.003 (0.000)    | 0.090 (0.007)    | 0 (0.000) |     3.05 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           10 |     2512 | 2024-09-25 | Nouns Esports        | L   | 0.155      | -            | -                | -                | -         |    -1.65 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|            9 |     2519 | 2024-09-25 | Nouns Esports        | L   | 0.155      | -            | -                | -                | -         |    -1.66 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|            9 |     2519 | 2024-09-25 | Nouns Esports        | L   | 0.155      | -            | -                | -                | -         |    -1.67 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |            8 |     2627 | 2024-09-23 | FLUFFY AIMERS        | L   | 0.142      | -            | -                | -                | -         |    -1.18 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |            7 |     2631 | 2024-09-23 | FLUFFY AIMERS        | L   | 0.142      | -            | -                | -                | -         |    -1.19 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |            6 |     2727 | 2024-09-19 | Legacy               | L   | 0.115      | -            | -                | -                | -         |    -0.62 | Experative, nicx, rayxts, TR0JN, Weeza  |

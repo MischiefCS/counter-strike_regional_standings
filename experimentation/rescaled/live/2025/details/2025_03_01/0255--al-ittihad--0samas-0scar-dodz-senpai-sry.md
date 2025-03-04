@@ -8,7 +8,7 @@ Regional Rank: [39]( ../../standings_asia_2025_03_01.md)<br />
 <br />
 Final Rank Value:  528.4<br />
 <br />
-Final Rank Value (528.4) = Starting Rank Value (530.4) + Head To Head Adjustments (-1.9)<br />
+Final Rank Value (528.4) = Starting Rank Value (530.4) + Head To Head Adjustments (-2.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,7 +41,7 @@ Note:<br />
 |            4 |       27 | 2025-02-26 | Mindshock         | W   | 1.000      | 0.231        | 0.000 (0.000)    | 0.060 (0.014)    | 0 (0.000) |    10.14 | 0SAMAS, 0scar, dodz, Senpai, sry  |
 |            3 |       40 | 2025-02-25 | JiJieHao          | L   | 1.000      | -            | -                | -                | -         |   -10.32 | 0SAMAS, 0scar, dodz, Senpai, sry  |
 |            2 |       61 | 2025-02-24 | Mindshock         | W   | 1.000      | 0.231        | 0.000 (0.000)    | 0.060 (0.014)    | 0 (0.000) |     9.93 | 0SAMAS, 0scar, dodz, Senpai, sry  |
-|            1 |     1276 | 2024-11-23 | Fire Flux Esports | L   | 0.547      | -            | -                | -                | -         |    -1.74 | 0SAMAS, 0scar, Dodal, NAKO, ViTaL |
+|            1 |     1276 | 2024-11-23 | Fire Flux Esports | L   | 0.547      | -            | -                | -                | -         |    -1.78 | 0SAMAS, 0scar, Dodal, NAKO, ViTaL |
 
 <br />
 <span id="table2"></span><br />

@@ -38,13 +38,13 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           36 |       81 | 2025-02-23 | Team Falcons     | W   | 1.000      | 1.000        | 0.927 (0.927)    | 0.744 (0.744)    | 1 (1.000) |    15.22 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           35 |      113 | 2025-02-22 | Astralis         | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |     9.81 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           34 |      151 | 2025-02-21 | PaiN Gaming      | W   | 1.000      | 1.000        | 0.318 (0.318)    | 0.632 (0.632)    | 1 (1.000) |     7.39 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           35 |      113 | 2025-02-22 | Astralis         | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |     9.78 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           34 |      151 | 2025-02-21 | PaiN Gaming      | W   | 1.000      | 1.000        | 0.318 (0.318)    | 0.632 (0.632)    | 1 (1.000) |     7.38 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
 |           33 |      173 | 2025-02-18 | Virtus.pro       | W   | 1.000      | 1.000        | 0.268 (0.268)    | 0.547 (0.547)    | 1 (1.000) |     6.90 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
 |           32 |      201 | 2025-02-17 | Team Falcons     | L   | 1.000      | -            | -                | -                | -         |   -16.80 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
 |           31 |      211 | 2025-02-16 | FaZe Clan        | L   | 1.000      | -            | -                | -                | -         |   -15.19 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
 |           30 |      252 | 2025-02-15 | 3DMAX            | W   | 1.000      | 1.000        | 0.295 (0.295)    | 0.626 (0.626)    | 1 (1.000) |     6.13 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           29 |      282 | 2025-02-14 | BIG              | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     2.40 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           29 |      282 | 2025-02-14 | BIG              | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     2.38 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
 |           28 |      593 | 2025-02-03 | Team Liquid      | L   | 1.000      | -            | -                | -                | -         |   -27.65 | Brollan, Jimpphat, torzsi, xelex, xertioN |
 |           27 |      612 | 2025-02-01 | GamerLegion      | L   | 1.000      | -            | -                | -                | -         |   -26.73 | Brollan, Jimpphat, torzsi, xelex, xertioN |
 |           26 |      677 | 2025-01-17 | BetBoom Team     | L   | 0.913      | -            | -                | -                | -         |   -28.43 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
@@ -59,7 +59,7 @@ Note:<br />
 |           17 |     1405 | 2024-11-17 | HEROIC           | W   | 0.505      | -            | -                | -                | -         |     0.34 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           16 |     1418 | 2024-11-16 | Nemiga Gaming    | W   | 0.503      | -            | -                | -                | -         |     0.12 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           15 |     1740 | 2024-11-01 | Team Vitality    | L   | 0.397      | -            | -                | -                | -         |    -7.07 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
-|           14 |     1756 | 2024-10-31 | Astralis         | L   | 0.391      | -            | -                | -                | -         |    -7.82 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
+|           14 |     1756 | 2024-10-31 | Astralis         | L   | 0.391      | -            | -                | -                | -         |    -7.83 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           13 |     1775 | 2024-10-30 | FaZe Clan        | W   | 0.384      | 1.000        | 0.744 (0.286)    | -                | -         |     4.64 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           12 |     1971 | 2024-10-13 | Natus Vincere    | L   | 0.273      | -            | -                | -                | -         |    -6.56 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           11 |     1978 | 2024-10-12 | FURIA            | W   | 0.267      | -            | -                | -                | -         |     0.46 | Brollan, Jimpphat, siuhy, torzsi, xertioN |

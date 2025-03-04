@@ -8,7 +8,7 @@ Regional Rank: [1]( ../../standings_asia_2025_03_01.md)<br />
 <br />
 Final Rank Value:  1889.8<br />
 <br />
-Final Rank Value (1889.8) = Starting Rank Value (1908.9) + Head To Head Adjustments (-19.1)<br />
+Final Rank Value (1889.8) = Starting Rank Value (1908.9) + Head To Head Adjustments (-19.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,8 +37,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |      148 | 2025-02-21 | Astralis      | L   | 1.000      | -            | -                | -                | -         |   -23.93 | 910, bLitz, mzinho, Senzu, Techno4K |
-|           31 |      208 | 2025-02-16 | PaiN Gaming   | W   | 1.000      | 1.000        | 0.318 (0.318)    | 0.632 (0.632)    | 1 (1.000) |     5.08 | 910, bLitz, mzinho, Senzu, Techno4K |
+|           32 |      148 | 2025-02-21 | Astralis      | L   | 1.000      | -            | -                | -                | -         |   -23.96 | 910, bLitz, mzinho, Senzu, Techno4K |
+|           31 |      208 | 2025-02-16 | PaiN Gaming   | W   | 1.000      | 1.000        | 0.318 (0.318)    | 0.632 (0.632)    | 1 (1.000) |     5.07 | 910, bLitz, mzinho, Senzu, Techno4K |
 |           30 |      249 | 2025-02-15 | Wildcard      | W   | 1.000      | 1.000        | 0.176 (0.176)    | 0.528 (0.528)    | 1 (1.000) |     1.40 | 910, bLitz, mzinho, Senzu, Techno4K |
 |           29 |      275 | 2025-02-14 | Complexity    | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.44 | 910, bLitz, mzinho, Senzu, Techno4K |
 |           28 |      461 | 2025-02-08 | Team Vitality | L   | 1.000      | -            | -                | -                | -         |   -15.33 | 910, bLitz, mzinho, Senzu, Techno4K |

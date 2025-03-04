@@ -8,7 +8,7 @@ Regional Rank: [75]( ../../standings_americas_2025_03_01.md)<br />
 <br />
 Final Rank Value:  557.7<br />
 <br />
-Final Rank Value (557.7) = Starting Rank Value (519.6) + Head To Head Adjustments (38.1)<br />
+Final Rank Value (557.7) = Starting Rank Value (519.6) + Head To Head Adjustments (38.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      496 | 2025-02-07 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -4.18 | diozera, fREQ, lash, short, zede    |
+|            6 |      496 | 2025-02-07 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -4.21 | diozera, fREQ, lash, short, zede    |
 |            5 |      511 | 2025-02-06 | 9z Team      | W   | 1.000      | 0.409        | 0.015 (0.006)    | 0.135 (0.055)    | 0 (0.000) |    24.98 | diozera, fREQ, lash, short, zede    |
 |            4 |      523 | 2025-02-06 | Tropa do VSM | W   | 1.000      | 0.409        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.88 | diozera, fREQ, lash, short, zede    |
-|            3 |      549 | 2025-02-05 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -3.89 | diozera, fREQ, lash, short, zede    |
-|            2 |      699 | 2025-01-10 | BESTIA       | L   | 0.867      | -            | -                | -                | -         |    -2.61 | desh, fREQ, Leomonster, short, zede |
+|            3 |      549 | 2025-02-05 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -3.92 | diozera, fREQ, lash, short, zede    |
+|            2 |      699 | 2025-01-10 | BESTIA       | L   | 0.867      | -            | -                | -                | -         |    -2.62 | desh, fREQ, Leomonster, short, zede |
 |            1 |      711 | 2025-01-09 | 9z Academy   | W   | 0.859      | 0.426        | 0.000 (0.000)    | 0.210 (0.077)    | 0 (0.000) |    13.94 | desh, fREQ, Leomonster, short, zede |
 
 <br />

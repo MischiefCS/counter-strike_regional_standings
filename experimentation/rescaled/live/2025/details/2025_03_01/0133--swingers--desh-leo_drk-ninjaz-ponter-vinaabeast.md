@@ -6,22 +6,22 @@ Global Rank: [133](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [29]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  725.5<br />
+Final Rank Value:  725.3<br />
 <br />
-Final Rank Value (725.5) = Starting Rank Value (700.9) + Head To Head Adjustments (24.7)<br />
+Final Rank Value (725.3) = Starting Rank Value (700.6) + Head To Head Adjustments (24.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.274[<sup>1</sup>](#table2)
-- Bounty Collected: 0.278[<sup>2</sup>](#table1)
+- Bounty Collected: 0.277[<sup>2</sup>](#table1)
 - Opponent Network: 0.081[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.158<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 700.9
-- 400 + ( ( 0.158 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 700.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 700.6
+- 400 + ( ( 0.158 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 700.6
 
 
 #### Factors<br />
@@ -38,14 +38,14 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |      127 | 2025-02-21 | Sharks Esports           | L   | 1.000      | -            | -                | -                | -         |    -5.46 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
-|            8 |      157 | 2025-02-20 | BESTIA                   | W   | 1.000      | 0.512        | 0.045 (0.023)    | 0.572 (0.293)    | 0 (0.000) |    24.11 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
-|            7 |      206 | 2025-02-16 | Yawara E-Sports          | W   | 1.000      | 0.512        | 0.002 (0.001)    | 0.321 (0.164)    | 0 (0.000) |    13.63 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
-|            6 |      283 | 2025-02-13 | MIBR Academy             | W   | 1.000      | 0.512        | 0.001 (0.000)    | 0.328 (0.168)    | 0 (0.000) |    14.27 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
-|            5 |      311 | 2025-02-12 | Dusty Roots              | L   | 1.000      | -            | -                | -                | -         |   -12.53 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
-|            4 |      353 | 2025-02-10 | Nitro.GG                 | W   | 1.000      | 0.512        | 0.001 (0.001)    | 0.358 (0.183)    | 0 (0.000) |    15.12 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
-|            3 |      520 | 2025-02-06 | BESTIA                   | L   | 1.000      | -            | -                | -                | -         |    -6.07 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
+|            8 |      157 | 2025-02-20 | BESTIA                   | W   | 1.000      | 0.510        | 0.045 (0.023)    | 0.572 (0.292)    | 0 (0.000) |    24.10 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
+|            7 |      206 | 2025-02-16 | Yawara E-Sports          | W   | 1.000      | 0.510        | 0.002 (0.001)    | 0.321 (0.163)    | 0 (0.000) |    13.64 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
+|            6 |      283 | 2025-02-13 | MIBR Academy             | W   | 1.000      | 0.510        | 0.001 (0.000)    | 0.328 (0.167)    | 0 (0.000) |    14.27 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
+|            5 |      311 | 2025-02-12 | Dusty Roots              | L   | 1.000      | -            | -                | -                | -         |   -12.54 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
+|            4 |      353 | 2025-02-10 | Nitro.GG                 | W   | 1.000      | 0.510        | 0.001 (0.001)    | 0.358 (0.183)    | 0 (0.000) |    15.13 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
+|            3 |      520 | 2025-02-06 | BESTIA                   | L   | 1.000      | -            | -                | -                | -         |    -6.08 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
 |            2 |      542 | 2025-02-05 | ODDIK                    | L   | 1.000      | -            | -                | -                | -         |   -10.13 | desh, leo_drk, ninjaZ, ponter, vinaabEAST  |
-|            1 |     1196 | 2024-11-28 | Players (Brazilian team) | L   | 0.582      | -            | -                | -                | -         |    -8.26 | history, leo_drk, ninjaZ, redi, vinaabEAST |
+|            1 |     1196 | 2024-11-28 | Players (Brazilian team) | L   | 0.582      | -            | -                | -                | -         |    -8.25 | history, leo_drk, ninjaZ, redi, vinaabEAST |
 
 <br />
 <span id="table2"></span><br />

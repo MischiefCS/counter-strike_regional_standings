@@ -37,8 +37,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      234 | 2025-02-15 | Ninjas in Pyjamas   | L   | 1.000      | -            | -                | -                | -         |   -10.28 | fozil, H4SAN4TOR, Kaide, mo0N, Sowalio |
-|           10 |      237 | 2025-02-15 | Preasy Esport       | W   | 1.000      | 0.315        | 0.007 (0.002)    | 0.206 (0.065)    | 0 (0.000) |    21.71 | fozil, H4SAN4TOR, Kaide, mo0N, Sowalio |
+|           11 |      234 | 2025-02-15 | Ninjas in Pyjamas   | L   | 1.000      | -            | -                | -                | -         |   -10.29 | fozil, H4SAN4TOR, Kaide, mo0N, Sowalio |
+|           10 |      237 | 2025-02-15 | Preasy Esport       | W   | 1.000      | 0.315        | 0.007 (0.002)    | 0.206 (0.065)    | 0 (0.000) |    21.70 | fozil, H4SAN4TOR, Kaide, mo0N, Sowalio |
 |            9 |     2396 | 2024-09-29 | FLuffy Gangsters    | W   | 0.178      | 0.351        | 0.005 (0.000)    | 0.419 (0.026)    | 0 (0.000) |     4.15 | forkyz, Kaide, mo0N, Sowalio, tasman   |
 |            8 |     2543 | 2024-09-25 | ENCE Academy        | W   | 0.153      | 0.351        | 0.009 (0.000)    | 0.230 (0.012)    | 0 (0.000) |     3.89 | forkyz, Kaide, mo0N, Sowalio, tasman   |
 |            7 |     2599 | 2024-09-24 | Daystar             | W   | 0.146      | 0.351        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     2.98 | forkyz, Kaide, mo0N, Sowalio, tasman   |

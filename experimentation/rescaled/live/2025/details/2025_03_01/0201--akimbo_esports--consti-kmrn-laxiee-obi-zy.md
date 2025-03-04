@@ -8,7 +8,7 @@ Regional Rank: [26]( ../../standings_asia_2025_03_01.md)<br />
 <br />
 Final Rank Value:  623.4<br />
 <br />
-Final Rank Value (623.4) = Starting Rank Value (621.0) + Head To Head Adjustments (2.4)<br />
+Final Rank Value (623.4) = Starting Rank Value (621.0) + Head To Head Adjustments (2.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      420 | 2025-02-08 | Party Astronauts          | L   | 1.000      | -            | -                | -                | -         |    -8.62 | consti, kmrn, laxiee, obi, zy |
+|           11 |      420 | 2025-02-08 | Party Astronauts          | L   | 1.000      | -            | -                | -                | -         |    -8.64 | consti, kmrn, laxiee, obi, zy |
 |           10 |      425 | 2025-02-08 | BACKWHENEVER              | W   | 1.000      | 0.321        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.75 | consti, kmrn, laxiee, obi, zy |
 |            9 |     2387 | 2024-09-29 | LAG Gaming                | L   | 0.181      | -            | -                | -                | -         |    -3.05 | kmrn, laxiee, N2o, obi, zy    |
 |            8 |     2684 | 2024-09-21 | Undefined (American team) | W   | 0.128      | 0.372        | 0.002 (0.000)    | 0.027 (0.001)    | 0 (0.000) |     1.96 | kmrn, laxiee, N2o, obi, zy    |

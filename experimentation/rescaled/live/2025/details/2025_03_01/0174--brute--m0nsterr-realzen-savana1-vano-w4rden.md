@@ -6,9 +6,9 @@ Global Rank: [174](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [116]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  660.7<br />
+Final Rank Value:  660.6<br />
 <br />
-Final Rank Value (660.7) = Starting Rank Value (669.6) + Head To Head Adjustments (-8.9)<br />
+Final Rank Value (660.6) = Starting Rank Value (669.6) + Head To Head Adjustments (-9.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      721 | 2025-01-06 | EYEBALLERS         | L   | 0.839      | -            | -                | -                | -         |    -8.57 | m0nsterr, realzen, sAvana1, vANO, w4rden |
+|            7 |      721 | 2025-01-06 | EYEBALLERS         | L   | 0.839      | -            | -                | -                | -         |    -8.65 | m0nsterr, realzen, sAvana1, vANO, w4rden |
 |            6 |      729 | 2025-01-04 | Heimo Esports      | W   | 0.825      | 0.454        | 0.004 (0.001)    | 0.111 (0.042)    | 0 (0.000) |    13.31 | m0nsterr, M1key, realzen, vANO, w4rden   |
 |            5 |      738 | 2024-12-29 | Dark Cloud Esports | L   | 0.784      | -            | -                | -                | -         |    -9.85 | m0nsterr, realzen, SiKO, vANO, w4rden    |
 |            4 |      745 | 2024-12-28 | Rhyno Esports      | L   | 0.777      | -            | -                | -                | -         |    -5.61 | m0nsterr, realzen, SiKO, vANO, w4rden    |
 |            3 |     1264 | 2024-11-24 | Team Sampi         | L   | 0.551      | -            | -                | -                | -         |    -6.03 | m0nsterr, realzen, SiKO, vANO, w4rden    |
-|            2 |     1283 | 2024-11-23 | Dynamo Eclot       | L   | 0.546      | -            | -                | -                | -         |    -1.43 | m0nsterr, realzen, SiKO, vANO, w4rden    |
+|            2 |     1283 | 2024-11-23 | Dynamo Eclot       | L   | 0.546      | -            | -                | -                | -         |    -1.44 | m0nsterr, realzen, SiKO, vANO, w4rden    |
 |            1 |     1315 | 2024-11-22 | SINNERS Academy    | W   | 0.538      | 0.539        | 0.001 (0.000)    | 0.059 (0.017)    | 1 (0.538) |     9.32 | m0nsterr, realzen, SiKO, vANO, w4rden    |
 
 <br />

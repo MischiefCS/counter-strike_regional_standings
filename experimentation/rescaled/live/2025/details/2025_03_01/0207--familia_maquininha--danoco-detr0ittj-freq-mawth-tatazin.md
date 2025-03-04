@@ -6,9 +6,9 @@ Global Rank: [207](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [55]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  618.4<br />
+Final Rank Value:  618.3<br />
 <br />
-Final Rank Value (618.4) = Starting Rank Value (659.4) + Head To Head Adjustments (-41.0)<br />
+Final Rank Value (618.3) = Starting Rank Value (659.4) + Head To Head Adjustments (-41.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,25 +41,25 @@ Note:<br />
 |           30 |      284 | 2025-02-13 | Yawara E-Sports          | L   | 1.000      | -            | -                | -                | -         |   -15.16 | danoco, detr0ittJ, fREQ, mawth, tatazin   |
 |           29 |      325 | 2025-02-11 | Nitro.GG                 | W   | 1.000      | 0.371        | 0.001 (0.000)    | 0.358 (0.133)    | 0 (0.000) |    16.50 | danoco, detr0ittJ, fREQ, mawth, tatazin   |
 |           28 |      359 | 2025-02-10 | MIBR Academy             | L   | 1.000      | -            | -                | -                | -         |   -14.64 | danoco, detr0ittJ, fREQ, mawth, tatazin   |
-|           27 |      522 | 2025-02-06 | Dusty Roots              | L   | 1.000      | -            | -                | -                | -         |   -11.53 | danoco, detr0ittJ, mawth, tatazin, urban0 |
+|           27 |      522 | 2025-02-06 | Dusty Roots              | L   | 1.000      | -            | -                | -                | -         |   -11.54 | danoco, detr0ittJ, mawth, tatazin, urban0 |
 |           26 |      547 | 2025-02-05 | Legacy                   | L   | 1.000      | -            | -                | -                | -         |    -6.35 | danoco, detr0ittJ, mawth, tatazin, urban0 |
-|           25 |      703 | 2025-01-10 | Team Solid               | L   | 0.866      | -            | -                | -                | -         |    -7.31 | danoco, ksloks, mawth, RCF, tatazin       |
-|           24 |     1923 | 2024-10-16 | Party Astronauts         | L   | 0.295      | -            | -                | -                | -         |    -3.15 | danoco, land1n, mawth, tatazin, w1        |
-|           23 |     1950 | 2024-10-15 | Timbermen                | W   | 0.288      | 0.611        | 0.011 (0.002)    | 0.205 (0.036)    | 0 (0.000) |     5.24 | danoco, land1n, mawth, tatazin, w1        |
+|           25 |      703 | 2025-01-10 | Team Solid               | L   | 0.866      | -            | -                | -                | -         |    -7.32 | danoco, ksloks, mawth, RCF, tatazin       |
+|           24 |     1923 | 2024-10-16 | Party Astronauts         | L   | 0.295      | -            | -                | -                | -         |    -3.16 | danoco, land1n, mawth, tatazin, w1        |
+|           23 |     1950 | 2024-10-15 | Timbermen                | W   | 0.288      | 0.609        | 0.011 (0.002)    | 0.205 (0.036)    | 0 (0.000) |     5.24 | danoco, land1n, mawth, tatazin, w1        |
 |           22 |     2013 | 2024-10-09 | Legacy                   | L   | 0.249      | -            | -                | -                | -         |    -1.59 | danoco, land1n, mawth, tatazin, w1        |
 |           21 |     2020 | 2024-10-09 | Legacy                   | L   | 0.248      | -            | -                | -                | -         |    -1.61 | danoco, land1n, mawth, tatazin, w1        |
-|           20 |     2063 | 2024-10-08 | Bad News Capybaras       | W   | 0.242      | 0.611        | 0.001 (0.000)    | 0.148 (0.022)    | 0 (0.000) |     3.69 | danoco, land1n, mawth, tatazin, w1        |
-|           19 |     2069 | 2024-10-08 | Bad News Capybaras       | W   | 0.242      | 0.611        | 0.001 (0.000)    | 0.148 (0.022)    | 0 (0.000) |     3.77 | danoco, land1n, mawth, tatazin, w1        |
-|           18 |     2115 | 2024-10-07 | Chill Guys               | W   | 0.235      | 0.611        | 0.002 (0.000)    | 0.173 (0.025)    | 0 (0.000) |     3.51 | danoco, land1n, mawth, tatazin, w1        |
+|           20 |     2063 | 2024-10-08 | Bad News Capybaras       | W   | 0.242      | 0.609        | 0.001 (0.000)    | 0.148 (0.022)    | 0 (0.000) |     3.69 | danoco, land1n, mawth, tatazin, w1        |
+|           19 |     2069 | 2024-10-08 | Bad News Capybaras       | W   | 0.242      | 0.609        | 0.001 (0.000)    | 0.148 (0.022)    | 0 (0.000) |     3.77 | danoco, land1n, mawth, tatazin, w1        |
+|           18 |     2115 | 2024-10-07 | Chill Guys               | W   | 0.235      | 0.609        | 0.002 (0.000)    | 0.173 (0.025)    | 0 (0.000) |     3.51 | danoco, land1n, mawth, tatazin, w1        |
 |           17 |     2117 | 2024-10-07 | Chill Guys               | L   | 0.235      | -            | -                | -                | -         |    -3.96 | danoco, land1n, mawth, tatazin, w1        |
 |           16 |     2366 | 2024-09-30 | Timbermen                | L   | 0.188      | -            | -                | -                | -         |    -2.50 | danoco, land1n, mawth, tatazin, w1        |
 |           15 |     2436 | 2024-09-27 | NRG                      | L   | 0.168      | -            | -                | -                | -         |    -0.64 | danoco, land1n, mawth, tatazin, w1        |
 |           14 |     2513 | 2024-09-25 | Party Astronauts         | L   | 0.155      | -            | -                | -                | -         |    -1.77 | danoco, land1n, mawth, tatazin, w1        |
 |           13 |     2517 | 2024-09-25 | Party Astronauts         | L   | 0.155      | -            | -                | -                | -         |    -1.79 | danoco, land1n, mawth, tatazin, w1        |
-|           12 |     2577 | 2024-09-24 | Vagrants                 | W   | 0.148      | 0.611        | 0.001 (0.000)    | 0.174 (0.016)    | 0 (0.000) |     2.18 | danoco, land1n, mawth, tatazin, w1        |
-|           11 |     2579 | 2024-09-24 | Vagrants                 | W   | 0.148      | 0.611        | 0.001 (0.000)    | 0.174 (0.016)    | 0 (0.000) |     2.21 | danoco, land1n, mawth, tatazin, w1        |
-|           10 |     2628 | 2024-09-23 | Timbermen                | W   | 0.142      | 0.611        | 0.011 (0.001)    | 0.205 (0.018)    | 0 (0.000) |     2.63 | danoco, land1n, mawth, tatazin, w1        |
-|            9 |     2632 | 2024-09-23 | Timbermen                | W   | 0.142      | 0.611        | 0.011 (0.001)    | 0.205 (0.018)    | 0 (0.000) |     2.66 | danoco, land1n, mawth, tatazin, w1        |
+|           12 |     2577 | 2024-09-24 | Vagrants                 | W   | 0.148      | 0.609        | 0.001 (0.000)    | 0.174 (0.016)    | 0 (0.000) |     2.18 | danoco, land1n, mawth, tatazin, w1        |
+|           11 |     2579 | 2024-09-24 | Vagrants                 | W   | 0.148      | 0.609        | 0.001 (0.000)    | 0.174 (0.016)    | 0 (0.000) |     2.21 | danoco, land1n, mawth, tatazin, w1        |
+|           10 |     2628 | 2024-09-23 | Timbermen                | W   | 0.142      | 0.609        | 0.011 (0.001)    | 0.205 (0.018)    | 0 (0.000) |     2.63 | danoco, land1n, mawth, tatazin, w1        |
+|            9 |     2632 | 2024-09-23 | Timbermen                | W   | 0.142      | 0.609        | 0.011 (0.001)    | 0.205 (0.018)    | 0 (0.000) |     2.66 | danoco, land1n, mawth, tatazin, w1        |
 |            8 |     2663 | 2024-09-22 | Final Form               | W   | 0.135      | 0.371        | 0.000 (0.000)    | 0.057 (0.003)    | 0 (0.000) |     1.24 | danoco, land1n, mawth, tatazin, w1        |
 |            7 |     2688 | 2024-09-21 | Akimbo Esports           | L   | 0.128      | -            | -                | -                | -         |    -2.21 | danoco, land1n, mawth, tatazin, w1        |
 |            6 |     2761 | 2024-09-18 | Wildcard                 | L   | 0.108      | -            | -                | -                | -         |    -0.07 | danoco, land1n, mawth, tatazin, w1        |

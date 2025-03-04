@@ -6,9 +6,9 @@ Global Rank: [169](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [114]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  665.2<br />
+Final Rank Value:  665.1<br />
 <br />
-Final Rank Value (665.2) = Starting Rank Value (663.7) + Head To Head Adjustments (1.4)<br />
+Final Rank Value (665.1) = Starting Rank Value (663.7) + Head To Head Adjustments (1.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,15 +37,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     1303 | 2024-11-22 | NIP Impact            | L   | 0.540      | -            | -                | -                | -         |    -8.01 | Elizabeth, f6tal, k175un4, sosya, wieenn |
+|           10 |     1303 | 2024-11-22 | NIP Impact            | L   | 0.540      | -            | -                | -                | -         |    -8.00 | Elizabeth, f6tal, k175un4, sosya, wieenn |
 |            9 |     1311 | 2024-11-22 | FURIA Esports Female  | L   | 0.539      | -            | -                | -                | -         |    -2.42 | Elizabeth, f6tal, k175un4, sosya, wieenn |
-|            8 |     1861 | 2024-10-19 | Eco Warriors          | W   | 0.313      | 0.576        | 0.022 (0.004)    | 0.191 (0.034)    | 0 (0.000) |     6.60 | Elizabeth, f6tal, k175un4, sosya, wieenn |
-|            7 |     1884 | 2024-10-18 | Permitta W            | W   | 0.306      | 0.576        | 0.003 (0.000)    | 0.042 (0.007)    | 0 (0.000) |     4.18 | Elizabeth, f6tal, k175un4, sosya, wieenn |
+|            8 |     1861 | 2024-10-19 | Eco Warriors          | W   | 0.313      | 0.574        | 0.022 (0.004)    | 0.191 (0.034)    | 0 (0.000) |     6.60 | Elizabeth, f6tal, k175un4, sosya, wieenn |
+|            7 |     1884 | 2024-10-18 | Permitta W            | W   | 0.306      | 0.574        | 0.003 (0.000)    | 0.042 (0.007)    | 0 (0.000) |     4.18 | Elizabeth, f6tal, k175un4, sosya, wieenn |
 |            6 |     2241 | 2024-10-03 | BIG EQUIPA            | L   | 0.206      | -            | -                | -                | -         |    -2.44 | Elizabeth, f6tal, k175un4, sosya, wieenn |
-|            5 |     2778 | 2024-09-18 | Nomercy (Female team) | W   | 0.106      | 0.576        | 0.002 (0.000)    | 0.070 (0.004)    | 0 (0.000) |     1.40 | Elizabeth, f6tal, k175un4, sosya, wieenn |
+|            5 |     2778 | 2024-09-18 | Nomercy (Female team) | W   | 0.106      | 0.574        | 0.002 (0.000)    | 0.070 (0.004)    | 0 (0.000) |     1.40 | Elizabeth, f6tal, k175un4, sosya, wieenn |
 |            4 |     2884 | 2024-09-14 | Imperial Female       | L   | 0.078      | -            | -                | -                | -         |    -0.33 | Elizabeth, f6tal, k175un4, sosya, wieenn |
 |            3 |     2894 | 2024-09-14 | BIG EQUIPA            | W   | 0.078      | 0.553        | 0.021 (0.001)    | 0.073 (0.003)    | 0 (0.000) |     1.54 | Elizabeth, f6tal, k175un4, sosya, wieenn |
-|            2 |     2940 | 2024-09-12 | HSG                   | W   | 0.066      | 0.576        | 0.002 (0.000)    | 0.032 (0.001)    | 0 (0.000) |     0.96 | Elizabeth, f6tal, k175un4, sosya, wieenn |
+|            2 |     2940 | 2024-09-12 | HSG                   | W   | 0.066      | 0.574        | 0.002 (0.000)    | 0.032 (0.001)    | 0 (0.000) |     0.96 | Elizabeth, f6tal, k175un4, sosya, wieenn |
 |            1 |     3169 | 2024-09-04 | Imperial Female       | L   | 0.013      | -            | -                | -                | -         |    -0.05 | Elizabeth, f6tal, k175un4, sosya, wieenn |
 
 <br />

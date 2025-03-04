@@ -6,9 +6,9 @@ Global Rank: [136](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [93]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  723.5<br />
+Final Rank Value:  723.4<br />
 <br />
-Final Rank Value (723.5) = Starting Rank Value (715.1) + Head To Head Adjustments (8.4)<br />
+Final Rank Value (723.4) = Starting Rank Value (715.1) + Head To Head Adjustments (8.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     1324 | 2024-11-21 | TSM                 | L   | 0.537      | -            | -                | -                | -         |    -8.01 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           16 |     1324 | 2024-11-21 | TSM                 | L   | 0.537      | -            | -                | -                | -         |    -8.02 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |           15 |     1344 | 2024-11-21 | Ninjas in Pyjamas   | L   | 0.531      | -            | -                | -                | -         |    -5.38 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |           14 |     1351 | 2024-11-20 | Team Falcons        | L   | 0.530      | -            | -                | -                | -         |    -0.03 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |           13 |     1641 | 2024-11-07 | Nemiga Gaming       | L   | 0.438      | -            | -                | -                | -         |    -1.89 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           12 |     1648 | 2024-11-06 | SINNERS Esports     | W   | 0.433      | 0.591        | 0.027 (0.007)    | 0.448 (0.114)    | 0 (0.000) |    10.27 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           11 |     1889 | 2024-10-18 | BC.Game Esports     | L   | 0.305      | -            | -                | -                | -         |    -0.55 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           10 |     1908 | 2024-10-17 | Fnatic              | L   | 0.299      | -            | -                | -                | -         |    -1.02 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|            9 |     1929 | 2024-10-16 | Sashi Esport        | L   | 0.293      | -            | -                | -                | -         |    -1.31 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|            8 |     1936 | 2024-10-16 | Team Solid          | W   | 0.292      | 0.624        | 0.023 (0.004)    | 0.571 (0.104)    | 1 (0.292) |     5.94 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           12 |     1648 | 2024-11-06 | SINNERS Esports     | W   | 0.433      | 0.591        | 0.027 (0.007)    | 0.448 (0.114)    | 0 (0.000) |    10.26 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           11 |     1889 | 2024-10-18 | BC.Game Esports     | L   | 0.305      | -            | -                | -                | -         |    -0.61 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           10 |     1908 | 2024-10-17 | Fnatic              | L   | 0.299      | -            | -                | -                | -         |    -1.03 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|            9 |     1929 | 2024-10-16 | Sashi Esport        | L   | 0.293      | -            | -                | -                | -         |    -1.32 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|            8 |     1936 | 2024-10-16 | Team Solid          | W   | 0.292      | 0.624        | 0.023 (0.004)    | 0.571 (0.104)    | 1 (0.292) |     5.93 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |            7 |     1960 | 2024-10-15 | Aurora Gaming       | W   | 0.286      | 0.500        | 0.019 (0.003)    | 0.481 (0.069)    | 0 (0.000) |     6.29 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |            6 |     2186 | 2024-10-05 | 3DMAX               | L   | 0.217      | -            | -                | -                | -         |    -0.05 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|            5 |     2254 | 2024-10-03 | Team Spirit Academy | W   | 0.204      | 0.694        | 0.068 (0.010)    | 0.718 (0.102)    | 0 (0.000) |     5.06 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|            5 |     2254 | 2024-10-03 | Team Spirit Academy | W   | 0.204      | 0.694        | 0.068 (0.010)    | 0.718 (0.102)    | 0 (0.000) |     5.05 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |            4 |     2658 | 2024-09-23 | Monte               | L   | 0.138      | -            | -                | -                | -         |    -1.63 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|            3 |     2943 | 2024-09-12 | GUN5 Esports        | L   | 0.066      | -            | -                | -                | -         |    -0.44 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|            3 |     2943 | 2024-09-12 | GUN5 Esports        | L   | 0.066      | -            | -                | -                | -         |    -0.45 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |            2 |     2991 | 2024-09-11 | 9INE                | W   | 0.058      | 0.417        | 0.011 (0.000)    | 0.150 (0.004)    | 0 (0.000) |     0.93 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 |            1 |     3184 | 2024-09-04 | Monte               | W   | 0.011      | 0.417        | 0.029 (0.000)    | 0.227 (0.001)    | 0 (0.000) |     0.22 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
 

@@ -40,7 +40,7 @@ Note:<br />
 |           10 |     1375 | 2024-11-19 | GamerLegion   | L   | 0.517      | -            | -                | -                | -         |    -0.19 | dupreeh, maden, Magisk, s1mple, Snappi   |
 |            9 |     1391 | 2024-11-17 | SAW           | L   | 0.510      | -            | -                | -                | -         |    -0.94 | dupreeh, maden, Magisk, s1mple, Snappi   |
 |            8 |     1402 | 2024-11-17 | FaZe Clan     | L   | 0.505      | -            | -                | -                | -         |    -0.03 | dupreeh, maden, Magisk, s1mple, Snappi   |
-|            7 |     1414 | 2024-11-16 | Dynamo Eclot  | W   | 0.503      | 1.000        | 0.126 (0.063)    | 0.674 (0.339)    | 1 (0.503) |    13.93 | dupreeh, maden, Magisk, s1mple, Snappi   |
+|            7 |     1414 | 2024-11-16 | Dynamo Eclot  | W   | 0.503      | 1.000        | 0.126 (0.063)    | 0.674 (0.339)    | 1 (0.503) |    13.92 | dupreeh, maden, Magisk, s1mple, Snappi   |
 |            6 |     2506 | 2024-09-26 | FaZe Clan     | L   | 0.158      | -            | -                | -                | -         |    -0.01 | dupreeh, maden, Magisk, Snappi, SunPayus |
 |            5 |     2565 | 2024-09-25 | Natus Vincere | L   | 0.151      | -            | -                | -                | -         |    -0.02 | dupreeh, maden, Magisk, Snappi, SunPayus |
 |            4 |     2887 | 2024-09-14 | RED Canids    | L   | 0.078      | -            | -                | -                | -         |    -0.83 | dupreeh, maden, Magisk, Snappi, SunPayus |

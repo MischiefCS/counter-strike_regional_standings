@@ -6,22 +6,22 @@ Global Rank: [32](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [25]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1090.0<br />
+Final Rank Value:  1088.3<br />
 <br />
-Final Rank Value (1090.0) = Starting Rank Value (1107.3) + Head To Head Adjustments (-17.2)<br />
+Final Rank Value (1088.3) = Starting Rank Value (1105.9) + Head To Head Adjustments (-17.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.430[<sup>1</sup>](#table2)
 - Bounty Collected: 0.404[<sup>2</sup>](#table1)
-- Opponent Network: 0.398[<sup>2</sup>](#table1)
+- Opponent Network: 0.395[<sup>2</sup>](#table1)
 - LAN Wins: 0.254[<sup>2</sup>](#table1)
 
-The average of these factors is 0.372<br />
+The average of these factors is 0.371<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1107.3
-- 400 + ( ( 0.372 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1107.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1105.9
+- 400 + ( ( 0.371 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1105.9
 
 
 #### Factors<br />
@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |      158 | 2025-02-20 | Dynamo Eclot           | L   | 1.000      | -            | -                | -                | -         |   -15.75 | blameF, Burmylov, fear, KRIMZ, matys |
-|           26 |      202 | 2025-02-17 | RUSH B (Russian team)  | W   | 1.000      | 0.649        | 0.027 (0.018)    | 0.569 (0.369)    | 0 (0.000) |     8.00 | blameF, Burmylov, fear, KRIMZ, matys |
-|           25 |      229 | 2025-02-15 | Monte                  | L   | 1.000      | -            | -                | -                | -         |   -24.81 | blameF, Burmylov, fear, KRIMZ, matys |
-|           24 |      294 | 2025-02-13 | 500                    | W   | 1.000      | 0.649        | 0.086 (0.056)    | 1.000 (0.649)    | 0 (0.000) |    17.58 | blameF, Burmylov, fear, KRIMZ, matys |
-|           23 |      316 | 2025-02-12 | Partizan Esports       | L   | 1.000      | -            | -                | -                | -         |   -17.47 | blameF, Burmylov, fear, KRIMZ, matys |
-|           22 |      377 | 2025-02-10 | ECSTATIC               | W   | 1.000      | 0.649        | 0.033 (0.021)    | 1.000 (0.649)    | 0 (0.000) |     6.33 | blameF, Burmylov, fear, KRIMZ, matys |
-|           21 |      514 | 2025-02-06 | Team Spirit Academy    | W   | 1.000      | 0.605        | 0.068 (0.041)    | 0.718 (0.434)    | 0 (0.000) |    11.65 | blameF, Burmylov, fear, KRIMZ, matys |
-|           20 |      580 | 2025-02-04 | Betclic Apogee Esports | W   | 1.000      | 0.605        | 0.012 (0.007)    | 0.661 (0.400)    | -         |     9.08 | blameF, Burmylov, fear, KRIMZ, matys |
-|           19 |      619 | 2025-02-01 | OG                     | W   | 1.000      | 0.605        | 0.062 (0.037)    | 0.974 (0.590)    | -         |     9.19 | blameF, Burmylov, fear, KRIMZ, matys |
+|           27 |      158 | 2025-02-20 | Dynamo Eclot           | L   | 1.000      | -            | -                | -                | -         |   -15.74 | blameF, Burmylov, fear, KRIMZ, matys |
+|           26 |      202 | 2025-02-17 | RUSH B (Russian team)  | W   | 1.000      | 0.639        | 0.027 (0.017)    | 0.569 (0.364)    | 0 (0.000) |     8.05 | blameF, Burmylov, fear, KRIMZ, matys |
+|           25 |      229 | 2025-02-15 | Monte                  | L   | 1.000      | -            | -                | -                | -         |   -24.78 | blameF, Burmylov, fear, KRIMZ, matys |
+|           24 |      294 | 2025-02-13 | 500                    | W   | 1.000      | 0.639        | 0.086 (0.055)    | 1.000 (0.639)    | 0 (0.000) |    17.22 | blameF, Burmylov, fear, KRIMZ, matys |
+|           23 |      316 | 2025-02-12 | Partizan Esports       | L   | 1.000      | -            | -                | -                | -         |   -17.46 | blameF, Burmylov, fear, KRIMZ, matys |
+|           22 |      377 | 2025-02-10 | ECSTATIC               | W   | 1.000      | 0.639        | 0.033 (0.021)    | 1.000 (0.639)    | 0 (0.000) |     6.30 | blameF, Burmylov, fear, KRIMZ, matys |
+|           21 |      514 | 2025-02-06 | Team Spirit Academy    | W   | 1.000      | 0.605        | 0.068 (0.041)    | 0.718 (0.434)    | 0 (0.000) |    11.61 | blameF, Burmylov, fear, KRIMZ, matys |
+|           20 |      580 | 2025-02-04 | Betclic Apogee Esports | W   | 1.000      | 0.605        | 0.012 (0.007)    | 0.661 (0.400)    | -         |     9.06 | blameF, Burmylov, fear, KRIMZ, matys |
+|           19 |      619 | 2025-02-01 | OG                     | W   | 1.000      | 0.605        | 0.062 (0.037)    | 0.974 (0.590)    | -         |     9.20 | blameF, Burmylov, fear, KRIMZ, matys |
 |           18 |      688 | 2025-01-14 | Team Spirit            | L   | 0.894      | -            | -                | -                | -         |    -0.20 | blameF, Burmylov, fear, KRIMZ, matys |
-|           17 |     1140 | 2024-11-30 | Rare Atom              | L   | 0.597      | -            | -                | -                | -         |   -14.99 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|           16 |     1172 | 2024-11-30 | Cloud9                 | L   | 0.591      | -            | -                | -                | -         |   -13.12 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|           15 |     1175 | 2024-11-29 | Wildcard               | L   | 0.590      | -            | -                | -                | -         |    -4.37 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|           14 |     1368 | 2024-11-19 | Dynamo Eclot           | W   | 0.523      | 1.000        | 0.126 (0.066)    | 0.674 (0.353)    | 1 (0.523) |     8.23 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|           17 |     1140 | 2024-11-30 | Rare Atom              | L   | 0.597      | -            | -                | -                | -         |   -14.97 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|           16 |     1172 | 2024-11-30 | Cloud9                 | L   | 0.591      | -            | -                | -                | -         |   -13.09 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|           15 |     1175 | 2024-11-29 | Wildcard               | L   | 0.590      | -            | -                | -                | -         |    -4.35 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|           14 |     1368 | 2024-11-19 | Dynamo Eclot           | W   | 0.523      | 1.000        | 0.126 (0.066)    | 0.674 (0.353)    | 1 (0.523) |     8.24 | blameF, bodyy, KRIMZ, matys, nawwk   |
 |           13 |     1376 | 2024-11-19 | FaZe Clan              | L   | 0.517      | -            | -                | -                | -         |    -0.24 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|           12 |     1390 | 2024-11-17 | BetBoom Team           | W   | 0.510      | 1.000        | 0.086 (0.044)    | 0.406 (0.207)    | 1 (0.510) |     8.05 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|           11 |     1406 | 2024-11-17 | Rebels Gaming          | W   | 0.505      | 1.000        | -                | 0.318 (0.161)    | 1 (0.505) |     2.09 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|           12 |     1390 | 2024-11-17 | BetBoom Team           | W   | 0.510      | 1.000        | 0.086 (0.044)    | 0.406 (0.207)    | 1 (0.510) |     8.09 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|           11 |     1406 | 2024-11-17 | Rebels Gaming          | W   | 0.505      | 1.000        | -                | 0.318 (0.161)    | 1 (0.505) |     2.10 | blameF, bodyy, KRIMZ, matys, nawwk   |
 |           10 |     1420 | 2024-11-16 | Natus Vincere          | L   | 0.503      | -            | -                | -                | -         |    -0.41 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|            9 |     1868 | 2024-10-19 | Nemiga Gaming          | L   | 0.311      | -            | -                | -                | -         |    -5.72 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|            8 |     1908 | 2024-10-17 | PARIVISION             | W   | 0.299      | -            | -                | -                | 1 (0.299) |     1.02 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|            7 |     1930 | 2024-10-16 | BC.Game Esports        | W   | 0.293      | 0.631        | 0.077 (0.014)    | 0.912 (0.169)    | 1 (0.293) |     6.28 | blameF, bodyy, KRIMZ, matys, nawwk   |
-|            6 |     2003 | 2024-10-10 | Metizport              | L   | 0.251      | -            | -                | -                | -         |    -3.76 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|            9 |     1868 | 2024-10-19 | Nemiga Gaming          | L   | 0.311      | -            | -                | -                | -         |    -5.70 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|            8 |     1908 | 2024-10-17 | PARIVISION             | W   | 0.299      | -            | -                | -                | 1 (0.299) |     1.03 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|            7 |     1930 | 2024-10-16 | BC.Game Esports        | W   | 0.293      | 0.631        | 0.077 (0.014)    | 0.912 (0.169)    | 1 (0.293) |     6.05 | blameF, bodyy, KRIMZ, matys, nawwk   |
+|            6 |     2003 | 2024-10-10 | Metizport              | L   | 0.251      | -            | -                | -                | -         |    -3.75 | blameF, bodyy, KRIMZ, matys, nawwk   |
 |            5 |     2606 | 2024-09-24 | Wild Lotus             | L   | 0.145      | -            | -                | -                | -         |    -3.96 | blameF, bodyy, KRIMZ, matys, nawwk   |
 |            4 |     2888 | 2024-09-14 | MOUZ                   | L   | 0.078      | -            | -                | -                | -         |    -0.02 | afro, blameF, bodyy, KRIMZ, matys    |
 |            3 |     2942 | 2024-09-12 | BIG                    | L   | 0.066      | -            | -                | -                | -         |    -0.16 | afro, blameF, bodyy, KRIMZ, matys    |

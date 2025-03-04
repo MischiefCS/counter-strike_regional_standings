@@ -6,9 +6,9 @@ Global Rank: [212](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [59]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  611.2<br />
+Final Rank Value:  611.1<br />
 <br />
-Final Rank Value (611.2) = Starting Rank Value (647.0) + Head To Head Adjustments (-35.8)<br />
+Final Rank Value (611.1) = Starting Rank Value (646.9) + Head To Head Adjustments (-35.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.130<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 647.0
-- 400 + ( ( 0.130 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 647.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 646.9
+- 400 + ( ( 0.130 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 646.9
 
 
 #### Factors<br />
@@ -42,10 +42,10 @@ Note:<br />
 |           13 |      776 | 2024-12-21 | Game Hunters             | L   | 0.734      | -            | -                | -                | -         |   -10.30 | dott1, Hezz, lenci, nacho, pavv+ |
 |           12 |      797 | 2024-12-19 | Team Solid               | L   | 0.721      | -            | -                | -                | -         |    -5.42 | dott1, Hezz, lenci, nacho, pavv+ |
 |           11 |      812 | 2024-12-18 | Bad News Chickens        | L   | 0.713      | -            | -                | -                | -         |   -10.37 | dott1, Hezz, lenci, nacho, pavv+ |
-|           10 |      828 | 2024-12-16 | 20/70                    | W   | 0.701      | 0.407        | 0.001 (0.000)    | 0.139 (0.040)    | 0 (0.000) |    10.66 | dott1, Hezz, lenci, nacho, pavv+ |
-|            9 |      864 | 2024-12-14 | Players (Brazilian team) | W   | 0.688      | 0.407        | 0.008 (0.002)    | 0.566 (0.158)    | 0 (0.000) |    14.47 | dott1, Hezz, lenci, nacho, pavv+ |
+|           10 |      828 | 2024-12-16 | 20/70                    | W   | 0.701      | 0.405        | 0.001 (0.000)    | 0.139 (0.040)    | 0 (0.000) |    10.67 | dott1, Hezz, lenci, nacho, pavv+ |
+|            9 |      864 | 2024-12-14 | Players (Brazilian team) | W   | 0.688      | 0.405        | 0.008 (0.002)    | 0.566 (0.158)    | 0 (0.000) |    14.47 | dott1, Hezz, lenci, nacho, pavv+ |
 |            8 |     1310 | 2024-11-22 | BESTIA Academy           | W   | 0.539      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.72 | dott1, Hezz, lenci, pavv+, rzk   |
-|            7 |     1360 | 2024-11-20 | Joga de terno            | L   | 0.527      | -            | -                | -                | -         |   -11.12 | dott1, Hezz, lenci, pavv+, rzk   |
+|            7 |     1360 | 2024-11-20 | Joga de terno            | L   | 0.527      | -            | -                | -                | -         |   -11.11 | dott1, Hezz, lenci, pavv+, rzk   |
 |            6 |     1383 | 2024-11-18 | ShindeN                  | L   | 0.514      | -            | -                | -                | -         |    -6.71 | dott1, Hezz, lenci, pavv+, rzk   |
 |            5 |     1680 | 2024-11-03 | 9z Academy               | L   | 0.414      | -            | -                | -                | -         |    -8.46 | dott1, Hezz, lenci, pavv+, rzk   |
 |            4 |     1732 | 2024-11-01 | BeBold.gg                | W   | 0.399      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.59 | dott1, Hezz, lenci, pavv+, rzk   |

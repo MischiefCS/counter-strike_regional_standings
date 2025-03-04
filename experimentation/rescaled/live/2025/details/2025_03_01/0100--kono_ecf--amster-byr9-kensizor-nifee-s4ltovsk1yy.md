@@ -6,9 +6,9 @@ Global Rank: [100](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [71]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  786.7<br />
+Final Rank Value:  786.5<br />
 <br />
-Final Rank Value (786.7) = Starting Rank Value (780.9) + Head To Head Adjustments (5.7)<br />
+Final Rank Value (786.5) = Starting Rank Value (780.9) + Head To Head Adjustments (5.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,24 +38,24 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           30 |      756 | 2024-12-25 | WOPA Esport                               | W   | 0.758      | 0.415        | 0.028 (0.009)    | 0.499 (0.157)    | 0 (0.000) |    13.35 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
-|           29 |      761 | 2024-12-23 | ENCE Academy                              | W   | 0.744      | 0.415        | 0.009 (0.003)    | 0.230 (0.071)    | 0 (0.000) |    12.15 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
+|           29 |      761 | 2024-12-23 | ENCE Academy                              | W   | 0.744      | 0.415        | 0.009 (0.003)    | 0.230 (0.071)    | 0 (0.000) |    12.16 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
 |           28 |      767 | 2024-12-22 | TEAM NEXT LEVEL                           | W   | 0.739      | 0.359        | 0.016 (0.004)    | 0.117 (0.031)    | 0 (0.000) |    10.90 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
 |           27 |      783 | 2024-12-21 | ADEPTS                                    | W   | 0.732      | 0.415        | -                | 0.046 (0.014)    | 0 (0.000) |     4.97 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
 |           26 |      785 | 2024-12-21 | WOPA Esport                               | L   | 0.731      | -            | -                | -                | -         |   -10.84 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
-|           25 |      802 | 2024-12-19 | Astralis Talent                           | W   | 0.719      | 0.415        | 0.002 (0.001)    | 0.388 (0.116)    | 0 (0.000) |     9.83 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
-|           24 |      808 | 2024-12-19 | Preasy Esport                             | W   | 0.718      | 0.453        | 0.007 (0.002)    | 0.206 (0.067)    | 0 (0.000) |    10.03 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
+|           25 |      802 | 2024-12-19 | Astralis Talent                           | W   | 0.719      | 0.415        | 0.002 (0.001)    | 0.388 (0.116)    | 0 (0.000) |     9.82 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
+|           24 |      808 | 2024-12-19 | Preasy Esport                             | W   | 0.718      | 0.453        | 0.007 (0.002)    | 0.206 (0.067)    | 0 (0.000) |    10.04 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
 |           23 |      824 | 2024-12-17 | Dark Cloud Esports                        | L   | 0.706      | -            | -                | -                | -         |   -11.09 | amster, byr9, kensizor, nifee, s4ltovsk1yy      |
 |           22 |     1131 | 2024-12-01 | BC.Game Esports                           | L   | 0.599      | -            | -                | -                | -         |    -7.85 | amster, byr9, Dafra1D, kensizor, s4ltovsk1yy    |
-|           21 |     1165 | 2024-11-30 | Betclic Apogee Esports                    | L   | 0.592      | -            | -                | -                | -         |    -5.49 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           20 |     1193 | 2024-11-29 | BC.Game Esports                           | L   | 0.585      | -            | -                | -                | -         |    -8.28 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           21 |     1165 | 2024-11-30 | Betclic Apogee Esports                    | L   | 0.592      | -            | -                | -                | -         |    -5.52 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           20 |     1193 | 2024-11-29 | BC.Game Esports                           | L   | 0.585      | -            | -                | -                | -         |    -8.29 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           19 |     1225 | 2024-11-26 | ALTERNATE aTTaX                           | L   | 0.567      | -            | -                | -                | -         |    -6.16 | amster, byr9, Dafra1D, kensizor, s4ltovsk1yy    |
 |           18 |     1441 | 2024-11-15 | Team Novaq                                | L   | 0.493      | -            | -                | -                | -         |    -4.86 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           17 |     1478 | 2024-11-14 | Team Latvia                               | L   | 0.487      | -            | -                | -                | -         |   -11.80 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           16 |     1480 | 2024-11-14 | Nexus Gaming                              | L   | 0.486      | -            | -                | -                | -         |    -2.56 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           15 |     1483 | 2024-11-14 | GnG x Amazigh                             | W   | 0.486      | -            | -                | -                | 1 (0.486) |     1.52 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           14 |     1834 | 2024-10-24 | Chimera Esports                           | L   | 0.344      | -            | -                | -                | -         |    -4.30 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           13 |     1836 | 2024-10-22 | Natus Vincere Junior                      | W   | 0.331      | 0.519        | 0.086 (0.015)    | 0.941 (0.162)    | 0 (0.000) |     8.15 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           12 |     1851 | 2024-10-20 | Copenhagen Wolves (American organization) | W   | 0.317      | 0.519        | 0.008 (0.001)    | 0.665 (0.109)    | 0 (0.000) |     5.98 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           14 |     1834 | 2024-10-24 | Chimera Esports                           | L   | 0.344      | -            | -                | -                | -         |    -4.37 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           13 |     1836 | 2024-10-22 | Natus Vincere Junior                      | W   | 0.331      | 0.519        | 0.086 (0.015)    | 0.941 (0.162)    | 0 (0.000) |     8.07 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           12 |     1851 | 2024-10-20 | Copenhagen Wolves (American organization) | W   | 0.317      | 0.519        | 0.008 (0.001)    | 0.665 (0.109)    | 0 (0.000) |     5.97 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           11 |     1913 | 2024-10-17 | Illuminar Gaming                          | W   | 0.298      | 0.519        | 0.007 (0.001)    | 0.323 (0.050)    | 0 (0.000) |     4.93 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           10 |     2389 | 2024-09-29 | Leo Team                                  | L   | 0.180      | -            | -                | -                | -         |    -2.90 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |            9 |     2395 | 2024-09-29 | TEAM NEXT LEVEL                           | W   | 0.178      | 0.416        | 0.016 (0.001)    | -                | -         |     2.33 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |

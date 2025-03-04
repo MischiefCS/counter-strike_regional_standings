@@ -37,10 +37,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      800 | 2024-12-19 | 9z Academy               | L   | 0.720      | -            | -                | -                | -         |   -13.75 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|           13 |      800 | 2024-12-19 | 9z Academy               | L   | 0.720      | -            | -                | -                | -         |   -13.76 | Demonos, lealziNho, Roz, swarmyzz, voltera |
 |           12 |      826 | 2024-12-17 | Game Hunters             | L   | 0.706      | -            | -                | -                | -         |    -9.47 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|           11 |      828 | 2024-12-16 | LaChampionsLiga          | L   | 0.701      | -            | -                | -                | -         |   -10.66 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|           10 |      890 | 2024-12-13 | Players (Brazilian team) | L   | 0.681      | -            | -                | -                | -         |    -7.38 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|           11 |      828 | 2024-12-16 | LaChampionsLiga          | L   | 0.701      | -            | -                | -                | -         |   -10.67 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|           10 |      890 | 2024-12-13 | Players (Brazilian team) | L   | 0.681      | -            | -                | -                | -         |    -7.39 | Demonos, lealziNho, Roz, swarmyzz, voltera |
 |            9 |      910 | 2024-12-12 | 9z Academy               | W   | 0.674      | 0.322        | 0.000 (0.000)    | 0.210 (0.046)    | 0 (0.000) |     7.49 | Demonos, lealziNho, Roz, swarmyzz, voltera |
 |            8 |     1201 | 2024-11-28 | Sharks Esports           | L   | 0.580      | -            | -                | -                | -         |    -1.84 | Demonos, lealziNho, Roz, swarmyzz, voltera |
 |            7 |     1233 | 2024-11-26 | Patins da Ferrari        | W   | 0.566      | 0.460        | 0.000 (0.000)    | 0.115 (0.030)    | 0 (0.000) |     6.05 | Demonos, lealziNho, Roz, swarmyzz, voltera |

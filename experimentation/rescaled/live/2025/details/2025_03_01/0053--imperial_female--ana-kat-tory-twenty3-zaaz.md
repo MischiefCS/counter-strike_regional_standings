@@ -38,9 +38,9 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           23 |      212 | 2025-02-16 | Complexity            | L   | 1.000      | -            | -                | -                | -         |    -8.50 | ANa, Kat, tory, twenty3, zAAz   |
-|           22 |      244 | 2025-02-15 | MIBR                  | L   | 1.000      | -            | -                | -                | -         |    -2.77 | ANa, Kat, tory, twenty3, zAAz   |
+|           22 |      244 | 2025-02-15 | MIBR                  | L   | 1.000      | -            | -                | -                | -         |    -2.78 | ANa, Kat, tory, twenty3, zAAz   |
 |           21 |      268 | 2025-02-14 | Eternal Fire          | L   | 1.000      | -            | -                | -                | -         |    -0.19 | ANa, Kat, tory, twenty3, zAAz   |
-|           20 |      558 | 2025-02-05 | Nemiga Gaming         | L   | 1.000      | -            | -                | -                | -         |   -13.14 | ANa, Kat, tory, twenty3, zAAz   |
+|           20 |      558 | 2025-02-05 | Nemiga Gaming         | L   | 1.000      | -            | -                | -                | -         |   -13.18 | ANa, Kat, tory, twenty3, zAAz   |
 |           19 |      567 | 2025-02-05 | PARIVISION            | L   | 1.000      | -            | -                | -                | -         |   -23.66 | ANa, Kat, tory, twenty3, zAAz   |
 |           18 |      627 | 2025-01-30 | BIG                   | L   | 1.000      | -            | -                | -                | -         |    -2.16 | ANa, bubble, Kat, twenty3, zAAz |
 |           17 |      636 | 2025-01-29 | FURIA                 | L   | 0.993      | -            | -                | -                | -         |    -2.58 | ANa, bubble, Kat, twenty3, zAAz |
@@ -52,13 +52,13 @@ Note:<br />
 |           11 |     1265 | 2024-11-24 | BIG EQUIPA            | W   | 0.551      | 0.524        | 0.021 (0.006)    | 0.073 (0.021)    | 1 (0.551) |     3.56 | ANa, Kat, tory, twenty3, zAAz   |
 |           10 |     1307 | 2024-11-22 | Fluxo Demons          | W   | 0.539      | 0.524        | 0.016 (0.004)    | 0.100 (0.028)    | 1 (0.539) |     3.25 | ANa, Kat, tory, twenty3, zAAz   |
 |            9 |     1321 | 2024-11-22 | Eco Warriors          | W   | 0.537      | 0.524        | 0.022 (0.006)    | 0.191 (0.054)    | 1 (0.537) |     4.01 | ANa, Kat, tory, twenty3, zAAz   |
-|            8 |     1886 | 2024-10-18 | Nomercy (Female team) | W   | 0.306      | 0.405        | 0.002 (0.000)    | 0.070 (0.009)    | 0 (0.000) |     0.97 | ANa, Kat, tory, twenty3, zAAz   |
-|            7 |     2280 | 2024-10-02 | Permitta W            | W   | 0.200      | 0.405        | 0.003 (0.000)    | 0.042 (0.003)    | 0 (0.000) |     0.67 | ANa, Kat, tory, twenty3, zAAz   |
+|            8 |     1886 | 2024-10-18 | Nomercy (Female team) | W   | 0.306      | 0.402        | 0.002 (0.000)    | 0.070 (0.009)    | 0 (0.000) |     0.97 | ANa, Kat, tory, twenty3, zAAz   |
+|            7 |     2280 | 2024-10-02 | Permitta W            | W   | 0.200      | 0.402        | 0.003 (0.000)    | 0.042 (0.003)    | 0 (0.000) |     0.67 | ANa, Kat, tory, twenty3, zAAz   |
 |            6 |     2744 | 2024-09-19 | HSG                   | W   | 0.113      | -            | -                | -                | 0 (0.000) |     0.41 | ANa, Kat, tory, twenty3, zAAz   |
 |            5 |     2857 | 2024-09-15 | Eco Warriors          | L   | 0.085      | -            | -                | -                | -         |    -2.04 | ANa, Kat, tory, twenty3, zAAz   |
 |            4 |     2884 | 2024-09-14 | K27 Female            | W   | 0.078      | 0.398        | 0.007 (0.000)    | 0.052 (0.002)    | 0 (0.000) |     0.33 | ANa, Kat, tory, twenty3, zAAz   |
 |            3 |     2895 | 2024-09-14 | HSG                   | W   | 0.078      | -            | -                | -                | -         |     0.28 | ANa, Kat, tory, twenty3, zAAz   |
-|            2 |     2975 | 2024-09-11 | BIG EQUIPA            | W   | 0.060      | 0.405        | 0.021 (0.001)    | 0.073 (0.002)    | -         |     0.39 | ANa, Kat, tory, twenty3, zAAz   |
+|            2 |     2975 | 2024-09-11 | BIG EQUIPA            | W   | 0.060      | 0.402        | 0.021 (0.001)    | 0.073 (0.002)    | -         |     0.39 | ANa, Kat, tory, twenty3, zAAz   |
 |            1 |     3169 | 2024-09-04 | K27 Female            | W   | 0.013      | -            | -                | -                | -         |     0.05 | ANa, Kat, tory, twenty3, zAAz   |
 
 <br />

@@ -39,7 +39,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |      977 | 2024-12-07 | Undone                  | L   | 0.642      | -            | -                | -                | -         |   -10.31 | AlekS, corn, CrePoW, ReFuZR, tatm |
 |            7 |      987 | 2024-12-07 | Take Flyte Kings        | W   | 0.640      | 0.384        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.640) |     2.56 | AlekS, corn, CrePoW, ReFuZR, tatm |
-|            6 |     1007 | 2024-12-06 | Nouns Esports           | L   | 0.635      | -            | -                | -                | -         |    -6.96 | AlekS, corn, CrePoW, ReFuZR, tatm |
+|            6 |     1007 | 2024-12-06 | Nouns Esports           | L   | 0.635      | -            | -                | -                | -         |    -6.97 | AlekS, corn, CrePoW, ReFuZR, tatm |
 |            5 |     1840 | 2024-10-20 | Timbermen               | W   | 0.321      | 0.333        | 0.002 (0.000)    | 0.038 (0.004)    | 1 (0.321) |     3.98 | AlekS, corn, CrePoW, ReFuZR, tatm |
 |            4 |     1842 | 2024-10-20 | Slugy's Shekel Squad    | W   | 0.320      | 0.333        | 0.001 (0.000)    | 0.019 (0.002)    | 1 (0.320) |     2.46 | AlekS, corn, CrePoW, ReFuZR, tatm |
 |            3 |     1855 | 2024-10-19 | Penance (American Team) | W   | 0.315      | 0.333        | 0.000 (0.000)    | 0.004 (0.000)    | 1 (0.315) |     1.27 | AlekS, corn, CrePoW, ReFuZR, tatm |

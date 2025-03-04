@@ -39,7 +39,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |      803 | 2024-12-19 | Nitro.GG           | L   | 0.719      | -            | -                | -                | -         |    -4.14 | bacc, insan1ty, Kadzz, prisma, triande |
 |            4 |      823 | 2024-12-17 | América eSports    | W   | 0.706      | 0.384        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.11 | bacc, insan1ty, Kadzz, prisma, triande |
-|            3 |      850 | 2024-12-15 | Patins da Ferrari  | L   | 0.692      | -            | -                | -                | -         |    -7.17 | bacc, insan1ty, Kadzz, prisma, triande |
+|            3 |      850 | 2024-12-15 | Patins da Ferrari  | L   | 0.692      | -            | -                | -                | -         |    -7.18 | bacc, insan1ty, Kadzz, prisma, triande |
 |            2 |      891 | 2024-12-13 | UNO MILLE          | L   | 0.681      | -            | -                | -                | -         |    -3.28 | bacc, insan1ty, Kadzz, prisma, triande |
 |            1 |     1185 | 2024-11-29 | RED Canids Academy | L   | 0.587      | -            | -                | -                | -         |    -3.75 | bacc, insan1ty, Kadzz, prisma, triande |
 

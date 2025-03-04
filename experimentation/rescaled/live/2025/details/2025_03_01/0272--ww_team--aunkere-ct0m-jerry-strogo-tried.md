@@ -45,7 +45,7 @@ Note:<br />
 |            6 |     2652 | 2024-09-23 | FAVBET Team        | L   | 0.139      | -            | -                | -                | -         |    -0.51 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            5 |     2823 | 2024-09-16 | CYBERSHOKE Esports | L   | 0.093      | -            | -                | -                | -         |    -0.94 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            4 |     2826 | 2024-09-16 | BOGATYRI           | W   | 0.092      | 0.443        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.08 | Aunkere, ct0m, Jerry, StRoGo, tried  |
-|            3 |     2831 | 2024-09-16 | CYBERSHOKE Esports | L   | 0.091      | -            | -                | -                | -         |    -0.22 | Aunkere, ct0m, Jerry, StRoGo, tried  |
+|            3 |     2831 | 2024-09-16 | CYBERSHOKE Esports | L   | 0.091      | -            | -                | -                | -         |    -0.23 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            2 |     3022 | 2024-09-10 | GTZ.ESPORTS        | L   | 0.050      | -            | -                | -                | -         |    -0.05 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            1 |     3039 | 2024-09-09 | TALON              | L   | 0.044      | -            | -                | -                | -         |    -0.66 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 

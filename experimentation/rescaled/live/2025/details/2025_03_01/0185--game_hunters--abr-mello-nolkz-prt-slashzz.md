@@ -6,9 +6,9 @@ Global Rank: [185](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [47]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  642.3<br />
+Final Rank Value:  642.2<br />
 <br />
-Final Rank Value (642.3) = Starting Rank Value (649.5) + Head To Head Adjustments (-7.2)<br />
+Final Rank Value (642.2) = Starting Rank Value (649.4) + Head To Head Adjustments (-7.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.131<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 649.5
-- 400 + ( ( 0.131 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 649.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 649.4
+- 400 + ( ( 0.131 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 649.4
 
 
 #### Factors<br />
@@ -38,11 +38,11 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           17 |      177 | 2025-02-17 | Players (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -12.20 | abr, mello, nolkz, prt, slashzz  |
-|           16 |      222 | 2025-02-15 | KRÜ Esports              | W   | 1.000      | 0.417        | 0.001 (0.001)    | 0.169 (0.071)    | 0 (0.000) |    15.59 | abr, mello, nolkz, prt, slashzz  |
+|           16 |      222 | 2025-02-15 | KRÜ Esports              | W   | 1.000      | 0.415        | 0.001 (0.001)    | 0.169 (0.070)    | 0 (0.000) |    15.58 | abr, mello, nolkz, prt, slashzz  |
 |           15 |      270 | 2025-02-14 | ShindeN                  | L   | 1.000      | -            | -                | -                | -         |   -13.62 | abr, mello, nolkz, prt, slashzz  |
-|           14 |      303 | 2025-02-12 | Team Solid               | L   | 1.000      | -            | -                | -                | -         |    -8.27 | abr, mello, nolkz, prt, slashzz  |
-|           13 |      397 | 2025-02-09 | AdalYamigos              | W   | 1.000      | 0.417        | 0.003 (0.001)    | 0.226 (0.094)    | 0 (0.000) |    20.99 | abr, mello, nolkz, prt, slashzz  |
-|           12 |      484 | 2025-02-07 | BESTIA                   | L   | 1.000      | -            | -                | -                | -         |    -4.60 | abr, mello, nolkz, prt, slashzz  |
+|           14 |      303 | 2025-02-12 | Team Solid               | L   | 1.000      | -            | -                | -                | -         |    -8.28 | abr, mello, nolkz, prt, slashzz  |
+|           13 |      397 | 2025-02-09 | AdalYamigos              | W   | 1.000      | 0.415        | 0.003 (0.001)    | 0.226 (0.094)    | 0 (0.000) |    20.99 | abr, mello, nolkz, prt, slashzz  |
+|           12 |      484 | 2025-02-07 | BESTIA                   | L   | 1.000      | -            | -                | -                | -         |    -4.61 | abr, mello, nolkz, prt, slashzz  |
 |           11 |      707 | 2025-01-09 | Fake do Biru             | L   | 0.861      | -            | -                | -                | -         |   -16.02 | abr, mello, nolkz, pedrinzy, prt |
 |           10 |      776 | 2024-12-21 | LaChampionsLiga          | W   | 0.734      | 0.384        | 0.003 (0.001)    | 0.199 (0.056)    | 0 (0.000) |    10.30 | abr, Lich, mello, pedrinzy, prt  |
 |            9 |      787 | 2024-12-20 | Fake do Biru             | L   | 0.726      | -            | -                | -                | -         |   -14.18 | abr, Lich, mello, pedrinzy, prt  |

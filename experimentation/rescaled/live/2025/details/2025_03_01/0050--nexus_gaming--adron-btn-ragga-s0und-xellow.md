@@ -6,9 +6,9 @@ Global Rank: [50](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [36]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  987.3<br />
+Final Rank Value:  986.6<br />
 <br />
-Final Rank Value (987.3) = Starting Rank Value (1113.3) + Head To Head Adjustments (-126.0)<br />
+Final Rank Value (986.6) = Starting Rank Value (1113.3) + Head To Head Adjustments (-126.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |      163 | 2025-02-20 | BC.Game Esports        | L   | 1.000      | -            | -                | -                | -         |    -4.88 | ADRON, BTN, ragga, s0und, XELLOW     |
-|           37 |      279 | 2025-02-14 | Partizan Esports       | L   | 1.000      | -            | -                | -                | -         |   -11.81 | ADRON, BTN, ragga, s0und, XELLOW     |
-|           36 |      295 | 2025-02-13 | Fire Flux Esports      | W   | 1.000      | 0.487        | 0.008 (0.004)    | 1.000 (0.487)    | 0 (0.000) |    13.77 | ADRON, BTN, ragga, s0und, XELLOW     |
+|           38 |      163 | 2025-02-20 | BC.Game Esports        | L   | 1.000      | -            | -                | -                | -         |    -5.24 | ADRON, BTN, ragga, s0und, XELLOW     |
+|           37 |      279 | 2025-02-14 | Partizan Esports       | L   | 1.000      | -            | -                | -                | -         |   -11.85 | ADRON, BTN, ragga, s0und, XELLOW     |
+|           36 |      295 | 2025-02-13 | Fire Flux Esports      | W   | 1.000      | 0.487        | 0.008 (0.004)    | 1.000 (0.487)    | 0 (0.000) |    13.66 | ADRON, BTN, ragga, s0und, XELLOW     |
 |           35 |      358 | 2025-02-10 | Hesta                  | L   | 1.000      | -            | -                | -                | -         |   -27.38 | ADRON, BTN, ragga, s0und, XELLOW     |
-|           34 |      369 | 2025-02-10 | Metizport              | L   | 1.000      | -            | -                | -                | -         |   -15.78 | ADRON, BTN, ragga, s0und, XELLOW     |
-|           33 |      554 | 2025-02-05 | Dynamo Eclot           | L   | 1.000      | -            | -                | -                | -         |   -12.88 | ADRON, BTN, ragga, s0und, XELLOW     |
-|           32 |      563 | 2025-02-05 | 9INE                   | L   | 1.000      | -            | -                | -                | -         |   -19.12 | ADRON, BTN, ragga, s0und, XELLOW     |
-|           31 |      769 | 2024-12-22 | Betclic Apogee Esports | L   | 0.739      | -            | -                | -                | -         |   -16.91 | ADRON, BTN, Ciocardau, XELLOW, zewts |
-|           30 |      813 | 2024-12-18 | Insilio                | W   | 0.713      | 0.367        | -                | 0.399 (0.104)    | 0 (0.000) |     1.85 | ADRON, BTN, Ciocardau, ragga, XELLOW |
-|           29 |      816 | 2024-12-18 | Illuminar Gaming       | W   | 0.712      | 0.367        | 0.007 (0.002)    | 0.323 (0.084)    | -         |     3.32 | ADRON, BTN, Ciocardau, ragga, XELLOW |
-|           28 |      848 | 2024-12-15 | Aimclub                | L   | 0.693      | -            | -                | -                | -         |   -17.61 | ADRON, BTN, Ciocardau, ragga, XELLOW |
+|           34 |      369 | 2025-02-10 | Metizport              | L   | 1.000      | -            | -                | -                | -         |   -15.79 | ADRON, BTN, ragga, s0und, XELLOW     |
+|           33 |      554 | 2025-02-05 | Dynamo Eclot           | L   | 1.000      | -            | -                | -                | -         |   -12.93 | ADRON, BTN, ragga, s0und, XELLOW     |
+|           32 |      563 | 2025-02-05 | 9INE                   | L   | 1.000      | -            | -                | -                | -         |   -19.18 | ADRON, BTN, ragga, s0und, XELLOW     |
+|           31 |      769 | 2024-12-22 | Betclic Apogee Esports | L   | 0.739      | -            | -                | -                | -         |   -16.95 | ADRON, BTN, Ciocardau, XELLOW, zewts |
+|           30 |      813 | 2024-12-18 | Insilio                | W   | 0.713      | 0.367        | -                | 0.399 (0.104)    | 0 (0.000) |     1.84 | ADRON, BTN, Ciocardau, ragga, XELLOW |
+|           29 |      816 | 2024-12-18 | Illuminar Gaming       | W   | 0.712      | 0.367        | 0.007 (0.002)    | 0.323 (0.084)    | -         |     3.31 | ADRON, BTN, Ciocardau, ragga, XELLOW |
+|           28 |      848 | 2024-12-15 | Aimclub                | L   | 0.693      | -            | -                | -                | -         |   -17.60 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           27 |      876 | 2024-12-14 | Perfect Storm          | W   | 0.686      | 0.406        | 0.008 (0.002)    | -                | 1 (0.686) |     0.99 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           26 |     1161 | 2024-11-30 | Lazer Cats             | W   | 0.592      | -            | -                | -                | -         |     1.10 | ADRON, BTN, Ciocardau, ragga, XELLOW |
-|           25 |     1203 | 2024-11-28 | FAVBET Team            | L   | 0.580      | -            | -                | -                | -         |   -14.44 | ADRON, BTN, Ciocardau, ragga, XELLOW |
+|           25 |     1203 | 2024-11-28 | FAVBET Team            | L   | 0.580      | -            | -                | -                | -         |   -14.45 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           24 |     1227 | 2024-11-26 | UNiTY esports          | W   | 0.567      | 0.443        | 0.025 (0.006)    | 0.177 (0.044)    | -         |     2.56 | ADRON, BTN, Ciocardau, ragga, XELLOW |
-|           23 |     1397 | 2024-11-17 | GTZ.ESPORTS            | W   | 0.506      | 0.617        | 0.080 (0.025)    | 0.431 (0.135)    | 1 (0.506) |     8.04 | ADRON, BTN, Ciocardau, ragga, XELLOW |
-|           22 |     1411 | 2024-11-17 | Metizport              | W   | 0.504      | 0.617        | 0.074 (0.023)    | 0.654 (0.204)    | 1 (0.504) |     8.51 | ADRON, BTN, Ciocardau, ragga, XELLOW |
+|           23 |     1397 | 2024-11-17 | GTZ.ESPORTS            | W   | 0.506      | 0.617        | 0.080 (0.025)    | 0.431 (0.135)    | 1 (0.506) |     8.02 | ADRON, BTN, Ciocardau, ragga, XELLOW |
+|           22 |     1411 | 2024-11-17 | Metizport              | W   | 0.504      | 0.617        | 0.074 (0.023)    | 0.654 (0.204)    | 1 (0.504) |     8.50 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           21 |     1425 | 2024-11-16 | ALTERNATE aTTaX        | W   | 0.500      | 0.617        | 0.020 (0.006)    | 0.351 (0.108)    | 1 (0.500) |     3.94 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           20 |     1446 | 2024-11-15 | Team Latvia            | W   | 0.492      | -            | -                | -                | 1 (0.492) |     0.88 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           19 |     1477 | 2024-11-14 | GnG x Amazigh          | W   | 0.487      | -            | -                | -                | 1 (0.487) |     0.33 | ADRON, BTN, Ciocardau, ragga, XELLOW |
@@ -61,20 +61,20 @@ Note:<br />
 |           17 |     1482 | 2024-11-14 | Team Novaq             | L   | 0.486      | -            | -                | -                | -         |   -11.25 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           16 |     1805 | 2024-10-27 | HyperSpirit            | W   | 0.366      | -            | -                | -                | 1 (0.366) |     0.50 | ADRON, BTN, Ciocardau, ragga, XELLOW |
 |           15 |     2296 | 2024-10-02 | Los kogutos            | L   | 0.198      | -            | -                | -                | -         |    -4.56 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           14 |     2411 | 2024-09-28 | EYEBALLERS             | L   | 0.173      | -            | -                | -                | -         |    -4.56 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           14 |     2411 | 2024-09-28 | EYEBALLERS             | L   | 0.173      | -            | -                | -                | -         |    -4.57 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |           13 |     2449 | 2024-09-27 | G2 Ares                | L   | 0.166      | -            | -                | -                | -         |    -5.02 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |           12 |     2485 | 2024-09-26 | Team Space             | W   | 0.159      | -            | -                | -                | -         |     0.16 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |           11 |     2655 | 2024-09-23 | Zero Tenacity          | L   | 0.138      | -            | -                | -                | -         |    -3.45 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |           10 |     2693 | 2024-09-21 | 9Pandas                | W   | 0.126      | 0.540        | 0.084 (0.006)    | 0.560 (0.038)    | -         |     1.59 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
 |            9 |     2701 | 2024-09-21 | AMKAL ESPORTS          | L   | 0.124      | -            | -                | -                | -         |    -3.66 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|            8 |     2757 | 2024-09-19 | EYEBALLERS             | W   | 0.110      | 0.540        | 0.019 (0.001)    | 0.360 (0.021)    | -         |     0.55 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|            8 |     2757 | 2024-09-19 | EYEBALLERS             | W   | 0.110      | 0.540        | 0.019 (0.001)    | 0.360 (0.021)    | -         |     0.54 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |            7 |     2818 | 2024-09-17 | Lynn Vision Gaming     | L   | 0.097      | -            | -                | -                | -         |    -2.35 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |            6 |     2872 | 2024-09-14 | QUAZAR                 | W   | 0.080      | -            | -                | -                | -         |     0.14 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|            5 |     2908 | 2024-09-13 | Alliance               | W   | 0.073      | -            | -                | -                | -         |     0.66 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|            5 |     2908 | 2024-09-13 | Alliance               | W   | 0.073      | -            | -                | -                | -         |     0.65 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |            4 |     2945 | 2024-09-12 | RUSH B (Russian team)  | W   | 0.066      | -            | -                | -                | -         |     0.45 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |            3 |     2954 | 2024-09-12 | BOGATYRI               | W   | 0.065      | -            | -                | -                | -         |     0.04 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 |            2 |     2976 | 2024-09-11 | Team Kosovo            | L   | 0.060      | -            | -                | -                | -         |    -1.81 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|            1 |     3154 | 2024-09-05 | Chimera Esports        | L   | 0.018      | -            | -                | -                | -         |    -0.45 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|            1 |     3154 | 2024-09-05 | Chimera Esports        | L   | 0.018      | -            | -                | -                | -         |    -0.46 | 7kick, BTN, Ciocardau, ragga, XELLOW |
 
 <br />
 <span id="table2"></span><br />

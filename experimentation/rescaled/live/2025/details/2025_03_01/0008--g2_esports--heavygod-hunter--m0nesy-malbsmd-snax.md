@@ -39,11 +39,11 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           33 |      586 | 2025-02-03 | FaZe Clan         | L   | 1.000      | -            | -                | -                | -         |   -14.41 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
 |           32 |      601 | 2025-02-02 | Team Falcons      | W   | 1.000      | 1.000        | 0.927 (0.927)    | 0.744 (0.744)    | 1 (1.000) |    16.11 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           31 |      615 | 2025-02-01 | Virtus.pro        | L   | 1.000      | -            | -                | -                | -         |   -24.25 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           31 |      615 | 2025-02-01 | Virtus.pro        | L   | 1.000      | -            | -                | -                | -         |   -24.26 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
 |           30 |      657 | 2025-01-25 | Eternal Fire      | L   | 0.966      | -            | -                | -                | -         |   -12.31 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
 |           29 |      666 | 2025-01-23 | BetBoom Team      | W   | 0.953      | -            | -                | -                | 1 (0.953) |     0.69 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
 |           28 |      668 | 2025-01-19 | BIG               | W   | 0.927      | 0.683        | -                | 0.558 (0.353)    | -         |     3.89 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           27 |      676 | 2025-01-17 | B8                | W   | 0.914      | 0.683        | -                | 0.695 (0.434)    | -         |     0.44 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           27 |      676 | 2025-01-17 | B8                | W   | 0.914      | 0.683        | -                | 0.695 (0.434)    | -         |     0.43 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
 |           26 |      880 | 2024-12-14 | FaZe Clan         | L   | 0.685      | -            | -                | -                | -         |    -9.94 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           25 |      906 | 2024-12-12 | Team Falcons      | W   | 0.677      | 1.000        | 0.927 (0.627)    | 0.744 (0.504)    | 1 (0.677) |    11.36 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           24 |     1003 | 2024-12-06 | FaZe Clan         | W   | 0.636      | 1.000        | 0.744 (0.473)    | 0.618 (0.393)    | 1 (0.636) |    10.94 | huNter-, m0NESY, malbsMd, NiKo, Snax     |

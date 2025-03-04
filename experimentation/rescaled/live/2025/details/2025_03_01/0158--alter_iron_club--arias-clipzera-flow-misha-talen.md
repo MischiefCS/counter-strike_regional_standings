@@ -6,22 +6,22 @@ Global Rank: [158](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [37]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  681.6<br />
+Final Rank Value:  681.5<br />
 <br />
-Final Rank Value (681.6) = Starting Rank Value (672.7) + Head To Head Adjustments (8.9)<br />
+Final Rank Value (681.5) = Starting Rank Value (672.5) + Head To Head Adjustments (9.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.325[<sup>1</sup>](#table2)
-- Bounty Collected: 0.227[<sup>2</sup>](#table1)
+- Bounty Collected: 0.226[<sup>2</sup>](#table1)
 - Opponent Network: 0.022[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.143<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 672.7
-- 400 + ( ( 0.143 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 672.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 672.5
+- 400 + ( ( 0.143 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 672.5
 
 
 #### Factors<br />
@@ -38,17 +38,17 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           13 |      356 | 2025-02-10 | Immigrants Peek      | L   | 1.000      | -            | -                | -                | -         |   -17.61 | arias, clipzera, flow, Misha, Talen         |
-|           12 |      393 | 2025-02-09 | Vagrants             | L   | 1.000      | -            | -                | -                | -         |   -17.89 | arias, clipzera, flow, Misha, Talen         |
-|           11 |      421 | 2025-02-08 | Mythic               | W   | 1.000      | 0.280        | 0.000 (0.000)    | 0.029 (0.008)    | 0 (0.000) |     6.79 | arias, clipzera, flow, Misha, Talen         |
+|           12 |      393 | 2025-02-09 | Vagrants             | L   | 1.000      | -            | -                | -                | -         |   -17.88 | arias, clipzera, flow, Misha, Talen         |
+|           11 |      421 | 2025-02-08 | Mythic               | W   | 1.000      | 0.280        | 0.000 (0.000)    | 0.029 (0.008)    | 0 (0.000) |     6.80 | arias, clipzera, flow, Misha, Talen         |
 |           10 |      836 | 2024-12-15 | Bad News Capybaras   | W   | 0.696      | 0.296        | 0.001 (0.000)    | 0.148 (0.030)    | 0 (0.000) |     9.45 | arias, clipzera, Keiti, Misha, Talen        |
 |            9 |      861 | 2024-12-14 | LAG Gaming           | W   | 0.689      | 0.296        | 0.001 (0.000)    | 0.028 (0.006)    | 0 (0.000) |     7.47 | arias, clipzera, Keiti, Misha, Talen        |
-|            8 |      887 | 2024-12-13 | Undone               | L   | 0.683      | -            | -                | -                | -         |    -9.08 | arias, clipzera, Keiti, Misha, Talen        |
-|            7 |      954 | 2024-12-08 | Make Your Mind       | L   | 0.649      | -            | -                | -                | -         |   -10.36 | arias, clipzera, flow, Misha, Talen         |
-|            6 |      975 | 2024-12-07 | Chicken Coop Esports | W   | 0.642      | 0.391        | 0.006 (0.002)    | 0.096 (0.024)    | 0 (0.000) |     8.30 | arias, clipzera, flow, Misha, Talen         |
-|            5 |     1005 | 2024-12-06 | Bad Boys             | W   | 0.636      | 0.391        | 0.004 (0.001)    | 0.148 (0.037)    | 0 (0.000) |     8.85 | arias, clipzera, flow, Misha, Talen         |
-|            4 |     1031 | 2024-12-05 | Undone               | W   | 0.629      | 0.391        | 0.002 (0.001)    | 0.249 (0.061)    | 0 (0.000) |    11.28 | arias, clipzera, flow, Misha, Talen         |
-|            3 |     1064 | 2024-12-04 | Immigrants Peek      | W   | 0.622      | 0.391        | 0.001 (0.000)    | 0.217 (0.053)    | 0 (0.000) |     9.07 | arias, clipzera, flow, Misha, Talen         |
-|            2 |     1084 | 2024-12-03 | StandOnBusiness      | W   | 0.616      | 0.391        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.44 | arias, clipzera, flow, Misha, Talen         |
+|            8 |      887 | 2024-12-13 | Undone               | L   | 0.683      | -            | -                | -                | -         |    -9.07 | arias, clipzera, Keiti, Misha, Talen        |
+|            7 |      954 | 2024-12-08 | Make Your Mind       | L   | 0.649      | -            | -                | -                | -         |   -10.35 | arias, clipzera, flow, Misha, Talen         |
+|            6 |      975 | 2024-12-07 | Chicken Coop Esports | W   | 0.642      | 0.387        | 0.006 (0.002)    | 0.096 (0.024)    | 0 (0.000) |     8.30 | arias, clipzera, flow, Misha, Talen         |
+|            5 |     1005 | 2024-12-06 | Bad Boys             | W   | 0.636      | 0.387        | 0.004 (0.001)    | 0.148 (0.037)    | 0 (0.000) |     8.86 | arias, clipzera, flow, Misha, Talen         |
+|            4 |     1031 | 2024-12-05 | Undone               | W   | 0.629      | 0.387        | 0.002 (0.001)    | 0.249 (0.061)    | 0 (0.000) |    11.29 | arias, clipzera, flow, Misha, Talen         |
+|            3 |     1064 | 2024-12-04 | Immigrants Peek      | W   | 0.622      | 0.387        | 0.001 (0.000)    | 0.217 (0.052)    | 0 (0.000) |     9.08 | arias, clipzera, flow, Misha, Talen         |
+|            2 |     1084 | 2024-12-03 | StandOnBusiness      | W   | 0.616      | 0.387        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.44 | arias, clipzera, flow, Misha, Talen         |
 |            1 |     3070 | 2024-09-07 | Wanted Goons         | L   | 0.033      | -            | -                | -                | -         |    -0.78 | arias, Lambchoppington, Locke, misha, Talen |
 
 <br />

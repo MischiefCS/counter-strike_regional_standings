@@ -38,13 +38,13 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |     1801 | 2024-10-27 | OneDay                     | W   | 0.367      | 0.250        | 0.000 (0.000)    | 0.060 (0.005)    | 0 (0.000) |     4.04 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
-|            7 |     1881 | 2024-10-18 | ENCE Athena                | W   | 0.306      | 0.425        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.53 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
+|            7 |     1881 | 2024-10-18 | ENCE Athena                | W   | 0.306      | 0.424        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.53 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            6 |     2279 | 2024-10-02 | Eco Warriors               | L   | 0.200      | -            | -                | -                | -         |    -1.70 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            5 |     2539 | 2024-09-25 | NIP Impact                 | L   | 0.153      | -            | -                | -                | -         |    -1.87 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            4 |     2843 | 2024-09-15 | Let Her Cook               | W   | 0.086      | 0.265        | 0.002 (0.000)    | 0.031 (0.001)    | 0 (0.000) |     1.40 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            3 |     2893 | 2024-09-14 | Eco Warriors               | L   | 0.078      | -            | -                | -                | -         |    -0.68 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            2 |     2974 | 2024-09-11 | Let Her Cook               | L   | 0.060      | -            | -                | -                | -         |    -0.91 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
-|            1 |     3168 | 2024-09-04 | Team Denmark (Female team) | W   | 0.013      | 0.425        | 0.008 (0.000)    | 0.067 (0.000)    | 0 (0.000) |     0.24 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
+|            1 |     3168 | 2024-09-04 | Team Denmark (Female team) | W   | 0.013      | 0.424        | 0.008 (0.000)    | 0.067 (0.000)    | 0 (0.000) |     0.24 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 
 <br />
 <span id="table2"></span><br />

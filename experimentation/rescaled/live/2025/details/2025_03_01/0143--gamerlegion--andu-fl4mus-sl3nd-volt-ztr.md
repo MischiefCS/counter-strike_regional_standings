@@ -44,7 +44,7 @@ Note:<br />
 |            9 |     2844 | 2024-09-15 | SINNERS Esports                           | L   | 0.086      | -            | -                | -                | -         |    -0.56 | aNdu, FL4MUS, sl3nd, volt, ztr |
 |            8 |     2864 | 2024-09-15 | Tricked Esport                            | W   | 0.084      | 0.484        | 0.033 (0.001)    | 0.673 (0.027)    | 0 (0.000) |     1.88 | aNdu, FL4MUS, sl3nd, volt, ztr |
 |            7 |     2875 | 2024-09-14 | Zero Tenacity                             | W   | 0.079      | 0.484        | 0.026 (0.001)    | 0.507 (0.019)    | 0 (0.000) |     1.82 | aNdu, FL4MUS, sl3nd, volt, ztr |
-|            6 |     3018 | 2024-09-10 | Sashi Esport                              | L   | 0.051      | -            | -                | -                | -         |    -0.18 | aNdu, FL4MUS, sl3nd, volt, ztr |
+|            6 |     3018 | 2024-09-10 | Sashi Esport                              | L   | 0.051      | -            | -                | -                | -         |    -0.19 | aNdu, FL4MUS, sl3nd, volt, ztr |
 |            5 |     3046 | 2024-09-08 | B8                                        | L   | 0.039      | -            | -                | -                | -         |    -0.11 | aNdu, FL4MUS, sl3nd, volt, ztr |
 |            4 |     3056 | 2024-09-08 | Passion UA                                | W   | 0.037      | 0.594        | 0.044 (0.001)    | 0.588 (0.013)    | 0 (0.000) |     1.10 | aNdu, FL4MUS, sl3nd, volt, ztr |
 |            3 |     3091 | 2024-09-07 | Monte                                     | W   | 0.030      | 0.594        | 0.029 (0.001)    | 0.227 (0.004)    | 0 (0.000) |     0.62 | aNdu, FL4MUS, sl3nd, volt, ztr |

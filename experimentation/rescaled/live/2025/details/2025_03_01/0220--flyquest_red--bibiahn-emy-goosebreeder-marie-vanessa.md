@@ -41,7 +41,7 @@ Note:<br />
 |           10 |      439 | 2025-02-08 | InControl        | L   | 1.000      | -            | -                | -                | -         |   -15.93 | BiBiAhn, emy, GooseBreeder, marie, vanessa  |
 |            9 |     1291 | 2024-11-23 | Eco Warriors     | L   | 0.544      | -            | -                | -                | -         |    -5.14 | BiBiAhn, emy, GooseBreeder, Kaoday, vanessa |
 |            8 |     1316 | 2024-11-22 | Fluxo Demons     | L   | 0.538      | -            | -                | -                | -         |    -6.18 | BiBiAhn, emy, GooseBreeder, Kaoday, vanessa |
-|            7 |     1874 | 2024-10-18 | Aware Impact     | W   | 0.308      | 0.333        | 0.001 (0.000)    | 0.010 (0.001)    | 0 (0.000) |     4.16 | BiBiAhn, emy, GooseBreeder, Kaoday, vanessa |
+|            7 |     1874 | 2024-10-18 | Aware Impact     | W   | 0.308      | 0.333        | 0.001 (0.000)    | 0.010 (0.001)    | 0 (0.000) |     4.15 | BiBiAhn, emy, GooseBreeder, Kaoday, vanessa |
 |            6 |     2259 | 2024-10-02 | Blue Otter Karma | W   | 0.201      | 0.333        | 0.001 (0.000)    | 0.008 (0.001)    | 0 (0.000) |     2.76 | BiBiAhn, emy, GooseBreeder, Kaoday, vanessa |
 |            5 |     2469 | 2024-09-26 | Lotus            | W   | 0.161      | 0.333        | 0.001 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     2.20 | BiBiAhn, emy, GooseBreeder, Kaoday, vanessa |
 |            4 |     2730 | 2024-09-19 | Imp Pact         | W   | 0.115      | 0.333        | 0.002 (0.000)    | 0.041 (0.002)    | 0 (0.000) |     1.68 | BiBiAhn, emy, GooseBreeder, Kaoday, vanessa |

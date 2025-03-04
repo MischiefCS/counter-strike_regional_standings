@@ -6,9 +6,9 @@ Global Rank: [232](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [68]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  588.4<br />
+Final Rank Value:  588.3<br />
 <br />
-Final Rank Value (588.4) = Starting Rank Value (596.2) + Head To Head Adjustments (-7.8)<br />
+Final Rank Value (588.3) = Starting Rank Value (596.1) + Head To Head Adjustments (-7.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.103<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 596.2
-- 400 + ( ( 0.103 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 596.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 596.1
+- 400 + ( ( 0.103 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 596.1
 
 
 #### Factors<br />
@@ -37,9 +37,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     1874 | 2024-10-18 | FlyQuest RED     | L   | 0.308      | -            | -                | -                | -         |    -4.16 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |
+|            6 |     1874 | 2024-10-18 | FlyQuest RED     | L   | 0.308      | -            | -                | -                | -         |    -4.15 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |
 |            5 |     2235 | 2024-10-03 | FLUFFY MAFIA     | L   | 0.208      | -            | -                | -                | -         |    -3.08 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |
-|            4 |     2470 | 2024-09-26 | TSM Impact       | W   | 0.161      | 0.349        | 0.001 (0.000)    | 0.029 (0.002)    | 0 (0.000) |     2.66 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |
+|            4 |     2470 | 2024-09-26 | TSM Impact       | W   | 0.161      | 0.340        | 0.001 (0.000)    | 0.029 (0.002)    | 0 (0.000) |     2.66 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |
 |            3 |     2732 | 2024-09-19 | Blue Otter Karma | L   | 0.115      | -            | -                | -                | -         |    -1.80 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |
 |            2 |     2934 | 2024-09-12 | Lotus            | L   | 0.068      | -            | -                | -                | -         |    -1.08 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |
 |            1 |     3120 | 2024-09-05 | Imp Pact         | L   | 0.021      | -            | -                | -                | -         |    -0.32 | Cloudy, eepy.rain, Lexa, thecatt, tokkis |

@@ -6,9 +6,9 @@ Global Rank: [55](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [40]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  959.0<br />
+Final Rank Value:  958.9<br />
 <br />
-Final Rank Value (959.0) = Starting Rank Value (921.7) + Head To Head Adjustments (37.3)<br />
+Final Rank Value (958.9) = Starting Rank Value (921.7) + Head To Head Adjustments (37.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,14 +37,14 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     1122 | 2024-12-01 | Complexity      | L   | 0.603      | -            | -                | -                | -         |    -4.88 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
+|           13 |     1122 | 2024-12-01 | Complexity      | L   | 0.603      | -            | -                | -                | -         |    -4.89 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
 |           12 |     1142 | 2024-11-30 | PaiN Gaming     | L   | 0.596      | -            | -                | -                | -         |    -0.50 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
-|           11 |     1172 | 2024-11-30 | Fnatic          | W   | 0.591      | 1.000        | 0.047 (0.028)    | 0.490 (0.290)    | 1 (0.591) |    13.12 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
+|           11 |     1172 | 2024-11-30 | Fnatic          | W   | 0.591      | 1.000        | 0.047 (0.028)    | 0.490 (0.290)    | 1 (0.591) |    13.09 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
 |           10 |     1178 | 2024-11-29 | Team Liquid     | L   | 0.590      | -            | -                | -                | -         |    -0.80 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
 |            9 |     1374 | 2024-11-19 | FaZe Clan       | L   | 0.518      | -            | -                | -                | -         |    -0.10 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
-|            8 |     1381 | 2024-11-18 | SINNERS Esports | W   | 0.516      | 1.000        | 0.027 (0.014)    | 0.448 (0.231)    | 1 (0.516) |     8.10 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
+|            8 |     1381 | 2024-11-18 | SINNERS Esports | W   | 0.516      | 1.000        | 0.027 (0.014)    | 0.448 (0.231)    | 1 (0.516) |     8.09 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
 |            7 |     1392 | 2024-11-17 | HEROIC          | W   | 0.509      | 1.000        | 0.131 (0.067)    | 0.518 (0.264)    | 1 (0.509) |    13.79 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
-|            6 |     1404 | 2024-11-17 | Nemiga Gaming   | W   | 0.505      | 1.000        | 0.177 (0.089)    | 0.441 (0.222)    | 1 (0.505) |    10.98 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
+|            6 |     1404 | 2024-11-17 | Nemiga Gaming   | W   | 0.505      | 1.000        | 0.177 (0.089)    | 0.441 (0.222)    | 1 (0.505) |    10.96 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
 |            5 |     1417 | 2024-11-16 | FaZe Clan       | L   | 0.503      | -            | -                | -                | -         |    -0.08 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
 |            4 |     1996 | 2024-10-11 | Passion UA      | L   | 0.257      | -            | -                | -                | -         |    -1.67 | Ax1Le, Boombl4, HeavyGod, ICY, interz |
 |            3 |     2925 | 2024-09-13 | Tricked Esport  | L   | 0.071      | -            | -                | -                | -         |    -1.33 | Ax1Le, Boombl4, HeavyGod, ICY, interz |

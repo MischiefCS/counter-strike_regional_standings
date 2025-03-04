@@ -6,9 +6,9 @@ Global Rank: [206](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [54]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  618.5<br />
+Final Rank Value:  618.3<br />
 <br />
-Final Rank Value (618.5) = Starting Rank Value (611.0) + Head To Head Adjustments (7.5)<br />
+Final Rank Value (618.3) = Starting Rank Value (610.8) + Head To Head Adjustments (7.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.111<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 611.0
-- 400 + ( ( 0.111 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 611.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 610.8
+- 400 + ( ( 0.111 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 610.8
 
 
 #### Factors<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     1872 | 2024-10-18 | Lotus        | W   | 0.308      | 0.347        | 0.001 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     4.44 | gadfly, gone, raven, Serendipity, Stx |
-|            5 |     2260 | 2024-10-02 | TSM Impact   | W   | 0.201      | 0.347        | 0.001 (0.000)    | 0.029 (0.002)    | 0 (0.000) |     3.14 | gadfly, gone, raven, Serendipity, Stx |
-|            4 |     2522 | 2024-09-25 | Nouns.fe     | W   | 0.155      | 0.347        | 0.001 (0.000)    | 0.091 (0.005)    | 0 (0.000) |     2.39 | gadfly, gone, raven, Serendipity, Stx |
+|            6 |     1872 | 2024-10-18 | Lotus        | W   | 0.308      | 0.338        | 0.001 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     4.44 | gadfly, gone, raven, Serendipity, Stx |
+|            5 |     2260 | 2024-10-02 | TSM Impact   | W   | 0.201      | 0.338        | 0.001 (0.000)    | 0.029 (0.002)    | 0 (0.000) |     3.14 | gadfly, gone, raven, Serendipity, Stx |
+|            4 |     2522 | 2024-09-25 | Nouns.fe     | W   | 0.155      | 0.338        | 0.001 (0.000)    | 0.091 (0.005)    | 0 (0.000) |     2.39 | gadfly, gone, raven, Serendipity, Stx |
 |            3 |     2730 | 2024-09-19 | FlyQuest RED | L   | 0.115      | -            | -                | -                | -         |    -1.68 | gadfly, gone, raven, Serendipity, Stx |
 |            2 |     2933 | 2024-09-12 | FLUFFY MAFIA | L   | 0.068      | -            | -                | -                | -         |    -1.07 | gadfly, gone, raven, Serendipity, Stx |
-|            1 |     3120 | 2024-09-05 | Aware Impact | W   | 0.021      | 0.347        | 0.001 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     0.32 | gadfly, gone, raven, Serendipity, Stx |
+|            1 |     3120 | 2024-09-05 | Aware Impact | W   | 0.021      | 0.338        | 0.001 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     0.32 | gadfly, gone, raven, Serendipity, Stx |
 
 <br />
 <span id="table2"></span><br />

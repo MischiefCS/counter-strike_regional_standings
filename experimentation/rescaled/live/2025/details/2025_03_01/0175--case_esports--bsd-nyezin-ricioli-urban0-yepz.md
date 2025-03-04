@@ -6,9 +6,9 @@ Global Rank: [175](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [42]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  659.6<br />
+Final Rank Value:  659.5<br />
 <br />
-Final Rank Value (659.6) = Starting Rank Value (658.8) + Head To Head Adjustments (0.7)<br />
+Final Rank Value (659.5) = Starting Rank Value (658.8) + Head To Head Adjustments (0.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,22 +37,22 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |     1525 | 2024-11-13 | RED Canids        | L   | 0.477      | -            | -                | -                | -         |    -3.58 | bsd, nyezin, RICIOLI, urban0, yepz |
+|           17 |     1525 | 2024-11-13 | RED Canids        | L   | 0.477      | -            | -                | -                | -         |    -3.60 | bsd, nyezin, RICIOLI, urban0, yepz |
 |           16 |     1548 | 2024-11-12 | FURIA             | L   | 0.471      | -            | -                | -                | -         |    -0.19 | bsd, nyezin, RICIOLI, urban0, yepz |
-|           15 |     1558 | 2024-11-11 | Imperial Esports  | L   | 0.470      | -            | -                | -                | -         |    -1.57 | bsd, nyezin, RICIOLI, urban0, yepz |
-|           14 |     1955 | 2024-10-15 | Sharks Esports    | L   | 0.287      | -            | -                | -                | -         |    -1.08 | bsd, nyezin, RICIOLI, urban0, yepz |
-|           13 |     2024 | 2024-10-09 | Hype Esports      | W   | 0.248      | 0.623        | 0.001 (0.000)    | 0.089 (0.014)    | 0 (0.000) |     4.09 | bsd, nyezin, RICIOLI, urban0, yepz |
-|           12 |     2031 | 2024-10-09 | Hype Esports      | L   | 0.247      | -            | -                | -                | -         |    -3.77 | bsd, nyezin, RICIOLI, urban0, yepz |
+|           15 |     1558 | 2024-11-11 | Imperial Esports  | L   | 0.470      | -            | -                | -                | -         |    -1.58 | bsd, nyezin, RICIOLI, urban0, yepz |
+|           14 |     1955 | 2024-10-15 | Sharks Esports    | L   | 0.287      | -            | -                | -                | -         |    -1.09 | bsd, nyezin, RICIOLI, urban0, yepz |
+|           13 |     2024 | 2024-10-09 | Hype Esports      | W   | 0.248      | 0.622        | 0.001 (0.000)    | 0.089 (0.014)    | 0 (0.000) |     4.08 | bsd, nyezin, RICIOLI, urban0, yepz |
+|           12 |     2031 | 2024-10-09 | Hype Esports      | L   | 0.247      | -            | -                | -                | -         |    -3.78 | bsd, nyezin, RICIOLI, urban0, yepz |
 |           11 |     2081 | 2024-10-08 | Sharks Esports    | L   | 0.241      | -            | -                | -                | -         |    -0.92 | bsd, nyezin, RICIOLI, urban0, yepz |
 |           10 |     2089 | 2024-10-08 | Sharks Esports    | L   | 0.241      | -            | -                | -                | -         |    -0.93 | bsd, nyezin, RICIOLI, urban0, yepz |
 |            9 |     2275 | 2024-10-02 | BESTIA            | L   | 0.200      | -            | -                | -                | -         |    -1.28 | bsd, nyezin, RICIOLI, urban0, yepz |
 |            8 |     2278 | 2024-10-02 | BESTIA            | L   | 0.200      | -            | -                | -                | -         |    -1.29 | bsd, nyezin, RICIOLI, urban0, yepz |
 |            7 |     2318 | 2024-10-01 | MIBR              | L   | 0.195      | -            | -                | -                | -         |    -0.08 | bsd, nyezin, RICIOLI, urban0, yepz |
-|            6 |     2322 | 2024-10-01 | MIBR              | W   | 0.194      | 0.623        | 0.139 (0.017)    | 0.604 (0.073)    | 0 (0.000) |     6.05 | bsd, nyezin, RICIOLI, urban0, yepz |
+|            6 |     2322 | 2024-10-01 | MIBR              | W   | 0.194      | 0.622        | 0.139 (0.017)    | 0.604 (0.073)    | 0 (0.000) |     6.05 | bsd, nyezin, RICIOLI, urban0, yepz |
 |            5 |     2428 | 2024-09-27 | Team Solid        | L   | 0.168      | -            | -                | -                | -         |    -1.49 | bsd, nyezin, RICIOLI, urban0, yepz |
 |            4 |     2437 | 2024-09-27 | Bad News Chickens | W   | 0.168      | 0.398        | 0.002 (0.000)    | 0.141 (0.009)    | 0 (0.000) |     2.53 | bsd, nyezin, RICIOLI, urban0, yepz |
 |            3 |     2473 | 2024-09-26 | UNO MILLE         | W   | 0.161      | 0.398        | 0.006 (0.000)    | 0.404 (0.026)    | 0 (0.000) |     2.77 | bsd, nyezin, RICIOLI, urban0, yepz |
-|            2 |     2536 | 2024-09-25 | Dusty Roots       | W   | 0.153      | 0.623        | 0.008 (0.001)    | 0.422 (0.040)    | 0 (0.000) |     3.15 | bsd, nyezin, RICIOLI, urban0, yepz |
+|            2 |     2536 | 2024-09-25 | Dusty Roots       | W   | 0.153      | 0.622        | 0.008 (0.001)    | 0.422 (0.040)    | 0 (0.000) |     3.15 | bsd, nyezin, RICIOLI, urban0, yepz |
 |            1 |     2538 | 2024-09-25 | Dusty Roots       | L   | 0.153      | -            | -                | -                | -         |    -1.69 | bsd, nyezin, RICIOLI, urban0, yepz |
 
 <br />

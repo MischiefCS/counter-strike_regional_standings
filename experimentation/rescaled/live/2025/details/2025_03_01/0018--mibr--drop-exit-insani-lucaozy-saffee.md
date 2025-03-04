@@ -6,22 +6,22 @@ Global Rank: [18](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [4]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1383.1<br />
+Final Rank Value:  1382.7<br />
 <br />
-Final Rank Value (1383.1) = Starting Rank Value (1454.0) + Head To Head Adjustments (-70.9)<br />
+Final Rank Value (1382.7) = Starting Rank Value (1453.6) + Head To Head Adjustments (-70.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.538[<sup>1</sup>](#table2)
 - Bounty Collected: 0.562[<sup>2</sup>](#table1)
-- Opponent Network: 0.361[<sup>2</sup>](#table1)
+- Opponent Network: 0.360[<sup>2</sup>](#table1)
 - LAN Wins: 0.754[<sup>2</sup>](#table1)
 
-The average of these factors is 0.554<br />
+The average of these factors is 0.553<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1454.0
-- 400 + ( ( 0.554 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1454.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1453.6
+- 400 + ( ( 0.553 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1453.6
 
 
 #### Factors<br />
@@ -37,42 +37,42 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           52 |      199 | 2025-02-17 | Astralis                 | L   | 1.000      | -            | -                | -                | -         |    -4.49 | drop, exit, insani, Lucaozy, saffee |
-|           51 |      216 | 2025-02-16 | 3DMAX                    | L   | 1.000      | -            | -                | -                | -         |    -7.39 | drop, exit, insani, Lucaozy, saffee |
-|           50 |      244 | 2025-02-15 | Imperial Female          | W   | 1.000      | 1.000        | 0.134 (0.134)    | 0.210 (0.210)    | 1 (1.000) |     2.77 | drop, exit, insani, Lucaozy, saffee |
-|           49 |      272 | 2025-02-14 | Wildcard                 | L   | 1.000      | -            | -                | -                | -         |   -17.93 | drop, exit, insani, Lucaozy, saffee |
-|           48 |      388 | 2025-02-09 | Imperial Esports         | L   | 1.000      | -            | -                | -                | -         |   -26.64 | drop, exit, insani, Lucaozy, saffee |
+|           52 |      199 | 2025-02-17 | Astralis                 | L   | 1.000      | -            | -                | -                | -         |    -4.50 | drop, exit, insani, Lucaozy, saffee |
+|           51 |      216 | 2025-02-16 | 3DMAX                    | L   | 1.000      | -            | -                | -                | -         |    -7.38 | drop, exit, insani, Lucaozy, saffee |
+|           50 |      244 | 2025-02-15 | Imperial Female          | W   | 1.000      | 1.000        | 0.134 (0.134)    | 0.210 (0.210)    | 1 (1.000) |     2.78 | drop, exit, insani, Lucaozy, saffee |
+|           49 |      272 | 2025-02-14 | Wildcard                 | L   | 1.000      | -            | -                | -                | -         |   -17.92 | drop, exit, insani, Lucaozy, saffee |
+|           48 |      388 | 2025-02-09 | Imperial Esports         | L   | 1.000      | -            | -                | -                | -         |   -26.66 | drop, exit, insani, Lucaozy, saffee |
 |           47 |      400 | 2025-02-09 | Sharks Esports           | W   | 1.000      | 0.552        | 0.054 (0.030)    | 0.661 (0.365)    | -         |     2.70 | drop, exit, insani, Lucaozy, saffee |
 |           46 |      448 | 2025-02-08 | Legacy                   | W   | 1.000      | 0.552        | 0.033 (0.018)    | 0.669 (0.369)    | -         |     1.85 | drop, exit, insani, Lucaozy, saffee |
-|           45 |      622 | 2025-01-31 | Virtus.pro               | L   | 1.000      | -            | -                | -                | -         |    -9.56 | drop, exit, insani, Lucaozy, saffee |
-|           44 |      628 | 2025-01-30 | 3DMAX                    | L   | 0.999      | -            | -                | -                | -         |   -10.28 | drop, exit, insani, Lucaozy, saffee |
+|           45 |      622 | 2025-01-31 | Virtus.pro               | L   | 1.000      | -            | -                | -                | -         |    -9.55 | drop, exit, insani, Lucaozy, saffee |
+|           44 |      628 | 2025-01-30 | 3DMAX                    | L   | 0.999      | -            | -                | -                | -         |   -10.27 | drop, exit, insani, Lucaozy, saffee |
 |           43 |      640 | 2025-01-29 | Astralis                 | W   | 0.992      | 1.000        | 0.609 (0.604)    | 1.000 (0.992)    | 1 (0.992) |    27.48 | drop, exit, insani, Lucaozy, saffee |
-|           42 |      691 | 2025-01-14 | FlyQuest                 | L   | 0.891      | -            | -                | -                | -         |   -24.80 | drop, exit, insani, Lucaozy, saffee |
+|           42 |      691 | 2025-01-14 | FlyQuest                 | L   | 0.891      | -            | -                | -                | -         |   -24.79 | drop, exit, insani, Lucaozy, saffee |
 |           41 |      972 | 2024-12-07 | MOUZ                     | L   | 0.643      | -            | -                | -                | -         |    -1.28 | drop, exit, insani, Lucaozy, saffee |
-|           40 |      999 | 2024-12-06 | Team Liquid              | L   | 0.637      | -            | -                | -                | -         |    -7.98 | drop, exit, insani, Lucaozy, saffee |
+|           40 |      999 | 2024-12-06 | Team Liquid              | L   | 0.637      | -            | -                | -                | -         |    -7.97 | drop, exit, insani, Lucaozy, saffee |
 |           39 |     1025 | 2024-12-05 | Team Vitality            | L   | 0.630      | -            | -                | -                | -         |    -1.43 | drop, exit, insani, Lucaozy, saffee |
 |           38 |     1044 | 2024-12-05 | Natus Vincere            | W   | 0.625      | 1.000        | 0.555 (0.347)    | 0.613 (0.383)    | 1 (0.625) |    16.53 | drop, exit, insani, Lucaozy, saffee |
-|           37 |     1055 | 2024-12-04 | 3DMAX                    | W   | 0.623      | 1.000        | 0.295 (0.184)    | 0.626 (0.390)    | 1 (0.623) |    14.08 | drop, exit, insani, Lucaozy, saffee |
+|           37 |     1055 | 2024-12-04 | 3DMAX                    | W   | 0.623      | 1.000        | 0.295 (0.184)    | 0.626 (0.390)    | 1 (0.623) |    14.09 | drop, exit, insani, Lucaozy, saffee |
 |           36 |     1101 | 2024-12-02 | FlyQuest                 | W   | 0.610      | 1.000        | 0.105 (0.064)    | -                | 1 (0.610) |     2.27 | drop, exit, insani, Lucaozy, saffee |
 |           35 |     1124 | 2024-12-01 | Rare Atom                | W   | 0.603      | 1.000        | -                | 0.405 (0.244)    | 1 (0.603) |     0.77 | drop, exit, insani, Lucaozy, saffee |
 |           34 |     1144 | 2024-11-30 | Passion UA               | L   | 0.596      | -            | -                | -                | -         |   -15.01 | drop, exit, insani, Lucaozy, saffee |
 |           33 |     1168 | 2024-11-30 | The MongolZ              | L   | 0.591      | -            | -                | -                | -         |    -1.32 | drop, exit, insani, Lucaozy, saffee |
-|           32 |     1179 | 2024-11-29 | Virtus.pro               | W   | 0.589      | 1.000        | 0.268 (0.158)    | 0.547 (0.322)    | 1 (0.589) |    13.92 | drop, exit, insani, Lucaozy, saffee |
+|           32 |     1179 | 2024-11-29 | Virtus.pro               | W   | 0.589      | 1.000        | 0.268 (0.158)    | 0.547 (0.322)    | 1 (0.589) |    13.93 | drop, exit, insani, Lucaozy, saffee |
 |           31 |     1526 | 2024-11-13 | Complexity               | W   | 0.477      | 0.561        | 0.097 (0.026)    | -                | 1 (0.477) |     2.79 | drop, exit, insani, Lucaozy, saffee |
-|           30 |     1541 | 2024-11-12 | Imperial Esports         | W   | 0.472      | 0.561        | -                | 0.701 (0.186)    | 1 (0.472) |     1.59 | drop, exit, insani, Lucaozy, saffee |
+|           30 |     1541 | 2024-11-12 | Imperial Esports         | W   | 0.472      | 0.561        | -                | 0.701 (0.186)    | 1 (0.472) |     1.58 | drop, exit, insani, Lucaozy, saffee |
 |           29 |     1557 | 2024-11-11 | KRÜ Esports              | W   | 0.471      | -            | -                | -                | 1 (0.471) |     0.23 | drop, exit, insani, Lucaozy, saffee |
 |           28 |     1843 | 2024-10-20 | PaiN Gaming              | L   | 0.320      | -            | -                | -                | -         |    -2.36 | drop, exit, insani, Lucaozy, saffee |
-|           27 |     1858 | 2024-10-19 | BESTIA                   | W   | 0.314      | 0.811        | -                | 0.572 (0.146)    | -         |     0.59 | drop, exit, insani, Lucaozy, saffee |
+|           27 |     1858 | 2024-10-19 | BESTIA                   | W   | 0.314      | 0.765        | -                | 0.572 (0.138)    | -         |     0.59 | drop, exit, insani, Lucaozy, saffee |
 |           26 |     1900 | 2024-10-17 | PaiN Gaming              | L   | 0.301      | -            | -                | -                | -         |    -2.26 | drop, exit, insani, Lucaozy, saffee |
-|           25 |     1925 | 2024-10-16 | RED Canids               | W   | 0.294      | -            | -                | -                | -         |     0.42 | drop, exit, insani, Lucaozy, saffee |
+|           25 |     1925 | 2024-10-16 | RED Canids               | W   | 0.294      | -            | -                | -                | -         |     0.41 | drop, exit, insani, Lucaozy, saffee |
 |           24 |     2022 | 2024-10-09 | RED Canids               | W   | 0.248      | -            | -                | -                | -         |     0.34 | drop, exit, insani, Lucaozy, saffee |
 |           23 |     2029 | 2024-10-09 | RED Canids               | W   | 0.247      | -            | -                | -                | -         |     0.34 | drop, exit, insani, Lucaozy, saffee |
 |           22 |     2075 | 2024-10-08 | KRÜ Esports              | W   | 0.241      | -            | -                | -                | -         |     0.12 | drop, exit, insani, Lucaozy, saffee |
 |           21 |     2083 | 2024-10-08 | KRÜ Esports              | W   | 0.241      | -            | -                | -                | -         |     0.12 | drop, exit, insani, Lucaozy, saffee |
 |           20 |     2093 | 2024-10-08 | PaiN Gaming              | L   | 0.240      | -            | -                | -                | -         |    -1.65 | drop, exit, insani, Lucaozy, saffee |
 |           19 |     2095 | 2024-10-08 | PaiN Gaming              | L   | 0.240      | -            | -                | -                | -         |    -1.67 | drop, exit, insani, Lucaozy, saffee |
-|           18 |     2141 | 2024-10-06 | Imperial Esports         | W   | 0.228      | -            | -                | -                | -         |     0.76 | drop, exit, insani, Lucaozy, saffee |
-|           17 |     2142 | 2024-10-06 | Imperial Esports         | L   | 0.228      | -            | -                | -                | -         |    -6.45 | drop, exit, insani, Lucaozy, saffee |
+|           18 |     2141 | 2024-10-06 | Imperial Esports         | W   | 0.228      | -            | -                | -                | -         |     0.75 | drop, exit, insani, Lucaozy, saffee |
+|           17 |     2142 | 2024-10-06 | Imperial Esports         | L   | 0.228      | -            | -                | -                | -         |    -6.46 | drop, exit, insani, Lucaozy, saffee |
 |           16 |     2197 | 2024-10-04 | Fluxo                    | L   | 0.214      | -            | -                | -                | -         |    -6.26 | drop, exit, insani, Lucaozy, saffee |
 |           15 |     2198 | 2024-10-04 | Fluxo                    | W   | 0.214      | -            | -                | -                | -         |     0.49 | drop, exit, insani, Lucaozy, saffee |
 |           14 |     2262 | 2024-10-02 | Players (Brazilian team) | W   | 0.201      | -            | -                | -                | -         |     0.02 | drop, exit, insani, Lucaozy, saffee |

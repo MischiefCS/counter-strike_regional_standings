@@ -6,9 +6,9 @@ Global Rank: [88](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [61]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  847.9<br />
+Final Rank Value:  847.6<br />
 <br />
-Final Rank Value (847.9) = Starting Rank Value (928.4) + Head To Head Adjustments (-80.6)<br />
+Final Rank Value (847.6) = Starting Rank Value (928.4) + Head To Head Adjustments (-80.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |      715 | 2025-01-08 | EYEBALLERS                  | L   | 0.853      | -            | -                | -                | -         |   -15.24 | maaryy, mASKED, Melavi, tein, tomiko |
-|           46 |      718 | 2025-01-07 | Insilio                     | L   | 0.847      | -            | -                | -                | -         |   -20.08 | maaryy, mASKED, Melavi, tein, tomiko |
-|           45 |      725 | 2025-01-05 | BadGuys                     | W   | 0.832      | 0.417        | -                | 0.148 (0.051)    | 0 (0.000) |     3.86 | maaryy, mASKED, Melavi, tein, tomiko |
+|           47 |      715 | 2025-01-08 | EYEBALLERS                  | L   | 0.853      | -            | -                | -                | -         |   -15.32 | maaryy, mASKED, Melavi, tein, tomiko |
+|           46 |      718 | 2025-01-07 | Insilio                     | L   | 0.847      | -            | -                | -                | -         |   -20.10 | maaryy, mASKED, Melavi, tein, tomiko |
+|           45 |      725 | 2025-01-05 | BadGuys                     | W   | 0.832      | 0.417        | -                | 0.148 (0.051)    | 0 (0.000) |     3.85 | maaryy, mASKED, Melavi, tein, tomiko |
 |           44 |      731 | 2025-01-03 | FLuffy Gangsters            | L   | 0.820      | -            | -                | -                | -         |   -18.89 | maaryy, mASKED, Melavi, tein, tomiko |
 |           43 |     1429 | 2024-11-16 | Partizan Esports            | L   | 0.499      | -            | -                | -                | -         |    -4.11 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           42 |     1450 | 2024-11-15 | Mindfreak (Australian team) | W   | 0.492      | 0.617        | -                | 0.092 (0.028)    | 1 (0.492) |     3.74 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           41 |     1464 | 2024-11-15 | Team Turkey                 | W   | 0.491      | -            | -                | -                | 1 (0.491) |     2.58 | bnox, fr3nd, maaryy, mASKED, tomiko  |
-|           40 |     1474 | 2024-11-14 | Metizport                   | L   | 0.487      | -            | -                | -                | -         |    -3.61 | bnox, fr3nd, maaryy, mASKED, tomiko  |
+|           40 |     1474 | 2024-11-14 | Metizport                   | L   | 0.487      | -            | -                | -                | -         |    -3.62 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           39 |     1515 | 2024-11-13 | Team Canada                 | W   | 0.479      | -            | -                | -                | 1 (0.479) |     1.79 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           38 |     1517 | 2024-11-13 | Team Norway                 | W   | 0.479      | -            | -                | -                | 1 (0.479) |     2.15 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           37 |     1622 | 2024-11-08 | Rebels Gaming               | L   | 0.445      | -            | -                | -                | -         |    -9.68 | bnox, fr3nd, maaryy, mASKED, tomiko  |
-|           36 |     1653 | 2024-11-06 | SINNERS Esports             | W   | 0.431      | 0.532        | 0.027 (0.006)    | 0.448 (0.103)    | 0 (0.000) |     7.52 | bnox, fr3nd, maaryy, mASKED, tomiko  |
+|           36 |     1653 | 2024-11-06 | SINNERS Esports             | W   | 0.431      | 0.532        | 0.027 (0.006)    | 0.448 (0.103)    | 0 (0.000) |     7.51 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           35 |     1664 | 2024-11-05 | 9Pandas                     | L   | 0.425      | -            | -                | -                | -         |    -4.03 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           34 |     1696 | 2024-11-03 | Team Sampi                  | W   | 0.411      | 0.532        | 0.012 (0.003)    | -                | 0 (0.000) |     4.67 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           33 |     1719 | 2024-11-02 | Wild Lotus                  | L   | 0.405      | -            | -                | -                | -         |    -8.60 | bnox, fr3nd, maaryy, mASKED, tomiko  |
-|           32 |     1737 | 2024-11-01 | Sashi Esport                | L   | 0.398      | -            | -                | -                | -         |    -3.86 | bnox, fr3nd, maaryy, mASKED, tomiko  |
-|           31 |     1803 | 2024-10-27 | Illuminar Gaming            | W   | 0.366      | 0.437        | -                | 0.323 (0.052)    | 1 (0.366) |     4.10 | bnox, fr3nd, maaryy, mASKED, tomiko  |
+|           32 |     1737 | 2024-11-01 | Sashi Esport                | L   | 0.398      | -            | -                | -                | -         |    -3.88 | bnox, fr3nd, maaryy, mASKED, tomiko  |
+|           31 |     1803 | 2024-10-27 | Illuminar Gaming            | W   | 0.366      | 0.437        | -                | 0.323 (0.052)    | 1 (0.366) |     4.09 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           30 |     1809 | 2024-10-27 | Passion UA                  | W   | 0.365      | 0.437        | 0.044 (0.007)    | 0.588 (0.094)    | 1 (0.365) |     9.22 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           29 |     1821 | 2024-10-26 | Illuminar Gaming            | L   | 0.359      | -            | -                | -                | -         |    -7.26 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           28 |     1827 | 2024-10-26 | Ex-ENTERPRISE esports       | L   | 0.358      | -            | -                | -                | -         |    -8.44 | bnox, fr3nd, maaryy, mASKED, tomiko  |
@@ -64,18 +64,18 @@ Note:<br />
 |           23 |     2221 | 2024-10-04 | G2 Ares                     | L   | 0.210      | -            | -                | -                | -         |    -5.87 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           22 |     2239 | 2024-10-03 | SINNERS Esports             | W   | 0.207      | 0.497        | 0.027 (0.003)    | 0.448 (0.046)    | -         |     3.39 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           21 |     2247 | 2024-10-03 | ENCE Academy                | L   | 0.205      | -            | -                | -                | -         |    -4.50 | bnox, maaryy, Markoś, mASKED, tomiko |
-|           20 |     2283 | 2024-10-02 | GUN5 Esports                | L   | 0.199      | -            | -                | -                | -         |    -2.87 | bnox, maaryy, Markoś, mASKED, tomiko |
+|           20 |     2283 | 2024-10-02 | GUN5 Esports                | L   | 0.199      | -            | -                | -                | -         |    -2.89 | bnox, maaryy, Markoś, mASKED, tomiko |
 |           19 |     2296 | 2024-10-02 | Nexus Gaming                | W   | 0.198      | 0.579        | 0.178 (0.020)    | 0.497 (0.057)    | -         |     4.56 | bnox, maaryy, Markoś, mASKED, tomiko |
 |           18 |     2305 | 2024-10-02 | Adventurers                 | L   | 0.197      | -            | -                | -                | -         |    -5.53 | bnox, maaryy, Markoś, mASKED, tomiko |
-|           17 |     2340 | 2024-10-01 | Chimera Esports             | W   | 0.192      | 0.587        | 0.018 (0.002)    | 0.534 (0.060)    | -         |     2.52 | bnox, maaryy, Markoś, mASKED, tomiko |
-|           16 |     2372 | 2024-09-30 | CYBERSHOKE Esports          | W   | 0.185      | 0.497        | -                | 1.000 (0.092)    | -         |     3.05 | bnox, fr3nd, maaryy, mASKED, tomiko  |
+|           17 |     2340 | 2024-10-01 | Chimera Esports             | W   | 0.192      | 0.587        | 0.018 (0.002)    | 0.534 (0.060)    | -         |     2.48 | bnox, maaryy, Markoś, mASKED, tomiko |
+|           16 |     2372 | 2024-09-30 | CYBERSHOKE Esports          | W   | 0.185      | 0.497        | -                | 1.000 (0.092)    | -         |     2.99 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           15 |     2417 | 2024-09-28 | Monte                       | W   | 0.172      | 0.497        | 0.016 (0.001)    | 0.477 (0.041)    | -         |     2.17 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           14 |     2504 | 2024-09-26 | Tricked Esport              | L   | 0.158      | -            | -                | -                | -         |    -2.91 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           13 |     2545 | 2024-09-25 | TALON                       | W   | 0.152      | -            | -                | -                | -         |     0.45 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           12 |     2573 | 2024-09-25 | KONO.ECF                    | W   | 0.150      | 0.453        | 0.020 (0.001)    | -                | -         |     1.52 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           11 |     2623 | 2024-09-24 | AMKAL ESPORTS               | L   | 0.144      | -            | -                | -                | -         |    -3.73 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |           10 |     2647 | 2024-09-23 | Ex-ENTERPRISE esports       | L   | 0.140      | -            | -                | -                | -         |    -3.36 | bnox, fr3nd, maaryy, mASKED, tomiko  |
-|            9 |     2697 | 2024-09-21 | ECSTATIC                    | L   | 0.125      | -            | -                | -                | -         |    -1.98 | bnox, maaryy, Markoś, mASKED, tomiko |
+|            9 |     2697 | 2024-09-21 | ECSTATIC                    | L   | 0.125      | -            | -                | -                | -         |    -2.01 | bnox, maaryy, Markoś, mASKED, tomiko |
 |            8 |     2704 | 2024-09-21 | TSM                         | L   | 0.124      | -            | -                | -                | -         |    -2.90 | bnox, fr3nd, maaryy, mASKED, tomiko  |
 |            7 |     2723 | 2024-09-20 | Insilio                     | L   | 0.117      | -            | -                | -                | -         |    -2.93 | bnox, maaryy, Markoś, mASKED, tomiko |
 |            6 |     2781 | 2024-09-18 | CYBERSHOKE Esports          | L   | 0.105      | -            | -                | -                | -         |    -2.81 | bnox, maaryy, Markoś, mASKED, tomiko |

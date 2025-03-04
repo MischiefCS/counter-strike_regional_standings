@@ -8,7 +8,7 @@ Regional Rank: [63]( ../../standings_americas_2025_03_01.md)<br />
 <br />
 Final Rank Value:  603.2<br />
 <br />
-Final Rank Value (603.2) = Starting Rank Value (606.6) + Head To Head Adjustments (-3.4)<br />
+Final Rank Value (603.2) = Starting Rank Value (606.5) + Head To Head Adjustments (-3.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.109<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 606.6
-- 400 + ( ( 0.109 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 606.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 606.5
+- 400 + ( ( 0.109 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 606.5
 
 
 #### Factors<br />
@@ -37,15 +37,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     1878 | 2024-10-18 | Atrix Esports        | L   | 0.307      | -            | -                | -                | -         |    -4.71 | cellax, fly, hera, samys, showliana |
-|            9 |     2238 | 2024-10-03 | Capivaras            | W   | 0.207      | 0.383        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.43 | cellax, fly, hera, samys, showliana |
+|           10 |     1878 | 2024-10-18 | Atrix Esports        | L   | 0.307      | -            | -                | -                | -         |    -4.70 | cellax, fly, hera, samys, showliana |
+|            9 |     2238 | 2024-10-03 | Capivaras            | W   | 0.207      | 0.378        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.43 | cellax, fly, hera, samys, showliana |
 |            8 |     2406 | 2024-09-28 | MIBR Female          | L   | 0.174      | -            | -                | -                | -         |    -2.50 | cellax, fly, hera, samys, showliana |
 |            7 |     2445 | 2024-09-27 | InSanitY Female      | W   | 0.167      | 0.463        | 0.001 (0.000)    | 0.029 (0.002)    | 0 (0.000) |     2.65 | cellax, fly, hera, samys, showliana |
 |            6 |     2535 | 2024-09-25 | MIBR Female          | L   | 0.154      | -            | -                | -                | -         |    -2.23 | cellax, fly, hera, samys, showliana |
 |            5 |     2635 | 2024-09-23 | FURIA Esports Female | L   | 0.141      | -            | -                | -                | -         |    -0.47 | cellax, fly, hera, samys, showliana |
 |            4 |     2642 | 2024-09-23 | InSanitY Female      | W   | 0.140      | 0.463        | 0.001 (0.000)    | 0.029 (0.002)    | 0 (0.000) |     2.23 | cellax, fly, hera, samys, showliana |
 |            3 |     2773 | 2024-09-18 | InSanitY Female      | L   | 0.107      | -            | -                | -                | -         |    -1.68 | cellax, fly, hera, samys, showliana |
-|            2 |     2936 | 2024-09-12 | Peak Academy Female  | W   | 0.067      | 0.383        | 0.001 (0.000)    | 0.018 (0.000)    | 0 (0.000) |     1.04 | cellax, fly, hera, samys, showliana |
+|            2 |     2936 | 2024-09-12 | Peak Academy Female  | W   | 0.067      | 0.378        | 0.001 (0.000)    | 0.018 (0.000)    | 0 (0.000) |     1.04 | cellax, fly, hera, samys, showliana |
 |            1 |     3167 | 2024-09-04 | Fluxo Demons         | L   | 0.014      | -            | -                | -                | -         |    -0.14 | cellax, fly, hera, samys, showliana |
 
 <br />

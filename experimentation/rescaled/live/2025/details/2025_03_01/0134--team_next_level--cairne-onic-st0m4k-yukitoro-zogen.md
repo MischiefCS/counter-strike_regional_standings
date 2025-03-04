@@ -6,9 +6,9 @@ Global Rank: [134](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [92]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  724.6<br />
+Final Rank Value:  724.5<br />
 <br />
-Final Rank Value (724.6) = Starting Rank Value (718.8) + Head To Head Adjustments (5.8)<br />
+Final Rank Value (724.5) = Starting Rank Value (718.8) + Head To Head Adjustments (5.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,11 +38,11 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           12 |      767 | 2024-12-22 | KONO.ECF              | L   | 0.739      | -            | -                | -                | -         |   -10.90 | cairne, onic, St0m4k, yukitoro, zogeN    |
-|           11 |      825 | 2024-12-17 | FAVBET Team           | L   | 0.706      | -            | -                | -                | -         |    -7.28 | cairne, onic, St0m4k, yukitoro, zogeN    |
-|           10 |      834 | 2024-12-16 | Dragon Esports Club   | W   | 0.699      | 0.411        | 0.005 (0.001)    | 0.038 (0.011)    | 0 (0.000) |     8.05 | cairne, onic, St0m4k, yukitoro, zogeN    |
+|           11 |      825 | 2024-12-17 | FAVBET Team           | L   | 0.706      | -            | -                | -                | -         |    -7.30 | cairne, onic, St0m4k, yukitoro, zogeN    |
+|           10 |      834 | 2024-12-16 | Dragon Esports Club   | W   | 0.699      | 0.411        | 0.005 (0.001)    | 0.038 (0.011)    | 0 (0.000) |     8.06 | cairne, onic, St0m4k, yukitoro, zogeN    |
 |            9 |      948 | 2024-12-09 | TEAM NEXT LEVEL       | W   | 0.653      | 0.411        | 0.003 (0.001)    | 0.120 (0.032)    | 0 (0.000) |     8.39 | cairne, onic, St0m4k, yukitoro, zogeN    |
-|            8 |     1220 | 2024-11-27 | Iberian Soul          | L   | 0.572      | -            | -                | -                | -         |    -4.66 | cairne, onic, St0m4k, yukitoro, zogeN    |
-|            7 |     1235 | 2024-11-26 | Natus Vincere Junior  | W   | 0.566      | 0.501        | 0.086 (0.024)    | 0.941 (0.267)    | 0 (0.000) |    15.07 | cairne, onic, St0m4k, yukitoro, zogeN    |
+|            8 |     1220 | 2024-11-27 | Iberian Soul          | L   | 0.572      | -            | -                | -                | -         |    -4.67 | cairne, onic, St0m4k, yukitoro, zogeN    |
+|            7 |     1235 | 2024-11-26 | Natus Vincere Junior  | W   | 0.566      | 0.501        | 0.086 (0.024)    | 0.941 (0.267)    | 0 (0.000) |    14.99 | cairne, onic, St0m4k, yukitoro, zogeN    |
 |            6 |     2395 | 2024-09-29 | KONO.ECF              | L   | 0.178      | -            | -                | -                | -         |    -2.33 | cairne, Ganginho, jabba2h, onic, St0m4k  |
 |            5 |     2848 | 2024-09-15 | Passion UA            | L   | 0.085      | -            | -                | -                | -         |    -0.21 | cairne, Ganginho, jabba2h, onic, St0m4k  |
 |            4 |     3027 | 2024-09-09 | K27                   | L   | 0.046      | -            | -                | -                | -         |    -0.77 | Ganginho, jabba2h, jR, onic, St0m4k      |

@@ -6,9 +6,9 @@ Global Rank: [137](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [31]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  719.8<br />
+Final Rank Value:  719.7<br />
 <br />
-Final Rank Value (719.8) = Starting Rank Value (694.0) + Head To Head Adjustments (25.8)<br />
+Final Rank Value (719.7) = Starting Rank Value (693.9) + Head To Head Adjustments (25.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.154<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 694.0
-- 400 + ( ( 0.154 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 694.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 693.9
+- 400 + ( ( 0.154 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 693.9
 
 
 #### Factors<br />
@@ -38,14 +38,14 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           21 |      152 | 2025-02-20 | Legacy                 | L   | 1.000      | -            | -                | -                | -         |    -5.23 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           20 |      203 | 2025-02-16 | ShindeN                | W   | 1.000      | 0.463        | 0.005 (0.002)    | 0.377 (0.175)    | 0 (0.000) |    14.70 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           20 |      203 | 2025-02-16 | ShindeN                | W   | 1.000      | 0.461        | 0.005 (0.002)    | 0.377 (0.174)    | 0 (0.000) |    14.70 | bnc, Leomonster, realz1n, rem1x, zmb |
 |           19 |      259 | 2025-02-14 | ODDIK                  | L   | 1.000      | -            | -                | -                | -         |   -10.64 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           18 |      307 | 2025-02-12 | KRÜ Esports            | W   | 1.000      | 0.463        | 0.001 (0.001)    | 0.169 (0.078)    | 0 (0.000) |    13.89 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           17 |      348 | 2025-02-10 | Bounty Hunters Esports | W   | 1.000      | 0.463        | 0.001 (0.001)    | 0.240 (0.111)    | 0 (0.000) |    14.95 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           18 |      307 | 2025-02-12 | KRÜ Esports            | W   | 1.000      | 0.461        | 0.001 (0.001)    | 0.169 (0.078)    | 0 (0.000) |    13.88 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           17 |      348 | 2025-02-10 | Bounty Hunters Esports | W   | 1.000      | 0.461        | 0.001 (0.001)    | 0.240 (0.111)    | 0 (0.000) |    14.95 | bnc, Leomonster, realz1n, rem1x, zmb |
 |           16 |      486 | 2025-02-07 | Legacy                 | L   | 1.000      | -            | -                | -                | -         |    -6.52 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           15 |      709 | 2025-01-09 | Team Solid             | L   | 0.860      | -            | -                | -                | -         |    -8.72 | bnc, max, realz1n, rem1x, zmb        |
+|           15 |      709 | 2025-01-09 | Team Solid             | L   | 0.860      | -            | -                | -                | -         |    -8.73 | bnc, max, realz1n, rem1x, zmb        |
 |           14 |      786 | 2024-12-20 | Patins da Ferrari      | W   | 0.727      | 0.387        | 0.000 (0.000)    | 0.128 (0.036)    | 0 (0.000) |     6.47 | bnc, max, realz1n, rem1x, zmb        |
-|           13 |      815 | 2024-12-18 | Nitro.GG               | W   | 0.712      | 0.387        | 0.001 (0.000)    | 0.358 (0.099)    | 0 (0.000) |    10.39 | bnc, max, realz1n, rem1x, zmb        |
+|           13 |      815 | 2024-12-18 | Nitro.GG               | W   | 0.712      | 0.387        | 0.001 (0.000)    | 0.358 (0.099)    | 0 (0.000) |    10.40 | bnc, max, realz1n, rem1x, zmb        |
 |           12 |      829 | 2024-12-16 | Bad News Chickens      | L   | 0.701      | -            | -                | -                | -         |   -12.64 | bnc, max, realz1n, rem1x, zmb        |
 |           11 |      891 | 2024-12-13 | Galorys Academy        | W   | 0.681      | 0.387        | 0.000 (0.000)    | -                | 0 (0.000) |     3.28 | bnc, max, realz1n, rem1x, zmb        |
 |           10 |     1214 | 2024-11-27 | Nitro.GG               | L   | 0.573      | -            | -                | -                | -         |    -9.69 | lukiz, pancc, realz1n, rem1x, zmb    |
@@ -56,7 +56,7 @@ Note:<br />
 |            5 |     1703 | 2024-11-02 | Bounty Hunters Esports | W   | 0.407      | 0.352        | 0.001 (0.000)    | 0.240 (0.034)    | 0 (0.000) |     5.99 | lukiz, pancc, realz1n, rem1x, zmb    |
 |            4 |     1725 | 2024-11-01 | Dusty Roots            | W   | 0.401      | 0.352        | 0.008 (0.001)    | 0.422 (0.060)    | 0 (0.000) |     7.23 | lukiz, pancc, realz1n, rem1x, zmb    |
 |            3 |     1744 | 2024-10-31 | VELOX Argentina        | W   | 0.393      | 0.405        | -                | 0.121 (0.019)    | -         |     3.27 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            2 |     1794 | 2024-10-28 | Nitro.GG               | W   | 0.372      | 0.405        | 0.001 (0.000)    | 0.358 (0.054)    | -         |     5.47 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            2 |     1794 | 2024-10-28 | Nitro.GG               | W   | 0.372      | 0.405        | 0.001 (0.000)    | 0.358 (0.054)    | -         |     5.48 | lukiz, pancc, realz1n, rem1x, zmb    |
 |            1 |     2473 | 2024-09-26 | Case Esports           | L   | 0.161      | -            | -                | -                | -         |    -2.77 | honda, lukiz, realz1n, rem1x, zmb    |
 
 <br />

@@ -6,9 +6,9 @@ Global Rank: [152](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [103]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  693.7<br />
+Final Rank Value:  693.4<br />
 <br />
-Final Rank Value (693.7) = Starting Rank Value (708.4) + Head To Head Adjustments (-14.6)<br />
+Final Rank Value (693.4) = Starting Rank Value (708.4) + Head To Head Adjustments (-15.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,29 +37,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           40 |      714 | 2025-01-08 | BadGuys                                   | L   | 0.853      | -            | -                | -                | -         |   -17.50 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           39 |      720 | 2025-01-06 | Rhyno Esports                             | L   | 0.840      | -            | -                | -                | -         |    -7.69 | Djon8, h1ghnesS, OverDrive, takanashi, yuramyata |
-|           38 |      724 | 2025-01-05 | 9INE                                      | L   | 0.833      | -            | -                | -                | -         |    -4.23 | Djon8, h1ghnesS, OverDrive, takanashi, yuramyata |
+|           40 |      714 | 2025-01-08 | BadGuys                                   | L   | 0.853      | -            | -                | -                | -         |   -17.51 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           39 |      720 | 2025-01-06 | Rhyno Esports                             | L   | 0.840      | -            | -                | -                | -         |    -7.68 | Djon8, h1ghnesS, OverDrive, takanashi, yuramyata |
+|           38 |      724 | 2025-01-05 | 9INE                                      | L   | 0.833      | -            | -                | -                | -         |    -4.24 | Djon8, h1ghnesS, OverDrive, takanashi, yuramyata |
 |           37 |      731 | 2025-01-03 | Los kogutos                               | W   | 0.820      | 0.474        | 0.027 (0.011)    | 0.387 (0.150)    | 0 (0.000) |    18.89 | Djon8, h1ghnesS, OverDrive, SoLb, yuramyata      |
-|           36 |      742 | 2024-12-28 | Wu-Tang Clan                              | W   | 0.779      | -            | -                | -                | 0 (0.000) |     3.79 | Djon8, h1ghnesS, OverDrive, SoLb, yuramyata      |
+|           36 |      742 | 2024-12-28 | Wu-Tang Clan                              | W   | 0.779      | -            | -                | -                | 0 (0.000) |     3.80 | Djon8, h1ghnesS, OverDrive, SoLb, yuramyata      |
 |           35 |      798 | 2024-12-19 | Dark Cloud Esports                        | L   | 0.720      | -            | -                | -                | -         |    -9.81 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           34 |      909 | 2024-12-12 | FAVBET Team                               | L   | 0.674      | -            | -                | -                | -         |    -6.48 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           33 |      925 | 2024-12-11 | Leo Team                                  | W   | 0.667      | 0.444        | 0.023 (0.007)    | 0.508 (0.150)    | 0 (0.000) |    13.12 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           32 |      939 | 2024-12-10 | Insilio                                   | L   | 0.660      | -            | -                | -                | -         |   -10.84 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           31 |      952 | 2024-12-09 | ECSTATIC                                  | L   | 0.651      | -            | -                | -                | -         |    -5.37 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           34 |      909 | 2024-12-12 | FAVBET Team                               | L   | 0.674      | -            | -                | -                | -         |    -6.49 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           33 |      925 | 2024-12-11 | Leo Team                                  | W   | 0.667      | 0.444        | 0.023 (0.007)    | 0.508 (0.150)    | 0 (0.000) |    13.10 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           32 |      939 | 2024-12-10 | Insilio                                   | L   | 0.660      | -            | -                | -                | -         |   -10.83 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           31 |      952 | 2024-12-09 | ECSTATIC                                  | L   | 0.651      | -            | -                | -                | -         |    -5.44 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           30 |      968 | 2024-12-08 | Metizport                                 | L   | 0.644      | -            | -                | -                | -         |    -2.28 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           29 |     1020 | 2024-12-06 | Team Spirit Academy                       | L   | 0.631      | -            | -                | -                | -         |    -4.24 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           28 |     1067 | 2024-12-04 | Team Sampi                                | W   | 0.620      | 0.579        | 0.012 (0.004)    | 0.100 (0.036)    | 0 (0.000) |    11.51 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           27 |     1088 | 2024-12-03 | Fire Flux Esports                         | L   | 0.614      | -            | -                | -                | -         |    -5.19 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           29 |     1020 | 2024-12-06 | Team Spirit Academy                       | L   | 0.631      | -            | -                | -                | -         |    -4.29 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           28 |     1067 | 2024-12-04 | Team Sampi                                | W   | 0.620      | 0.579        | 0.012 (0.004)    | 0.100 (0.036)    | 0 (0.000) |    11.52 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           27 |     1088 | 2024-12-03 | Fire Flux Esports                         | L   | 0.614      | -            | -                | -                | -         |    -5.27 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           26 |     1091 | 2024-12-03 | Monte                                     | L   | 0.613      | -            | -                | -                | -         |    -6.50 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           25 |     1112 | 2024-12-02 | Betera Esports                            | W   | 0.606      | 0.360        | 0.001 (0.000)    | 0.046 (0.010)    | 0 (0.000) |     6.68 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           24 |     1115 | 2024-12-02 | BC.Game Esports                           | W   | 0.605      | 0.497        | 0.022 (0.006)    | 0.276 (0.083)    | 0 (0.000) |    11.92 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           24 |     1115 | 2024-12-02 | BC.Game Esports                           | W   | 0.605      | 0.497        | 0.022 (0.006)    | 0.276 (0.083)    | 0 (0.000) |    11.91 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           23 |     1130 | 2024-12-01 | Soul's Heart Esport                       | W   | 0.600      | -            | -                | -                | 0 (0.000) |     2.80 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           22 |     1191 | 2024-11-29 | Team Spirit Academy                       | L   | 0.586      | -            | -                | -                | -         |    -3.56 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           22 |     1191 | 2024-11-29 | Team Spirit Academy                       | L   | 0.586      | -            | -                | -                | -         |    -3.60 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           21 |     1230 | 2024-11-26 | PARTIZAN                                  | W   | 0.567      | -            | -                | -                | 0 (0.000) |     2.71 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           20 |     1422 | 2024-11-16 | G2 Ares                                   | W   | 0.500      | 0.417        | -                | 0.071 (0.015)    | 0 (0.000) |     4.88 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           19 |     1457 | 2024-11-15 | BC.Game Esports                           | W   | 0.492      | 0.417        | 0.022 (0.004)    | 0.276 (0.056)    | 0 (0.000) |     9.22 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
-|           18 |     1535 | 2024-11-12 | Chimera Esports                           | L   | 0.473      | -            | -                | -                | -         |    -4.03 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
+|           18 |     1535 | 2024-11-12 | Chimera Esports                           | L   | 0.473      | -            | -                | -                | -         |    -4.10 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           17 |     1566 | 2024-11-11 | WW Team                                   | W   | 0.467      | 0.417        | -                | 0.015 (0.003)    | -         |     3.59 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           16 |     1692 | 2024-11-03 | 1win                                      | L   | 0.412      | -            | -                | -                | -         |    -7.25 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |
 |           15 |     1711 | 2024-11-02 | ARCRED                                    | L   | 0.406      | -            | -                | -                | -         |    -5.99 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata      |

@@ -6,9 +6,9 @@ Global Rank: [34](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [4]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1073.6<br />
+Final Rank Value:  1073.5<br />
 <br />
-Final Rank Value (1073.6) = Starting Rank Value (1026.6) + Head To Head Adjustments (47.0)<br />
+Final Rank Value (1073.5) = Starting Rank Value (1026.6) + Head To Head Adjustments (46.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,13 +37,13 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |      210 | 2025-02-16 | SAW                              | L   | 1.000      | -            | -                | -                | -         |   -10.36 | dexter, INS, Liazz, regali, Vexite   |
-|           31 |      251 | 2025-02-15 | BIG                              | L   | 1.000      | -            | -                | -                | -         |    -4.50 | dexter, INS, Liazz, regali, Vexite   |
+|           32 |      210 | 2025-02-16 | SAW                              | L   | 1.000      | -            | -                | -                | -         |   -10.40 | dexter, INS, Liazz, regali, Vexite   |
+|           31 |      251 | 2025-02-15 | BIG                              | L   | 1.000      | -            | -                | -                | -         |    -4.51 | dexter, INS, Liazz, regali, Vexite   |
 |           30 |      276 | 2025-02-14 | Team Falcons                     | L   | 1.000      | -            | -                | -                | -         |    -0.53 | dexter, INS, Liazz, regali, Vexite   |
 |           29 |      629 | 2025-01-30 | Astralis                         | L   | 0.999      | -            | -                | -                | -         |    -0.65 | dexter, INS, Liazz, regali, Vexite   |
 |           28 |      643 | 2025-01-29 | 3DMAX                            | L   | 0.991      | -            | -                | -                | -         |    -2.00 | dexter, INS, Liazz, regali, Vexite   |
 |           27 |      673 | 2025-01-18 | Team Spirit                      | L   | 0.920      | -            | -                | -                | -         |    -0.21 | dexter, INS, Liazz, regali, Vexite   |
-|           26 |      691 | 2025-01-14 | MIBR                             | W   | 0.891      | 1.000        | 0.139 (0.124)    | 0.604 (0.538)    | 0 (0.000) |    24.80 | dexter, INS, Liazz, regali, Vexite   |
+|           26 |      691 | 2025-01-14 | MIBR                             | W   | 0.891      | 1.000        | 0.139 (0.124)    | 0.604 (0.538)    | 0 (0.000) |    24.79 | dexter, INS, Liazz, regali, Vexite   |
 |           25 |     1101 | 2024-12-02 | MIBR                             | L   | 0.610      | -            | -                | -                | -         |    -2.27 | aliStair, dexter, INS, Liazz, Vexite |
 |           24 |     1123 | 2024-12-01 | PaiN Gaming                      | L   | 0.603      | -            | -                | -                | -         |    -0.89 | aliStair, dexter, INS, Liazz, Vexite |
 |           23 |     1141 | 2024-11-30 | Team Liquid                      | L   | 0.596      | -            | -                | -                | -         |    -1.48 | aliStair, dexter, INS, Liazz, Vexite |

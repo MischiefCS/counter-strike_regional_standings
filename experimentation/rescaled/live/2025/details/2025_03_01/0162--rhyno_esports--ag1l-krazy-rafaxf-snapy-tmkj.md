@@ -6,9 +6,9 @@ Global Rank: [162](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [111]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  679.2<br />
+Final Rank Value:  679.0<br />
 <br />
-Final Rank Value (679.2) = Starting Rank Value (668.9) + Head To Head Adjustments (10.3)<br />
+Final Rank Value (679.0) = Starting Rank Value (668.8) + Head To Head Adjustments (10.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.141<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 668.9
-- 400 + ( ( 0.141 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 668.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 668.8
+- 400 + ( ( 0.141 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 668.8
 
 
 #### Factors<br />
@@ -37,13 +37,13 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     2153 | 2024-10-06 | Rhyno Esports      | L   | 0.225      | -            | -                | -                | -         |    -1.94 | Ag1l, krazy, rafaxF, snapy, TMKj     |
-|           12 |     2184 | 2024-10-05 | Iberian Soul       | W   | 0.218      | 0.393        | 0.015 (0.001)    | 0.644 (0.055)    | 1 (0.218) |     5.47 | Ag1l, krazy, rafaxF, snapy, TMKj     |
+|           13 |     2153 | 2024-10-06 | Rhyno Esports      | L   | 0.225      | -            | -                | -                | -         |    -1.93 | Ag1l, krazy, rafaxF, snapy, TMKj     |
+|           12 |     2184 | 2024-10-05 | Iberian Soul       | W   | 0.218      | 0.393        | 0.015 (0.001)    | 0.644 (0.055)    | 1 (0.218) |     5.46 | Ag1l, krazy, rafaxF, snapy, TMKj     |
 |           11 |     2244 | 2024-10-03 | 3DMAX              | L   | 0.206      | -            | -                | -                | -         |    -0.04 | Ag1l, krazy, rafaxF, snapy, TMKj     |
-|           10 |     2341 | 2024-10-01 | CYBERSHOKE Esports | W   | 0.192      | 0.699        | 0.010 (0.001)    | 1.000 (0.134)    | 0 (0.000) |     4.89 | Ag1l, krazy, rafaxF, snapy, TMKj     |
-|            9 |     2398 | 2024-09-29 | FAVBET Team        | W   | 0.178      | 0.699        | 0.029 (0.004)    | 0.608 (0.075)    | 0 (0.000) |     4.11 | Ag1l, krazy, rafaxF, snapy, TMKj     |
-|            8 |     2455 | 2024-09-27 | TALON              | W   | 0.165      | 0.699        | 0.000 (0.000)    | 0.127 (0.015)    | 0 (0.000) |     1.52 | Ag1l, krazy, rafaxF, snapy, TMKj     |
-|            7 |     2537 | 2024-09-25 | ALTERNATE aTTaX    | L   | 0.153      | -            | -                | -                | -         |    -1.11 | Ag1l, krazy, rafaxF, snapy, TMKj     |
+|           10 |     2341 | 2024-10-01 | CYBERSHOKE Esports | W   | 0.192      | 0.693        | 0.010 (0.001)    | 1.000 (0.133)    | 0 (0.000) |     4.85 | Ag1l, krazy, rafaxF, snapy, TMKj     |
+|            9 |     2398 | 2024-09-29 | FAVBET Team        | W   | 0.178      | 0.693        | 0.029 (0.004)    | 0.608 (0.075)    | 0 (0.000) |     4.11 | Ag1l, krazy, rafaxF, snapy, TMKj     |
+|            8 |     2455 | 2024-09-27 | TALON              | W   | 0.165      | 0.693        | 0.000 (0.000)    | 0.127 (0.014)    | 0 (0.000) |     1.52 | Ag1l, krazy, rafaxF, snapy, TMKj     |
+|            7 |     2537 | 2024-09-25 | ALTERNATE aTTaX    | L   | 0.153      | -            | -                | -                | -         |    -1.10 | Ag1l, krazy, rafaxF, snapy, TMKj     |
 |            6 |     2618 | 2024-09-24 | Monte              | L   | 0.145      | -            | -                | -                | -         |    -1.24 | Ag1l, krazy, rafaxF, snapy, TMKj     |
 |            5 |     3035 | 2024-09-09 | QUAZAR             | L   | 0.045      | -            | -                | -                | -         |    -0.83 | Ag1l, krazy, NOPEEj, P3R3IIRA, snapy |
 |            4 |     3047 | 2024-09-08 | Insilio            | L   | 0.039      | -            | -                | -                | -         |    -0.59 | Ag1l, krazy, NOPEEj, P3R3IIRA, snapy |

@@ -6,9 +6,9 @@ Global Rank: [248](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [35]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  540.9<br />
+Final Rank Value:  540.8<br />
 <br />
-Final Rank Value (540.9) = Starting Rank Value (508.3) + Head To Head Adjustments (32.6)<br />
+Final Rank Value (540.8) = Starting Rank Value (508.3) + Head To Head Adjustments (32.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -39,10 +39,10 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           10 |       49 | 2025-02-24 | Vantage Esports      | W   | 1.000      | 0.220        | 0.000 (0.000)    | 0.180 (0.040)    | 0 (0.000) |    16.63 | ADDICT, HaZR, malta, nettik, sterling |
 |            9 |       74 | 2025-02-23 | MANTRA               | W   | 1.000      | 0.220        | 0.000 (0.000)    | 0.129 (0.028)    | 0 (0.000) |    17.57 | ADDICT, HaZR, malta, nettik, sterling |
-|            8 |     2369 | 2024-09-30 | Natus Vincere Junior | L   | 0.185      | -            | -                | -                | -         |    -0.32 | ADDICT, AZR, HaZR, mhL, nettik        |
+|            8 |     2369 | 2024-09-30 | Natus Vincere Junior | L   | 0.185      | -            | -                | -                | -         |    -0.33 | ADDICT, AZR, HaZR, mhL, nettik        |
 |            7 |     2455 | 2024-09-27 | Rhyno Esports        | L   | 0.165      | -            | -                | -                | -         |    -1.52 | ADDICT, AZR, HaZR, mhL, nettik        |
 |            6 |     2545 | 2024-09-25 | Los kogutos          | L   | 0.152      | -            | -                | -                | -         |    -0.45 | ADDICT, AZR, HaZR, mhL, nettik        |
-|            5 |     2660 | 2024-09-23 | CYBERSHOKE Esports   | L   | 0.137      | -            | -                | -                | -         |    -0.36 | ADDICT, AZR, HaZR, mhL, nettik        |
+|            5 |     2660 | 2024-09-23 | CYBERSHOKE Esports   | L   | 0.137      | -            | -                | -                | -         |    -0.38 | ADDICT, AZR, HaZR, mhL, nettik        |
 |            4 |     2886 | 2024-09-14 | Team Kosovo          | L   | 0.078      | -            | -                | -                | -         |    -1.18 | ADDICT, AZR, HaZR, mhL, nettik        |
 |            3 |     2927 | 2024-09-13 | GTZ.ESPORTS          | W   | 0.070      | 0.479        | 0.080 (0.003)    | 0.431 (0.015)    | 0 (0.000) |     2.14 | ADDICT, AZR, HaZR, mhL, nettik        |
 |            2 |     3011 | 2024-09-10 | QUAZAR               | L   | 0.052      | -            | -                | -                | -         |    -0.60 | ADDICT, AZR, HaZR, mhL, nettik        |

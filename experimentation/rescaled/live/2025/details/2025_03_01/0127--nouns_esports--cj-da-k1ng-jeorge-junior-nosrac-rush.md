@@ -6,9 +6,9 @@ Global Rank: [127](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [27]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  737.2<br />
+Final Rank Value:  736.9<br />
 <br />
-Final Rank Value (737.2) = Starting Rank Value (721.1) + Head To Head Adjustments (16.2)<br />
+Final Rank Value (736.9) = Starting Rank Value (720.7) + Head To Head Adjustments (16.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.042[<sup>2</sup>](#table1)
 - LAN Wins: 0.018[<sup>2</sup>](#table1)
 
-The average of these factors is 0.169<br />
+The average of these factors is 0.168<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 721.1
-- 400 + ( ( 0.169 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 721.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 720.7
+- 400 + ( ( 0.168 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 720.7
 
 
 #### Factors<br />
@@ -38,23 +38,23 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           27 |     1529 | 2024-11-12 | KRÜ Esports      | L   | 0.477      | -            | -                | -                | -         |    -8.66 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           26 |     1550 | 2024-11-12 | BESTIA           | L   | 0.471      | -            | -                | -                | -         |    -3.95 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           26 |     1550 | 2024-11-12 | BESTIA           | L   | 0.471      | -            | -                | -                | -         |    -3.96 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
 |           25 |     1562 | 2024-11-11 | PaiN Gaming      | L   | 0.470      | -            | -                | -                | -         |    -0.11 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
 |           24 |     1898 | 2024-10-17 | Party Astronauts | L   | 0.302      | -            | -                | -                | -         |    -4.22 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
 |           23 |     1922 | 2024-10-16 | Legacy           | L   | 0.295      | -            | -                | -                | -         |    -2.72 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           22 |     1949 | 2024-10-15 | Wildcard         | W   | 0.288      | 0.661        | 0.176 (0.034)    | 0.528 (0.101)    | 0 (0.000) |     8.72 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           21 |     2012 | 2024-10-09 | Mythic           | W   | 0.249      | 0.661        | -                | 0.029 (0.005)    | 0 (0.000) |     1.49 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           20 |     2019 | 2024-10-09 | Mythic           | W   | 0.248      | 0.661        | -                | 0.029 (0.005)    | 0 (0.000) |     1.51 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           19 |     2067 | 2024-10-08 | NRG              | W   | 0.242      | 0.661        | 0.049 (0.008)    | 0.559 (0.089)    | 0 (0.000) |     6.17 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           18 |     2073 | 2024-10-08 | NRG              | W   | 0.242      | 0.661        | 0.049 (0.008)    | 0.559 (0.089)    | 0 (0.000) |     6.24 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           17 |     2236 | 2024-10-03 | Party Astronauts | L   | 0.207      | -            | -                | -                | -         |    -2.92 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           16 |     2258 | 2024-10-02 | Team Aether      | W   | 0.202      | -            | -                | -                | 0 (0.000) |     1.20 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           15 |     2319 | 2024-10-01 | M80              | L   | 0.195      | -            | -                | -                | -         |    -1.42 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           14 |     2324 | 2024-10-01 | M80              | W   | 0.194      | 0.661        | 0.038 (0.005)    | 0.456 (0.059)    | -         |     4.76 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           13 |     2329 | 2024-10-01 | Chill Guys       | W   | 0.194      | 0.661        | 0.002 (0.000)    | 0.173 (0.022)    | -         |     2.27 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           12 |     2332 | 2024-10-01 | Chill Guys       | W   | 0.194      | 0.661        | 0.002 (0.000)    | 0.173 (0.022)    | -         |     2.30 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           11 |     2512 | 2024-09-25 | LAG Gaming       | W   | 0.155      | 0.661        | 0.001 (0.000)    | -                | -         |     1.65 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
-|           10 |     2519 | 2024-09-25 | LAG Gaming       | W   | 0.155      | 0.661        | 0.001 (0.000)    | -                | -         |     1.66 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           22 |     1949 | 2024-10-15 | Wildcard         | W   | 0.288      | 0.654        | 0.176 (0.033)    | 0.528 (0.100)    | 0 (0.000) |     8.72 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           21 |     2012 | 2024-10-09 | Mythic           | W   | 0.249      | 0.654        | -                | 0.029 (0.005)    | 0 (0.000) |     1.49 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           20 |     2019 | 2024-10-09 | Mythic           | W   | 0.248      | 0.654        | -                | 0.029 (0.005)    | 0 (0.000) |     1.51 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           19 |     2067 | 2024-10-08 | NRG              | W   | 0.242      | 0.654        | 0.049 (0.008)    | 0.559 (0.089)    | 0 (0.000) |     6.17 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           18 |     2073 | 2024-10-08 | NRG              | W   | 0.242      | 0.654        | 0.049 (0.008)    | 0.559 (0.088)    | 0 (0.000) |     6.24 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           17 |     2236 | 2024-10-03 | Party Astronauts | L   | 0.207      | -            | -                | -                | -         |    -2.93 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           16 |     2258 | 2024-10-02 | Team Aether      | W   | 0.202      | -            | -                | -                | 0 (0.000) |     1.21 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           15 |     2319 | 2024-10-01 | M80              | L   | 0.195      | -            | -                | -                | -         |    -1.43 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           14 |     2324 | 2024-10-01 | M80              | W   | 0.194      | 0.654        | 0.038 (0.005)    | 0.456 (0.058)    | -         |     4.75 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           13 |     2329 | 2024-10-01 | Chill Guys       | W   | 0.194      | 0.654        | 0.002 (0.000)    | 0.173 (0.022)    | -         |     2.27 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           12 |     2332 | 2024-10-01 | Chill Guys       | W   | 0.194      | 0.654        | 0.002 (0.000)    | 0.173 (0.022)    | -         |     2.30 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           11 |     2512 | 2024-09-25 | LAG Gaming       | W   | 0.155      | 0.654        | 0.001 (0.000)    | -                | -         |     1.65 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
+|           10 |     2519 | 2024-09-25 | LAG Gaming       | W   | 0.155      | 0.654        | 0.001 (0.000)    | -                | -         |     1.67 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
 |            9 |     2629 | 2024-09-23 | Legacy           | L   | 0.142      | -            | -                | -                | -         |    -1.26 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
 |            8 |     2633 | 2024-09-23 | Legacy           | L   | 0.142      | -            | -                | -                | -         |    -1.27 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |
 |            7 |     2664 | 2024-09-22 | NRG              | L   | 0.135      | -            | -                | -                | -         |    -0.69 | cJ-dA-K1nG, Jeorge, junior, nosraC, RUSH |

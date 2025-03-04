@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      908 | 2024-12-12 | Players (Brazilian team) | L   | 0.674      | -            | -                | -                | -         |    -8.38 | edv, FasteR, gtw, n0page, sanc |
+|            6 |      908 | 2024-12-12 | Players (Brazilian team) | L   | 0.674      | -            | -                | -                | -         |    -8.39 | edv, FasteR, gtw, n0page, sanc |
 |            5 |     1151 | 2024-11-30 | Players (Brazilian team) | W   | 0.594      | 0.322        | 0.008 (0.002)    | 0.566 (0.108)    | 0 (0.000) |    11.58 | edv, FasteR, gtw, n0page, sanc |
 |            4 |     1185 | 2024-11-29 | Galorys Academy          | W   | 0.587      | 0.322        | 0.000 (0.000)    | 0.042 (0.008)    | 0 (0.000) |     3.75 | edv, FasteR, gtw, n0page, sanc |
 |            3 |     1591 | 2024-11-09 | MIBR Academy             | L   | 0.454      | -            | -                | -                | -         |    -7.07 | edv, FasteR, gtw, n0page, sanc |

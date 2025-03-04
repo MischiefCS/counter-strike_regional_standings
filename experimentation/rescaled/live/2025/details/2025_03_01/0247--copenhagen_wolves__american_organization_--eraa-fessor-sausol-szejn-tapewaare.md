@@ -8,7 +8,7 @@ Regional Rank: [139]( ../../standings_europe_2025_03_01.md)<br />
 <br />
 Final Rank Value:  541.4<br />
 <br />
-Final Rank Value (541.4) = Starting Rank Value (523.8) + Head To Head Adjustments (17.6)<br />
+Final Rank Value (541.4) = Starting Rank Value (523.7) + Head To Head Adjustments (17.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.065<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 523.8
-- 400 + ( ( 0.065 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 523.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 523.7
+- 400 + ( ( 0.065 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 523.7
 
 
 #### Factors<br />
@@ -39,14 +39,14 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           17 |     2338 | 2024-10-01 | ALTERNATE aTTaX        | L   | 0.193      | -            | -                | -                | -         |    -0.82 | eraa, Fessor, sausol, szejn, Tapewaare |
 |           16 |     2390 | 2024-09-29 | G2 Ares                | L   | 0.179      | -            | -                | -                | -         |    -2.82 | eraa, Fessor, sausol, szejn, Tapewaare |
-|           15 |     2394 | 2024-09-29 | Wild Lotus             | W   | 0.178      | 0.508        | 0.001 (0.000)    | 0.462 (0.042)    | 0 (0.000) |     4.45 | eraa, Fessor, sausol, szejn, Tapewaare |
+|           15 |     2394 | 2024-09-29 | Wild Lotus             | W   | 0.178      | 0.507        | 0.001 (0.000)    | 0.462 (0.042)    | 0 (0.000) |     4.45 | eraa, Fessor, sausol, szejn, Tapewaare |
 |           14 |     2425 | 2024-09-28 | K27                    | W   | 0.170      | 0.291        | 0.004 (0.000)    | 0.139 (0.007)    | 0 (0.000) |     3.83 | eraa, Fessor, sausol, szejn, Tapewaare |
 |           13 |     2450 | 2024-09-27 | Passion UA             | L   | 0.166      | -            | -                | -                | -         |    -0.17 | eraa, Fessor, sausol, szejn, Tapewaare |
 |           12 |     2480 | 2024-09-26 | GamerLegion            | L   | 0.160      | -            | -                | -                | -         |    -1.46 | eraa, Fessor, sausol, szejn, Tapewaare |
-|           11 |     2552 | 2024-09-25 | Endpoint               | W   | 0.151      | 0.508        | 0.009 (0.001)    | 0.233 (0.018)    | 0 (0.000) |     3.70 | eraa, Fessor, sausol, szejn, Tapewaare |
+|           11 |     2552 | 2024-09-25 | Endpoint               | W   | 0.151      | 0.507        | 0.009 (0.001)    | 0.233 (0.018)    | 0 (0.000) |     3.70 | eraa, Fessor, sausol, szejn, Tapewaare |
 |           10 |     2572 | 2024-09-25 | Team PeeP              | W   | 0.150      | 0.291        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     2.07 | eraa, Fessor, sausol, szejn, Tapewaare |
 |            9 |     2621 | 2024-09-24 | K27                    | L   | 0.144      | -            | -                | -                | -         |    -1.28 | eraa, Fessor, sausol, szejn, Tapewaare |
-|            8 |     2648 | 2024-09-23 | ECSTATIC               | L   | 0.140      | -            | -                | -                | -         |    -0.44 | eraa, Fessor, sausol, szejn, Tapewaare |
+|            8 |     2648 | 2024-09-23 | ECSTATIC               | L   | 0.140      | -            | -                | -                | -         |    -0.45 | eraa, Fessor, sausol, szejn, Tapewaare |
 |            7 |     2677 | 2024-09-22 | Zero Tenacity          | W   | 0.131      | 0.520        | 0.026 (0.002)    | 0.507 (0.035)    | 0 (0.000) |     3.60 | eraa, Fessor, sausol, szejn, Tapewaare |
 |            6 |     2742 | 2024-09-19 | 9Pandas                | W   | 0.113      | 0.520        | 0.084 (0.005)    | 0.560 (0.033)    | 0 (0.000) |     3.37 | eraa, Fessor, sausol, szejn, Tapewaare |
 |            5 |     2899 | 2024-09-14 | FLuffy Gangsters       | W   | 0.077      | 0.350        | 0.005 (0.000)    | 0.419 (0.011)    | 0 (0.000) |     1.79 | eraa, Fessor, sausol, szejn, Tapewaare |

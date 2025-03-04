@@ -6,22 +6,22 @@ Global Rank: [31](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [24]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1090.2<br />
+Final Rank Value:  1088.6<br />
 <br />
-Final Rank Value (1090.2) = Starting Rank Value (1129.4) + Head To Head Adjustments (-39.2)<br />
+Final Rank Value (1088.6) = Starting Rank Value (1128.5) + Head To Head Adjustments (-39.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.526[<sup>1</sup>](#table2)
-- Bounty Collected: 0.408[<sup>2</sup>](#table1)
-- Opponent Network: 0.277[<sup>2</sup>](#table1)
+- Bounty Collected: 0.407[<sup>2</sup>](#table1)
+- Opponent Network: 0.275[<sup>2</sup>](#table1)
 - LAN Wins: 0.322[<sup>2</sup>](#table1)
 
 The average of these factors is 0.383<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1129.4
-- 400 + ( ( 0.383 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1129.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1128.5
+- 400 + ( ( 0.383 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1128.5
 
 
 #### Factors<br />
@@ -37,47 +37,47 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |      118 | 2025-02-22 | 9Pandas                                   | L   | 1.000      | -            | -                | -                | -         |   -15.67 | Dytor, forsyy, M1key, nbqq, The eLiVe |
-|           46 |      158 | 2025-02-20 | Fnatic                                    | W   | 1.000      | 0.531        | 0.047 (0.025)    | 0.490 (0.260)    | 0 (0.000) |    15.75 | Dytor, forsyy, M1key, nbqq, The eLiVe |
-|           45 |      274 | 2025-02-14 | 500                                       | L   | 1.000      | -            | -                | -                | -         |   -12.73 | Dytor, forsyy, M1key, nbqq, The eLiVe |
-|           44 |      308 | 2025-02-12 | Team Spirit Academy                       | W   | 1.000      | 0.552        | 0.068 (0.038)    | 0.718 (0.396)    | 0 (0.000) |    12.17 | Dytor, forsyy, M1key, nbqq, The eLiVe |
-|           43 |      528 | 2025-02-06 | 9INE                                      | L   | 1.000      | -            | -                | -                | -         |   -21.22 | Dytor, forsyy, M1key, nbqq, The eLiVe |
-|           42 |      554 | 2025-02-05 | Nexus Gaming                              | W   | 1.000      | 0.600        | 0.178 (0.107)    | 0.497 (0.298)    | 0 (0.000) |    12.88 | Dytor, forsyy, M1key, nbqq, The eLiVe |
-|           41 |      822 | 2024-12-17 | GUN5 Esports                              | L   | 0.707      | -            | -                | -                | -         |   -14.55 | Dytor, forsyy, kreaz, M1key, nbqq     |
-|           40 |      832 | 2024-12-16 | Monte                                     | W   | 0.699      | 0.622        | 0.029 (0.013)    | -                | -         |     4.17 | Dytor, forsyy, kreaz, M1key, nbqq     |
-|           39 |      873 | 2024-12-14 | ECSTATIC                                  | W   | 0.686      | 0.622        | 0.033 (0.014)    | 1.000 (0.427)    | -         |     6.23 | Dytor, forsyy, kreaz, M1key, nbqq     |
-|           38 |      898 | 2024-12-13 | Natus Vincere Junior                      | L   | 0.679      | -            | -                | -                | -         |   -12.83 | Dytor, forsyy, kreaz, M1key, nbqq     |
-|           37 |      913 | 2024-12-12 | ECSTATIC                                  | W   | 0.673      | 0.622        | 0.033 (0.014)    | 1.000 (0.418)    | -         |     5.63 | Dytor, forsyy, kreaz, M1key, nbqq     |
-|           36 |     1259 | 2024-11-24 | UNiTY esports                             | W   | 0.552      | -            | -                | -                | 1 (0.552) |     2.49 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           35 |     1283 | 2024-11-23 | BRUTE                                     | W   | 0.546      | -            | -                | -                | 1 (0.546) |     1.43 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           34 |     1368 | 2024-11-19 | Fnatic                                    | L   | 0.523      | -            | -                | -                | -         |    -8.23 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           33 |     1380 | 2024-11-18 | HEROIC                                    | W   | 0.516      | 0.681        | 0.131 (0.046)    | 0.518 (0.182)    | 1 (0.516) |    11.10 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           32 |     1393 | 2024-11-17 | SINNERS Esports                           | L   | 0.509      | -            | -                | -                | -         |   -11.64 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           31 |     1408 | 2024-11-17 | GamerLegion                               | W   | 0.504      | 0.681        | 0.127 (0.044)    | 0.632 (0.217)    | 1 (0.504) |    14.79 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           30 |     1414 | 2024-11-16 | Team Falcons                              | L   | 0.503      | -            | -                | -                | -         |   -13.93 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           29 |     1579 | 2024-11-11 | 9Pandas                                   | L   | 0.464      | -            | -                | -                | -         |    -8.19 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           28 |     1585 | 2024-11-10 | 9Pandas                                   | L   | 0.460      | -            | -                | -                | -         |    -8.45 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           27 |     1589 | 2024-11-10 | Natus Vincere Junior                      | W   | 0.458      | 0.671        | 0.086 (0.026)    | 0.941 (0.289)    | -         |     5.14 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           47 |      118 | 2025-02-22 | 9Pandas                                   | L   | 1.000      | -            | -                | -                | -         |   -15.64 | Dytor, forsyy, M1key, nbqq, The eLiVe |
+|           46 |      158 | 2025-02-20 | Fnatic                                    | W   | 1.000      | 0.531        | 0.047 (0.025)    | 0.490 (0.260)    | 0 (0.000) |    15.74 | Dytor, forsyy, M1key, nbqq, The eLiVe |
+|           45 |      274 | 2025-02-14 | 500                                       | L   | 1.000      | -            | -                | -                | -         |   -13.06 | Dytor, forsyy, M1key, nbqq, The eLiVe |
+|           44 |      308 | 2025-02-12 | Team Spirit Academy                       | W   | 1.000      | 0.552        | 0.068 (0.038)    | 0.718 (0.396)    | 0 (0.000) |    12.12 | Dytor, forsyy, M1key, nbqq, The eLiVe |
+|           43 |      528 | 2025-02-06 | 9INE                                      | L   | 1.000      | -            | -                | -                | -         |   -21.23 | Dytor, forsyy, M1key, nbqq, The eLiVe |
+|           42 |      554 | 2025-02-05 | Nexus Gaming                              | W   | 1.000      | 0.600        | 0.178 (0.107)    | 0.497 (0.298)    | 0 (0.000) |    12.93 | Dytor, forsyy, M1key, nbqq, The eLiVe |
+|           41 |      822 | 2024-12-17 | GUN5 Esports                              | L   | 0.707      | -            | -                | -                | -         |   -14.58 | Dytor, forsyy, kreaz, M1key, nbqq     |
+|           40 |      832 | 2024-12-16 | Monte                                     | W   | 0.699      | 0.622        | 0.029 (0.013)    | -                | -         |     4.18 | Dytor, forsyy, kreaz, M1key, nbqq     |
+|           39 |      873 | 2024-12-14 | ECSTATIC                                  | W   | 0.686      | 0.622        | 0.033 (0.014)    | 1.000 (0.427)    | -         |     6.19 | Dytor, forsyy, kreaz, M1key, nbqq     |
+|           38 |      898 | 2024-12-13 | Natus Vincere Junior                      | L   | 0.679      | -            | -                | -                | -         |   -12.95 | Dytor, forsyy, kreaz, M1key, nbqq     |
+|           37 |      913 | 2024-12-12 | ECSTATIC                                  | W   | 0.673      | 0.622        | 0.033 (0.014)    | 1.000 (0.418)    | -         |     5.58 | Dytor, forsyy, kreaz, M1key, nbqq     |
+|           36 |     1259 | 2024-11-24 | UNiTY esports                             | W   | 0.552      | -            | -                | -                | 1 (0.552) |     2.50 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           35 |     1283 | 2024-11-23 | BRUTE                                     | W   | 0.546      | -            | -                | -                | 1 (0.546) |     1.44 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           34 |     1368 | 2024-11-19 | Fnatic                                    | L   | 0.523      | -            | -                | -                | -         |    -8.24 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           33 |     1380 | 2024-11-18 | HEROIC                                    | W   | 0.516      | 0.676        | 0.131 (0.046)    | 0.518 (0.180)    | 1 (0.516) |    11.12 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           32 |     1393 | 2024-11-17 | SINNERS Esports                           | L   | 0.509      | -            | -                | -                | -         |   -11.63 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           31 |     1408 | 2024-11-17 | GamerLegion                               | W   | 0.504      | 0.676        | 0.127 (0.043)    | 0.632 (0.216)    | 1 (0.504) |    14.80 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           30 |     1414 | 2024-11-16 | Team Falcons                              | L   | 0.503      | -            | -                | -                | -         |   -13.92 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           29 |     1579 | 2024-11-11 | 9Pandas                                   | L   | 0.464      | -            | -                | -                | -         |    -8.17 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           28 |     1585 | 2024-11-10 | 9Pandas                                   | L   | 0.460      | -            | -                | -                | -         |    -8.43 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           27 |     1589 | 2024-11-10 | Natus Vincere Junior                      | W   | 0.458      | 0.654        | 0.086 (0.026)    | 0.941 (0.281)    | -         |     5.04 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |           26 |     1609 | 2024-11-09 | Sashi Esport                              | W   | 0.452      | 0.535        | -                | 0.582 (0.141)    | -         |     5.43 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |           25 |     1612 | 2024-11-09 | Rebels Gaming                             | W   | 0.451      | -            | -                | -                | -         |     1.74 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |           24 |     1620 | 2024-11-08 | AMKAL ESPORTS                             | W   | 0.446      | -            | -                | -                | -         |     1.02 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           23 |     1626 | 2024-11-08 | Wild Lotus                                | W   | 0.444      | -            | -                | -                | -         |     2.01 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           22 |     1638 | 2024-11-07 | 9Pandas                                   | L   | 0.438      | -            | -                | -                | -         |    -8.14 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           21 |     1666 | 2024-11-05 | SINNERS Esports                           | W   | 0.424      | -            | -                | -                | -         |     3.60 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           20 |     1693 | 2024-11-03 | GUN5 Esports                              | W   | 0.412      | 0.671        | 0.099 (0.027)    | 0.503 (0.139)    | -         |     3.71 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           19 |     1717 | 2024-11-02 | P0RTUGAL                                  | W   | 0.405      | -            | -                | -                | -         |     1.50 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           18 |     1768 | 2024-10-30 | Chimera Esports                           | W   | 0.386      | -            | -                | -                | -         |     2.53 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           23 |     1626 | 2024-11-08 | Wild Lotus                                | W   | 0.444      | -            | -                | -                | -         |     2.02 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           22 |     1638 | 2024-11-07 | 9Pandas                                   | L   | 0.438      | -            | -                | -                | -         |    -8.12 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           21 |     1666 | 2024-11-05 | SINNERS Esports                           | W   | 0.424      | -            | -                | -                | -         |     3.61 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           20 |     1693 | 2024-11-03 | GUN5 Esports                              | W   | 0.412      | 0.654        | 0.099 (0.027)    | 0.503 (0.135)    | -         |     3.69 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           19 |     1717 | 2024-11-02 | P0RTUGAL                                  | W   | 0.405      | -            | -                | -                | -         |     1.51 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           18 |     1768 | 2024-10-30 | Chimera Esports                           | W   | 0.386      | -            | -                | -                | -         |     2.48 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |           17 |     2179 | 2024-10-05 | Team Sampi                                | W   | 0.219      | -            | -                | -                | 1 (0.219) |     1.05 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |           16 |     2185 | 2024-10-05 | The Prodigies                             | W   | 0.217      | -            | -                | -                | 1 (0.217) |     0.27 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           15 |     2214 | 2024-10-04 | Team Sampi                                | L   | 0.212      | -            | -                | -                | -         |    -5.71 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           15 |     2214 | 2024-10-04 | Team Sampi                                | L   | 0.212      | -            | -                | -                | -         |    -5.70 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |           14 |     2248 | 2024-10-03 | The Prodigies                             | W   | 0.205      | -            | -                | -                | 1 (0.205) |     0.24 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           13 |     2250 | 2024-10-03 | 500                                       | L   | 0.204      | -            | -                | -                | -         |    -3.30 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           12 |     2339 | 2024-10-01 | Alliance                                  | W   | 0.192      | -            | -                | -                | -         |     1.69 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|           11 |     2699 | 2024-09-21 | Team Sampi                                | L   | 0.125      | -            | -                | -                | -         |    -3.39 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           13 |     2250 | 2024-10-03 | 500                                       | L   | 0.204      | -            | -                | -                | -         |    -3.44 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           12 |     2339 | 2024-10-01 | Alliance                                  | W   | 0.192      | -            | -                | -                | -         |     1.66 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|           11 |     2699 | 2024-09-21 | Team Sampi                                | L   | 0.125      | -            | -                | -                | -         |    -3.38 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |           10 |     2710 | 2024-09-20 | SINNERS Esports                           | L   | 0.119      | -            | -                | -                | -         |    -2.78 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|            9 |     2791 | 2024-09-18 | Natus Vincere Junior                      | L   | 0.104      | -            | -                | -                | -         |    -2.13 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|            9 |     2791 | 2024-09-18 | Natus Vincere Junior                      | L   | 0.104      | -            | -                | -                | -         |    -2.15 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |            8 |     2815 | 2024-09-17 | KONO.ECF                                  | W   | 0.098      | -            | -                | -                | -         |     0.39 | Blytz, Dytor, forsyy, kreaz, nbqq     |
-|            7 |     2830 | 2024-09-16 | Natus Vincere Junior                      | L   | 0.091      | -            | -                | -                | -         |    -1.88 | Blytz, Dytor, forsyy, kreaz, nbqq     |
+|            7 |     2830 | 2024-09-16 | Natus Vincere Junior                      | L   | 0.091      | -            | -                | -                | -         |    -1.91 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |            6 |     2902 | 2024-09-14 | Leo Team                                  | W   | 0.077      | -            | -                | -                | -         |     0.29 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |            5 |     2984 | 2024-09-11 | Copenhagen Wolves (American organization) | L   | 0.059      | -            | -                | -                | -         |    -1.74 | Blytz, Dytor, forsyy, kreaz, nbqq     |
 |            4 |     2996 | 2024-09-11 | KONO.ECF                                  | W   | 0.057      | -            | -                | -                | -         |     0.22 | Blytz, Dytor, forsyy, kreaz, nbqq     |

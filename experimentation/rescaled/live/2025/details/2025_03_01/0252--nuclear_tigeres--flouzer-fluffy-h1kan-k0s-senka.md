@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |      205 | 2025-02-16 | K27                   | L   | 1.000      | -            | -                | -                | -         |    -9.38 | flouzer, Fluffy, h1kan, k0s, senka |
-|            5 |     1087 | 2024-12-03 | GenOne                | L   | 0.614      | -            | -                | -                | -         |    -4.00 | flouzer, Fluffy, h1kan, k0s, senka |
+|            5 |     1087 | 2024-12-03 | GenOne                | L   | 0.614      | -            | -                | -                | -         |    -4.01 | flouzer, Fluffy, h1kan, k0s, senka |
 |            4 |     1148 | 2024-11-30 | Leo Team              | L   | 0.594      | -            | -                | -                | -         |    -3.75 | flouzer, Fluffy, h1kan, k0s, senka |
 |            3 |     1198 | 2024-11-28 | GameAgents            | W   | 0.580      | 0.400        | 0.000 (0.000)    | 0.036 (0.008)    | 0 (0.000) |     5.56 | flouzer, Fluffy, h1kan, k0s, senka |
 |            2 |     1226 | 2024-11-26 | Soul's Heart Esport   | W   | 0.567      | 0.400        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.55 | flouzer, Fluffy, h1kan, k0s, senka |

@@ -6,22 +6,22 @@ Global Rank: [41](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [10]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1008.3<br />
+Final Rank Value:  1007.9<br />
 <br />
-Final Rank Value (1008.3) = Starting Rank Value (966.1) + Head To Head Adjustments (42.2)<br />
+Final Rank Value (1007.9) = Starting Rank Value (965.8) + Head To Head Adjustments (42.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.441[<sup>1</sup>](#table2)
-- Bounty Collected: 0.385[<sup>2</sup>](#table1)
+- Bounty Collected: 0.384[<sup>2</sup>](#table1)
 - Opponent Network: 0.202[<sup>2</sup>](#table1)
 - LAN Wins: 0.162[<sup>2</sup>](#table1)
 
 The average of these factors is 0.297<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 966.1
-- 400 + ( ( 0.297 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 966.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 965.8
+- 400 + ( ( 0.297 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 965.8
 
 
 #### Factors<br />
@@ -37,40 +37,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           41 |      105 | 2025-02-22 | Imperial Esports | L   | 1.000      | -            | -                | -                | -         |   -11.56 | arT, history, kye, nicks, piriajr |
+|           41 |      105 | 2025-02-22 | Imperial Esports | L   | 1.000      | -            | -                | -                | -         |   -11.59 | arT, history, kye, nicks, piriajr |
 |           40 |      121 | 2025-02-21 | Team Solid       | W   | 1.000      | 0.488        | 0.023 (0.011)    | 0.571 (0.279)    | 0 (0.000) |     9.60 | arT, history, kye, nicks, piriajr |
 |           39 |      302 | 2025-02-12 | Legacy           | L   | 1.000      | -            | -                | -                | -         |   -16.57 | arT, history, kye, nicks, piriajr |
-|           38 |      306 | 2025-02-12 | Sharks Esports   | W   | 1.000      | 0.552        | 0.054 (0.030)    | 0.661 (0.365)    | 0 (0.000) |    15.19 | arT, history, kye, nicks, piriajr |
-|           37 |      323 | 2025-02-11 | Legacy           | L   | 1.000      | -            | -                | -                | -         |   -17.40 | arT, history, kye, nicks, piriajr |
-|           36 |      329 | 2025-02-11 | Imperial Esports | W   | 1.000      | 0.552        | 0.067 (0.037)    | 0.701 (0.387)    | 0 (0.000) |    20.27 | arT, history, kye, nicks, piriajr |
-|           35 |      459 | 2025-02-08 | Imperial Esports | L   | 1.000      | -            | -                | -                | -         |   -13.57 | arT, history, kye, nicks, piriajr |
+|           38 |      306 | 2025-02-12 | Sharks Esports   | W   | 1.000      | 0.552        | 0.054 (0.030)    | 0.661 (0.365)    | 0 (0.000) |    15.20 | arT, history, kye, nicks, piriajr |
+|           37 |      323 | 2025-02-11 | Legacy           | L   | 1.000      | -            | -                | -                | -         |   -17.39 | arT, history, kye, nicks, piriajr |
+|           36 |      329 | 2025-02-11 | Imperial Esports | W   | 1.000      | 0.552        | 0.067 (0.037)    | 0.701 (0.387)    | 0 (0.000) |    20.24 | arT, history, kye, nicks, piriajr |
+|           35 |      459 | 2025-02-08 | Imperial Esports | L   | 1.000      | -            | -                | -                | -         |   -13.62 | arT, history, kye, nicks, piriajr |
 |           34 |      682 | 2025-01-16 | Eternal Fire     | L   | 0.905      | -            | -                | -                | -         |    -0.25 | arT, history, kye, nicks, piriajr |
 |           33 |     1146 | 2024-11-30 | ODDIK            | W   | 0.595      | 0.446        | -                | 0.549 (0.145)    | 0 (0.000) |     4.60 | arT, kye, nicks, piriajr, zevy    |
 |           32 |     1156 | 2024-11-30 | Team Solid       | W   | 0.593      | 0.446        | -                | 0.571 (0.151)    | 0 (0.000) |     5.17 | arT, kye, nicks, piriajr, zevy    |
-|           31 |     1183 | 2024-11-29 | TROPA DO TACO    | W   | 0.587      | -            | -                | -                | 0 (0.000) |     3.12 | arT, kye, nicks, piriajr, zevy    |
+|           31 |     1183 | 2024-11-29 | TROPA DO TACO    | W   | 0.587      | -            | -                | -                | 0 (0.000) |     3.13 | arT, kye, nicks, piriajr, zevy    |
 |           30 |     1211 | 2024-11-27 | Yawara E-Sports  | W   | 0.575      | -            | -                | -                | 0 (0.000) |     2.22 | arT, kye, nicks, piriajr, zevy    |
 |           29 |     1254 | 2024-11-24 | Team Solid       | W   | 0.554      | 0.473        | -                | 0.571 (0.150)    | 1 (0.554) |     4.89 | arT, kye, nicks, piriajr, zevy    |
 |           28 |     1299 | 2024-11-22 | Sharks Esports   | W   | 0.542      | 0.473        | 0.054 (0.014)    | 0.661 (0.170)    | 1 (0.542) |     9.06 | arT, kye, nicks, piriajr, zevy    |
 |           27 |     1590 | 2024-11-09 | Sharks Esports   | W   | 0.455      | 0.485        | 0.054 (0.012)    | 0.661 (0.146)    | -         |     7.94 | arT, kye, nicks, piriajr, zevy    |
-|           26 |     1592 | 2024-11-09 | ODDIK            | W   | 0.454      | 0.485        | -                | 0.549 (0.121)    | -         |     3.87 | arT, kye, nicks, piriajr, zevy    |
-|           25 |     1614 | 2024-11-08 | TROPA DO TACO    | W   | 0.448      | -            | -                | -                | -         |     2.41 | arT, kye, nicks, piriajr, zevy    |
+|           26 |     1592 | 2024-11-09 | ODDIK            | W   | 0.454      | 0.485        | -                | 0.549 (0.121)    | -         |     3.88 | arT, kye, nicks, piriajr, zevy    |
+|           25 |     1614 | 2024-11-08 | TROPA DO TACO    | W   | 0.448      | -            | -                | -                | -         |     2.42 | arT, kye, nicks, piriajr, zevy    |
 |           24 |     1649 | 2024-11-06 | 9z Academy       | W   | 0.432      | -            | -                | -                | -         |     1.04 | arT, kye, nicks, piriajr, zevy    |
 |           23 |     1893 | 2024-10-18 | Nemiga Gaming    | L   | 0.304      | -            | -                | -                | -         |    -4.00 | arT, kye, nicks, piriajr, zevy    |
 |           22 |     1912 | 2024-10-17 | HEROIC           | L   | 0.298      | -            | -                | -                | -         |    -1.65 | arT, kye, nicks, piriajr, zevy    |
 |           21 |     1946 | 2024-10-16 | Aurora Gaming    | W   | 0.290      | -            | -                | -                | 1 (0.290) |     3.12 | arT, kye, nicks, piriajr, zevy    |
 |           20 |     2077 | 2024-10-08 | AdalYamigos      | L   | 0.241      | -            | -                | -                | -         |    -5.99 | arT, kye, nicks, piriajr, zevy    |
 |           19 |     2085 | 2024-10-08 | AdalYamigos      | L   | 0.241      | -            | -                | -                | -         |    -6.07 | arT, kye, nicks, piriajr, zevy    |
-|           18 |     2197 | 2024-10-04 | MIBR             | W   | 0.214      | 0.807        | 0.139 (0.024)    | -                | -         |     6.26 | arT, kye, nicks, piriajr, zevy    |
+|           18 |     2197 | 2024-10-04 | MIBR             | W   | 0.214      | 0.795        | 0.139 (0.024)    | -                | -         |     6.26 | arT, kye, nicks, piriajr, zevy    |
 |           17 |     2198 | 2024-10-04 | MIBR             | L   | 0.214      | -            | -                | -                | -         |    -0.49 | arT, kye, nicks, piriajr, zevy    |
-|           16 |     2264 | 2024-10-02 | PaiN Gaming      | W   | 0.201      | 0.807        | 0.318 (0.052)    | -                | -         |     6.20 | arT, kye, nicks, piriajr, zevy    |
-|           15 |     2269 | 2024-10-02 | PaiN Gaming      | W   | 0.201      | 0.807        | 0.318 (0.052)    | -                | -         |     6.20 | arT, kye, nicks, piriajr, zevy    |
-|           14 |     2363 | 2024-09-30 | Imperial Esports | W   | 0.188      | 0.807        | 0.067 (0.010)    | 0.701 (0.106)    | -         |     3.59 | arT, kye, nicks, piriajr, zevy    |
-|           13 |     2365 | 2024-09-30 | Imperial Esports | W   | 0.188      | 0.807        | 0.067 (0.010)    | -                | -         |     3.64 | arT, kye, nicks, piriajr, zevy    |
+|           16 |     2264 | 2024-10-02 | PaiN Gaming      | W   | 0.201      | 0.795        | 0.318 (0.051)    | -                | -         |     6.20 | arT, kye, nicks, piriajr, zevy    |
+|           15 |     2269 | 2024-10-02 | PaiN Gaming      | W   | 0.201      | 0.795        | 0.318 (0.051)    | -                | -         |     6.20 | arT, kye, nicks, piriajr, zevy    |
+|           14 |     2363 | 2024-09-30 | Imperial Esports | W   | 0.188      | 0.795        | 0.067 (0.010)    | 0.701 (0.105)    | -         |     3.58 | arT, kye, nicks, piriajr, zevy    |
+|           13 |     2365 | 2024-09-30 | Imperial Esports | W   | 0.188      | 0.795        | 0.067 (0.010)    | -                | -         |     3.63 | arT, kye, nicks, piriajr, zevy    |
 |           12 |     2429 | 2024-09-27 | Dusty Roots      | W   | 0.168      | -            | -                | -                | -         |     1.32 | arT, kye, nicks, piriajr, zevy    |
 |           11 |     2433 | 2024-09-27 | Hype Esports     | W   | 0.168      | -            | -                | -                | -         |     0.87 | arT, kye, nicks, piriajr, zevy    |
 |           10 |     2443 | 2024-09-27 | Joga de terno    | W   | 0.167      | -            | -                | -                | -         |     0.35 | arT, kye, nicks, piriajr, zevy    |
-|            9 |     2525 | 2024-09-25 | RED Canids       | W   | 0.154      | -            | -                | -                | -         |     1.84 | arT, kye, nicks, piriajr, zevy    |
-|            8 |     2530 | 2024-09-25 | RED Canids       | W   | 0.154      | -            | -                | -                | -         |     1.86 | arT, kye, nicks, piriajr, zevy    |
+|            9 |     2525 | 2024-09-25 | RED Canids       | W   | 0.154      | -            | -                | -                | -         |     1.83 | arT, kye, nicks, piriajr, zevy    |
+|            8 |     2530 | 2024-09-25 | RED Canids       | W   | 0.154      | -            | -                | -                | -         |     1.85 | arT, kye, nicks, piriajr, zevy    |
 |            7 |     2586 | 2024-09-24 | KRÜ Esports      | L   | 0.148      | -            | -                | -                | -         |    -3.82 | arT, kye, nicks, piriajr, zevy    |
 |            6 |     2592 | 2024-09-24 | KRÜ Esports      | L   | 0.147      | -            | -                | -                | -         |    -3.84 | arT, kye, nicks, piriajr, zevy    |
 |            5 |     2636 | 2024-09-23 | ODDIK            | W   | 0.141      | -            | -                | -                | -         |     1.23 | arT, kye, nicks, piriajr, zevy    |

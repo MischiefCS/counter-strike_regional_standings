@@ -38,10 +38,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |      291 | 2025-02-13 | NRG                       | L   | 1.000      | -            | -                | -                | -         |    -2.94 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            8 |      349 | 2025-02-10 | Chill Guys                | W   | 1.000      | 0.331        | 0.002 (0.001)    | 0.173 (0.057)    | 0 (0.000) |    17.10 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            8 |      349 | 2025-02-10 | Chill Guys                | W   | 1.000      | 0.331        | 0.002 (0.001)    | 0.173 (0.057)    | 0 (0.000) |    17.09 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
 |            7 |      355 | 2025-02-10 | InControl                 | W   | 1.000      | 0.331        | 0.001 (0.000)    | 0.075 (0.025)    | 0 (0.000) |    15.99 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
 |            6 |      392 | 2025-02-09 | FlyQuest RED              | W   | 1.000      | 0.331        | 0.007 (0.002)    | 0.052 (0.017)    | 0 (0.000) |    16.81 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            5 |      440 | 2025-02-08 | Chill Guys                | L   | 1.000      | -            | -                | -                | -         |   -13.01 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            5 |      440 | 2025-02-08 | Chill Guys                | L   | 1.000      | -            | -                | -                | -         |   -13.02 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
 |            4 |      839 | 2024-12-15 | Nitro.GG                  | L   | 0.695      | -            | -                | -                | -         |    -8.88 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
 |            3 |      865 | 2024-12-14 | 9z Academy                | L   | 0.687      | -            | -                | -                | -         |   -13.69 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
 |            2 |     2903 | 2024-09-13 | Undefined (American team) | L   | 0.075      | -            | -                | -                | -         |    -1.21 | Antuanette, BabyRage, SJR, Slayerhz, zockie |

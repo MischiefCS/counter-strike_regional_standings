@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1820 | 2024-10-26 | Illuminar Gaming     | W   | 0.360      | 0.408        | 0.007 (0.001)    | 0.323 (0.047)    | 1 (0.360) |     6.90 | bajmi, Demho, Ex1st, mwlky, Sobol  |
+|           15 |     1820 | 2024-10-26 | Illuminar Gaming     | W   | 0.360      | 0.408        | 0.007 (0.001)    | 0.323 (0.047)    | 1 (0.360) |     6.89 | bajmi, Demho, Ex1st, mwlky, Sobol  |
 |           14 |     1827 | 2024-10-26 | Los kogutos          | W   | 0.358      | 0.408        | 0.027 (0.004)    | 0.387 (0.057)    | 1 (0.358) |     8.44 | bajmi, Demho, Ex1st, mwlky, Sobol  |
 |           13 |     1831 | 2024-10-26 | Ins (Polish team)    | W   | 0.357      | 0.408        | 0.001 (0.000)    | 0.031 (0.005)    | 1 (0.357) |     4.21 | bajmi, Demho, Ex1st, mwlky, Sobol  |
 |           12 |     1973 | 2024-10-13 | Passion UA           | L   | 0.272      | -            | -                | -                | -         |    -0.68 | bajmi, Demho, Ex1st, mwlky, Sobol  |
-|           11 |     1984 | 2024-10-12 | Illuminar Gaming     | L   | 0.266      | -            | -                | -                | -         |    -3.26 | bajmi, Demho, Ex1st, mwlky, Sobol  |
+|           11 |     1984 | 2024-10-12 | Illuminar Gaming     | L   | 0.266      | -            | -                | -                | -         |    -3.27 | bajmi, Demho, Ex1st, mwlky, Sobol  |
 |           10 |     2602 | 2024-09-24 | Rebels Gaming        | L   | 0.146      | -            | -                | -                | -         |    -2.04 | Demho, Ex1st, mwlky, sk1tt, Sobol  |
 |            9 |     2647 | 2024-09-23 | Los kogutos          | W   | 0.140      | 0.410        | 0.027 (0.002)    | 0.387 (0.022)    | 0 (0.000) |     3.36 | Demho, Ex1st, mwlky, sk1tt, Sobol  |
 |            8 |     2720 | 2024-09-20 | Team Space           | L   | 0.118      | -            | -                | -                | -         |    -2.90 | bajmi, Demho, Ex1st, m4tthi, Sobol |
 |            7 |     2867 | 2024-09-15 | KONO.ECF             | L   | 0.084      | -            | -                | -                | -         |    -1.08 | bajmi, Demho, Ex1st, mwlky, Sobol  |
-|            6 |     2885 | 2024-09-14 | Natus Vincere Junior | L   | 0.078      | -            | -                | -                | -         |    -0.40 | bajmi, Demho, Ex1st, mwlky, Sobol  |
+|            6 |     2885 | 2024-09-14 | Natus Vincere Junior | L   | 0.078      | -            | -                | -                | -         |    -0.41 | bajmi, Demho, Ex1st, mwlky, Sobol  |
 |            5 |     2924 | 2024-09-13 | HOTU                 | L   | 0.071      | -            | -                | -                | -         |    -1.27 | bajmi, Demho, Ex1st, m4tthi, Sobol |
 |            4 |     2964 | 2024-09-12 | UNiTY esports        | W   | 0.064      | 0.532        | 0.025 (0.001)    | 0.177 (0.006)    | 0 (0.000) |     1.18 | bajmi, Demho, Ex1st, mwlky, Sobol  |
 |            3 |     3067 | 2024-09-07 | TEAM NEXT LEVEL      | L   | 0.033      | -            | -                | -                | -         |    -0.52 | bajmi, Demho, Ex1st, fr3nd, Sobol  |

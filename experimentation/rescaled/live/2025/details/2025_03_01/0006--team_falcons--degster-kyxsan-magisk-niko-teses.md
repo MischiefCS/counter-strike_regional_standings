@@ -8,7 +8,7 @@ Regional Rank: [5]( ../../standings_europe_2025_03_01.md)<br />
 <br />
 Final Rank Value:  1838.5<br />
 <br />
-Final Rank Value (1838.5) = Starting Rank Value (1892.6) + Head To Head Adjustments (-54.0)<br />
+Final Rank Value (1838.5) = Starting Rank Value (1892.6) + Head To Head Adjustments (-54.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,8 +41,8 @@ Note:<br />
 |           39 |      106 | 2025-02-22 | FaZe Clan          | W   | 1.000      | 1.000        | 0.744 (0.744)    | 0.618 (0.618)    | 1 (1.000) |    16.57 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           38 |      145 | 2025-02-21 | Eternal Fire       | W   | 1.000      | 1.000        | 0.588 (0.588)    | 0.635 (0.635)    | 1 (1.000) |    17.67 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           37 |      201 | 2025-02-17 | MOUZ               | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.606 (0.606)    | 1 (1.000) |    16.80 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           36 |      214 | 2025-02-16 | Astralis           | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |    11.98 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           35 |      233 | 2025-02-15 | PaiN Gaming        | L   | 1.000      | -            | -                | -                | -         |   -23.61 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           36 |      214 | 2025-02-16 | Astralis           | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |    11.95 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           35 |      233 | 2025-02-15 | PaiN Gaming        | L   | 1.000      | -            | -                | -                | -         |   -23.62 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           34 |      276 | 2025-02-14 | FlyQuest           | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.53 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           33 |      366 | 2025-02-10 | BetBoom Team       | W   | 1.000      | -            | -                | -                | -         |     0.78 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           32 |      376 | 2025-02-10 | TEAM NEXT LEVEL    | W   | 1.000      | -            | -                | -                | -         |     0.06 | degster, kyxsan, Magisk, NiKo, TeSeS  |
@@ -68,7 +68,7 @@ Note:<br />
 |           12 |     1915 | 2024-10-17 | Rebels Gaming      | W   | 0.297      | -            | -                | -                | -         |     0.02 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |           11 |     1983 | 2024-10-12 | Natus Vincere      | L   | 0.266      | -            | -                | -                | -         |    -5.88 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |           10 |     2039 | 2024-10-09 | Team Vitality      | W   | 0.246      | 1.000        | 1.000 (0.246)    | -                | -         |     4.06 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|            9 |     2096 | 2024-10-08 | Astralis           | W   | 0.240      | 1.000        | 0.609 (0.146)    | 1.000 (0.240)    | -         |     3.46 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|            9 |     2096 | 2024-10-08 | Astralis           | W   | 0.240      | 1.000        | 0.609 (0.146)    | 1.000 (0.240)    | -         |     3.45 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |            8 |     2128 | 2024-10-07 | G2 Esports         | W   | 0.233      | 1.000        | 1.000 (0.233)    | -                | -         |     2.77 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |            7 |     2784 | 2024-09-18 | MIBR               | L   | 0.104      | -            | -                | -                | -         |    -3.03 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |            6 |     2813 | 2024-09-17 | Virtus.pro         | W   | 0.098      | -            | -                | -                | -         |     0.60 | degster, kyxsan, NertZ, sjuush, TeSeS |

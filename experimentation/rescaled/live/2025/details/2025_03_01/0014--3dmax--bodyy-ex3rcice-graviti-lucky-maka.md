@@ -6,9 +6,9 @@ Global Rank: [14](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [12]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1573.0<br />
+Final Rank Value:  1572.9<br />
 <br />
-Final Rank Value (1573.0) = Starting Rank Value (1615.6) + Head To Head Adjustments (-42.6)<br />
+Final Rank Value (1572.9) = Starting Rank Value (1615.6) + Head To Head Adjustments (-42.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,9 +37,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           45 |      175 | 2025-02-18 | SAW                        | L   | 1.000      | -            | -                | -                | -         |   -27.62 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
+|           45 |      175 | 2025-02-18 | SAW                        | L   | 1.000      | -            | -                | -                | -         |   -27.64 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
 |           44 |      198 | 2025-02-17 | Eternal Fire               | L   | 1.000      | -            | -                | -                | -         |    -5.57 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
-|           43 |      216 | 2025-02-16 | MIBR                       | W   | 1.000      | 1.000        | 0.139 (0.139)    | 0.604 (0.604)    | 1 (1.000) |     7.39 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
+|           43 |      216 | 2025-02-16 | MIBR                       | W   | 1.000      | 1.000        | 0.139 (0.139)    | 0.604 (0.604)    | 1 (1.000) |     7.38 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
 |           42 |      252 | 2025-02-15 | MOUZ                       | L   | 1.000      | -            | -                | -                | -         |    -6.13 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
 |           41 |      281 | 2025-02-14 | Virtus.pro                 | W   | 1.000      | 1.000        | 0.268 (0.268)    | 0.547 (0.547)    | 1 (1.000) |    16.89 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
 |           40 |      361 | 2025-02-10 | HEROIC                     | W   | 1.000      | 0.531        | 0.131 (0.069)    | 0.518 (0.275)    | -         |     4.84 | bodyy, Ex3rcice, Graviti, Lucky, Maka |
@@ -47,13 +47,13 @@ Note:<br />
 |           38 |      587 | 2025-02-03 | Eternal Fire               | L   | 1.000      | -            | -                | -                | -         |    -4.86 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           37 |      595 | 2025-02-02 | BIG                        | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |    11.42 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           36 |      617 | 2025-02-01 | Team Vitality              | L   | 1.000      | -            | -                | -                | -         |    -4.57 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
-|           35 |      628 | 2025-01-30 | MIBR                       | W   | 0.999      | 1.000        | 0.139 (0.139)    | 0.604 (0.603)    | 1 (0.999) |    10.28 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
+|           35 |      628 | 2025-01-30 | MIBR                       | W   | 0.999      | 1.000        | 0.139 (0.139)    | 0.604 (0.603)    | 1 (0.999) |    10.27 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           34 |      643 | 2025-01-29 | FlyQuest                   | W   | 0.991      | 1.000        | 0.105 (0.104)    | 0.223 (0.221)    | 1 (0.991) |     2.00 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           33 |      690 | 2025-01-14 | HEROIC                     | L   | 0.892      | -            | -                | -                | -         |   -24.40 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           32 |     1002 | 2024-12-06 | MOUZ                       | L   | 0.636      | -            | -                | -                | -         |    -2.67 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           31 |     1028 | 2024-12-05 | G2 Esports                 | L   | 0.629      | -            | -                | -                | -         |    -4.44 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           30 |     1040 | 2024-12-05 | PaiN Gaming                | W   | 0.625      | 1.000        | 0.318 (0.199)    | 0.632 (0.395)    | 1 (0.625) |    10.10 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
-|           29 |     1055 | 2024-12-04 | MIBR                       | L   | 0.623      | -            | -                | -                | -         |   -14.08 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
+|           29 |     1055 | 2024-12-04 | MIBR                       | L   | 0.623      | -            | -                | -                | -         |   -14.09 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           28 |     1320 | 2024-11-22 | G2 Esports                 | W   | 0.538      | 1.000        | 1.000 (0.538)    | 0.460 (0.247)    | 1 (0.538) |    13.22 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           27 |     1338 | 2024-11-21 | Eternal Fire               | W   | 0.532      | 1.000        | 0.588 (0.312)    | 0.635 (0.337)    | 1 (0.532) |    14.42 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           26 |     1347 | 2024-11-20 | TSM                        | W   | 0.530      | -            | -                | -                | 1 (0.530) |     0.16 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
@@ -61,11 +61,11 @@ Note:<br />
 |           24 |     1704 | 2024-11-02 | The MongolZ                | L   | 0.407      | -            | -                | -                | -         |    -1.87 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           23 |     1862 | 2024-10-19 | Nemiga Gaming              | L   | 0.312      | -            | -                | -                | -         |    -9.37 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           22 |     1887 | 2024-10-18 | SAW                        | W   | 0.306      | 0.749        | 0.262 (0.060)    | -                | -         |     1.42 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
-|           21 |     1906 | 2024-10-17 | Sashi Esport               | W   | 0.299      | -            | -                | -                | -         |     0.46 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
+|           21 |     1906 | 2024-10-17 | Sashi Esport               | W   | 0.299      | -            | -                | -                | -         |     0.45 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           20 |     1931 | 2024-10-16 | Nemiga Gaming              | L   | 0.293      | -            | -                | -                | -         |    -8.84 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           19 |     1957 | 2024-10-15 | TSM                        | W   | 0.286      | -            | -                | -                | -         |     0.08 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           18 |     1985 | 2024-10-12 | Team Spirit Academy        | L   | 0.265      | -            | -                | -                | -         |    -8.14 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
-|           17 |     1998 | 2024-10-10 | CYBERSHOKE Esports         | W   | 0.253      | -            | -                | -                | -         |     0.18 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
+|           17 |     1998 | 2024-10-10 | CYBERSHOKE Esports         | W   | 0.253      | -            | -                | -                | -         |     0.17 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           16 |     2159 | 2024-10-06 | Passion UA                 | L   | 0.224      | -            | -                | -                | -         |    -6.55 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           15 |     2186 | 2024-10-05 | PARIVISION                 | W   | 0.217      | -            | -                | -                | -         |     0.05 | Djoko, Ex3rcice, Graviti, Lucky, Maka |
 |           14 |     2244 | 2024-10-03 | Rhyno Esports              | W   | 0.206      | -            | -                | -                | -         |     0.04 | Djoko, Ex3rcice, Graviti, Lucky, Maka |

@@ -43,7 +43,7 @@ Note:<br />
 |           19 |     1462 | 2024-11-15 | Team Canada       | W   | 0.491      | 0.617        | 0.000 (0.000)    | 0.040 (0.012)    | 1 (0.491) |     4.47 | gump, pain, Rickeh, Texta, tucks |
 |           18 |     1472 | 2024-11-14 | Team Turkey       | L   | 0.487      | -            | -                | -                | -         |    -9.69 | gump, pain, Rickeh, Texta, tucks |
 |           17 |     1516 | 2024-11-13 | Team Norway       | L   | 0.479      | -            | -                | -                | -         |   -10.22 | gump, pain, Rickeh, Texta, tucks |
-|           16 |     1519 | 2024-11-13 | Metizport         | L   | 0.479      | -            | -                | -                | -         |    -1.38 | gump, pain, Rickeh, Texta, tucks |
+|           16 |     1519 | 2024-11-13 | Metizport         | L   | 0.479      | -            | -                | -                | -         |    -1.39 | gump, pain, Rickeh, Texta, tucks |
 |           15 |     1852 | 2024-10-19 | FlyQuest          | L   | 0.316      | -            | -                | -                | -         |    -1.38 | gump, pain, Rickeh, Texta, tucks |
 |           14 |     1870 | 2024-10-19 | Housebets         | W   | 0.310      | 0.508        | 0.001 (0.000)    | 0.144 (0.023)    | 0 (0.000) |     3.66 | gump, pain, Rickeh, Texta, tucks |
 |           13 |     1894 | 2024-10-18 | FlyQuest          | L   | 0.304      | -            | -                | -                | -         |    -1.31 | gump, pain, Rickeh, Texta, tucks |

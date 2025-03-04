@@ -6,9 +6,9 @@ Global Rank: [233](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [69]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  586.9<br />
+Final Rank Value:  586.8<br />
 <br />
-Final Rank Value (586.9) = Starting Rank Value (595.6) + Head To Head Adjustments (-8.6)<br />
+Final Rank Value (586.8) = Starting Rank Value (595.4) + Head To Head Adjustments (-8.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.103<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 595.6
-- 400 + ( ( 0.103 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 595.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 595.4
+- 400 + ( ( 0.103 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 595.4
 
 
 #### Factors<br />
@@ -40,9 +40,9 @@ Note:<br />
 |            6 |     1873 | 2024-10-18 | Nouns.fe     | L   | 0.308      | -            | -                | -                | -         |    -4.67 | buhnny, Ellie, EMUHLEET, olya, rain |
 |            5 |     2259 | 2024-10-02 | FlyQuest RED | L   | 0.201      | -            | -                | -                | -         |    -2.76 | buhnny, Ellie, EMUHLEET, olya, rain |
 |            4 |     2523 | 2024-09-25 | FLUFFY MAFIA | L   | 0.155      | -            | -                | -                | -         |    -2.31 | buhnny, Ellie, EMUHLEET, olya, rain |
-|            3 |     2732 | 2024-09-19 | Aware Impact | W   | 0.115      | 0.347        | 0.001 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     1.80 | buhnny, Ellie, EMUHLEET, olya, rain |
+|            3 |     2732 | 2024-09-19 | Aware Impact | W   | 0.115      | 0.338        | 0.001 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     1.80 | buhnny, Ellie, EMUHLEET, olya, rain |
 |            2 |     2969 | 2024-09-11 | TSM Impact   | L   | 0.061      | -            | -                | -                | -         |    -0.93 | buhnny, Ellie, EMUHLEET, olya, rain |
-|            1 |     3163 | 2024-09-04 | Lotus        | W   | 0.015      | 0.347        | 0.001 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     0.23 | buhnny, Ellie, EMUHLEET, olya, rain |
+|            1 |     3163 | 2024-09-04 | Lotus        | W   | 0.015      | 0.338        | 0.001 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     0.23 | buhnny, Ellie, EMUHLEET, olya, rain |
 
 <br />
 <span id="table2"></span><br />

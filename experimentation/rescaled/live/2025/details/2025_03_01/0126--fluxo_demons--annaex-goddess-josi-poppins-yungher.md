@@ -45,15 +45,15 @@ Note:<br />
 |           12 |     1316 | 2024-11-22 | FlyQuest RED         | W   | 0.538      | 0.559        | 0.007 (0.002)    | 0.052 (0.016)    | 1 (0.538) |     6.18 | annaEX, goddess, josi, poppins, yungher |
 |           11 |     1880 | 2024-10-18 | FURIA Esports Female | L   | 0.307      | -            | -                | -                | -         |    -1.92 | annaEX, goddess, josi, poppins, yungher |
 |           10 |     1981 | 2024-10-12 | FURIA Esports Female | L   | 0.266      | -            | -                | -                | -         |    -1.69 | annaEX, goddess, josi, poppins, yungher |
-|            9 |     2273 | 2024-10-02 | Peak Academy Female  | W   | 0.200      | 0.467        | 0.001 (0.000)    | 0.018 (0.002)    | 0 (0.000) |     1.90 | annaEX, goddess, josi, poppins, yungher |
+|            9 |     2273 | 2024-10-02 | Peak Academy Female  | W   | 0.200      | 0.465        | 0.001 (0.000)    | 0.018 (0.002)    | 0 (0.000) |     1.90 | annaEX, goddess, josi, poppins, yungher |
 |            8 |     2407 | 2024-09-28 | FURIA Esports Female | L   | 0.173      | -            | -                | -                | -         |    -1.11 | annaEX, goddess, josi, poppins, yungher |
 |            7 |     2444 | 2024-09-27 | Atrix Esports        | W   | 0.167      | 0.459        | 0.001 (0.000)    | 0.037 (0.003)    | 0 (0.000) |     1.76 | annaEX, goddess, josi, poppins, yungher |
-|            6 |     2474 | 2024-09-26 | Capivaras            | W   | 0.160      | 0.467        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.10 | annaEX, goddess, josi, poppins, yungher |
+|            6 |     2474 | 2024-09-26 | Capivaras            | W   | 0.160      | 0.465        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.10 | annaEX, goddess, josi, poppins, yungher |
 |            5 |     2583 | 2024-09-24 | Peak Academy Female  | W   | 0.148      | 0.459        | 0.001 (0.000)    | 0.018 (0.001)    | 0 (0.000) |     1.44 | annaEX, goddess, josi, poppins, yungher |
 |            4 |     2639 | 2024-09-23 | Atrix Esports        | L   | 0.141      | -            | -                | -                | -         |    -2.97 | annaEX, goddess, josi, poppins, yungher |
-|            3 |     2740 | 2024-09-19 | Atrix Esports        | W   | 0.114      | 0.467        | 0.001 (0.000)    | 0.037 (0.002)    | 0 (0.000) |     1.20 | annaEX, goddess, josi, poppins, yungher |
-|            2 |     2971 | 2024-09-11 | MIBR Female          | W   | 0.060      | 0.467        | 0.004 (0.000)    | 0.052 (0.001)    | 0 (0.000) |     0.67 | annaEX, goddess, josi, poppins, yungher |
-|            1 |     3167 | 2024-09-04 | Thekillaz            | W   | 0.014      | 0.467        | 0.001 (0.000)    | 0.026 (0.000)    | 0 (0.000) |     0.14 | annaEX, goddess, josi, poppins, yungher |
+|            3 |     2740 | 2024-09-19 | Atrix Esports        | W   | 0.114      | 0.465        | 0.001 (0.000)    | 0.037 (0.002)    | 0 (0.000) |     1.20 | annaEX, goddess, josi, poppins, yungher |
+|            2 |     2971 | 2024-09-11 | MIBR Female          | W   | 0.060      | 0.465        | 0.004 (0.000)    | 0.052 (0.001)    | 0 (0.000) |     0.67 | annaEX, goddess, josi, poppins, yungher |
+|            1 |     3167 | 2024-09-04 | Thekillaz            | W   | 0.014      | 0.465        | 0.001 (0.000)    | 0.026 (0.000)    | 0 (0.000) |     0.14 | annaEX, goddess, josi, poppins, yungher |
 
 <br />
 <span id="table2"></span><br />

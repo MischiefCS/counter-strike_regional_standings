@@ -40,12 +40,12 @@ Note:<br />
 |           16 |       30 | 2025-02-25 | DogEvil                   | L   | 1.000      | -            | -                | -                | -         |   -21.86 | expSasiKi, Miami, rage, risk, SPine |
 |           15 |       48 | 2025-02-24 | Just Swing (Chinese team) | W   | 1.000      | 0.295        | 0.004 (0.001)    | 0.193 (0.057)    | 0 (0.000) |    10.42 | expSasiKi, Miami, rage, risk, SPine |
 |           14 |       59 | 2025-02-24 | Change The Game           | L   | 1.000      | -            | -                | -                | -         |   -25.39 | expSasiKi, Miami, rage, risk, SPine |
-|           13 |      319 | 2025-02-11 | Lynn Vision Gaming        | L   | 1.000      | -            | -                | -                | -         |   -10.97 | expSasiKi, Miami, rage, risk, SPine |
+|           13 |      319 | 2025-02-11 | Lynn Vision Gaming        | L   | 1.000      | -            | -                | -                | -         |   -10.98 | expSasiKi, Miami, rage, risk, SPine |
 |           12 |      379 | 2025-02-09 | Gods Reign                | W   | 1.000      | 0.349        | 0.014 (0.005)    | 0.360 (0.126)    | 0 (0.000) |    20.90 | expSasiKi, Miami, rage, risk, SPine |
 |           11 |      385 | 2025-02-09 | Shika                     | W   | 1.000      | 0.349        | 0.000 (0.000)    | 0.180 (0.063)    | 0 (0.000) |     6.38 | expSasiKi, Miami, rage, risk, SPine |
 |           10 |      413 | 2025-02-08 | Gods Reign                | L   | 1.000      | -            | -                | -                | -         |    -9.94 | expSasiKi, Miami, rage, risk, SPine |
 |            9 |      508 | 2025-02-06 | Shika                     | W   | 1.000      | 0.349        | 0.000 (0.000)    | 0.180 (0.063)    | 0 (0.000) |     5.90 | expSasiKi, Miami, rage, risk, SPine |
-|            8 |     1722 | 2024-11-02 | Lynn Vision Gaming        | L   | 0.404      | -            | -                | -                | -         |    -4.32 | FIOURN, Miami, rage, SPine, Zy88    |
+|            8 |     1722 | 2024-11-02 | Lynn Vision Gaming        | L   | 0.404      | -            | -                | -                | -         |    -4.33 | FIOURN, Miami, rage, SPine, Zy88    |
 |            7 |     1891 | 2024-10-18 | Chinggis Warriors         | W   | 0.305      | 0.465        | 0.016 (0.002)    | 0.555 (0.079)    | 1 (0.305) |     6.30 | FIOURN, Miami, rage, SPine, Zy88    |
 |            6 |     1940 | 2024-10-16 | TYLOO                     | L   | 0.291      | -            | -                | -                | -         |    -3.47 | FIOURN, Miami, rage, SPine, Zy88    |
 |            5 |     1962 | 2024-10-15 | The Huns Esports          | W   | 0.285      | 0.465        | 0.025 (0.003)    | 0.516 (0.068)    | 1 (0.285) |     7.10 | FIOURN, Miami, rage, SPine, Zy88    |

@@ -6,9 +6,9 @@ Global Rank: [11](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [1]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1622.2<br />
+Final Rank Value:  1621.9<br />
 <br />
-Final Rank Value (1622.2) = Starting Rank Value (1681.7) + Head To Head Adjustments (-59.5)<br />
+Final Rank Value (1621.9) = Starting Rank Value (1681.4) + Head To Head Adjustments (-59.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.673<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1681.7
-- 400 + ( ( 0.673 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1681.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1681.4
+- 400 + ( ( 0.673 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1681.4
 
 
 #### Factors<br />
@@ -37,39 +37,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           52 |      151 | 2025-02-21 | MOUZ             | L   | 1.000      | -            | -                | -                | -         |    -7.39 | biguzera, dav1deuS, kauez, nqz, snow |
-|           51 |      184 | 2025-02-17 | Virtus.pro       | W   | 1.000      | 1.000        | 0.268 (0.268)    | 0.547 (0.547)    | 1 (1.000) |    15.41 | biguzera, dav1deuS, kauez, nqz, snow |
-|           50 |      208 | 2025-02-16 | The MongolZ      | L   | 1.000      | -            | -                | -                | -         |    -5.08 | biguzera, dav1deuS, kauez, nqz, snow |
-|           49 |      233 | 2025-02-15 | Team Falcons     | W   | 1.000      | 1.000        | 0.927 (0.927)    | 0.744 (0.744)    | 1 (1.000) |    23.61 | biguzera, dav1deuS, kauez, nqz, snow |
-|           48 |      273 | 2025-02-14 | Astralis         | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |    21.64 | biguzera, dav1deuS, kauez, nqz, snow |
-|           47 |      403 | 2025-02-09 | Imperial Esports | L   | 1.000      | -            | -                | -                | -         |   -29.68 | biguzera, dav1deuS, kauez, nqz, snow |
-|           46 |      437 | 2025-02-08 | RED Canids       | W   | 1.000      | -            | -                | -                | -         |     0.52 | biguzera, dav1deuS, kauez, nqz, snow |
-|           45 |      620 | 2025-01-31 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -8.57 | biguzera, dav1deuS, kauez, nqz, snow |
-|           44 |      630 | 2025-01-30 | GamerLegion      | L   | 0.998      | -            | -                | -                | -         |   -18.30 | biguzera, dav1deuS, kauez, nqz, snow |
+|           52 |      151 | 2025-02-21 | MOUZ             | L   | 1.000      | -            | -                | -                | -         |    -7.38 | biguzera, dav1deuS, kauez, nqz, snow |
+|           51 |      184 | 2025-02-17 | Virtus.pro       | W   | 1.000      | 1.000        | 0.268 (0.268)    | 0.547 (0.547)    | 1 (1.000) |    15.42 | biguzera, dav1deuS, kauez, nqz, snow |
+|           50 |      208 | 2025-02-16 | The MongolZ      | L   | 1.000      | -            | -                | -                | -         |    -5.07 | biguzera, dav1deuS, kauez, nqz, snow |
+|           49 |      233 | 2025-02-15 | Team Falcons     | W   | 1.000      | 1.000        | 0.927 (0.927)    | 0.744 (0.744)    | 1 (1.000) |    23.62 | biguzera, dav1deuS, kauez, nqz, snow |
+|           48 |      273 | 2025-02-14 | Astralis         | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |    21.62 | biguzera, dav1deuS, kauez, nqz, snow |
+|           47 |      403 | 2025-02-09 | Imperial Esports | L   | 1.000      | -            | -                | -                | -         |   -29.69 | biguzera, dav1deuS, kauez, nqz, snow |
+|           46 |      437 | 2025-02-08 | RED Canids       | W   | 1.000      | -            | -                | -                | -         |     0.51 | biguzera, dav1deuS, kauez, nqz, snow |
+|           45 |      620 | 2025-01-31 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -8.58 | biguzera, dav1deuS, kauez, nqz, snow |
+|           44 |      630 | 2025-01-30 | GamerLegion      | L   | 0.998      | -            | -                | -                | -         |   -18.29 | biguzera, dav1deuS, kauez, nqz, snow |
 |           43 |      642 | 2025-01-29 | Virtus.pro       | W   | 0.991      | 1.000        | 0.268 (0.266)    | 0.547 (0.542)    | 1 (0.991) |    13.88 | biguzera, dav1deuS, kauez, nqz, snow |
-|           42 |      661 | 2025-01-24 | Natus Vincere    | L   | 0.960      | -            | -                | -                | -         |    -9.87 | biguzera, dav1deuS, kauez, nqz, snow |
-|           41 |      674 | 2025-01-18 | FaZe Clan        | W   | 0.919      | 0.943        | 0.744 (0.645)    | 0.618 (0.536)    | -         |    23.12 | biguzera, dav1deuS, kauez, nqz, snow |
-|           40 |      679 | 2025-01-17 | GamerLegion      | W   | 0.911      | 0.943        | 0.127 (0.109)    | 0.632 (0.544)    | -         |    12.72 | biguzera, dav1deuS, kauez, nqz, snow |
-|           39 |      996 | 2024-12-07 | FURIA            | L   | 0.637      | -            | -                | -                | -         |   -13.73 | biguzera, kauez, lux, nqz, snow      |
-|           38 |     1024 | 2024-12-06 | BIG              | W   | 0.631      | 1.000        | 0.220 (0.138)    | 0.558 (0.352)    | 1 (0.631) |     7.98 | biguzera, kauez, lux, nqz, snow      |
+|           42 |      661 | 2025-01-24 | Natus Vincere    | L   | 0.960      | -            | -                | -                | -         |    -9.86 | biguzera, dav1deuS, kauez, nqz, snow |
+|           41 |      674 | 2025-01-18 | FaZe Clan        | W   | 0.919      | 0.943        | 0.744 (0.645)    | 0.618 (0.536)    | -         |    23.13 | biguzera, dav1deuS, kauez, nqz, snow |
+|           40 |      679 | 2025-01-17 | GamerLegion      | W   | 0.911      | 0.943        | 0.127 (0.109)    | 0.632 (0.544)    | -         |    12.73 | biguzera, dav1deuS, kauez, nqz, snow |
+|           39 |      996 | 2024-12-07 | FURIA            | L   | 0.637      | -            | -                | -                | -         |   -13.72 | biguzera, kauez, lux, nqz, snow      |
+|           38 |     1024 | 2024-12-06 | BIG              | W   | 0.631      | 1.000        | 0.220 (0.138)    | 0.558 (0.352)    | 1 (0.631) |     7.99 | biguzera, kauez, lux, nqz, snow      |
 |           37 |     1040 | 2024-12-05 | 3DMAX            | L   | 0.625      | -            | -                | -                | -         |   -10.10 | biguzera, kauez, lux, nqz, snow      |
 |           36 |     1059 | 2024-12-04 | MOUZ             | L   | 0.623      | -            | -                | -                | -         |    -2.52 | biguzera, kauez, lux, nqz, snow      |
-|           35 |     1123 | 2024-12-01 | FlyQuest         | W   | 0.603      | 1.000        | 0.105 (0.063)    | -                | 1 (0.603) |     0.89 | biguzera, kauez, lux, nqz, snow      |
+|           35 |     1123 | 2024-12-01 | FlyQuest         | W   | 0.603      | 1.000        | 0.105 (0.063)    | 0.223 (0.135)    | 1 (0.603) |     0.89 | biguzera, kauez, lux, nqz, snow      |
 |           34 |     1142 | 2024-11-30 | Cloud9           | W   | 0.596      | -            | -                | -                | 1 (0.596) |     0.50 | biguzera, kauez, lux, nqz, snow      |
-|           33 |     1162 | 2024-11-30 | GamerLegion      | L   | 0.592      | -            | -                | -                | -         |   -10.49 | biguzera, kauez, lux, nqz, snow      |
-|           32 |     1173 | 2024-11-29 | Imperial Esports | W   | 0.590      | 1.000        | 0.067 (0.039)    | 0.701 (0.414)    | 1 (0.590) |     0.75 | biguzera, kauez, lux, nqz, snow      |
+|           33 |     1162 | 2024-11-30 | GamerLegion      | L   | 0.592      | -            | -                | -                | -         |   -10.48 | biguzera, kauez, lux, nqz, snow      |
+|           32 |     1173 | 2024-11-29 | Imperial Esports | W   | 0.590      | 1.000        | 0.067 (0.039)    | 0.701 (0.414)    | 1 (0.590) |     0.74 | biguzera, kauez, lux, nqz, snow      |
 |           31 |     1505 | 2024-11-13 | 9z Team          | W   | 0.483      | -            | -                | -                | 1 (0.483) |     0.17 | biguzera, kauez, lux, nqz, snow      |
-|           30 |     1531 | 2024-11-12 | Imperial Esports | W   | 0.476      | 0.633        | -                | 0.701 (0.212)    | 1 (0.476) |     0.59 | biguzera, kauez, lux, nqz, snow      |
-|           29 |     1549 | 2024-11-12 | Wildcard         | L   | 0.471      | -            | -                | -                | -         |   -12.62 | biguzera, kauez, lux, nqz, snow      |
+|           30 |     1531 | 2024-11-12 | Imperial Esports | W   | 0.476      | 0.633        | -                | 0.701 (0.212)    | 1 (0.476) |     0.58 | biguzera, kauez, lux, nqz, snow      |
+|           29 |     1549 | 2024-11-12 | Wildcard         | L   | 0.471      | -            | -                | -                | -         |   -12.61 | biguzera, kauez, lux, nqz, snow      |
 |           28 |     1562 | 2024-11-11 | Nouns Esports    | W   | 0.470      | -            | -                | -                | -         |     0.11 | biguzera, kauez, lux, nqz, snow      |
 |           27 |     1807 | 2024-10-27 | B8               | L   | 0.366      | -            | -                | -                | -         |   -10.93 | biguzera, kauez, lux, nqz, snow      |
-|           26 |     1843 | 2024-10-20 | MIBR             | W   | 0.320      | 0.722        | 0.139 (0.032)    | 0.604 (0.140)    | -         |     2.36 | biguzera, kauez, lux, nqz, snow      |
+|           26 |     1843 | 2024-10-20 | MIBR             | W   | 0.320      | 0.665        | 0.139 (0.030)    | -                | -         |     2.36 | biguzera, kauez, lux, nqz, snow      |
 |           25 |     1900 | 2024-10-17 | MIBR             | W   | 0.301      | -            | -                | -                | -         |     2.26 | biguzera, kauez, lux, nqz, snow      |
 |           24 |     1926 | 2024-10-16 | AdalYamigos      | W   | 0.294      | -            | -                | -                | -         |     0.08 | biguzera, kauez, lux, nqz, snow      |
 |           23 |     2021 | 2024-10-09 | AdalYamigos      | L   | 0.248      | -            | -                | -                | -         |    -7.75 | biguzera, kauez, lux, nqz, snow      |
 |           22 |     2028 | 2024-10-09 | AdalYamigos      | L   | 0.247      | -            | -                | -                | -         |    -7.74 | biguzera, kauez, lux, nqz, snow      |
 |           21 |     2080 | 2024-10-08 | Imperial Esports | L   | 0.241      | -            | -                | -                | -         |    -7.36 | biguzera, kauez, lux, nqz, snow      |
-|           20 |     2088 | 2024-10-08 | Imperial Esports | W   | 0.241      | -            | -                | -                | -         |     0.24 | biguzera, kauez, lux, nqz, snow      |
+|           20 |     2088 | 2024-10-08 | Imperial Esports | W   | 0.241      | -            | -                | -                | -         |     0.23 | biguzera, kauez, lux, nqz, snow      |
 |           19 |     2093 | 2024-10-08 | MIBR             | W   | 0.240      | -            | -                | -                | -         |     1.65 | biguzera, kauez, lux, nqz, snow      |
 |           18 |     2095 | 2024-10-08 | MIBR             | W   | 0.240      | -            | -                | -                | -         |     1.67 | biguzera, kauez, lux, nqz, snow      |
 |           17 |     2123 | 2024-10-07 | FaZe Clan        | L   | 0.233      | -            | -                | -                | -         |    -1.68 | biguzera, kauez, lux, nqz, snow      |

@@ -9,9 +9,9 @@ Regional Rank: [2]( ../../standings_americas_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [2]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1524.9<br />
+Final Rank Value:  1524.8<br />
 <br />
-Final Rank Value (1524.9) = Starting Rank Value (1509.2) + Head To Head Adjustments (15.6)<br />
+Final Rank Value (1524.8) = Starting Rank Value (1509.2) + Head To Head Adjustments (15.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -46,13 +46,13 @@ Note:<br />
 |           30 |      621 | 2025-01-31 | Wildcard      | W   | 1.000      | 1.000        | 0.176 (0.176)    | 0.528 (0.528)    | 1 (1.000) |     9.48 | jks, NAF, NertZ, Twistzz, ultimate    |
 |           29 |      625 | 2025-01-31 | Complexity    | W   | 1.000      | 1.000        | 0.097 (0.097)    | 0.233 (0.233)    | 1 (1.000) |     4.04 | jks, NAF, NertZ, Twistzz, ultimate    |
 |           28 |      633 | 2025-01-29 | HEROIC        | L   | 0.993      | -            | -                | -                | -         |   -23.82 | jks, NAF, NertZ, Twistzz, ultimate    |
-|           27 |      675 | 2025-01-18 | HEROIC        | L   | 0.918      | -            | -                | -                | -         |   -23.33 | jks, NAF, NertZ, Twistzz, ultimate    |
-|           26 |      689 | 2025-01-14 | 9Pandas       | W   | 0.893      | 0.600        | 0.084 (0.045)    | 0.560 (0.300)    | -         |     2.19 | jks, NAF, NertZ, Twistzz, ultimate    |
+|           27 |      675 | 2025-01-18 | HEROIC        | L   | 0.918      | -            | -                | -                | -         |   -23.34 | jks, NAF, NertZ, Twistzz, ultimate    |
+|           26 |      689 | 2025-01-14 | 9Pandas       | W   | 0.893      | 0.600        | 0.084 (0.045)    | 0.560 (0.300)    | -         |     2.18 | jks, NAF, NertZ, Twistzz, ultimate    |
 |           25 |      918 | 2024-12-12 | Team Spirit   | L   | 0.671      | -            | -                | -                | -         |    -1.87 | jks, NAF, Twistzz, ultimate, YEKINDAR |
-|           24 |      999 | 2024-12-06 | MIBR          | W   | 0.637      | 1.000        | 0.139 (0.088)    | 0.604 (0.384)    | 1 (0.637) |     7.98 | jks, NAF, Twistzz, ultimate, YEKINDAR |
+|           24 |      999 | 2024-12-06 | MIBR          | W   | 0.637      | 1.000        | 0.139 (0.088)    | 0.604 (0.384)    | 1 (0.637) |     7.97 | jks, NAF, Twistzz, ultimate, YEKINDAR |
 |           23 |     1029 | 2024-12-05 | FURIA         | W   | 0.629      | 1.000        | 0.094 (0.059)    | 0.493 (0.310)    | 1 (0.629) |     8.30 | jks, NAF, Twistzz, ultimate, YEKINDAR |
 |           22 |     1052 | 2024-12-05 | GamerLegion   | W   | 0.624      | 1.000        | 0.127 (0.079)    | 0.632 (0.395)    | 1 (0.624) |    11.43 | jks, NAF, Twistzz, ultimate, YEKINDAR |
-|           21 |     1062 | 2024-12-04 | Natus Vincere | L   | 0.623      | -            | -                | -                | -         |    -4.12 | jks, NAF, Twistzz, ultimate, YEKINDAR |
+|           21 |     1062 | 2024-12-04 | Natus Vincere | L   | 0.623      | -            | -                | -                | -         |    -4.13 | jks, NAF, Twistzz, ultimate, YEKINDAR |
 |           20 |     1141 | 2024-11-30 | FlyQuest      | W   | 0.596      | 1.000        | 0.105 (0.062)    | -                | 1 (0.596) |     1.48 | jks, NAF, Twistzz, ultimate, YEKINDAR |
 |           19 |     1166 | 2024-11-30 | Wildcard      | W   | 0.591      | 1.000        | 0.176 (0.104)    | 0.528 (0.312)    | 1 (0.591) |     5.03 | jks, NAF, Twistzz, ultimate, YEKINDAR |
 |           18 |     1178 | 2024-11-29 | Cloud9        | W   | 0.590      | -            | -                | -                | 1 (0.590) |     0.80 | jks, NAF, Twistzz, ultimate, YEKINDAR |

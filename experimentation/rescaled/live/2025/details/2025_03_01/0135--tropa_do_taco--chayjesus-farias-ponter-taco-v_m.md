@@ -6,9 +6,9 @@ Global Rank: [135](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [30]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  723.7<br />
+Final Rank Value:  723.6<br />
 <br />
-Final Rank Value (723.7) = Starting Rank Value (674.3) + Head To Head Adjustments (49.4)<br />
+Final Rank Value (723.6) = Starting Rank Value (674.3) + Head To Head Adjustments (49.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1183 | 2024-11-29 | Fluxo                    | L   | 0.587      | -            | -                | -                | -         |    -3.12 | chayJESUS, farias, ponter, TACO, v$m |
+|           11 |     1183 | 2024-11-29 | Fluxo                    | L   | 0.587      | -            | -                | -                | -         |    -3.13 | chayJESUS, farias, ponter, TACO, v$m |
 |           10 |     1219 | 2024-11-27 | Bad News Chickens        | W   | 0.572      | 0.456        | 0.002 (0.000)    | 0.141 (0.037)    | 0 (0.000) |     6.87 | chayJESUS, farias, ponter, TACO, v$m |
-|            9 |     1274 | 2024-11-23 | Game Hunters             | W   | 0.547      | 0.456        | 0.000 (0.000)    | 0.096 (0.024)    | 0 (0.000) |     4.06 | chayJESUS, farias, ponter, TACO, v$m |
+|            9 |     1274 | 2024-11-23 | Game Hunters             | W   | 0.547      | 0.456        | 0.000 (0.000)    | 0.096 (0.024)    | 0 (0.000) |     4.07 | chayJESUS, farias, ponter, TACO, v$m |
 |            8 |     1331 | 2024-11-21 | Players (Brazilian team) | W   | 0.534      | 0.456        | 0.008 (0.002)    | 0.566 (0.138)    | 0 (0.000) |     8.77 | chayJESUS, farias, ponter, TACO, v$m |
 |            7 |     1382 | 2024-11-18 | 9z Academy               | W   | 0.515      | 0.456        | 0.000 (0.000)    | 0.210 (0.049)    | 0 (0.000) |     4.47 | chayJESUS, farias, ponter, TACO, v$m |
 |            6 |     1395 | 2024-11-17 | Bad News Chickens        | W   | 0.508      | 0.269        | 0.002 (0.000)    | 0.141 (0.019)    | 0 (0.000) |     6.77 | chayJESUS, farias, ponter, TACO, v$m |
-|            5 |     1614 | 2024-11-08 | Fluxo                    | L   | 0.448      | -            | -                | -                | -         |    -2.41 | farias, n1ssim, ponter, TACO, v$m    |
-|            4 |     1631 | 2024-11-07 | Intense Game             | W   | 0.441      | 0.461        | 0.001 (0.000)    | 0.024 (0.005)    | 0 (0.000) |     5.24 | farias, n1ssim, ponter, TACO, v$m    |
-|            3 |     1700 | 2024-11-02 | UNO MILLE                | W   | 0.408      | 0.461        | 0.006 (0.001)    | 0.404 (0.076)    | 0 (0.000) |     6.87 | farias, n1ssim, ponter, TACO, v$m    |
-|            2 |     1742 | 2024-10-31 | ShindeN                  | W   | 0.394      | 0.461        | 0.005 (0.001)    | 0.377 (0.069)    | 0 (0.000) |     6.26 | farias, n1ssim, ponter, TACO, v$m    |
-|            1 |     1780 | 2024-10-29 | MIBR Academy             | W   | 0.380      | 0.461        | 0.001 (0.000)    | 0.328 (0.057)    | 0 (0.000) |     5.57 | farias, n1ssim, ponter, TACO, v$m    |
+|            5 |     1614 | 2024-11-08 | Fluxo                    | L   | 0.448      | -            | -                | -                | -         |    -2.42 | farias, n1ssim, ponter, TACO, v$m    |
+|            4 |     1631 | 2024-11-07 | Intense Game             | W   | 0.441      | 0.460        | 0.001 (0.000)    | 0.024 (0.005)    | 0 (0.000) |     5.24 | farias, n1ssim, ponter, TACO, v$m    |
+|            3 |     1700 | 2024-11-02 | UNO MILLE                | W   | 0.408      | 0.460        | 0.006 (0.001)    | 0.404 (0.076)    | 0 (0.000) |     6.87 | farias, n1ssim, ponter, TACO, v$m    |
+|            2 |     1742 | 2024-10-31 | ShindeN                  | W   | 0.394      | 0.460        | 0.005 (0.001)    | 0.377 (0.068)    | 0 (0.000) |     6.26 | farias, n1ssim, ponter, TACO, v$m    |
+|            1 |     1780 | 2024-10-29 | MIBR Academy             | W   | 0.380      | 0.460        | 0.001 (0.000)    | 0.328 (0.057)    | 0 (0.000) |     5.57 | farias, n1ssim, ponter, TACO, v$m    |
 
 <br />
 <span id="table2"></span><br />

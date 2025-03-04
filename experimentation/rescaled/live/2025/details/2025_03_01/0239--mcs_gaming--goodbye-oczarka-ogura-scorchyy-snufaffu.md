@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |      354 | 2025-02-10 | Marsborne            | L   | 1.000      | -            | -                | -                | -         |   -15.92 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
-|            5 |      394 | 2025-02-09 | Bad News Capybaras   | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.148 (0.034)    | 0 (0.000) |    18.06 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
+|            5 |      394 | 2025-02-09 | Bad News Capybaras   | W   | 1.000      | 0.233        | 0.001 (0.000)    | 0.148 (0.034)    | 0 (0.000) |    18.05 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
 |            4 |      435 | 2025-02-08 | Marsborne            | L   | 1.000      | -            | -                | -                | -         |   -18.24 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
 |            3 |     1032 | 2024-12-05 | Bad Boys             | L   | 0.629      | -            | -                | -                | -         |    -8.36 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
 |            2 |     1103 | 2024-12-02 | Chicken Coop Esports | L   | 0.609      | -            | -                | -                | -         |    -8.49 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |

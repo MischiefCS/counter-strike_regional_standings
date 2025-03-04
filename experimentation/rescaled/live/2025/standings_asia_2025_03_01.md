@@ -8,13 +8,13 @@
 | 3        |   1088 | ATOX Esports                | AccuracyTG, dobu, kabal, MiQ, Zesta            | [details](details/2025_03_01/0033--atox_esports--accuracytg-dobu-kabal-miq-zesta.md)                      |
 | 4        |   1074 | FlyQuest                    | dexter, INS, Liazz, regali, Vexite             | [details](details/2025_03_01/0034--flyquest--dexter-ins-liazz-regali-vexite.md)                           |
 | 5        |    926 | The Huns Esports            | Bart4k, cobrazera, nin9, Veccil, xerolte       | [details](details/2025_03_01/0058--the_huns_esports--bart4k-cobrazera-nin9-veccil-xerolte.md)             |
-| 6        |    926 | Lynn Vision Gaming          | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr  | [details](details/2025_03_01/0059--lynn_vision_gaming--c4llm3su3-emiliaqaq-starry-westmelon-z4kr.md)      |
-| 7        |    896 | Rare Atom                   | ChildKing, kaze, L1haNg, somebody, Summer      | [details](details/2025_03_01/0064--rare_atom--childking-kaze-l1hang-somebody-summer.md)                   |
+| 6        |    925 | Lynn Vision Gaming          | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr  | [details](details/2025_03_01/0059--lynn_vision_gaming--c4llm3su3-emiliaqaq-starry-westmelon-z4kr.md)      |
+| 7        |    895 | Rare Atom                   | ChildKing, kaze, L1haNg, somebody, Summer      | [details](details/2025_03_01/0064--rare_atom--childking-kaze-l1hang-somebody-summer.md)                   |
 | 8        |    888 | Gods Reign                  | Bhavi, f1redup, Ph1NNN, R2B2, Rossi            | [details](details/2025_03_01/0068--gods_reign--bhavi-f1redup-ph1nnn-r2b2-rossi.md)                        |
-| 9        |    879 | Eruption                    | fury5k, MagnumZ, sideffect, sk0R, xenization   | [details](details/2025_03_01/0074--eruption--fury5k-magnumz-sideffect-sk0r-xenization.md)                 |
+| 9        |    879 | Eruption                    | fury5k, MagnumZ, sideffect, sk0R, xenization   | [details](details/2025_03_01/0073--eruption--fury5k-magnumz-sideffect-sk0r-xenization.md)                 |
 | 10       |    860 | Chinggis Warriors           | ariucle, controlez, efire, NEUZ, ROUX          | [details](details/2025_03_01/0082--chinggis_warriors--ariucle-controlez-efire-neuz-roux.md)               |
-| 11       |    850 | TYLOO                       | Attacker, JamYoung, Jee, Mercury, Moseyuh      | [details](details/2025_03_01/0086--tyloo--attacker-jamyoung-jee-mercury-moseyuh.md)                       |
-| 12       |    764 | Flashback Gaming            | clouda, Defaulter, EmbeR, Mcg1LLzZz, reV3nnnn  | [details](details/2025_03_01/0111--flashback_gaming--clouda-defaulter-ember-mcg1llzzz-rev3nnnn.md)        |
+| 11       |    849 | TYLOO                       | Attacker, JamYoung, Jee, Mercury, Moseyuh      | [details](details/2025_03_01/0086--tyloo--attacker-jamyoung-jee-mercury-moseyuh.md)                       |
+| 12       |    764 | Flashback Gaming            | clouda, Defaulter, EmbeR, Mcg1LLzZz, reV3nnnn  | [details](details/2025_03_01/0110--flashback_gaming--clouda-defaulter-ember-mcg1llzzz-rev3nnnn.md)        |
 | 13       |    757 | Victores Sumus              | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster   | [details](details/2025_03_01/0115--victores_sumus--arakyn-benzene-champ-rayzer-recoilmaster.md)           |
 | 14       |    743 | ATOX Esports                | flyNN, kabal, MiQ, nuka, yAmi                  | [details](details/2025_03_01/0124--atox_esports--flynn-kabal-miq-nuka-yami.md)                            |
 | 15       |    742 | Unsettled Resentment        | expSasiKi, Miami, rage, risk, SPine            | [details](details/2025_03_01/0125--unsettled_resentment--expsasiki-miami-rage-risk-spine.md)              |
@@ -33,7 +33,7 @@
 | 28       |    621 | Rooster                     | asap, chelleos, DannyG, Sliimey, TjP           | [details](details/2025_03_01/0203--rooster--asap-chelleos-dannyg-sliimey-tjp.md)                          |
 | 29       |    621 | SemperFi Esports            | keen, SaVage, shadiy, Valiance, vision         | [details](details/2025_03_01/0204--semperfi_esports--keen-savage-shadiy-valiance-vision.md)               |
 | 30       |    592 | Housebets                   | apocdud, BRACE, damyo, pz, yourwombat          | [details](details/2025_03_01/0229--housebets--apocdud-brace-damyo-pz-yourwombat.md)                       |
-| 31       |    581 | KZG                         | Estate, foggers, Hassie, Kras, Samuukxs        | [details](details/2025_03_01/0237--kzg--estate-foggers-hassie-kras-samuukxs.md)                           |
+| 31       |    581 | KZG                         | Estate, foggers, Hassie, Kras, Samuukxs        | [details](details/2025_03_01/0236--kzg--estate-foggers-hassie-kras-samuukxs.md)                           |
 | 32       |    558 | DXA Esports                 | helix, HUGHMUNGUS, Kiyo, Llamas, lucas         | [details](details/2025_03_01/0242--dxa_esports--helix-hughmungus-kiyo-llamas-lucas.md)                    |
 | 33       |    553 | DEWA United                 | Inzane, klipp, marsyA, neorah, Sys             | [details](details/2025_03_01/0245--dewa_united--inzane-klipp-marsya-neorah-sys.md)                        |
 | 34       |    552 | MANTRA                      | cheeseball, cookie, rekonz, SkulL, Winnieeeee  | [details](details/2025_03_01/0246--mantra--cheeseball-cookie-rekonz-skull-winnieeeee.md)                  |

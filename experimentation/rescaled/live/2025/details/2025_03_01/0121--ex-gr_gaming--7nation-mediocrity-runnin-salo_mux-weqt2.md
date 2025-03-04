@@ -50,7 +50,7 @@ Note:<br />
 |            8 |     2047 | 2024-10-09 | Harizma           | W   | 0.245      | 0.417        | 0.002 (0.000)    | 0.112 (0.011)    | 1 (0.245) |     4.35 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |
 |            7 |     2053 | 2024-10-09 | Harizma           | W   | 0.245      | 0.417        | 0.002 (0.000)    | 0.112 (0.011)    | 1 (0.245) |     4.44 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |
 |            6 |     2106 | 2024-10-08 | TYLOO             | L   | 0.238      | -            | -                | -                | -         |    -2.59 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |
-|            5 |     2112 | 2024-10-08 | TYLOO             | L   | 0.238      | -            | -                | -                | -         |    -2.63 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |
+|            5 |     2112 | 2024-10-08 | TYLOO             | L   | 0.238      | -            | -                | -                | -         |    -2.64 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |
 |            4 |     2289 | 2024-10-02 | Chinggis Warriors | L   | 0.198      | -            | -                | -                | -         |    -2.10 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |
 |            3 |     2294 | 2024-10-02 | Chinggis Warriors | L   | 0.198      | -            | -                | -                | -         |    -2.13 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |
 |            2 |     2342 | 2024-10-01 | The QUBE Esports  | W   | 0.192      | 0.417        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.192) |     1.20 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2    |

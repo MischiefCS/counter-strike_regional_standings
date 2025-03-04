@@ -40,7 +40,7 @@ Note:<br />
 |           11 |     1224 | 2024-11-26 | VELOX Argentina     | L   | 0.567      | -            | -                | -                | -         |    -8.45 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
 |           10 |     1238 | 2024-11-25 | Game Hunters        | L   | 0.561      | -            | -                | -                | -         |    -8.73 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
 |            9 |     1300 | 2024-11-22 | Patins da Ferrari   | W   | 0.542      | 0.371        | 0.000 (0.000)    | 0.115 (0.023)    | 0 (0.000) |     8.71 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
-|            8 |     1360 | 2024-11-20 | LaChampionsLiga     | W   | 0.527      | 0.371        | 0.003 (0.001)    | 0.199 (0.039)    | 0 (0.000) |    11.12 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
+|            8 |     1360 | 2024-11-20 | LaChampionsLiga     | W   | 0.527      | 0.371        | 0.003 (0.001)    | 0.199 (0.039)    | 0 (0.000) |    11.11 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
 |            7 |     1370 | 2024-11-19 | 20/70               | L   | 0.522      | -            | -                | -                | -         |    -5.37 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
 |            6 |     1661 | 2024-11-05 | 9z Academy          | L   | 0.426      | -            | -                | -                | -         |    -6.08 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
 |            5 |     1671 | 2024-11-04 | UNO MILLE           | L   | 0.421      | -            | -                | -                | -         |    -3.07 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |

@@ -8,7 +8,7 @@ Regional Rank: [25]( ../../standings_asia_2025_03_01.md)<br />
 <br />
 Final Rank Value:  627.4<br />
 <br />
-Final Rank Value (627.4) = Starting Rank Value (666.4) + Head To Head Adjustments (-38.9)<br />
+Final Rank Value (627.4) = Starting Rank Value (666.4) + Head To Head Adjustments (-39.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />

@@ -6,9 +6,9 @@ Global Rank: [17](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [13]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1414.2<br />
+Final Rank Value:  1413.4<br />
 <br />
-Final Rank Value (1414.2) = Starting Rank Value (1548.3) + Head To Head Adjustments (-134.2)<br />
+Final Rank Value (1413.4) = Starting Rank Value (1548.3) + Head To Head Adjustments (-134.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,38 +38,38 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           39 |      176 | 2025-02-18 | Astralis            | L   | 1.000      | -            | -                | -                | -         |    -5.09 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           38 |      200 | 2025-02-17 | Wildcard            | W   | 1.000      | 1.000        | 0.176 (0.176)    | 0.528 (0.528)    | 1 (1.000) |    12.87 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           37 |      217 | 2025-02-16 | Eternal Fire        | L   | 1.000      | -            | -                | -                | -         |    -2.15 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           36 |      251 | 2025-02-15 | FlyQuest            | W   | 1.000      | 1.000        | 0.105 (0.105)    | 0.223 (0.223)    | 1 (1.000) |     4.50 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           35 |      282 | 2025-02-14 | MOUZ                | L   | 1.000      | -            | -                | -                | -         |    -2.40 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           34 |      341 | 2025-02-11 | HEROIC              | L   | 1.000      | -            | -                | -                | -         |   -21.17 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           38 |      200 | 2025-02-17 | Wildcard            | W   | 1.000      | 1.000        | 0.176 (0.176)    | 0.528 (0.528)    | 1 (1.000) |    12.89 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           37 |      217 | 2025-02-16 | Eternal Fire        | L   | 1.000      | -            | -                | -                | -         |    -2.14 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           36 |      251 | 2025-02-15 | FlyQuest            | W   | 1.000      | 1.000        | 0.105 (0.105)    | 0.223 (0.223)    | 1 (1.000) |     4.51 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           35 |      282 | 2025-02-14 | MOUZ                | L   | 1.000      | -            | -                | -                | -         |    -2.38 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           34 |      341 | 2025-02-11 | HEROIC              | L   | 1.000      | -            | -                | -                | -         |   -21.15 | hyped, JDC, Krimbo, kyuubii, tabseN |
 |           33 |      364 | 2025-02-10 | OG                  | W   | 1.000      | 0.638        | 0.062 (0.039)    | 0.974 (0.621)    | -         |     1.99 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           32 |      374 | 2025-02-10 | BC.Game Esports     | L   | 1.000      | -            | -                | -                | -         |   -23.16 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           31 |      464 | 2025-02-08 | 500                 | L   | 1.000      | -            | -                | -                | -         |   -27.19 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           32 |      374 | 2025-02-10 | BC.Game Esports     | L   | 1.000      | -            | -                | -                | -         |   -23.73 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           31 |      464 | 2025-02-08 | 500                 | L   | 1.000      | -            | -                | -                | -         |   -27.41 | hyped, JDC, Krimbo, kyuubii, tabseN |
 |           30 |      595 | 2025-02-02 | 3DMAX               | L   | 1.000      | -            | -                | -                | -         |   -11.42 | hyped, JDC, Krimbo, kyuubii, tabseN |
 |           29 |      614 | 2025-02-01 | FaZe Clan           | L   | 1.000      | -            | -                | -                | -         |    -3.72 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           28 |      623 | 2025-01-31 | HEROIC              | W   | 1.000      | 1.000        | 0.131 (0.131)    | 0.518 (0.518)    | 1 (1.000) |     8.23 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           28 |      623 | 2025-01-31 | HEROIC              | W   | 1.000      | 1.000        | 0.131 (0.131)    | 0.518 (0.518)    | 1 (1.000) |     8.22 | hyped, JDC, Krimbo, kyuubii, tabseN |
 |           27 |      627 | 2025-01-30 | Imperial Female     | W   | 1.000      | 1.000        | 0.134 (0.134)    | -                | 1 (1.000) |     2.16 | hyped, JDC, Krimbo, kyuubii, tabseN |
-|           26 |      637 | 2025-01-29 | Wildcard            | L   | 0.992      | -            | -                | -                | -         |   -21.43 | hyped, JDC, Krimbo, kyuubii, tabseN |
+|           26 |      637 | 2025-01-29 | Wildcard            | L   | 0.992      | -            | -                | -                | -         |   -21.44 | hyped, JDC, Krimbo, kyuubii, tabseN |
 |           25 |      668 | 2025-01-19 | G2 Esports          | L   | 0.927      | -            | -                | -                | -         |    -3.89 | hyped, JDC, Krimbo, kyuubii, tabseN |
 |           24 |      686 | 2025-01-15 | SAW                 | W   | 0.899      | 1.000        | 0.262 (0.236)    | 0.391 (0.352)    | -         |     5.50 | hyped, JDC, Krimbo, kyuubii, tabseN |
 |           23 |      872 | 2024-12-14 | ARROW (German team) | L   | 0.686      | -            | -                | -                | -         |   -21.29 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
-|           22 |     1024 | 2024-12-06 | PaiN Gaming         | L   | 0.631      | -            | -                | -                | -         |    -7.98 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
+|           22 |     1024 | 2024-12-06 | PaiN Gaming         | L   | 0.631      | -            | -                | -                | -         |    -7.99 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           21 |     1043 | 2024-12-05 | G2 Esports          | L   | 0.625      | -            | -                | -                | -         |    -3.31 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           20 |     1056 | 2024-12-04 | Team Falcons        | L   | 0.623      | -            | -                | -                | -         |    -2.68 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           19 |     1102 | 2024-12-02 | Complexity          | W   | 0.609      | 1.000        | 0.097 (0.059)    | -                | 1 (0.609) |     2.04 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           18 |     1125 | 2024-12-01 | FURIA               | L   | 0.603      | -            | -                | -                | -         |   -12.12 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           17 |     1145 | 2024-11-30 | Virtus.pro          | W   | 0.596      | 1.000        | 0.268 (0.160)    | 0.547 (0.326)    | 1 (0.596) |    11.40 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           16 |     1171 | 2024-11-30 | FlyQuest            | L   | 0.591      | -            | -                | -                | -         |   -17.47 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
-|           15 |     1176 | 2024-11-29 | Passion UA          | W   | 0.590      | 1.000        | -                | 0.588 (0.347)    | 1 (0.590) |     2.06 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
+|           15 |     1176 | 2024-11-29 | Passion UA          | W   | 0.590      | 1.000        | -                | 0.588 (0.347)    | 1 (0.590) |     2.05 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           14 |     1325 | 2024-11-21 | Passion UA          | W   | 0.537      | 0.993        | -                | 0.588 (0.313)    | 1 (0.537) |     1.75 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           13 |     1336 | 2024-11-21 | Team Falcons        | W   | 0.532      | 0.993        | 0.927 (0.490)    | 0.744 (0.394)    | 1 (0.532) |    14.55 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
-|           12 |     1348 | 2024-11-20 | Sashi Esport        | W   | 0.530      | 0.993        | -                | 0.582 (0.307)    | 1 (0.530) |     0.95 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
+|           12 |     1348 | 2024-11-20 | Sashi Esport        | W   | 0.530      | 0.993        | -                | 0.582 (0.307)    | 1 (0.530) |     0.94 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           11 |     2143 | 2024-10-06 | FlyQuest            | L   | 0.227      | -            | -                | -                | -         |    -6.73 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |           10 |     2146 | 2024-10-06 | SAW                 | W   | 0.226      | 0.734        | 0.262 (0.044)    | -                | -         |     1.34 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |            9 |     2200 | 2024-10-04 | M80                 | W   | 0.214      | -            | -                | -                | -         |     0.25 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |            8 |     2205 | 2024-10-04 | ODDIK               | W   | 0.213      | -            | -                | -                | -         |     0.10 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
-|            7 |     2546 | 2024-09-25 | ECSTATIC            | L   | 0.152      | -            | -                | -                | -         |    -4.64 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
+|            7 |     2546 | 2024-09-25 | ECSTATIC            | L   | 0.152      | -            | -                | -                | -         |    -4.65 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |            6 |     2620 | 2024-09-24 | Monte               | L   | 0.145      | -            | -                | -                | -         |    -4.48 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |            5 |     2814 | 2024-09-17 | The MongolZ         | L   | 0.098      | -            | -                | -                | -         |    -0.36 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
 |            4 |     2913 | 2024-09-13 | Complexity          | W   | 0.072      | -            | -                | -                | -         |     0.22 | JDC, Krimbo, rigoN, syrsoN, tabseN  |

@@ -6,9 +6,9 @@ Global Rank: [165](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [112]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  672.6<br />
+Final Rank Value:  672.3<br />
 <br />
-Final Rank Value (672.6) = Starting Rank Value (725.1) + Head To Head Adjustments (-52.6)<br />
+Final Rank Value (672.3) = Starting Rank Value (725.1) + Head To Head Adjustments (-52.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,36 +37,36 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |      129 | 2025-02-21 | Minsk House                               | L   | 1.000      | -            | -                | -                | -         |   -22.57 | ANSG1, kiR, kroK, suma, Zanto   |
-|           29 |      137 | 2025-02-21 | RUSH B (Russian team)                     | W   | 1.000      | 0.389        | 0.027 (0.010)    | 0.569 (0.222)    | 0 (0.000) |    23.66 | ANSG1, kiR, kroK, suma, Zanto   |
-|           28 |      239 | 2025-02-15 | ALGO                                      | L   | 1.000      | -            | -                | -                | -         |   -22.93 | ANSG1, kiR, kroK, suma, Zanto   |
+|           30 |      129 | 2025-02-21 | Minsk House                               | L   | 1.000      | -            | -                | -                | -         |   -22.56 | ANSG1, kiR, kroK, suma, Zanto   |
+|           29 |      137 | 2025-02-21 | RUSH B (Russian team)                     | W   | 1.000      | 0.389        | 0.027 (0.010)    | 0.569 (0.222)    | 0 (0.000) |    23.65 | ANSG1, kiR, kroK, suma, Zanto   |
+|           28 |      239 | 2025-02-15 | ALGO                                      | L   | 1.000      | -            | -                | -                | -         |   -22.92 | ANSG1, kiR, kroK, suma, Zanto   |
 |           27 |      772 | 2024-12-22 | ESC Gaming                                | L   | 0.738      | -            | -                | -                | -         |   -15.79 | ANSG1, kiR, Rytter, suma, Zanto |
 |           26 |      775 | 2024-12-22 | WOPA Esport                               | L   | 0.738      | -            | -                | -                | -         |    -8.92 | ANSG1, kiR, Rytter, suma, Zanto |
-|           25 |      784 | 2024-12-21 | Dark Cloud Esports                        | W   | 0.732      | 0.451        | 0.027 (0.009)    | 0.320 (0.106)    | 0 (0.000) |    12.57 | ANSG1, kiR, kroK, suma, Zanto   |
-|           24 |      795 | 2024-12-20 | Preasy Esport                             | W   | 0.725      | 0.389        | 0.007 (0.002)    | 0.206 (0.058)    | 0 (0.000) |    10.55 | ANSG1, kiR, kroK, suma, Zanto   |
-|           23 |      802 | 2024-12-19 | KONO.ECF                                  | L   | 0.719      | -            | -                | -                | -         |    -9.83 | ANSG1, kiR, kroK, suma, Zanto   |
+|           25 |      784 | 2024-12-21 | Dark Cloud Esports                        | W   | 0.732      | 0.451        | 0.027 (0.009)    | 0.320 (0.106)    | 0 (0.000) |    12.58 | ANSG1, kiR, kroK, suma, Zanto   |
+|           24 |      795 | 2024-12-20 | Preasy Esport                             | W   | 0.725      | 0.389        | 0.007 (0.002)    | 0.206 (0.058)    | 0 (0.000) |    10.56 | ANSG1, kiR, kroK, suma, Zanto   |
+|           23 |      802 | 2024-12-19 | KONO.ECF                                  | L   | 0.719      | -            | -                | -                | -         |    -9.82 | ANSG1, kiR, kroK, suma, Zanto   |
 |           22 |      805 | 2024-12-19 | Viperio                                   | W   | 0.718      | 0.451        | 0.002 (0.001)    | 0.055 (0.018)    | 0 (0.000) |     8.24 | ANSG1, kiR, kroK, suma, Zanto   |
 |           21 |      819 | 2024-12-18 | Heimo Esports                             | L   | 0.711      | -            | -                | -                | -         |   -11.99 | ANSG1, kiR, kroK, suma, Zanto   |
 |           20 |     1190 | 2024-11-29 | ENCE Academy                              | L   | 0.586      | -            | -                | -                | -         |    -7.95 | ANSG1, kiR, kroK, suma, Zanto   |
 |           19 |     1209 | 2024-11-28 | GenOne                                    | L   | 0.578      | -            | -                | -                | -         |    -8.20 | ANSG1, kiR, kroK, sSen, suma    |
-|           18 |     1236 | 2024-11-26 | Betclic Apogee Esports                    | L   | 0.565      | -            | -                | -                | -         |    -4.78 | ANSG1, kiR, kroK, sSen, suma    |
-|           17 |     1262 | 2024-11-24 | GenOne                                    | W   | 0.552      | 0.423        | 0.009 (0.002)    | 0.424 (0.099)    | 0 (0.000) |     9.89 | ANSG1, kiR, kroK, sSen, suma    |
+|           18 |     1236 | 2024-11-26 | Betclic Apogee Esports                    | L   | 0.565      | -            | -                | -                | -         |    -4.80 | ANSG1, kiR, kroK, sSen, suma    |
+|           17 |     1262 | 2024-11-24 | GenOne                                    | W   | 0.552      | 0.423        | 0.009 (0.002)    | 0.424 (0.099)    | 0 (0.000) |     9.88 | ANSG1, kiR, kroK, sSen, suma    |
 |           16 |     1277 | 2024-11-23 | WOPA Esport                               | L   | 0.547      | -            | -                | -                | -         |    -7.13 | ANSG1, kiR, kroK, sSen, suma    |
-|           15 |     1285 | 2024-11-23 | Denial (Danish team)                      | W   | 0.545      | 0.395        | 0.001 (0.000)    | -                | 1 (0.545) |     4.13 | ANSG1, kiR, kroK, sSen, suma    |
-|           14 |     1309 | 2024-11-22 | Leo Team                                  | L   | 0.539      | -            | -                | -                | -         |    -6.93 | ANSG1, kiR, kroK, sSen, suma    |
-|           13 |     1427 | 2024-11-16 | Fire Flux Esports                         | L   | 0.499      | -            | -                | -                | -         |    -4.16 | ANSG1, kiR, kroK, sSen, suma    |
-|           12 |     1444 | 2024-11-15 | EYEBALLERS                                | W   | 0.493      | 0.388        | 0.019 (0.004)    | 0.360 (0.069)    | 0 (0.000) |     9.42 | ANSG1, kiR, kroK, sSen, suma    |
+|           15 |     1285 | 2024-11-23 | Denial (Danish team)                      | W   | 0.545      | 0.395        | 0.001 (0.000)    | -                | 1 (0.545) |     4.14 | ANSG1, kiR, kroK, sSen, suma    |
+|           14 |     1309 | 2024-11-22 | Leo Team                                  | L   | 0.539      | -            | -                | -                | -         |    -6.94 | ANSG1, kiR, kroK, sSen, suma    |
+|           13 |     1427 | 2024-11-16 | Fire Flux Esports                         | L   | 0.499      | -            | -                | -                | -         |    -4.23 | ANSG1, kiR, kroK, sSen, suma    |
+|           12 |     1444 | 2024-11-15 | EYEBALLERS                                | W   | 0.493      | 0.388        | 0.019 (0.004)    | 0.360 (0.069)    | 0 (0.000) |     9.37 | ANSG1, kiR, kroK, sSen, suma    |
 |           11 |     1491 | 2024-11-14 | GenOne                                    | L   | 0.485      | -            | -                | -                | -         |    -6.32 | ANSG1, kiR, kroK, sSen, suma    |
 |           10 |     1521 | 2024-11-13 | Copenhagen Wolves (American organization) | W   | 0.478      | 0.355        | 0.000 (0.000)    | -                | 0 (0.000) |     2.05 | ANSG1, kiR, kroK, sSen, suma    |
 |            9 |     1556 | 2024-11-12 | CS2NEWS                                   | W   | 0.471      | -            | -                | -                | 0 (0.000) |     2.01 | ANSG1, kiR, kroK, sSen, suma    |
-|            8 |     1575 | 2024-11-11 | EYEBALLERS                                | L   | 0.465      | -            | -                | -                | -         |    -5.67 | ANSG1, kiR, kroK, sSen, suma    |
+|            8 |     1575 | 2024-11-11 | EYEBALLERS                                | L   | 0.465      | -            | -                | -                | -         |    -5.73 | ANSG1, kiR, kroK, sSen, suma    |
 |            7 |     1613 | 2024-11-09 | Illuminar Gaming                          | W   | 0.451      | 0.355        | 0.007 (0.001)    | 0.323 (0.052)    | 0 (0.000) |     8.27 | ANSG1, kiR, kroK, sSen, suma    |
-|            6 |     2481 | 2024-09-26 | Alliance                                  | L   | 0.160      | -            | -                | -                | -         |    -1.13 | ANSG1, kiR, kroK, sSen, suma    |
+|            6 |     2481 | 2024-09-26 | Alliance                                  | L   | 0.160      | -            | -                | -                | -         |    -1.15 | ANSG1, kiR, kroK, sSen, suma    |
 |            5 |     2492 | 2024-09-26 | Lazer Cats                                | W   | 0.159      | 0.355        | 0.000 (0.000)    | 0.005 (0.000)    | -         |     1.67 | ANSG1, kiR, kroK, sSen, suma    |
 |            4 |     2866 | 2024-09-15 | Betclic Apogee Esports                    | L   | 0.084      | -            | -                | -                | -         |    -1.50 | ANSG1, kiR, kroK, sSen, suma    |
 |            3 |     2890 | 2024-09-14 | ADEPTS                                    | W   | 0.078      | 0.488        | -                | 0.046 (0.002)    | -         |     0.55 | ANSG1, kiR, kroK, sSen, suma    |
 |            2 |     2959 | 2024-09-12 | Copenhagen Wolves (American organization) | W   | 0.064      | 0.488        | -                | 0.066 (0.002)    | -         |     0.50 | ANSG1, kiR, kroK, sSen, suma    |
-|            1 |     2995 | 2024-09-11 | Natus Vincere Junior                      | L   | 0.057      | -            | -                | -                | -         |    -0.30 | ANSG1, kiR, kroK, sSen, suma    |
+|            1 |     2995 | 2024-09-11 | Natus Vincere Junior                      | L   | 0.057      | -            | -                | -                | -         |    -0.31 | ANSG1, kiR, kroK, sSen, suma    |
 
 <br />
 <span id="table2"></span><br />

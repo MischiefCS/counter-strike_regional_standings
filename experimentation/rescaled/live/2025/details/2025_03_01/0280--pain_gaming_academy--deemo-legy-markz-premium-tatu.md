@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      489 | 2025-02-07 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |    -5.85 | deemO, legy, Markz, PremiuM, Tatu |
+|           11 |      489 | 2025-02-07 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |    -5.86 | deemO, legy, Markz, PremiuM, Tatu |
 |           10 |     1223 | 2024-11-26 | Yawara E-Sports          | L   | 0.568      | -            | -                | -                | -         |    -3.58 | deemO, legy, Markz, Tatu, tsug    |
 |            9 |     1253 | 2024-11-24 | 9z Academy               | W   | 0.554      | 0.371        | 0.000 (0.000)    | 0.210 (0.043)    | 0 (0.000) |    11.64 | deemO, legy, Markz, Tatu, tsug    |
 |            8 |     1304 | 2024-11-22 | BeBold.gg                | W   | 0.540      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.47 | deemO, legy, Markz, Tatu, tsug    |

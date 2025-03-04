@@ -6,9 +6,9 @@ Global Rank: [269](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [146]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  488.9<br />
+Final Rank Value:  488.8<br />
 <br />
-Final Rank Value (488.9) = Starting Rank Value (486.6) + Head To Head Adjustments (2.2)<br />
+Final Rank Value (488.8) = Starting Rank Value (486.6) + Head To Head Adjustments (2.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           16 |     2371 | 2024-09-30 | Insilio                | L   | 0.185      | -            | -                | -                | -         |    -1.43 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
-|           15 |     2458 | 2024-09-27 | EYEBALLERS             | L   | 0.164      | -            | -                | -                | -         |    -0.76 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
+|           15 |     2458 | 2024-09-27 | EYEBALLERS             | L   | 0.164      | -            | -                | -                | -         |    -0.77 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
 |           14 |     2485 | 2024-09-26 | Nexus Gaming           | L   | 0.159      | -            | -                | -                | -         |    -0.16 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
 |           13 |     2676 | 2024-09-22 | Revenant Esports       | W   | 0.131      | 0.533        | 0.000 (0.000)    | 0.008 (0.001)    | 0 (0.000) |     2.14 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
 |           12 |     2720 | 2024-09-20 | Ex-ENTERPRISE esports  | W   | 0.118      | 0.533        | 0.003 (0.000)    | 0.068 (0.004)    | 0 (0.000) |     2.90 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |

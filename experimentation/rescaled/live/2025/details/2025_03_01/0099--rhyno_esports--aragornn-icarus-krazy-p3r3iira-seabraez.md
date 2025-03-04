@@ -6,9 +6,9 @@ Global Rank: [99](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [70]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  795.2<br />
+Final Rank Value:  794.8<br />
 <br />
-Final Rank Value (795.2) = Starting Rank Value (854.6) + Head To Head Adjustments (-59.4)<br />
+Final Rank Value (794.8) = Starting Rank Value (854.6) + Head To Head Adjustments (-59.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |       18 | 2025-02-27 | BC.Game Esports             | L   | 1.000      | -            | -                | -                | -         |    -2.34 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|           15 |       28 | 2025-02-26 | Alliance                    | L   | 1.000      | -            | -                | -                | -         |   -12.75 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|           14 |      162 | 2025-02-20 | Betclic Apogee Esports      | L   | 1.000      | -            | -                | -                | -         |   -11.27 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|           16 |       18 | 2025-02-27 | BC.Game Esports             | L   | 1.000      | -            | -                | -                | -         |    -2.50 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|           15 |       28 | 2025-02-26 | Alliance                    | L   | 1.000      | -            | -                | -                | -         |   -12.88 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|           14 |      162 | 2025-02-20 | Betclic Apogee Esports      | L   | 1.000      | -            | -                | -                | -         |   -11.33 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |           13 |      169 | 2025-02-19 | PARIVISION                  | L   | 1.000      | -            | -                | -                | -         |   -11.41 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |           12 |      196 | 2025-02-17 | Mercenaires                 | L   | 1.000      | -            | -                | -                | -         |   -26.94 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|           11 |      712 | 2025-01-09 | Insilio                     | L   | 0.859      | -            | -                | -                | -         |   -19.68 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|           10 |      720 | 2025-01-06 | FLuffy Gangsters            | W   | 0.840      | 0.417        | 0.005 (0.002)    | 0.419 (0.147)    | 0 (0.000) |     7.69 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|           11 |      712 | 2025-01-09 | Insilio                     | L   | 0.859      | -            | -                | -                | -         |   -19.70 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|           10 |      720 | 2025-01-06 | FLuffy Gangsters            | W   | 0.840      | 0.417        | 0.005 (0.002)    | 0.419 (0.147)    | 0 (0.000) |     7.68 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |            9 |      730 | 2025-01-04 | CS2NEWS                     | W   | 0.824      | 0.417        | 0.000 (0.000)    | 0.047 (0.016)    | 0 (0.000) |     3.50 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|            8 |      732 | 2025-01-03 | KONO.ECF                    | L   | 0.819      | -            | -                | -                | -         |   -20.87 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|            8 |      732 | 2025-01-03 | KONO.ECF                    | L   | 0.819      | -            | -                | -                | -         |   -20.86 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |            7 |      745 | 2024-12-28 | BRUTE                       | W   | 0.777      | 0.417        | 0.003 (0.001)    | 0.082 (0.026)    | 0 (0.000) |     5.61 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|            6 |     1308 | 2024-11-22 | GTZ.ESPORTS                 | W   | 0.539      | 0.478        | 0.080 (0.021)    | 0.431 (0.111)    | 1 (0.539) |    13.11 | aragornN, Icarus, P3R3IIRA, seabraez, shr   |
-|            5 |     1399 | 2024-11-17 | Iberian Soul                | W   | 0.506      | 0.367        | 0.015 (0.003)    | 0.644 (0.119)    | 1 (0.506) |     9.00 | aragornN, Icarus, P3R3IIRA, seabraez, shr   |
+|            6 |     1308 | 2024-11-22 | GTZ.ESPORTS                 | W   | 0.539      | 0.478        | 0.080 (0.021)    | 0.431 (0.111)    | 1 (0.539) |    13.10 | aragornN, Icarus, P3R3IIRA, seabraez, shr   |
+|            5 |     1399 | 2024-11-17 | Iberian Soul                | W   | 0.506      | 0.367        | 0.015 (0.003)    | 0.644 (0.119)    | 1 (0.506) |     8.98 | aragornN, Icarus, P3R3IIRA, seabraez, shr   |
 |            4 |     1434 | 2024-11-16 | The Agency Clan             | W   | 0.498      | 0.367        | 0.003 (0.001)    | 0.000 (0.000)    | 1 (0.498) |     2.21 | aragornN, Icarus, P3R3IIRA, seabraez, shr   |
 |            3 |     1596 | 2024-11-09 | NeverPlay (Portuguese team) | W   | 0.453      | 0.478        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.453) |     1.86 | aragornN, Icarus, P3R3IIRA, seabraez, shr   |
-|            2 |     2153 | 2024-10-06 | Rhyno Esports               | W   | 0.225      | 0.288        | 0.002 (0.000)    | 0.046 (0.003)    | 1 (0.225) |     1.94 | aragornN, Icarus, P3R3IIRA, SeabraEZ, shr   |
+|            2 |     2153 | 2024-10-06 | Rhyno Esports               | W   | 0.225      | 0.288        | 0.002 (0.000)    | 0.046 (0.003)    | 1 (0.225) |     1.93 | aragornN, Icarus, P3R3IIRA, SeabraEZ, shr   |
 |            1 |     2176 | 2024-10-05 | NeverPlay (Portuguese team) | W   | 0.219      | 0.288        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.219) |     0.92 | aragornN, Icarus, P3R3IIRA, SeabraEZ, shr   |
 
 <br />

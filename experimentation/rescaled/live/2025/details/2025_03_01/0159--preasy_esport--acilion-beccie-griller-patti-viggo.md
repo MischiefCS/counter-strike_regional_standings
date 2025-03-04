@@ -6,9 +6,9 @@ Global Rank: [159](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [108]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  681.5<br />
+Final Rank Value:  681.4<br />
 <br />
-Final Rank Value (681.5) = Starting Rank Value (713.7) + Head To Head Adjustments (-32.3)<br />
+Final Rank Value (681.4) = Starting Rank Value (713.7) + Head To Head Adjustments (-32.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,19 +38,19 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           18 |       79 | 2025-02-23 | ARCRED                                    | L   | 1.000      | -            | -                | -                | -         |   -12.06 | AcilioN, Beccie, Griller, Patti, Viggo |
-|           17 |       83 | 2025-02-23 | GardenGarage                              | W   | 1.000      | 0.358        | 0.000 (0.000)    | 0.081 (0.029)    | 0 (0.000) |    12.38 | AcilioN, Beccie, Griller, Patti, Viggo |
-|           16 |       90 | 2025-02-23 | AMKAL ESPORTS                             | W   | 1.000      | 0.358        | 0.000 (0.000)    | 0.407 (0.145)    | 0 (0.000) |    17.15 | AcilioN, Beccie, Griller, Patti, Viggo |
-|           15 |      237 | 2025-02-15 | RUBY                                      | L   | 1.000      | -            | -                | -                | -         |   -21.71 | AcilioN, Beccie, Griller, Patti, Viggo |
-|           14 |      717 | 2025-01-07 | Copenhagen Wolves (American organization) | W   | 0.847      | 0.321        | 0.008 (0.002)    | 0.665 (0.181)    | 0 (0.000) |    19.67 | AcilioN, Beccie, Griller, Patti, Viggo |
-|           13 |      795 | 2024-12-20 | Astralis Talent                           | L   | 0.725      | -            | -                | -                | -         |   -10.55 | AcilioN, Beccie, Equip, Griller, Viggo |
+|           17 |       83 | 2025-02-23 | GardenGarage                              | W   | 1.000      | 0.358        | 0.000 (0.000)    | 0.081 (0.029)    | 0 (0.000) |    12.39 | AcilioN, Beccie, Griller, Patti, Viggo |
+|           16 |       90 | 2025-02-23 | AMKAL ESPORTS                             | W   | 1.000      | 0.358        | 0.000 (0.000)    | 0.407 (0.145)    | 0 (0.000) |    17.12 | AcilioN, Beccie, Griller, Patti, Viggo |
+|           15 |      237 | 2025-02-15 | RUBY                                      | L   | 1.000      | -            | -                | -                | -         |   -21.70 | AcilioN, Beccie, Griller, Patti, Viggo |
+|           14 |      717 | 2025-01-07 | Copenhagen Wolves (American organization) | W   | 0.847      | 0.321        | 0.008 (0.002)    | 0.665 (0.181)    | 0 (0.000) |    19.63 | AcilioN, Beccie, Griller, Patti, Viggo |
+|           13 |      795 | 2024-12-20 | Astralis Talent                           | L   | 0.725      | -            | -                | -                | -         |   -10.56 | AcilioN, Beccie, Equip, Griller, Viggo |
 |           12 |      806 | 2024-12-19 | ADEPTS                                    | L   | 0.718      | -            | -                | -                | -         |   -16.57 | AcilioN, Beccie, Equip, Griller, Viggo |
-|           11 |      808 | 2024-12-19 | KONO.ECF                                  | L   | 0.718      | -            | -                | -                | -         |   -10.03 | AcilioN, Beccie, Equip, Griller, Viggo |
+|           11 |      808 | 2024-12-19 | KONO.ECF                                  | L   | 0.718      | -            | -                | -                | -         |   -10.04 | AcilioN, Beccie, Equip, Griller, Viggo |
 |           10 |     1108 | 2024-12-02 | Monte                                     | L   | 0.607      | -            | -                | -                | -         |    -6.18 | AcilioN, Beccie, Equip, Griller, Viggo |
 |            9 |     1705 | 2024-11-02 | MASONIC                                   | W   | 0.407      | 0.236        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.407) |     3.22 | AcilioN, Beccie, Equip, Griller, JBOEN |
 |            8 |     2187 | 2024-10-05 | Heimo Esports                             | L   | 0.217      | -            | -                | -                | -         |    -3.76 | AcilioN, Beccie, Equip, Griller, JBOEN |
 |            7 |     2220 | 2024-10-04 | UNiTY esports                             | L   | 0.210      | -            | -                | -                | -         |    -2.63 | AcilioN, Beccie, Equip, Griller, JBOEN |
 |            6 |     2336 | 2024-10-01 | Iberian Soul                              | L   | 0.193      | -            | -                | -                | -         |    -1.44 | AcilioN, Beccie, Equip, Griller, JBOEN |
-|            5 |     2358 | 2024-10-01 | Natus Vincere Junior                      | W   | 0.190      | 0.516        | 0.086 (0.008)    | 0.941 (0.092)    | 0 (0.000) |     5.08 | AcilioN, Beccie, Equip, Griller, JBOEN |
+|            5 |     2358 | 2024-10-01 | Natus Vincere Junior                      | W   | 0.190      | 0.516        | 0.086 (0.008)    | 0.941 (0.092)    | 0 (0.000) |     5.04 | AcilioN, Beccie, Equip, Griller, JBOEN |
 |            4 |     2680 | 2024-09-22 | Illuminar Gaming                          | L   | 0.130      | -            | -                | -                | -         |    -1.57 | AcilioN, Beccie, Equip, Griller, JBOEN |
 |            3 |     2786 | 2024-09-18 | 9INE                                      | L   | 0.104      | -            | -                | -                | -         |    -1.59 | AcilioN, Beccie, Equip, Griller, JBOEN |
 |            2 |     2929 | 2024-09-13 | KONO.ECF                                  | L   | 0.070      | -            | -                | -                | -         |    -0.90 | AcilioN, Beccie, Equip, Griller, JBOEN |

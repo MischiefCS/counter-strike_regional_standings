@@ -6,9 +6,9 @@ Global Rank: [221](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [130]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  601.6<br />
+Final Rank Value:  601.4<br />
 <br />
-Final Rank Value (601.6) = Starting Rank Value (552.6) + Head To Head Adjustments (49.0)<br />
+Final Rank Value (601.4) = Starting Rank Value (552.6) + Head To Head Adjustments (48.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |       10 | 2025-02-28 | Tricked Esport        | L   | 1.000      | -            | -                | -                | -         |    -5.56 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
-|            9 |       38 | 2025-02-25 | OG                    | L   | 1.000      | -            | -                | -                | -         |    -3.50 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
-|            8 |       67 | 2025-02-24 | Ninjas in Pyjamas     | W   | 1.000      | 0.494        | 0.000 (0.000)    | 0.477 (0.236)    | 0 (0.000) |    21.23 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
-|            7 |       87 | 2025-02-23 | RUSH B (Russian team) | L   | 1.000      | -            | -                | -                | -         |    -5.50 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
-|            6 |      107 | 2025-02-22 | Fire Flux Esports     | L   | 1.000      | -            | -                | -                | -         |    -3.66 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
-|            5 |      134 | 2025-02-21 | Rebels Gaming         | W   | 1.000      | 0.424        | 0.009 (0.004)    | 0.318 (0.135)    | 0 (0.000) |    22.77 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
+|           10 |       10 | 2025-02-28 | Tricked Esport        | L   | 1.000      | -            | -                | -                | -         |    -5.58 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
+|            9 |       38 | 2025-02-25 | OG                    | L   | 1.000      | -            | -                | -                | -         |    -3.52 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
+|            8 |       67 | 2025-02-24 | Ninjas in Pyjamas     | W   | 1.000      | 0.494        | 0.000 (0.000)    | 0.477 (0.236)    | 0 (0.000) |    21.22 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
+|            7 |       87 | 2025-02-23 | RUSH B (Russian team) | L   | 1.000      | -            | -                | -                | -         |    -5.51 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
+|            6 |      107 | 2025-02-22 | Fire Flux Esports     | L   | 1.000      | -            | -                | -                | -         |    -3.71 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
+|            5 |      134 | 2025-02-21 | Rebels Gaming         | W   | 1.000      | 0.424        | 0.009 (0.004)    | 0.318 (0.135)    | 0 (0.000) |    22.76 | AMSALEM, bajmi, maaryy, mASKED, SaMey    |
 |            4 |      759 | 2024-12-23 | WOPA Esport           | L   | 0.745      | -            | -                | -                | -         |    -4.84 | AMSALEM, maaryy, mASKED, shushan, tomiko |
 |            3 |      772 | 2024-12-22 | Astralis Talent       | W   | 0.738      | 0.415        | 0.002 (0.001)    | 0.388 (0.119)    | 0 (0.000) |    15.79 | AMSALEM, maaryy, mASKED, shushan, tomiko |
 |            2 |      809 | 2024-12-19 | ENCE Academy          | L   | 0.718      | -            | -                | -                | -         |    -5.29 | AMSALEM, maaryy, mASKED, shushan, tomiko |

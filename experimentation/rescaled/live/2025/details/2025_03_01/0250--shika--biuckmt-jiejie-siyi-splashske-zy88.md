@@ -6,9 +6,9 @@ Global Rank: [250](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [36]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  537.3<br />
+Final Rank Value:  537.2<br />
 <br />
-Final Rank Value (537.3) = Starting Rank Value (510.1) + Head To Head Adjustments (27.1)<br />
+Final Rank Value (537.2) = Starting Rank Value (510.1) + Head To Head Adjustments (27.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            7 |       17 | 2025-02-27 | DogEvil                   | L   | 1.000      | -            | -                | -                | -         |   -11.79 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
-|            6 |       26 | 2025-02-26 | Rare Atom                 | L   | 1.000      | -            | -                | -                | -         |    -4.03 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
+|            6 |       26 | 2025-02-26 | Rare Atom                 | L   | 1.000      | -            | -                | -                | -         |    -4.04 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
 |            5 |       39 | 2025-02-25 | Change The Game           | W   | 1.000      | 0.400        | 0.000 (0.000)    | 0.120 (0.048)    | 0 (0.000) |    14.52 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
 |            4 |       64 | 2025-02-24 | Just Swing (Chinese team) | W   | 1.000      | 0.400        | 0.004 (0.002)    | 0.193 (0.077)    | 0 (0.000) |    20.88 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
 |            3 |      385 | 2025-02-09 | Unsettled Resentment      | L   | 1.000      | -            | -                | -                | -         |    -6.38 | Biuckmt, jiejie, S1kura, Siyi, Zy88    |

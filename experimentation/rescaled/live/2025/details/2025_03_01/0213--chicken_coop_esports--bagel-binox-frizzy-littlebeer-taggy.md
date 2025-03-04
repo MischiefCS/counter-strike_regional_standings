@@ -38,10 +38,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |      357 | 2025-02-10 | MIGHT              | L   | 1.000      | -            | -                | -                | -         |   -11.40 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
-|            7 |      395 | 2025-02-09 | Party Astronauts   | L   | 1.000      | -            | -                | -                | -         |    -8.27 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
+|            7 |      395 | 2025-02-09 | Party Astronauts   | L   | 1.000      | -            | -                | -                | -         |    -8.30 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |            6 |      436 | 2025-02-08 | LAG Gaming         | W   | 1.000      | 0.336        | 0.001 (0.000)    | 0.028 (0.009)    | 0 (0.000) |    13.37 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |            5 |      907 | 2024-12-12 | Bad News Capybaras | L   | 0.676      | -            | -                | -                | -         |    -9.82 | BAGEL, Freaky, FRIZZY, LittleBEER, supa |
-|            4 |      934 | 2024-12-10 | Bad News Capybaras | L   | 0.662      | -            | -                | -                | -         |    -9.98 | BAGEL, Freaky, FRIZZY, LittleBEER, supa |
+|            4 |      934 | 2024-12-10 | Bad News Capybaras | L   | 0.662      | -            | -                | -                | -         |    -9.99 | BAGEL, Freaky, FRIZZY, LittleBEER, supa |
 |            3 |      975 | 2024-12-07 | Alter Iron Club    | L   | 0.642      | -            | -                | -                | -         |    -8.30 | BAGEL, Freaky, FRIZZY, LittleBEER, supa |
 |            2 |     1082 | 2024-12-03 | Make Your Mind     | L   | 0.616      | -            | -                | -                | -         |    -8.49 | BAGEL, Freaky, FRIZZY, LittleBEER, supa |
 |            1 |     1103 | 2024-12-02 | MCS Gaming         | W   | 0.609      | 0.382        | 0.002 (0.001)    | 0.060 (0.014)    | 0 (0.000) |     8.49 | BAGEL, Freaky, FRIZZY, LittleBEER, supa |

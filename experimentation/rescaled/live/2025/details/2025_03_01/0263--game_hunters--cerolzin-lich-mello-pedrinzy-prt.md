@@ -39,7 +39,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |     1206 | 2024-11-28 | Dusty Roots     | L   | 0.579      | -            | -                | -                | -         |    -3.67 | cerolzin, Lich, mello, pedrinzy, prt |
 |            4 |     1238 | 2024-11-25 | Joga de terno   | W   | 0.561      | 0.371        | 0.000 (0.000)    | 0.111 (0.023)    | 0 (0.000) |     8.73 | cerolzin, Lich, mello, pedrinzy, prt |
-|            3 |     1274 | 2024-11-23 | TROPA DO TACO   | L   | 0.547      | -            | -                | -                | -         |    -4.06 | cerolzin, Lich, mello, pedrinzy, prt |
+|            3 |     1274 | 2024-11-23 | TROPA DO TACO   | L   | 0.547      | -            | -                | -                | -         |    -4.07 | cerolzin, Lich, mello, pedrinzy, prt |
 |            2 |     1334 | 2024-11-21 | 20/70           | W   | 0.532      | 0.371        | 0.001 (0.000)    | 0.139 (0.027)    | 0 (0.000) |    11.07 | cerolzin, Lich, mello, pedrinzy, prt |
 |            1 |     1385 | 2024-11-18 | VELOX Argentina | W   | 0.512      | 0.371        | 0.000 (0.000)    | 0.121 (0.023)    | 0 (0.000) |     8.36 | cerolzin, Lich, mello, pedrinzy, prt |
 

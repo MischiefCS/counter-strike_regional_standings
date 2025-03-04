@@ -6,9 +6,9 @@ Global Rank: [89](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [62]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  846.4<br />
+Final Rank Value:  845.8<br />
 <br />
-Final Rank Value (846.4) = Starting Rank Value (885.1) + Head To Head Adjustments (-38.7)<br />
+Final Rank Value (845.8) = Starting Rank Value (885.1) + Head To Head Adjustments (-39.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |        6 | 2025-02-28 | FAVBET Team          | L   | 1.000      | -            | -                | -                | -         |   -15.56 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           26 |       14 | 2025-02-27 | ALASKA               | W   | 1.000      | 0.450        | 0.030 (0.014)    | 0.626 (0.281)    | 0 (0.000) |    17.57 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           25 |       23 | 2025-02-26 | FAVBET Team          | L   | 1.000      | -            | -                | -                | -         |   -15.49 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           24 |       58 | 2025-02-24 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |   -12.22 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           23 |       87 | 2025-02-23 | ESC Gaming           | W   | 1.000      | 0.361        | -                | 0.207 (0.075)    | 0 (0.000) |     5.50 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           22 |      115 | 2025-02-22 | Rebels Gaming        | W   | 1.000      | 0.361        | 0.009 (0.003)    | 0.318 (0.115)    | 0 (0.000) |    10.63 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           21 |      123 | 2025-02-21 | Fire Flux Esports    | L   | 1.000      | -            | -                | -                | -         |   -11.89 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           20 |      137 | 2025-02-21 | Astralis Talent      | L   | 1.000      | -            | -                | -                | -         |   -23.66 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           19 |      171 | 2025-02-18 | Natus Vincere Junior | L   | 1.000      | -            | -                | -                | -         |   -13.83 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           18 |      202 | 2025-02-17 | Fnatic               | L   | 1.000      | -            | -                | -                | -         |    -8.00 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           17 |      240 | 2025-02-15 | KONO.ECF             | L   | 1.000      | -            | -                | -                | -         |   -24.35 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           16 |      271 | 2025-02-14 | GTZ.ESPORTS          | W   | 1.000      | 0.608        | 0.080 (0.048)    | 0.431 (0.262)    | 0 (0.000) |    20.32 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           15 |      363 | 2025-02-10 | Sashi Esport         | W   | 1.000      | 0.608        | 0.013 (0.008)    | 0.582 (0.354)    | 0 (0.000) |    20.61 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           14 |      404 | 2025-02-09 | OG                   | W   | 1.000      | 0.487        | 0.062 (0.030)    | 0.974 (0.474)    | 0 (0.000) |    18.75 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           13 |      465 | 2025-02-08 | Zero Tenacity        | W   | 1.000      | 0.487        | 0.026 (0.013)    | 0.507 (0.247)    | 0 (0.000) |    13.25 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           12 |      561 | 2025-02-05 | Adventurers          | W   | 1.000      | 0.487        | -                | 0.041 (0.020)    | 0 (0.000) |     4.22 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           11 |      572 | 2025-02-04 | Zero Tenacity        | L   | 1.000      | -            | -                | -                | -         |   -17.31 | executor, kinqie, KIRO, tex1y, z1Nny      |
-|           10 |      764 | 2024-12-22 | Zero Tenacity        | W   | 0.740      | 0.455        | 0.026 (0.009)    | 0.507 (0.171)    | 0 (0.000) |    11.46 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           27 |        6 | 2025-02-28 | FAVBET Team          | L   | 1.000      | -            | -                | -                | -         |   -15.58 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           26 |       14 | 2025-02-27 | ALASKA               | W   | 1.000      | 0.450        | 0.030 (0.014)    | 0.626 (0.281)    | 0 (0.000) |    17.55 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           25 |       23 | 2025-02-26 | FAVBET Team          | L   | 1.000      | -            | -                | -                | -         |   -15.51 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           24 |       58 | 2025-02-24 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |   -12.21 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           23 |       87 | 2025-02-23 | ESC Gaming           | W   | 1.000      | 0.361        | -                | 0.207 (0.075)    | 0 (0.000) |     5.51 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           22 |      115 | 2025-02-22 | Rebels Gaming        | W   | 1.000      | 0.361        | 0.009 (0.003)    | 0.318 (0.115)    | 0 (0.000) |    10.64 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           21 |      123 | 2025-02-21 | Fire Flux Esports    | L   | 1.000      | -            | -                | -                | -         |   -11.99 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           20 |      137 | 2025-02-21 | Astralis Talent      | L   | 1.000      | -            | -                | -                | -         |   -23.65 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           19 |      171 | 2025-02-18 | Natus Vincere Junior | L   | 1.000      | -            | -                | -                | -         |   -13.98 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           18 |      202 | 2025-02-17 | Fnatic               | L   | 1.000      | -            | -                | -                | -         |    -8.05 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           17 |      240 | 2025-02-15 | KONO.ECF             | L   | 1.000      | -            | -                | -                | -         |   -24.36 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           16 |      271 | 2025-02-14 | GTZ.ESPORTS          | W   | 1.000      | 0.608        | 0.080 (0.048)    | 0.431 (0.262)    | 0 (0.000) |    20.27 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           15 |      363 | 2025-02-10 | Sashi Esport         | W   | 1.000      | 0.608        | 0.013 (0.008)    | 0.582 (0.354)    | 0 (0.000) |    20.55 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           14 |      404 | 2025-02-09 | OG                   | W   | 1.000      | 0.487        | 0.062 (0.030)    | 0.974 (0.474)    | 0 (0.000) |    18.69 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           13 |      465 | 2025-02-08 | Zero Tenacity        | W   | 1.000      | 0.487        | 0.026 (0.013)    | 0.507 (0.247)    | 0 (0.000) |    13.23 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           12 |      561 | 2025-02-05 | Adventurers          | W   | 1.000      | 0.487        | -                | 0.041 (0.020)    | 0 (0.000) |     4.21 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           11 |      572 | 2025-02-04 | Zero Tenacity        | L   | 1.000      | -            | -                | -                | -         |   -17.33 | executor, kinqie, KIRO, tex1y, z1Nny      |
+|           10 |      764 | 2024-12-22 | Zero Tenacity        | W   | 0.740      | 0.455        | 0.026 (0.009)    | 0.507 (0.171)    | 0 (0.000) |    11.45 | executor, kinqie, KIRO, tex1y, z1Nny      |
 |            9 |      770 | 2024-12-22 | P0RTUGAL             | L   | 0.739      | -            | -                | -                | -         |   -15.39 | executor, kinqie, KIRO, tex1y, z1Nny      |
 |            8 |      847 | 2024-12-15 | FORZE Reload         | W   | 0.693      | 0.357        | 0.016 (0.004)    | 0.116 (0.029)    | 1 (0.693) |     5.92 | executor, kinqie, KIRO, tex1y, z1Nny      |
 |            7 |     1682 | 2024-11-03 | ARCRED               | L   | 0.413      | -            | -                | -                | -         |    -9.13 | executor, kinqie, KIRO, tex1y, z1Nny      |

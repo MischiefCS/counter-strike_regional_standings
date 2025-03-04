@@ -8,7 +8,7 @@ Regional Rank: [110]( ../../standings_europe_2025_03_01.md)<br />
 <br />
 Final Rank Value:  679.9<br />
 <br />
-Final Rank Value (679.9) = Starting Rank Value (686.8) + Head To Head Adjustments (-6.9)<br />
+Final Rank Value (679.9) = Starting Rank Value (686.7) + Head To Head Adjustments (-6.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.151<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 686.8
-- 400 + ( ( 0.151 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 686.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 686.7
+- 400 + ( ( 0.151 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 686.7
 
 
 #### Factors<br />
@@ -43,8 +43,8 @@ Note:<br />
 |            6 |     1573 | 2024-11-11 | Team Iran (Female team)   | W   | 0.465      | 0.557        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.465) |     2.49 | anja, Ismo, KiTKaT, marie, Sukkerzhok |
 |            5 |     1882 | 2024-10-18 | Eco Warriors              | L   | 0.306      | -            | -                | -                | -         |    -3.39 | Ismo, KiTKaT, marie, Nea, pullox      |
 |            4 |     2240 | 2024-10-03 | NIP Impact                | L   | 0.206      | -            | -                | -                | -         |    -3.14 | Ismo, KiTKaT, marie, Nea, pullox      |
-|            3 |     2743 | 2024-09-19 | Let Her Cook              | W   | 0.113      | 0.414        | 0.002 (0.000)    | 0.031 (0.001)    | 0 (0.000) |     1.48 | Ismo, KiTKaT, marie, Nea, pullox      |
-|            2 |     2939 | 2024-09-12 | ENCE Athena               | W   | 0.066      | 0.414        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.59 | Ismo, KiTKaT, marie, Nea, pullox      |
+|            3 |     2743 | 2024-09-19 | Let Her Cook              | W   | 0.113      | 0.412        | 0.002 (0.000)    | 0.031 (0.001)    | 0 (0.000) |     1.48 | Ismo, KiTKaT, marie, Nea, pullox      |
+|            2 |     2939 | 2024-09-12 | ENCE Athena               | W   | 0.066      | 0.412        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.59 | Ismo, KiTKaT, marie, Nea, pullox      |
 |            1 |     3168 | 2024-09-04 | Team Spirit Female        | L   | 0.013      | -            | -                | -                | -         |    -0.24 | Ismo, KiTKaT, marie, Nea, pullox      |
 
 <br />

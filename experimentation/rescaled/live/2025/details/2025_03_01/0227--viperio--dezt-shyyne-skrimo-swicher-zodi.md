@@ -6,9 +6,9 @@ Global Rank: [227](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [135]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  595.7<br />
+Final Rank Value:  595.6<br />
 <br />
-Final Rank Value (595.7) = Starting Rank Value (630.2) + Head To Head Adjustments (-34.5)<br />
+Final Rank Value (595.6) = Starting Rank Value (630.2) + Head To Head Adjustments (-34.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,19 +38,19 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           15 |      805 | 2024-12-19 | Astralis Talent                           | L   | 0.718      | -            | -                | -                | -         |    -8.24 | dezt, shyyne, Skrimo, swicher, zodi  |
-|           14 |      817 | 2024-12-18 | WOPA Esport                               | L   | 0.712      | -            | -                | -                | -         |    -6.21 | dezt, shyyne, Skrimo, swicher, zodi  |
+|           14 |      817 | 2024-12-18 | WOPA Esport                               | L   | 0.712      | -            | -                | -                | -         |    -6.22 | dezt, shyyne, Skrimo, swicher, zodi  |
 |           13 |     1093 | 2024-12-03 | FORZE Reload                              | L   | 0.612      | -            | -                | -                | -         |    -7.28 | dezt, shyyne, Skrimo, swicher, zodi  |
 |           12 |     1114 | 2024-12-02 | Illuminar Gaming                          | W   | 0.605      | 0.378        | 0.007 (0.002)    | 0.323 (0.074)    | 0 (0.000) |    13.54 | dezt, shyyne, Skrimo, swicher, zodi  |
 |           11 |     1128 | 2024-12-01 | ALTERNATE aTTaX                           | L   | 0.600      | -            | -                | -                | -         |    -3.33 | dezt, shyyne, Skrimo, swicher, zodi  |
 |           10 |     1217 | 2024-11-27 | BC.Game Esports                           | L   | 0.573      | -            | -                | -                | -         |    -4.88 | dezt, shyyne, Skrimo, swicher, zodi  |
 |            9 |     1266 | 2024-11-24 | Tricked Esport                            | L   | 0.551      | -            | -                | -                | -         |    -3.65 | dezt, Silence, Skrimo, swicher, zodi |
-|            8 |     1313 | 2024-11-22 | Chimera Esports                           | L   | 0.539      | -            | -                | -                | -         |    -3.17 | dezt, Silence, Skrimo, swicher, zodi |
+|            8 |     1313 | 2024-11-22 | Chimera Esports                           | L   | 0.539      | -            | -                | -                | -         |    -3.24 | dezt, Silence, Skrimo, swicher, zodi |
 |            7 |     1528 | 2024-11-13 | GenOne                                    | L   | 0.477      | -            | -                | -                | -         |    -4.45 | dezt, Silence, Skrimo, swicher, zodi |
-|            6 |     1547 | 2024-11-12 | Leo Team                                  | L   | 0.472      | -            | -                | -                | -         |    -4.36 | dezt, Silence, Skrimo, swicher, zodi |
-|            5 |     1838 | 2024-10-21 | Copenhagen Wolves (American organization) | L   | 0.324      | -            | -                | -                | -         |    -2.29 | dezt, shyyne, Skrimo, swicher, zodi  |
+|            6 |     1547 | 2024-11-12 | Leo Team                                  | L   | 0.472      | -            | -                | -                | -         |    -4.37 | dezt, Silence, Skrimo, swicher, zodi |
+|            5 |     1838 | 2024-10-21 | Copenhagen Wolves (American organization) | L   | 0.324      | -            | -                | -                | -         |    -2.30 | dezt, shyyne, Skrimo, swicher, zodi  |
 |            4 |     1867 | 2024-10-19 | ADEPTS                                    | W   | 0.311      | 0.493        | 0.000 (0.000)    | 0.046 (0.007)    | 0 (0.000) |     3.28 | dezt, shyyne, Skrimo, swicher, zodi  |
-|            3 |     1892 | 2024-10-18 | Natus Vincere Junior                      | L   | 0.304      | -            | -                | -                | -         |    -0.98 | dezt, shyyne, Skrimo, swicher, zodi  |
-|            2 |     2252 | 2024-10-03 | Natus Vincere Junior                      | L   | 0.204      | -            | -                | -                | -         |    -0.67 | dezt, shyyne, Skrimo, swicher, zodi  |
+|            3 |     1892 | 2024-10-18 | Natus Vincere Junior                      | L   | 0.304      | -            | -                | -                | -         |    -1.02 | dezt, shyyne, Skrimo, swicher, zodi  |
+|            2 |     2252 | 2024-10-03 | Natus Vincere Junior                      | L   | 0.204      | -            | -                | -                | -         |    -0.69 | dezt, shyyne, Skrimo, swicher, zodi  |
 |            1 |     2299 | 2024-10-02 | UNiTY esports                             | L   | 0.198      | -            | -                | -                | -         |    -1.84 | dezt, shyyne, Skrimo, swicher, zodi  |
 
 <br />

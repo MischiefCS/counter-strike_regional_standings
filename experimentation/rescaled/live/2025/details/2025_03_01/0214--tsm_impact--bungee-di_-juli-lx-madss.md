@@ -6,9 +6,9 @@ Global Rank: [214](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [61]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  610.1<br />
+Final Rank Value:  609.9<br />
 <br />
-Final Rank Value (610.1) = Starting Rank Value (608.5) + Head To Head Adjustments (1.6)<br />
+Final Rank Value (609.9) = Starting Rank Value (608.3) + Head To Head Adjustments (1.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.001[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.110<br />
+The average of these factors is 0.109<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 608.5
-- 400 + ( ( 0.110 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 608.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 608.3
+- 400 + ( ( 0.109 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 608.3
 
 
 #### Factors<br />
@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     1875 | 2024-10-18 | FLUFFY MAFIA     | W   | 0.308      | 0.348        | 0.002 (0.000)    | 0.034 (0.004)    | 0 (0.000) |     5.03 | bungee, di^, Juli, Lx, madss |
+|            6 |     1875 | 2024-10-18 | FLUFFY MAFIA     | W   | 0.308      | 0.339        | 0.002 (0.000)    | 0.034 (0.004)    | 0 (0.000) |     5.03 | bungee, di^, Juli, Lx, madss |
 |            5 |     2260 | 2024-10-02 | Imp Pact         | L   | 0.201      | -            | -                | -                | -         |    -3.14 | bungee, di^, Juli, Lx, madss |
 |            4 |     2470 | 2024-09-26 | Aware Impact     | L   | 0.161      | -            | -                | -                | -         |    -2.66 | bungee, di^, Juli, Lx, madss |
-|            3 |     2767 | 2024-09-18 | Nouns.fe         | W   | 0.108      | 0.348        | 0.001 (0.000)    | 0.091 (0.003)    | 0 (0.000) |     1.68 | bungee, di^, Juli, Lx, madss |
-|            2 |     2969 | 2024-09-11 | Blue Otter Karma | W   | 0.061      | 0.348        | 0.001 (0.000)    | 0.008 (0.000)    | 0 (0.000) |     0.93 | bungee, di^, Juli, Lx, madss |
+|            3 |     2767 | 2024-09-18 | Nouns.fe         | W   | 0.108      | 0.339        | 0.001 (0.000)    | 0.091 (0.003)    | 0 (0.000) |     1.68 | bungee, di^, Juli, Lx, madss |
+|            2 |     2969 | 2024-09-11 | Blue Otter Karma | W   | 0.061      | 0.339        | 0.001 (0.000)    | 0.008 (0.000)    | 0 (0.000) |     0.93 | bungee, di^, Juli, Lx, madss |
 |            1 |     3164 | 2024-09-04 | FlyQuest RED     | L   | 0.015      | -            | -                | -                | -         |    -0.21 | bungee, di^, Juli, Lx, madss |
 
 <br />

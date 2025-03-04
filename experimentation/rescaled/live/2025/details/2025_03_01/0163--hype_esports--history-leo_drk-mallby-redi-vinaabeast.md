@@ -6,22 +6,22 @@ Global Rank: [163](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [38]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  678.5<br />
+Final Rank Value:  677.9<br />
 <br />
-Final Rank Value (678.5) = Starting Rank Value (666.4) + Head To Head Adjustments (12.0)<br />
+Final Rank Value (677.9) = Starting Rank Value (665.8) + Head To Head Adjustments (12.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.257[<sup>1</sup>](#table2)
-- Bounty Collected: 0.267[<sup>2</sup>](#table1)
-- Opponent Network: 0.036[<sup>2</sup>](#table1)
+- Bounty Collected: 0.266[<sup>2</sup>](#table1)
+- Opponent Network: 0.035[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.140<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 666.4
-- 400 + ( ( 0.140 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 666.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 665.8
+- 400 + ( ( 0.140 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 665.8
 
 
 #### Factors<br />
@@ -38,23 +38,23 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           18 |     1619 | 2024-11-08 | Team Solid       | L   | 0.446      | -            | -                | -                | -         |    -4.27 | history, leo_drk, MaLLby, redi, vinaabEAST   |
-|           17 |     1644 | 2024-11-06 | ShindeN          | W   | 0.435      | 0.392        | 0.005 (0.001)    | 0.377 (0.064)    | 0 (0.000) |     7.04 | history, leo_drk, MaLLby, redi, vinaabEAST   |
-|           16 |     2024 | 2024-10-09 | Case Esports     | L   | 0.248      | -            | -                | -                | -         |    -4.09 | history, leo_drk, MaLLby, redi, vinaabEAST   |
-|           15 |     2031 | 2024-10-09 | Case Esports     | W   | 0.247      | 0.777        | 0.001 (0.000)    | 0.055 (0.011)    | 0 (0.000) |     3.77 | history, leo_drk, MaLLby, redi, vinaabEAST   |
-|           14 |     2079 | 2024-10-08 | Team Solid       | W   | 0.241      | 0.777        | 0.023 (0.004)    | 0.571 (0.107)    | 0 (0.000) |     5.49 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|           17 |     1644 | 2024-11-06 | ShindeN          | W   | 0.435      | 0.392        | 0.005 (0.001)    | 0.377 (0.064)    | 0 (0.000) |     7.05 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|           16 |     2024 | 2024-10-09 | Case Esports     | L   | 0.248      | -            | -                | -                | -         |    -4.08 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|           15 |     2031 | 2024-10-09 | Case Esports     | W   | 0.247      | 0.760        | 0.001 (0.000)    | 0.055 (0.010)    | 0 (0.000) |     3.78 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|           14 |     2079 | 2024-10-08 | Team Solid       | W   | 0.241      | 0.760        | 0.023 (0.004)    | 0.571 (0.105)    | 0 (0.000) |     5.49 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |           13 |     2087 | 2024-10-08 | Team Solid       | L   | 0.241      | -            | -                | -                | -         |    -2.13 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |           12 |     2263 | 2024-10-02 | Imperial Esports | L   | 0.201      | -            | -                | -                | -         |    -0.70 | history, leo_drk, MaLLby, redi, vinaabEAST   |
-|           11 |     2268 | 2024-10-02 | Imperial Esports | L   | 0.201      | -            | -                | -                | -         |    -0.70 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|           11 |     2268 | 2024-10-02 | Imperial Esports | L   | 0.201      | -            | -                | -                | -         |    -0.71 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |           10 |     2323 | 2024-10-01 | PaiN Gaming      | L   | 0.194      | -            | -                | -                | -         |    -0.02 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |            9 |     2327 | 2024-10-01 | PaiN Gaming      | L   | 0.194      | -            | -                | -                | -         |    -0.02 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |            8 |     2433 | 2024-09-27 | Fluxo            | L   | 0.168      | -            | -                | -                | -         |    -0.87 | history, leo_drk, MaLLby, rainny, vinaabEAST |
 |            7 |     2471 | 2024-09-26 | Galorys          | W   | 0.161      | 0.441        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.32 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|            6 |     2527 | 2024-09-25 | Sharks Esports   | W   | 0.154      | 0.777        | 0.054 (0.007)    | 0.661 (0.079)    | 0 (0.000) |     4.27 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|            6 |     2527 | 2024-09-25 | Sharks Esports   | W   | 0.154      | 0.760        | 0.054 (0.006)    | 0.661 (0.078)    | 0 (0.000) |     4.27 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |            5 |     2532 | 2024-09-25 | Sharks Esports   | L   | 0.154      | -            | -                | -                | -         |    -0.60 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |            4 |     2588 | 2024-09-24 | BESTIA           | L   | 0.148      | -            | -                | -                | -         |    -0.99 | history, leo_drk, MaLLby, redi, vinaabEAST   |
-|            3 |     2594 | 2024-09-24 | BESTIA           | W   | 0.147      | 0.777        | 0.045 (0.005)    | 0.572 (0.066)    | 0 (0.000) |     3.68 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|            3 |     2594 | 2024-09-24 | BESTIA           | W   | 0.147      | 0.760        | 0.045 (0.005)    | 0.572 (0.064)    | 0 (0.000) |     3.68 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 |            2 |     2799 | 2024-09-17 | Dusty Roots      | L   | 0.101      | -            | -                | -                | -         |    -1.16 | history, leo_drk, MaLLby, redi, vinaabEAST   |
-|            1 |     2802 | 2024-09-17 | Dusty Roots      | W   | 0.101      | 0.777        | 0.008 (0.001)    | 0.422 (0.033)    | 0 (0.000) |     2.03 | history, leo_drk, MaLLby, redi, vinaabEAST   |
+|            1 |     2802 | 2024-09-17 | Dusty Roots      | W   | 0.101      | 0.760        | 0.008 (0.001)    | 0.422 (0.032)    | 0 (0.000) |     2.03 | history, leo_drk, MaLLby, redi, vinaabEAST   |
 
 <br />
 <span id="table2"></span><br />

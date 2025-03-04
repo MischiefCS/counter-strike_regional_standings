@@ -38,15 +38,15 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           17 |      711 | 2025-01-09 | Elevate                  | L   | 0.859      | -            | -                | -                | -         |   -13.94 | lezy, MaxOff, neozix, rw, zock9       |
-|           16 |      780 | 2024-12-21 | Players (Brazilian team) | W   | 0.732      | 0.412        | 0.008 (0.002)    | 0.566 (0.171)    | 0 (0.000) |    16.93 | lezy, MaxOff, neozix, rw, zock9       |
-|           15 |      800 | 2024-12-19 | 20/70                    | W   | 0.720      | 0.412        | 0.001 (0.000)    | 0.139 (0.041)    | 0 (0.000) |    13.75 | lezy, MaxOff, neozix, rw, zock9       |
-|           14 |      810 | 2024-12-18 | Team Solid               | L   | 0.715      | -            | -                | -                | -         |    -3.35 | lezy, MaxOff, neozix, rw, zock9       |
+|           16 |      780 | 2024-12-21 | Players (Brazilian team) | W   | 0.732      | 0.412        | 0.008 (0.002)    | 0.566 (0.170)    | 0 (0.000) |    16.92 | lezy, MaxOff, neozix, rw, zock9       |
+|           15 |      800 | 2024-12-19 | 20/70                    | W   | 0.720      | 0.412        | 0.001 (0.000)    | 0.139 (0.041)    | 0 (0.000) |    13.76 | lezy, MaxOff, neozix, rw, zock9       |
+|           14 |      810 | 2024-12-18 | Team Solid               | L   | 0.715      | -            | -                | -                | -         |    -3.36 | lezy, MaxOff, neozix, rw, zock9       |
 |           13 |      831 | 2024-12-16 | ShindeN                  | L   | 0.700      | -            | -                | -                | -         |    -6.80 | lezy, MaxOff, neozix, rw, zock9       |
 |           12 |      865 | 2024-12-14 | Exceritus                | W   | 0.687      | 0.412        | 0.000 (0.000)    | 0.184 (0.052)    | 0 (0.000) |    13.69 | lezy, MaxOff, neozix, rw, zock9       |
 |           11 |      910 | 2024-12-12 | 20/70                    | L   | 0.674      | -            | -                | -                | -         |    -7.49 | divine, lezy, MaxOff, neozix, rw      |
 |           10 |     1253 | 2024-11-24 | PaiN Gaming Academy      | L   | 0.554      | -            | -                | -                | -         |   -11.64 | divine, lezy, MaxOff, neozix, rw      |
 |            9 |     1278 | 2024-11-23 | Yawara E-Sports          | L   | 0.547      | -            | -                | -                | -         |    -5.71 | divine, lezy, MaxOff, neozix, rw      |
-|            8 |     1358 | 2024-11-20 | BESTIA Academy           | W   | 0.527      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.11 | divine, lezy, MaxOff, neozix, rw      |
+|            8 |     1358 | 2024-11-20 | BESTIA Academy           | W   | 0.527      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.12 | divine, lezy, MaxOff, neozix, rw      |
 |            7 |     1382 | 2024-11-18 | TROPA DO TACO            | L   | 0.515      | -            | -                | -                | -         |    -4.47 | divine, lezy, MaxOff, neozix, rw      |
 |            6 |     1649 | 2024-11-06 | Fluxo                    | L   | 0.432      | -            | -                | -                | -         |    -1.04 | divine, lezy, MaxOff, neozix, slashzz |
 |            5 |     1661 | 2024-11-05 | Joga de terno            | W   | 0.426      | 0.455        | 0.000 (0.000)    | 0.111 (0.021)    | 0 (0.000) |     6.08 | divine, lezy, MaxOff, neozix, slashzz |

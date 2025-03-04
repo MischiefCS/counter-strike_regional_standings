@@ -6,9 +6,9 @@ Global Rank: [222](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [65]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  601.2<br />
+Final Rank Value:  601.1<br />
 <br />
-Final Rank Value (601.2) = Starting Rank Value (626.1) + Head To Head Adjustments (-25.0)<br />
+Final Rank Value (601.1) = Starting Rank Value (626.1) + Head To Head Adjustments (-25.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           12 |      355 | 2025-02-10 | Exceritus                  | L   | 1.000      | -            | -                | -                | -         |   -15.99 | Beast, DYLAN, jsfeltner, milo, TyRa   |
-|           11 |      391 | 2025-02-09 | Chill Guys                 | L   | 1.000      | -            | -                | -                | -         |   -14.53 | Beast, DYLAN, jsfeltner, milo, TyRa   |
+|           11 |      391 | 2025-02-09 | Chill Guys                 | L   | 1.000      | -            | -                | -                | -         |   -14.54 | Beast, DYLAN, jsfeltner, milo, TyRa   |
 |           10 |      439 | 2025-02-08 | FlyQuest RED               | W   | 1.000      | 0.325        | 0.007 (0.002)    | 0.052 (0.017)    | 0 (0.000) |    15.93 | Beast, DYLAN, jsfeltner, milo, TyRa   |
 |            9 |     1969 | 2024-10-13 | FLUFFY AIMERS              | L   | 0.274      | -            | -                | -                | -         |    -2.41 | Andrew, DYLAN, jsfeltner, mason, TyRa |
 |            8 |     1977 | 2024-10-12 | Fisher College             | L   | 0.268      | -            | -                | -                | -         |    -2.94 | Andrew, DYLAN, jsfeltner, mason, TyRa |

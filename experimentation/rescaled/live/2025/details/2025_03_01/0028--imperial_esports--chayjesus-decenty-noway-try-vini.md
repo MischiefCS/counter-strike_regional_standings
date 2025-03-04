@@ -6,22 +6,22 @@ Global Rank: [28](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [7]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1128.3<br />
+Final Rank Value:  1127.2<br />
 <br />
-Final Rank Value (1128.3) = Starting Rank Value (1052.1) + Head To Head Adjustments (76.2)<br />
+Final Rank Value (1127.2) = Starting Rank Value (1050.4) + Head To Head Adjustments (76.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.460[<sup>1</sup>](#table2)
-- Bounty Collected: 0.456[<sup>2</sup>](#table1)
-- Opponent Network: 0.273[<sup>2</sup>](#table1)
+- Bounty Collected: 0.455[<sup>2</sup>](#table1)
+- Opponent Network: 0.271[<sup>2</sup>](#table1)
 - LAN Wins: 0.182[<sup>2</sup>](#table1)
 
-The average of these factors is 0.343<br />
+The average of these factors is 0.342<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1052.1
-- 400 + ( ( 0.343 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1052.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1050.4
+- 400 + ( ( 0.342 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1050.4
 
 
 #### Factors<br />
@@ -37,47 +37,47 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           48 |      103 | 2025-02-22 | Sharks Esports | W   | 1.000      | 0.541        | 0.054 (0.029)    | 0.661 (0.357)    | 0 (0.000) |    11.08 | chayJESUS, decenty, noway, try, VINI |
-|           47 |      105 | 2025-02-22 | Fluxo          | W   | 1.000      | 0.541        | 0.054 (0.029)    | 0.394 (0.213)    | 0 (0.000) |    11.56 | chayJESUS, decenty, noway, try, VINI |
-|           46 |      119 | 2025-02-21 | Legacy         | W   | 1.000      | 0.541        | 0.033 (0.018)    | 0.669 (0.362)    | 0 (0.000) |    11.77 | chayJESUS, decenty, noway, try, VINI |
-|           45 |      324 | 2025-02-11 | Sharks Esports | L   | 1.000      | -            | -                | -                | -         |   -20.05 | chayJESUS, decenty, noway, try, VINI |
-|           44 |      329 | 2025-02-11 | Fluxo          | L   | 1.000      | -            | -                | -                | -         |   -20.27 | chayJESUS, decenty, noway, try, VINI |
-|           43 |      388 | 2025-02-09 | MIBR           | W   | 1.000      | 0.774        | 0.139 (0.107)    | 0.604 (0.468)    | 0 (0.000) |    26.64 | chayJESUS, decenty, noway, try, VINI |
-|           42 |      403 | 2025-02-09 | PaiN Gaming    | W   | 1.000      | 0.774        | 0.318 (0.246)    | 0.632 (0.489)    | 0 (0.000) |    29.68 | chayJESUS, decenty, noway, try, VINI |
-|           41 |      426 | 2025-02-08 | Nitro.GG       | W   | 1.000      | -            | -                | -                | -         |     3.07 | chayJESUS, decenty, noway, try, VINI |
-|           40 |      432 | 2025-02-08 | KRÜ Esports    | W   | 1.000      | -            | -                | -                | -         |     2.93 | chayJESUS, decenty, noway, try, VINI |
-|           39 |      459 | 2025-02-08 | Fluxo          | W   | 1.000      | 0.774        | 0.054 (0.042)    | 0.394 (0.305)    | -         |    13.57 | chayJESUS, decenty, noway, try, VINI |
-|           38 |      487 | 2025-02-07 | ShindeN        | W   | 1.000      | 0.323        | -                | 0.377 (0.122)    | -         |     3.36 | chayJESUS, decenty, noway, try, VINI |
-|           37 |      494 | 2025-02-07 | AdalYamigos    | W   | 1.000      | -            | -                | -                | -         |     5.81 | chayJESUS, decenty, noway, try, VINI |
-|           36 |      537 | 2025-02-05 | AdalYamigos    | W   | 1.000      | -            | -                | -                | -         |     5.90 | chayJESUS, decenty, noway, try, VINI |
-|           35 |      545 | 2025-02-05 | Fake do Biru   | W   | 1.000      | -            | -                | -                | -         |     2.30 | chayJESUS, decenty, noway, try, VINI |
-|           34 |     1139 | 2024-12-01 | Complexity     | L   | 0.597      | -            | -                | -                | -         |    -6.84 | decenty, felps, noway, try, VINI     |
-|           33 |     1163 | 2024-11-30 | FURIA          | L   | 0.592      | -            | -                | -                | -         |    -1.99 | decenty, felps, noway, try, VINI     |
-|           32 |     1173 | 2024-11-29 | PaiN Gaming    | L   | 0.590      | -            | -                | -                | -         |    -0.75 | decenty, felps, noway, try, VINI     |
+|           48 |      103 | 2025-02-22 | Sharks Esports | W   | 1.000      | 0.541        | 0.054 (0.029)    | 0.661 (0.357)    | 0 (0.000) |    11.11 | chayJESUS, decenty, noway, try, VINI |
+|           47 |      105 | 2025-02-22 | Fluxo          | W   | 1.000      | 0.541        | 0.054 (0.029)    | 0.394 (0.213)    | 0 (0.000) |    11.59 | chayJESUS, decenty, noway, try, VINI |
+|           46 |      119 | 2025-02-21 | Legacy         | W   | 1.000      | 0.541        | 0.033 (0.018)    | 0.669 (0.362)    | 0 (0.000) |    11.80 | chayJESUS, decenty, noway, try, VINI |
+|           45 |      324 | 2025-02-11 | Sharks Esports | L   | 1.000      | -            | -                | -                | -         |   -20.02 | chayJESUS, decenty, noway, try, VINI |
+|           44 |      329 | 2025-02-11 | Fluxo          | L   | 1.000      | -            | -                | -                | -         |   -20.24 | chayJESUS, decenty, noway, try, VINI |
+|           43 |      388 | 2025-02-09 | MIBR           | W   | 1.000      | 0.774        | 0.139 (0.107)    | 0.604 (0.468)    | 0 (0.000) |    26.66 | chayJESUS, decenty, noway, try, VINI |
+|           42 |      403 | 2025-02-09 | PaiN Gaming    | W   | 1.000      | 0.774        | 0.318 (0.246)    | 0.632 (0.489)    | 0 (0.000) |    29.69 | chayJESUS, decenty, noway, try, VINI |
+|           41 |      426 | 2025-02-08 | Nitro.GG       | W   | 1.000      | 0.323        | -                | 0.358 (0.116)    | -         |     3.09 | chayJESUS, decenty, noway, try, VINI |
+|           40 |      432 | 2025-02-08 | KRÜ Esports    | W   | 1.000      | -            | -                | -                | -         |     2.95 | chayJESUS, decenty, noway, try, VINI |
+|           39 |      459 | 2025-02-08 | Fluxo          | W   | 1.000      | 0.774        | 0.054 (0.042)    | 0.394 (0.305)    | -         |    13.62 | chayJESUS, decenty, noway, try, VINI |
+|           38 |      487 | 2025-02-07 | ShindeN        | W   | 1.000      | 0.323        | -                | 0.377 (0.122)    | -         |     3.38 | chayJESUS, decenty, noway, try, VINI |
+|           37 |      494 | 2025-02-07 | AdalYamigos    | W   | 1.000      | -            | -                | -                | -         |     5.85 | chayJESUS, decenty, noway, try, VINI |
+|           36 |      537 | 2025-02-05 | AdalYamigos    | W   | 1.000      | -            | -                | -                | -         |     5.94 | chayJESUS, decenty, noway, try, VINI |
+|           35 |      545 | 2025-02-05 | Fake do Biru   | W   | 1.000      | -            | -                | -                | -         |     2.31 | chayJESUS, decenty, noway, try, VINI |
+|           34 |     1139 | 2024-12-01 | Complexity     | L   | 0.597      | -            | -                | -                | -         |    -6.81 | decenty, felps, noway, try, VINI     |
+|           33 |     1163 | 2024-11-30 | FURIA          | L   | 0.592      | -            | -                | -                | -         |    -1.97 | decenty, felps, noway, try, VINI     |
+|           32 |     1173 | 2024-11-29 | PaiN Gaming    | L   | 0.590      | -            | -                | -                | -         |    -0.74 | decenty, felps, noway, try, VINI     |
 |           31 |     1467 | 2024-11-14 | RED Canids     | W   | 0.490      | -            | -                | -                | 1 (0.490) |     4.35 | decenty, felps, noway, try, VINI     |
-|           30 |     1502 | 2024-11-13 | KRÜ Esports    | W   | 0.484      | -            | -                | -                | 1 (0.484) |     1.88 | decenty, felps, noway, try, VINI     |
-|           29 |     1531 | 2024-11-12 | PaiN Gaming    | L   | 0.476      | -            | -                | -                | -         |    -0.59 | decenty, felps, noway, try, VINI     |
-|           28 |     1541 | 2024-11-12 | MIBR           | L   | 0.472      | -            | -                | -                | -         |    -1.59 | decenty, felps, noway, try, VINI     |
-|           27 |     1558 | 2024-11-11 | Case Esports   | W   | 0.470      | -            | -                | -                | 1 (0.470) |     1.57 | decenty, felps, noway, try, VINI     |
+|           30 |     1502 | 2024-11-13 | KRÜ Esports    | W   | 0.484      | -            | -                | -                | 1 (0.484) |     1.89 | decenty, felps, noway, try, VINI     |
+|           29 |     1531 | 2024-11-12 | PaiN Gaming    | L   | 0.476      | -            | -                | -                | -         |    -0.58 | decenty, felps, noway, try, VINI     |
+|           28 |     1541 | 2024-11-12 | MIBR           | L   | 0.472      | -            | -                | -                | -         |    -1.58 | decenty, felps, noway, try, VINI     |
+|           27 |     1558 | 2024-11-11 | Case Esports   | W   | 0.470      | -            | -                | -                | 1 (0.470) |     1.58 | decenty, felps, noway, try, VINI     |
 |           26 |     1902 | 2024-10-17 | RED Canids     | L   | 0.301      | -            | -                | -                | -         |    -6.82 | decenty, felps, noway, try, VINI     |
-|           25 |     1928 | 2024-10-16 | Sharks Esports | W   | 0.294      | 0.859        | 0.054 (0.014)    | 0.661 (0.167)    | -         |     4.30 | decenty, felps, noway, try, VINI     |
-|           24 |     1953 | 2024-10-15 | AdalYamigos    | L   | 0.287      | -            | -                | -                | -         |    -7.51 | decenty, felps, noway, try, VINI     |
-|           23 |     2023 | 2024-10-09 | Team Solid     | W   | 0.248      | 0.859        | -                | 0.571 (0.121)    | -         |     1.77 | decenty, felps, noway, try, VINI     |
-|           22 |     2030 | 2024-10-09 | Team Solid     | W   | 0.247      | -            | -                | -                | -         |     1.80 | decenty, felps, noway, try, VINI     |
-|           21 |     2080 | 2024-10-08 | PaiN Gaming    | W   | 0.241      | 0.859        | 0.318 (0.066)    | 0.632 (0.131)    | -         |     7.36 | decenty, felps, noway, try, VINI     |
-|           20 |     2088 | 2024-10-08 | PaiN Gaming    | L   | 0.241      | -            | -                | -                | -         |    -0.24 | decenty, felps, noway, try, VINI     |
-|           19 |     2122 | 2024-10-07 | Complexity     | L   | 0.234      | -            | -                | -                | -         |    -2.60 | decenty, felps, noway, try, VINI     |
+|           25 |     1928 | 2024-10-16 | Sharks Esports | W   | 0.294      | 0.801        | 0.054 (0.013)    | 0.661 (0.156)    | -         |     4.32 | decenty, felps, noway, try, VINI     |
+|           24 |     1953 | 2024-10-15 | AdalYamigos    | L   | 0.287      | -            | -                | -                | -         |    -7.50 | decenty, felps, noway, try, VINI     |
+|           23 |     2023 | 2024-10-09 | Team Solid     | W   | 0.248      | -            | -                | -                | -         |     1.78 | decenty, felps, noway, try, VINI     |
+|           22 |     2030 | 2024-10-09 | Team Solid     | W   | 0.247      | -            | -                | -                | -         |     1.81 | decenty, felps, noway, try, VINI     |
+|           21 |     2080 | 2024-10-08 | PaiN Gaming    | W   | 0.241      | 0.801        | 0.318 (0.061)    | 0.632 (0.122)    | -         |     7.36 | decenty, felps, noway, try, VINI     |
+|           20 |     2088 | 2024-10-08 | PaiN Gaming    | L   | 0.241      | -            | -                | -                | -         |    -0.23 | decenty, felps, noway, try, VINI     |
+|           19 |     2122 | 2024-10-07 | Complexity     | L   | 0.234      | -            | -                | -                | -         |    -2.59 | decenty, felps, noway, try, VINI     |
 |           18 |     2131 | 2024-10-07 | Natus Vincere  | L   | 0.232      | -            | -                | -                | -         |    -0.14 | decenty, felps, noway, try, VINI     |
-|           17 |     2141 | 2024-10-06 | MIBR           | L   | 0.228      | -            | -                | -                | -         |    -0.76 | decenty, felps, noway, try, VINI     |
-|           16 |     2142 | 2024-10-06 | MIBR           | W   | 0.228      | 0.859        | 0.139 (0.027)    | -                | -         |     6.45 | decenty, felps, noway, try, VINI     |
+|           17 |     2141 | 2024-10-06 | MIBR           | L   | 0.228      | -            | -                | -                | -         |    -0.75 | decenty, felps, noway, try, VINI     |
+|           16 |     2142 | 2024-10-06 | MIBR           | W   | 0.228      | 0.801        | 0.139 (0.025)    | -                | -         |     6.46 | decenty, felps, noway, try, VINI     |
 |           15 |     2202 | 2024-10-04 | RED Canids     | L   | 0.214      | -            | -                | -                | -         |    -4.83 | decenty, felps, noway, try, VINI     |
 |           14 |     2263 | 2024-10-02 | Hype Esports   | W   | 0.201      | -            | -                | -                | -         |     0.70 | decenty, felps, noway, try, VINI     |
-|           13 |     2268 | 2024-10-02 | Hype Esports   | W   | 0.201      | -            | -                | -                | -         |     0.70 | decenty, felps, noway, try, VINI     |
-|           12 |     2320 | 2024-10-01 | Sharks Esports | W   | 0.194      | -            | -                | -                | -         |     2.92 | decenty, felps, noway, try, VINI     |
-|           11 |     2325 | 2024-10-01 | Sharks Esports | L   | 0.194      | -            | -                | -                | -         |    -3.25 | decenty, felps, noway, try, VINI     |
-|           10 |     2363 | 2024-09-30 | Fluxo          | L   | 0.188      | -            | -                | -                | -         |    -3.59 | decenty, felps, noway, try, VINI     |
-|            9 |     2365 | 2024-09-30 | Fluxo          | L   | 0.188      | -            | -                | -                | -         |    -3.64 | decenty, felps, noway, try, VINI     |
-|            8 |     2528 | 2024-09-25 | BESTIA         | L   | 0.154      | -            | -                | -                | -         |    -3.41 | decenty, felps, noway, try, VINI     |
+|           13 |     2268 | 2024-10-02 | Hype Esports   | W   | 0.201      | -            | -                | -                | -         |     0.71 | decenty, felps, noway, try, VINI     |
+|           12 |     2320 | 2024-10-01 | Sharks Esports | W   | 0.194      | -            | -                | -                | -         |     2.93 | decenty, felps, noway, try, VINI     |
+|           11 |     2325 | 2024-10-01 | Sharks Esports | L   | 0.194      | -            | -                | -                | -         |    -3.24 | decenty, felps, noway, try, VINI     |
+|           10 |     2363 | 2024-09-30 | Fluxo          | L   | 0.188      | -            | -                | -                | -         |    -3.58 | decenty, felps, noway, try, VINI     |
+|            9 |     2365 | 2024-09-30 | Fluxo          | L   | 0.188      | -            | -                | -                | -         |    -3.63 | decenty, felps, noway, try, VINI     |
+|            8 |     2528 | 2024-09-25 | BESTIA         | L   | 0.154      | -            | -                | -                | -         |    -3.40 | decenty, felps, noway, try, VINI     |
 |            7 |     2533 | 2024-09-25 | BESTIA         | W   | 0.154      | -            | -                | -                | -         |     1.47 | decenty, felps, noway, try, VINI     |
 |            6 |     2779 | 2024-09-18 | Team Spirit    | L   | 0.106      | -            | -                | -                | -         |    -0.02 | decenty, felps, noway, try, VINI     |
 |            5 |     2870 | 2024-09-14 | M80            | L   | 0.080      | -            | -                | -                | -         |    -1.63 | decenty, felps, noway, try, VINI     |

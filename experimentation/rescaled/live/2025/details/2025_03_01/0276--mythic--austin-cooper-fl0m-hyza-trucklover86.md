@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           19 |      386 | 2025-02-09 | Immigrants Peek    | L   | 1.000      | -            | -                | -                | -         |    -9.15 | Austin, Cooper, fl0m, hyza, Trucklover86       |
-|           18 |      421 | 2025-02-08 | Alter Iron Club    | L   | 1.000      | -            | -                | -                | -         |    -6.79 | Austin, Cooper, fl0m, hyza, Trucklover86       |
+|           18 |      421 | 2025-02-08 | Alter Iron Club    | L   | 1.000      | -            | -                | -                | -         |    -6.80 | Austin, Cooper, fl0m, hyza, Trucklover86       |
 |           17 |     2012 | 2024-10-09 | Nouns Esports      | L   | 0.249      | -            | -                | -                | -         |    -1.49 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
 |           16 |     2019 | 2024-10-09 | Nouns Esports      | L   | 0.248      | -            | -                | -                | -         |    -1.51 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
 |           15 |     2064 | 2024-10-08 | Vagrants           | L   | 0.242      | -            | -                | -                | -         |    -2.27 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |

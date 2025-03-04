@@ -8,7 +8,7 @@ Regional Rank: [3]( ../../standings_asia_2025_03_01.md)<br />
 <br />
 Final Rank Value:  1087.8<br />
 <br />
-Final Rank Value (1087.8) = Starting Rank Value (1060.5) + Head To Head Adjustments (27.4)<br />
+Final Rank Value (1087.8) = Starting Rank Value (1060.5) + Head To Head Adjustments (27.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           31 |       16 | 2025-02-27 | HOTU                      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.24 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           31 |       16 | 2025-02-27 | HOTU                      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.23 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           30 |       21 | 2025-02-26 | Eruption                  | W   | 1.000      | 0.439        | 0.014 (0.006)    | 0.379 (0.166)    | 0 (0.000) |     7.81 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           29 |       35 | 2025-02-25 | The Huns Esports          | W   | 1.000      | 0.439        | 0.025 (0.011)    | 0.516 (0.227)    | 0 (0.000) |     9.83 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           28 |       53 | 2025-02-24 | Gods Reign                | W   | 1.000      | 0.439        | -                | 0.360 (0.158)    | -         |     7.58 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           27 |       75 | 2025-02-23 | HOTU                      | L   | 1.000      | -            | -                | -                | -         |   -28.27 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           26 |      297 | 2025-02-13 | The Huns Esports          | W   | 1.000      | 0.443        | 0.025 (0.011)    | 0.516 (0.229)    | -         |    10.08 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           25 |      300 | 2025-02-12 | Rare Atom                 | W   | 1.000      | 0.443        | 0.028 (0.012)    | 0.405 (0.180)    | -         |     8.25 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           24 |      313 | 2025-02-12 | Lynn Vision Gaming        | L   | 1.000      | -            | -                | -                | -         |   -22.04 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           24 |      313 | 2025-02-12 | Lynn Vision Gaming        | L   | 1.000      | -            | -                | -                | -         |   -22.05 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           23 |      336 | 2025-02-11 | The Huns Esports          | W   | 1.000      | 0.441        | 0.025 (0.011)    | 0.516 (0.228)    | -         |     9.99 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           22 |      344 | 2025-02-11 | TYLOO                     | W   | 1.000      | 0.441        | 0.018 (0.008)    | -                | -         |     7.43 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           22 |      344 | 2025-02-11 | TYLOO                     | W   | 1.000      | 0.441        | 0.018 (0.008)    | -                | -         |     7.42 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           21 |      347 | 2025-02-10 | Rooster                   | W   | 1.000      | -            | -                | -                | -         |     2.86 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           20 |      739 | 2024-12-29 | Eruption                  | W   | 0.784      | 0.480        | -                | 0.379 (0.142)    | 1 (0.784) |     7.04 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           19 |      740 | 2024-12-28 | Rare Atom                 | W   | 0.783      | 0.480        | 0.028 (0.010)    | 0.405 (0.152)    | 1 (0.783) |     6.13 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           19 |      740 | 2024-12-28 | Rare Atom                 | W   | 0.783      | 0.480        | 0.028 (0.010)    | 0.405 (0.152)    | 1 (0.783) |     6.12 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           18 |      746 | 2024-12-28 | The Huns Esports          | W   | 0.777      | 0.480        | 0.025 (0.009)    | 0.516 (0.193)    | 1 (0.777) |     8.46 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           17 |      747 | 2024-12-27 | Chinggis Warriors         | W   | 0.777      | 0.480        | 0.016 (0.006)    | 0.555 (0.207)    | 1 (0.777) |     5.37 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
 |           16 |      753 | 2024-12-26 | Eruption                  | L   | 0.770      | -            | -                | -                | -         |   -17.56 | AccuracyTG, dobu, kabal, MiQ, Zesta  |

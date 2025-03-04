@@ -6,9 +6,9 @@ Global Rank: [1](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [1]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1974.4<br />
+Final Rank Value:  1974.3<br />
 <br />
-Final Rank Value (1974.4) = Starting Rank Value (2000.0) + Head To Head Adjustments (-25.6)<br />
+Final Rank Value (1974.3) = Starting Rank Value (2000.0) + Head To Head Adjustments (-25.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -43,7 +43,7 @@ Note:<br />
 |           37 |      573 | 2025-02-04 | GamerLegion       | W   | 1.000      | 1.000        | -                | 0.632 (0.632)    | 1 (1.000) |     3.64 | chopper, donk, magixx, sh1ro, zont1x |
 |           36 |      581 | 2025-02-04 | Team Liquid       | W   | 1.000      | 1.000        | -                | 0.491 (0.491)    | 1 (1.000) |     2.35 | chopper, donk, magixx, sh1ro, zont1x |
 |           35 |      589 | 2025-02-03 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |   -24.42 | chopper, donk, magixx, sh1ro, zont1x |
-|           34 |      604 | 2025-02-02 | Astralis          | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |     7.39 | chopper, donk, magixx, sh1ro, zont1x |
+|           34 |      604 | 2025-02-02 | Astralis          | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |     7.37 | chopper, donk, magixx, sh1ro, zont1x |
 |           33 |      653 | 2025-01-26 | Eternal Fire      | W   | 0.973      | 1.000        | 0.588 (0.571)    | 0.635 (0.617)    | 1 (0.973) |    11.93 | chopper, donk, magixx, sh1ro, zont1x |
 |           32 |      656 | 2025-01-25 | Natus Vincere     | W   | 0.967      | 1.000        | 0.555 (0.537)    | 0.613 (0.593)    | 1 (0.967) |     6.78 | chopper, donk, magixx, sh1ro, zont1x |
 |           31 |      667 | 2025-01-23 | HEROIC            | W   | 0.953      | 1.000        | -                | 0.518 (0.493)    | 1 (0.953) |     0.62 | chopper, donk, magixx, sh1ro, zont1x |
@@ -63,12 +63,12 @@ Note:<br />
 |           17 |     1343 | 2024-11-21 | Passion UA        | L   | 0.531      | -            | -                | -                | -         |   -16.57 | chopper, donk, magixx, sh1ro, zont1x |
 |           16 |     1356 | 2024-11-20 | B8                | W   | 0.529      | -            | -                | -                | -         |     0.13 | chopper, donk, magixx, sh1ro, zont1x |
 |           15 |     1697 | 2024-11-03 | G2 Esports        | L   | 0.411      | -            | -                | -                | -         |    -9.41 | chopper, donk, magixx, sh1ro, zont1x |
-|           14 |     1716 | 2024-11-02 | Astralis          | W   | 0.405      | -            | -                | -                | -         |     4.22 | chopper, donk, magixx, sh1ro, zont1x |
+|           14 |     1716 | 2024-11-02 | Astralis          | W   | 0.405      | -            | -                | -                | -         |     4.21 | chopper, donk, magixx, sh1ro, zont1x |
 |           13 |     1736 | 2024-11-01 | FaZe Clan         | W   | 0.398      | 1.000        | 0.744 (0.296)    | -                | -         |     4.30 | chopper, donk, magixx, sh1ro, zont1x |
 |           12 |     1748 | 2024-10-31 | G2 Esports        | L   | 0.392      | -            | -                | -                | -         |    -9.23 | chopper, donk, magixx, sh1ro, zont1x |
 |           11 |     1770 | 2024-10-30 | Team Vitality     | W   | 0.385      | 1.000        | 1.000 (0.385)    | -                | -         |     4.64 | chopper, donk, magixx, sh1ro, zont1x |
 |           10 |     2452 | 2024-09-27 | G2 Esports        | L   | 0.165      | -            | -                | -                | -         |    -3.94 | chopper, donk, magixx, sh1ro, zont1x |
-|            9 |     2494 | 2024-09-26 | Astralis          | W   | 0.159      | -            | -                | -                | -         |     1.62 | chopper, donk, magixx, sh1ro, zont1x |
+|            9 |     2494 | 2024-09-26 | Astralis          | W   | 0.159      | -            | -                | -                | -         |     1.61 | chopper, donk, magixx, sh1ro, zont1x |
 |            8 |     2542 | 2024-09-25 | Team Liquid       | L   | 0.153      | -            | -                | -                | -         |    -4.52 | chopper, donk, magixx, sh1ro, zont1x |
 |            7 |     2713 | 2024-09-20 | Natus Vincere     | L   | 0.119      | -            | -                | -                | -         |    -3.05 | chopper, donk, magixx, sh1ro, zont1x |
 |            6 |     2779 | 2024-09-18 | Imperial Esports  | W   | 0.106      | -            | -                | -                | -         |     0.02 | chopper, donk, magixx, sh1ro, zont1x |

@@ -39,16 +39,16 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           12 |      289 | 2025-02-13 | Players (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -10.76 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
 |           11 |      334 | 2025-02-11 | ShindeN                  | L   | 1.000      | -            | -                | -                | -         |   -12.28 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
-|           10 |      390 | 2025-02-09 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |   -13.22 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
-|            9 |     1878 | 2024-10-18 | Thekillaz                | W   | 0.307      | 0.486        | 0.001 (0.000)    | 0.026 (0.004)    | 0 (0.000) |     4.71 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
+|           10 |      390 | 2025-02-09 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |   -13.24 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
+|            9 |     1878 | 2024-10-18 | Thekillaz                | W   | 0.307      | 0.483        | 0.001 (0.000)    | 0.026 (0.004)    | 0 (0.000) |     4.70 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            8 |     2237 | 2024-10-03 | InSanitY Female          | L   | 0.207      | -            | -                | -                | -         |    -3.38 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            7 |     2444 | 2024-09-27 | Fluxo Demons             | L   | 0.167      | -            | -                | -                | -         |    -1.76 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
-|            6 |     2534 | 2024-09-25 | Peak Academy Female      | W   | 0.154      | 0.486        | 0.001 (0.000)    | 0.018 (0.001)    | 0 (0.000) |     2.26 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
+|            6 |     2534 | 2024-09-25 | Peak Academy Female      | W   | 0.154      | 0.483        | 0.001 (0.000)    | 0.018 (0.001)    | 0 (0.000) |     2.26 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            5 |     2634 | 2024-09-23 | MIBR Female              | L   | 0.142      | -            | -                | -                | -         |    -2.15 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            4 |     2639 | 2024-09-23 | Fluxo Demons             | W   | 0.141      | 0.371        | 0.016 (0.001)    | 0.100 (0.005)    | 0 (0.000) |     2.97 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            3 |     2740 | 2024-09-19 | Fluxo Demons             | L   | 0.114      | -            | -                | -                | -         |    -1.20 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            2 |     2970 | 2024-09-11 | FURIA Esports Female     | L   | 0.060      | -            | -                | -                | -         |    -0.22 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
-|            1 |     3123 | 2024-09-05 | MIBR Female              | W   | 0.021      | 0.486        | 0.004 (0.000)    | 0.052 (0.001)    | 0 (0.000) |     0.33 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
+|            1 |     3123 | 2024-09-05 | MIBR Female              | W   | 0.021      | 0.483        | 0.004 (0.000)    | 0.052 (0.001)    | 0 (0.000) |     0.33 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 
 <br />
 <span id="table2"></span><br />

@@ -39,7 +39,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           31 |      145 | 2025-02-21 | Team Falcons    | L   | 1.000      | -            | -                | -                | -         |   -17.67 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           30 |      198 | 2025-02-17 | 3DMAX           | W   | 1.000      | 1.000        | 0.295 (0.295)    | 0.626 (0.626)    | 1 (1.000) |     5.57 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           29 |      217 | 2025-02-16 | BIG             | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     2.15 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           29 |      217 | 2025-02-16 | BIG             | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     2.14 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           28 |      245 | 2025-02-15 | FaZe Clan       | L   | 1.000      | -            | -                | -                | -         |   -17.26 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           27 |      268 | 2025-02-14 | Imperial Female | W   | 1.000      | 1.000        | 0.134 (0.134)    | -                | 1 (1.000) |     0.19 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           26 |      498 | 2025-02-07 | The MongolZ     | L   | 1.000      | -            | -                | -                | -         |   -15.00 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
@@ -54,8 +54,8 @@ Note:<br />
 |           17 |      663 | 2025-01-24 | Team Vitality   | W   | 0.959      | 1.000        | 1.000 (0.959)    | 0.570 (0.547)    | 1 (0.959) |    15.58 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           16 |      671 | 2025-01-19 | Team Falcons    | W   | 0.925      | 0.992        | 0.927 (0.850)    | 0.744 (0.683)    | -         |    13.49 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           15 |      682 | 2025-01-16 | Fluxo           | W   | 0.905      | 0.992        | -                | 0.394 (0.354)    | -         |     0.25 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           14 |     1290 | 2024-11-23 | Astralis        | L   | 0.544      | -            | -                | -                | -         |    -9.64 | Calyx, MAJ3R, Wicadia, woxic, XANTARES   |
-|           13 |     1327 | 2024-11-21 | Sashi Esport    | L   | 0.536      | -            | -                | -                | -         |   -16.74 | Calyx, MAJ3R, Wicadia, woxic, XANTARES   |
+|           14 |     1290 | 2024-11-23 | Astralis        | L   | 0.544      | -            | -                | -                | -         |    -9.66 | Calyx, MAJ3R, Wicadia, woxic, XANTARES   |
+|           13 |     1327 | 2024-11-21 | Sashi Esport    | L   | 0.536      | -            | -                | -                | -         |   -16.75 | Calyx, MAJ3R, Wicadia, woxic, XANTARES   |
 |           12 |     1338 | 2024-11-21 | 3DMAX           | L   | 0.532      | -            | -                | -                | -         |   -14.42 | Calyx, MAJ3R, Wicadia, woxic, XANTARES   |
 |           11 |     1353 | 2024-11-20 | Aurora Gaming   | W   | 0.530      | -            | -                | -                | -         |     0.05 | Calyx, MAJ3R, Wicadia, woxic, XANTARES   |
 |           10 |     2040 | 2024-10-09 | The MongolZ     | L   | 0.245      | -            | -                | -                | -         |    -3.95 | Calyx, MAJ3R, Wicadia, woxic, XANTARES   |

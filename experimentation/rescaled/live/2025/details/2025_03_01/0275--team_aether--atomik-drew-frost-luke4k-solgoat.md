@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     2258 | 2024-10-02 | Nouns Esports              | L   | 0.202      | -            | -                | -                | -         |    -1.20 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
+|            5 |     2258 | 2024-10-02 | Nouns Esports              | L   | 0.202      | -            | -                | -                | -         |    -1.21 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
 |            4 |     2431 | 2024-09-27 | Party Astronauts           | L   | 0.168      | -            | -                | -                | -         |    -0.85 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
 |            3 |     2596 | 2024-09-24 | Team Canada                | W   | 0.147      | 0.371        | 0.000 (0.000)    | 0.040 (0.002)    | 0 (0.000) |     2.70 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
 |            2 |     2685 | 2024-09-21 | Dangerous (Ukrainian team) | W   | 0.128      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.61 | AtomiK, Frost, Izik, LUKE4k, SolGoat |

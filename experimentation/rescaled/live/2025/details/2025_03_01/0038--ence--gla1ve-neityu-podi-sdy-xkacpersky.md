@@ -6,9 +6,9 @@ Global Rank: [38](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [28]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1025.0<br />
+Final Rank Value:  1024.4<br />
 <br />
-Final Rank Value (1025.0) = Starting Rank Value (1030.5) + Head To Head Adjustments (-5.6)<br />
+Final Rank Value (1024.4) = Starting Rank Value (1030.5) + Head To Head Adjustments (-6.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |      150 | 2025-02-21 | Natus Vincere Junior | L   | 1.000      | -            | -                | -                | -         |   -19.06 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|           21 |      243 | 2025-02-15 | Partizan Esports     | L   | 1.000      | -            | -                | -                | -         |   -13.51 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           22 |      150 | 2025-02-21 | Natus Vincere Junior | L   | 1.000      | -            | -                | -                | -         |   -19.20 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           21 |      243 | 2025-02-15 | Partizan Esports     | L   | 1.000      | -            | -                | -                | -         |   -13.54 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |           20 |      264 | 2025-02-14 | Passion UA           | W   | 1.000      | 0.540        | 0.044 (0.024)    | 0.588 (0.317)    | 0 (0.000) |    22.54 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|           19 |      310 | 2025-02-12 | Alliance             | W   | 1.000      | 0.540        | 0.015 (0.008)    | 0.595 (0.321)    | 0 (0.000) |    10.66 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           19 |      310 | 2025-02-12 | Alliance             | W   | 1.000      | 0.540        | 0.015 (0.008)    | 0.595 (0.321)    | 0 (0.000) |    10.52 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |           18 |      449 | 2025-02-08 | Zero Tenacity        | L   | 1.000      | -            | -                | -                | -         |   -24.32 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|           17 |      500 | 2025-02-07 | 9INE                 | L   | 1.000      | -            | -                | -                | -         |   -18.62 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|           16 |      553 | 2025-02-05 | 9INE                 | W   | 1.000      | 0.411        | 0.037 (0.015)    | 0.895 (0.368)    | 0 (0.000) |    11.70 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           17 |      500 | 2025-02-07 | 9INE                 | L   | 1.000      | -            | -                | -                | -         |   -18.68 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           16 |      553 | 2025-02-05 | 9INE                 | W   | 1.000      | 0.411        | 0.037 (0.015)    | 0.895 (0.368)    | 0 (0.000) |    11.64 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |           15 |      685 | 2025-01-15 | Team Falcons         | L   | 0.899      | -            | -                | -                | -         |    -0.32 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|           14 |      852 | 2024-12-15 | Team Spirit Academy  | L   | 0.692      | -            | -                | -                | -         |   -13.14 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           14 |      852 | 2024-12-15 | Team Spirit Academy  | L   | 0.692      | -            | -                | -                | -         |   -13.21 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |           13 |      869 | 2024-12-14 | AMKAL ESPORTS        | W   | 0.687      | 0.491        | 0.015 (0.005)    | 0.183 (0.062)    | 0 (0.000) |     3.15 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|           12 |      917 | 2024-12-12 | Endpoint             | W   | 0.672      | 0.491        | -                | 0.233 (0.077)    | 0 (0.000) |     3.05 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|           11 |     1258 | 2024-11-24 | Monte                | W   | 0.552      | 0.446        | 0.029 (0.007)    | 0.227 (0.056)    | 0 (0.000) |     3.85 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           12 |      917 | 2024-12-12 | Endpoint             | W   | 0.672      | 0.491        | -                | 0.233 (0.077)    | 0 (0.000) |     3.04 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|           11 |     1258 | 2024-11-24 | Monte                | W   | 0.552      | 0.446        | 0.029 (0.007)    | 0.227 (0.056)    | 0 (0.000) |     3.84 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |           10 |     1280 | 2024-11-23 | Zero Tenacity        | W   | 0.546      | 0.446        | 0.026 (0.006)    | 0.507 (0.123)    | -         |     4.70 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |            9 |     1606 | 2024-11-09 | Wild Lotus           | W   | 0.452      | 0.446        | -                | 0.462 (0.093)    | -         |     2.73 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |            8 |     1847 | 2024-10-20 | Team Falcons         | W   | 0.319      | 1.000        | 0.927 (0.295)    | 0.744 (0.237)    | 1 (0.319) |     9.96 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |            7 |     1865 | 2024-10-19 | The MongolZ          | W   | 0.312      | 1.000        | 1.000 (0.312)    | 0.625 (0.195)    | 1 (0.312) |     9.75 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |            6 |     1888 | 2024-10-18 | 9z Team              | W   | 0.306      | 1.000        | 0.015 (0.005)    | -                | 1 (0.306) |     2.03 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |            5 |     1909 | 2024-10-17 | Team Falcons         | L   | 0.299      | -            | -                | -                | -         |    -0.07 | gla1ve, Neityu, podi, sdy, xKacpersky |
-|            4 |     1914 | 2024-10-17 | 9z Team              | W   | 0.298      | 1.000        | 0.015 (0.005)    | -                | 1 (0.298) |     1.98 | gla1ve, Neityu, podi, sdy, xKacpersky |
+|            4 |     1914 | 2024-10-17 | 9z Team              | W   | 0.298      | 1.000        | 0.015 (0.005)    | -                | 1 (0.298) |     1.97 | gla1ve, Neityu, podi, sdy, xKacpersky |
 |            3 |     2911 | 2024-09-13 | ATOX Esports         | L   | 0.073      | -            | -                | -                | -         |    -1.05 | gla1ve, Goofy, Kylar, podi, sdy       |
-|            2 |     2948 | 2024-09-12 | RED Canids           | L   | 0.065      | -            | -                | -                | -         |    -1.45 | gla1ve, Goofy, Kylar, podi, sdy       |
+|            2 |     2948 | 2024-09-12 | RED Canids           | L   | 0.065      | -            | -                | -                | -         |    -1.46 | gla1ve, Goofy, Kylar, podi, sdy       |
 |            1 |     3010 | 2024-09-10 | Team Liquid          | L   | 0.052      | -            | -                | -                | -         |    -0.10 | gla1ve, Goofy, Kylar, podi, sdy       |
 
 <br />

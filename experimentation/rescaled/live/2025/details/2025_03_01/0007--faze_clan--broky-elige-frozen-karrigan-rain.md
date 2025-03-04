@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           41 |       98 | 2025-02-23 | Astralis          | L   | 1.000      | -            | -                | -                | -         |   -21.46 | broky, EliGE, frozen, karrigan, rain |
+|           41 |       98 | 2025-02-23 | Astralis          | L   | 1.000      | -            | -                | -                | -         |   -21.48 | broky, EliGE, frozen, karrigan, rain |
 |           40 |      106 | 2025-02-22 | Team Falcons      | L   | 1.000      | -            | -                | -                | -         |   -16.57 | broky, EliGE, frozen, karrigan, rain |
 |           39 |      128 | 2025-02-21 | SAW               | W   | 1.000      | 1.000        | 0.262 (0.262)    | 0.391 (0.391)    | 1 (1.000) |     0.94 | broky, EliGE, frozen, karrigan, rain |
 |           38 |      211 | 2025-02-16 | MOUZ              | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.606 (0.606)    | 1 (1.000) |    15.19 | broky, EliGE, frozen, karrigan, rain |
@@ -47,7 +47,7 @@ Note:<br />
 |           34 |      586 | 2025-02-03 | G2 Esports        | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.460 (0.460)    | 1 (1.000) |    14.41 | broky, EliGE, frozen, karrigan, rain |
 |           33 |      597 | 2025-02-02 | Team Vitality     | L   | 1.000      | -            | -                | -                | -         |   -13.09 | broky, EliGE, frozen, karrigan, rain |
 |           32 |      614 | 2025-02-01 | BIG               | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     3.72 | broky, EliGE, frozen, karrigan, rain |
-|           31 |      674 | 2025-01-18 | PaiN Gaming       | L   | 0.919      | -            | -                | -                | -         |   -23.12 | broky, EliGE, frozen, karrigan, rain |
+|           31 |      674 | 2025-01-18 | PaiN Gaming       | L   | 0.919      | -            | -                | -                | -         |   -23.13 | broky, EliGE, frozen, karrigan, rain |
 |           30 |      681 | 2025-01-16 | M80               | W   | 0.906      | -            | -                | -                | -         |     0.20 | broky, EliGE, frozen, karrigan, rain |
 |           29 |      857 | 2024-12-15 | Team Spirit       | L   | 0.691      | -            | -                | -                | -         |    -8.15 | broky, frozen, karrigan, rain, ropz  |
 |           28 |      880 | 2024-12-14 | G2 Esports        | W   | 0.685      | 1.000        | 1.000 (0.685)    | -                | 1 (0.685) |     9.94 | broky, frozen, karrigan, rain, ropz  |

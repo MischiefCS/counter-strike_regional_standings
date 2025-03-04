@@ -6,9 +6,9 @@ Global Rank: [166](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [113]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  669.8<br />
+Final Rank Value:  669.7<br />
 <br />
-Final Rank Value (669.8) = Starting Rank Value (620.0) + Head To Head Adjustments (49.8)<br />
+Final Rank Value (669.7) = Starting Rank Value (620.0) + Head To Head Adjustments (49.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,15 +37,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |      181 | 2025-02-17 | Leo Team             | L   | 1.000      | -            | -                | -                | -         |   -10.19 | abiraju, anttzz, frontales, Muk0s, slax |
-|            8 |      185 | 2025-02-17 | GenOne               | W   | 1.000      | 0.400        | 0.009 (0.003)    | 0.424 (0.170)    | 0 (0.000) |    20.58 | abiraju, anttzz, frontales, Muk0s, slax |
+|            9 |      181 | 2025-02-17 | Leo Team             | L   | 1.000      | -            | -                | -                | -         |   -10.21 | abiraju, anttzz, frontales, Muk0s, slax |
+|            8 |      185 | 2025-02-17 | GenOne               | W   | 1.000      | 0.400        | 0.009 (0.003)    | 0.424 (0.170)    | 0 (0.000) |    20.56 | abiraju, anttzz, frontales, Muk0s, slax |
 |            7 |      191 | 2025-02-17 | Phantom Esports      | W   | 1.000      | 0.400        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.97 | abiraju, anttzz, frontales, Muk0s, slax |
 |            6 |      241 | 2025-02-15 | BAKS Esports         | L   | 1.000      | -            | -                | -                | -         |   -25.34 | abiraju, anttzz, frontales, Muk0s, slax |
 |            5 |      338 | 2025-02-11 | BetBoom Team         | L   | 1.000      | -            | -                | -                | -         |    -2.04 | abiraju, anttzz, frontales, Muk0s, slax |
 |            4 |      358 | 2025-02-10 | Nexus Gaming         | W   | 1.000      | 0.710        | 0.178 (0.127)    | 0.497 (0.353)    | 0 (0.000) |    27.38 | abiraju, anttzz, frontales, Muk0s, slax |
 |            3 |      371 | 2025-02-10 | GamerLegion          | L   | 1.000      | -            | -                | -                | -         |    -0.17 | abiraju, anttzz, frontales, Muk0s, slax |
 |            2 |      445 | 2025-02-08 | Ex-Daystar           | W   | 1.000      | 0.484        | 0.000 (0.000)    | 0.060 (0.029)    | 0 (0.000) |     6.56 | abiraju, anttzz, frontales, Muk0s, slax |
-|            1 |      456 | 2025-02-08 | Natus Vincere Junior | W   | 1.000      | 0.484        | 0.086 (0.042)    | 0.941 (0.455)    | 0 (0.000) |    27.03 | abiraju, anttzz, frontales, Muk0s, slax |
+|            1 |      456 | 2025-02-08 | Natus Vincere Junior | W   | 1.000      | 0.484        | 0.086 (0.042)    | 0.941 (0.455)    | 0 (0.000) |    26.94 | abiraju, anttzz, frontales, Muk0s, slax |
 
 <br />
 <span id="table2"></span><br />

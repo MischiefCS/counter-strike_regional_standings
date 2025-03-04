@@ -6,9 +6,9 @@ Global Rank: [209](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [57]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  615.5<br />
+Final Rank Value:  615.3<br />
 <br />
-Final Rank Value (615.5) = Starting Rank Value (605.7) + Head To Head Adjustments (9.8)<br />
+Final Rank Value (615.3) = Starting Rank Value (605.5) + Head To Head Adjustments (9.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.108<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 605.7
-- 400 + ( ( 0.108 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 605.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 605.5
+- 400 + ( ( 0.108 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 605.5
 
 
 #### Factors<br />
@@ -37,9 +37,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      607 | 2025-02-01 | MEGA JUNERS      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.060 (0.009)    | 0 (0.000) |     7.25 | ashe, jesscas, lunari, raynee, violet    |
-|            6 |     1873 | 2024-10-18 | Blue Otter Karma | W   | 0.308      | 0.349        | 0.001 (0.000)    | 0.008 (0.001)    | 0 (0.000) |     4.67 | ashe, jesscas, katalyyst, lunari, raynee |
-|            5 |     2234 | 2024-10-03 | Lotus            | W   | 0.208      | 0.349        | 0.001 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     3.16 | ashe, jesscas, katalyyst, lunari, raynee |
+|            7 |      607 | 2025-02-01 | MEGA JUNERS      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.060 (0.009)    | 0 (0.000) |     7.26 | ashe, jesscas, lunari, raynee, violet    |
+|            6 |     1873 | 2024-10-18 | Blue Otter Karma | W   | 0.308      | 0.340        | 0.001 (0.000)    | 0.008 (0.001)    | 0 (0.000) |     4.67 | ashe, jesscas, katalyyst, lunari, raynee |
+|            5 |     2234 | 2024-10-03 | Lotus            | W   | 0.208      | 0.340        | 0.001 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     3.16 | ashe, jesscas, katalyyst, lunari, raynee |
 |            4 |     2522 | 2024-09-25 | Imp Pact         | L   | 0.155      | -            | -                | -                | -         |    -2.39 | ashe, jesscas, katalyyst, lunari, raynee |
 |            3 |     2767 | 2024-09-18 | TSM Impact       | L   | 0.108      | -            | -                | -                | -         |    -1.68 | ashe, jesscas, katalyyst, lunari, raynee |
 |            2 |     2968 | 2024-09-11 | FlyQuest RED     | L   | 0.061      | -            | -                | -                | -         |    -0.88 | ashe, jesscas, katalyyst, lunari, raynee |

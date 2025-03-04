@@ -6,22 +6,22 @@ Global Rank: [118](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [25]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  750.2<br />
+Final Rank Value:  750.1<br />
 <br />
-Final Rank Value (750.2) = Starting Rank Value (724.8) + Head To Head Adjustments (25.4)<br />
+Final Rank Value (750.1) = Starting Rank Value (724.7) + Head To Head Adjustments (25.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.322[<sup>1</sup>](#table2)
-- Bounty Collected: 0.292[<sup>2</sup>](#table1)
+- Bounty Collected: 0.291[<sup>2</sup>](#table1)
 - Opponent Network: 0.069[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.171<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 724.8
-- 400 + ( ( 0.171 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 724.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 724.7
+- 400 + ( ( 0.171 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 724.7
 
 
 #### Factors<br />
@@ -38,23 +38,23 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           25 |      136 | 2025-02-21 | ODDIK                | L   | 1.000      | -            | -                | -                | -         |   -11.31 | hug1, MITHPUTTINI, spinnie, voltera, xns |
-|           24 |      164 | 2025-02-19 | FURIA Esports Female | W   | 1.000      | 0.497        | 0.064 (0.032)    | 0.219 (0.109)    | 0 (0.000) |    25.12 | hug1, MITHPUTTINI, spinnie, voltera, xns |
-|           23 |      177 | 2025-02-17 | Game Hunters         | W   | 1.000      | 0.497        | 0.001 (0.001)    | 0.302 (0.150)    | 0 (0.000) |    12.20 | hug1, MITHPUTTINI, spinnie, voltera, xns |
-|           22 |      204 | 2025-02-16 | Familia Maquininha   | W   | 1.000      | 0.497        | 0.003 (0.001)    | 0.133 (0.066)    | 0 (0.000) |    11.69 | hug1, MITHPUTTINI, spinnie, voltera, xns |
-|           21 |      289 | 2025-02-13 | Atrix Esports        | W   | 1.000      | 0.497        | 0.001 (0.001)    | -                | 0 (0.000) |    10.76 | hug1, MITHPUTTINI, spinnie, voltera, xns |
-|           20 |      780 | 2024-12-21 | 9z Academy           | L   | 0.732      | -            | -                | -                | -         |   -16.93 | dok, dzt, MITHPUTTINI, spinnie, xns      |
+|           24 |      164 | 2025-02-19 | FURIA Esports Female | W   | 1.000      | 0.496        | 0.064 (0.032)    | 0.219 (0.108)    | 0 (0.000) |    25.13 | hug1, MITHPUTTINI, spinnie, voltera, xns |
+|           23 |      177 | 2025-02-17 | Game Hunters         | W   | 1.000      | 0.496        | 0.001 (0.001)    | 0.302 (0.150)    | 0 (0.000) |    12.20 | hug1, MITHPUTTINI, spinnie, voltera, xns |
+|           22 |      204 | 2025-02-16 | Familia Maquininha   | W   | 1.000      | 0.496        | 0.003 (0.001)    | 0.133 (0.066)    | 0 (0.000) |    11.69 | hug1, MITHPUTTINI, spinnie, voltera, xns |
+|           21 |      289 | 2025-02-13 | Atrix Esports        | W   | 1.000      | 0.496        | 0.001 (0.001)    | -                | 0 (0.000) |    10.76 | hug1, MITHPUTTINI, spinnie, voltera, xns |
+|           20 |      780 | 2024-12-21 | 9z Academy           | L   | 0.732      | -            | -                | -                | -         |   -16.92 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |           19 |      791 | 2024-12-20 | Tropa do KinGui      | W   | 0.726      | -            | -                | -                | 0 (0.000) |     3.30 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |           18 |      821 | 2024-12-17 | Patins da Ferrari    | L   | 0.708      | -            | -                | -                | -         |   -16.77 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |           17 |      841 | 2024-12-15 | América eSports      | W   | 0.694      | -            | -                | -                | 0 (0.000) |     2.90 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |           16 |      864 | 2024-12-14 | LaChampionsLiga      | L   | 0.688      | -            | -                | -                | -         |   -14.47 | dok, dzt, MITHPUTTINI, spinnie, xns      |
-|           15 |      890 | 2024-12-13 | 20/70                | W   | 0.681      | 0.311        | 0.001 (0.000)    | 0.139 (0.029)    | 0 (0.000) |     7.38 | dok, dzt, MITHPUTTINI, spinnie, xns      |
-|           14 |      908 | 2024-12-12 | RED Canids Academy   | W   | 0.674      | 0.311        | 0.005 (0.001)    | -                | 0 (0.000) |     8.38 | dok, dzt, MITHPUTTINI, spinnie, xns      |
+|           15 |      890 | 2024-12-13 | 20/70                | W   | 0.681      | 0.311        | 0.001 (0.000)    | 0.139 (0.029)    | 0 (0.000) |     7.39 | dok, dzt, MITHPUTTINI, spinnie, xns      |
+|           14 |      908 | 2024-12-12 | RED Canids Academy   | W   | 0.674      | 0.311        | 0.005 (0.001)    | -                | 0 (0.000) |     8.39 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |           13 |     1151 | 2024-11-30 | RED Canids Academy   | L   | 0.594      | -            | -                | -                | -         |   -11.58 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |           12 |     1181 | 2024-11-29 | ODDIK                | L   | 0.588      | -            | -                | -                | -         |    -7.84 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |           11 |     1182 | 2024-11-29 | Nitro.GG             | W   | 0.588      | 0.311        | -                | 0.358 (0.066)    | 0 (0.000) |     7.74 | dok, dzt, MITHPUTTINI, spinnie, xns      |
-|           10 |     1196 | 2024-11-28 | Swingers             | W   | 0.582      | 0.413        | 0.002 (0.001)    | 0.240 (0.058)    | 0 (0.000) |     8.26 | dok, dzt, MITHPUTTINI, spinnie, xns      |
-|            9 |     1240 | 2024-11-25 | Yawara E-Sports      | W   | 0.560      | 0.413        | 0.002 (0.000)    | 0.321 (0.074)    | -         |     7.18 | dok, dzt, MITHPUTTINI, spinnie, xns      |
-|            8 |     1284 | 2024-11-23 | 20/70                | W   | 0.546      | 0.413        | 0.001 (0.000)    | 0.139 (0.031)    | -         |     6.01 | dok, dzt, MITHPUTTINI, spinnie, xns      |
+|           10 |     1196 | 2024-11-28 | Swingers             | W   | 0.582      | 0.410        | 0.002 (0.001)    | 0.240 (0.057)    | 0 (0.000) |     8.25 | dok, dzt, MITHPUTTINI, spinnie, xns      |
+|            9 |     1240 | 2024-11-25 | Yawara E-Sports      | W   | 0.560      | 0.410        | 0.002 (0.000)    | 0.321 (0.074)    | -         |     7.18 | dok, dzt, MITHPUTTINI, spinnie, xns      |
+|            8 |     1284 | 2024-11-23 | 20/70                | W   | 0.546      | 0.410        | 0.001 (0.000)    | 0.139 (0.031)    | -         |     6.01 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |            7 |     1331 | 2024-11-21 | TROPA DO TACO        | L   | 0.534      | -            | -                | -                | -         |    -8.77 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |            6 |     1384 | 2024-11-18 | PaiN Gaming Academy  | W   | 0.513      | -            | -                | -                | -         |     2.20 | dok, dzt, MITHPUTTINI, spinnie, xns      |
 |            5 |     1615 | 2024-11-08 | ODDIK                | L   | 0.447      | -            | -                | -                | -         |    -5.62 | dok, dzt, MITHPUTTINI, spinnie, xns      |

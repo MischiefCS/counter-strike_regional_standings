@@ -8,7 +8,7 @@ Regional Rank: [34]( ../../standings_americas_2025_03_01.md)<br />
 <br />
 Final Rank Value:  717.2<br />
 <br />
-Final Rank Value (717.2) = Starting Rank Value (736.6) + Head To Head Adjustments (-19.4)<br />
+Final Rank Value (717.2) = Starting Rank Value (736.6) + Head To Head Adjustments (-19.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,10 +38,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           16 |      285 | 2025-02-13 | Getting Info              | L   | 1.000      | -            | -                | -                | -         |   -24.85 | djay, Jared, Louie, Snakes, Voltage       |
-|           15 |      351 | 2025-02-10 | Party Astronauts          | W   | 1.000      | 0.355        | 0.008 (0.003)    | 0.430 (0.153)    | 0 (0.000) |    18.91 | djay, Jared, Louie, Snakes, Voltage       |
+|           15 |      351 | 2025-02-10 | Party Astronauts          | W   | 1.000      | 0.355        | 0.008 (0.003)    | 0.430 (0.153)    | 0 (0.000) |    18.88 | djay, Jared, Louie, Snakes, Voltage       |
 |           14 |      357 | 2025-02-10 | Chicken Coop Esports      | W   | 1.000      | 0.355        | 0.006 (0.002)    | 0.096 (0.034)    | 0 (0.000) |    11.40 | djay, Jared, Louie, Snakes, Voltage       |
 |           13 |      396 | 2025-02-09 | LAG Gaming                | W   | 1.000      | 0.355        | 0.001 (0.000)    | 0.028 (0.010)    | 0 (0.000) |     9.53 | djay, Jared, Louie, Snakes, Voltage       |
-|           12 |      443 | 2025-02-08 | Party Astronauts          | L   | 1.000      | -            | -                | -                | -         |   -12.56 | djay, Jared, Louie, Snakes, Voltage       |
+|           12 |      443 | 2025-02-08 | Party Astronauts          | L   | 1.000      | -            | -                | -                | -         |   -12.60 | djay, Jared, Louie, Snakes, Voltage       |
 |           11 |      971 | 2024-12-07 | Undone                    | L   | 0.643      | -            | -                | -                | -         |    -9.52 | djay, Louie, PwnAlone, REKMEISTER, Snakes |
 |           10 |      979 | 2024-12-07 | ROOMBA PEEK               | W   | 0.642      | 0.445        | 0.000 (0.000)    | 0.038 (0.011)    | 1 (0.642) |     5.53 | djay, Louie, PwnAlone, REKMEISTER, Snakes |
 |            9 |      988 | 2024-12-07 | Not Mythic                | W   | 0.640      | 0.445        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.640) |     2.86 | djay, Louie, PwnAlone, REKMEISTER, Snakes |

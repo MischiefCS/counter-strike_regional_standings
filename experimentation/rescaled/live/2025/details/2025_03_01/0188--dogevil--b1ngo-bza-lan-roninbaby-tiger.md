@@ -47,7 +47,7 @@ Note:<br />
 |            7 |      418 | 2025-02-08 | Housebets            | W   | 1.000      | 0.395        | 0.001 (0.001)    | 0.144 (0.057)    | 0 (0.000) |    16.76 | B1NGO, BZA, heartZ, lan, Roninbaby |
 |            6 |      468 | 2025-02-08 | TYLOO                | L   | 1.000      | -            | -                | -                | -         |    -4.52 | B1NGO, BZA, lan, Roninbaby, TiGeR  |
 |            5 |      472 | 2025-02-08 | THE (Russian team)   | W   | 1.000      | 0.365        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.84 | B1NGO, BZA, lan, Roninbaby, TiGeR  |
-|            4 |      478 | 2025-02-07 | Rare Atom            | L   | 1.000      | -            | -                | -                | -         |    -4.95 | B1NGO, BZA, heartZ, lan, Roninbaby |
+|            4 |      478 | 2025-02-07 | Rare Atom            | L   | 1.000      | -            | -                | -                | -         |    -4.96 | B1NGO, BZA, heartZ, lan, Roninbaby |
 |            3 |     1022 | 2024-12-06 | ATOX Esports         | L   | 0.631      | -            | -                | -                | -         |    -1.19 | BZA, Cate, lan, Roninbaby, twy     |
 |            2 |     1051 | 2024-12-05 | Harizma              | W   | 0.624      | 0.466        | 0.002 (0.000)    | 0.112 (0.033)    | 0 (0.000) |    15.42 | BZA, Cate, lan, Roninbaby, twy     |
 |            1 |     1057 | 2024-12-04 | Ex-GR Gaming         | W   | 0.623      | 0.466        | 0.011 (0.003)    | 0.096 (0.028)    | 0 (0.000) |    15.26 | BZA, Cate, lan, Roninbaby, twy     |

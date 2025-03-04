@@ -6,9 +6,9 @@ Global Rank: [164](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [17]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  676.8<br />
+Final Rank Value:  676.7<br />
 <br />
-Final Rank Value (676.8) = Starting Rank Value (652.2) + Head To Head Adjustments (24.6)<br />
+Final Rank Value (676.7) = Starting Rank Value (652.2) + Head To Head Adjustments (24.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -44,9 +44,9 @@ Note:<br />
 |            9 |      414 | 2025-02-08 | Rare Atom              | L   | 1.000      | -            | -                | -                | -         |    -7.93 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
 |            8 |      479 | 2025-02-07 | Housebets              | W   | 1.000      | 0.394        | 0.001 (0.001)    | 0.144 (0.057)    | 0 (0.000) |    13.08 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
 |            7 |      868 | 2024-12-14 | Betera Esports         | L   | 0.687      | -            | -                | -                | -         |   -12.77 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
-|            6 |      894 | 2024-12-13 | Team Spirit Academy    | L   | 0.680      | -            | -                | -                | -         |    -3.59 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
-|            5 |      924 | 2024-12-11 | FAVBET Team            | W   | 0.667      | 0.508        | 0.029 (0.010)    | 0.608 (0.206)    | 0 (0.000) |    15.84 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
-|            4 |      938 | 2024-12-10 | Endpoint               | W   | 0.660      | 0.508        | 0.009 (0.003)    | 0.233 (0.078)    | 0 (0.000) |    12.98 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
+|            6 |      894 | 2024-12-13 | Team Spirit Academy    | L   | 0.680      | -            | -                | -                | -         |    -3.63 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
+|            5 |      924 | 2024-12-11 | FAVBET Team            | W   | 0.667      | 0.508        | 0.029 (0.010)    | 0.608 (0.206)    | 0 (0.000) |    15.82 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
+|            4 |      938 | 2024-12-10 | Endpoint               | W   | 0.660      | 0.508        | 0.009 (0.003)    | 0.233 (0.078)    | 0 (0.000) |    12.97 | Aaron, bibu, dennyslaw, ISSAA, m1N1  |
 |            3 |     2986 | 2024-09-11 | Betclic Apogee Esports | L   | 0.058      | -            | -                | -                | -         |    -0.86 | 0SAMAS, Aaron, bibu, dennyslaw, m1N1 |
 |            2 |     3110 | 2024-09-06 | EYEBALLERS             | W   | 0.025      | 0.500        | 0.019 (0.000)    | 0.360 (0.004)    | 0 (0.000) |     0.56 | 0SAMAS, Aaron, bibu, dennyslaw, m1N1 |
 |            1 |     3140 | 2024-09-05 | Rebels Gaming          | L   | 0.019      | -            | -                | -                | -         |    -0.22 | 0SAMAS, Aaron, bibu, dennyslaw, m1N1 |

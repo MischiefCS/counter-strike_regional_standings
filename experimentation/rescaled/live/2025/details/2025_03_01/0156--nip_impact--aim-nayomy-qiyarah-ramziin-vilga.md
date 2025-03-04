@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |     1286 | 2024-11-23 | BIG EQUIPA                 | L   | 0.545      | -            | -                | -                | -         |    -7.01 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
-|            8 |     1303 | 2024-11-22 | K27 Female                 | W   | 0.540      | 0.524        | 0.007 (0.002)    | 0.052 (0.015)    | 1 (0.540) |     8.01 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
+|            8 |     1303 | 2024-11-22 | K27 Female                 | W   | 0.540      | 0.524        | 0.007 (0.002)    | 0.052 (0.015)    | 1 (0.540) |     8.00 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
 |            7 |     1314 | 2024-11-22 | BIG EQUIPA                 | L   | 0.538      | -            | -                | -                | -         |    -6.98 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
 |            6 |     1883 | 2024-10-18 | Let Her Cook               | L   | 0.306      | -            | -                | -                | -         |    -5.82 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
 |            5 |     2240 | 2024-10-03 | Team Denmark (Female team) | W   | 0.206      | 0.406        | 0.008 (0.001)    | 0.067 (0.006)    | 0 (0.000) |     3.14 | aiM, Nayomy, Qiyarah, ramziiN, vilga |

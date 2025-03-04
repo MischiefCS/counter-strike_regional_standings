@@ -8,7 +8,7 @@ Regional Rank: [73]( ../../standings_americas_2025_03_01.md)<br />
 <br />
 Final Rank Value:  576.2<br />
 <br />
-Final Rank Value (576.2) = Starting Rank Value (517.1) + Head To Head Adjustments (59.1)<br />
+Final Rank Value (576.2) = Starting Rank Value (517.1) + Head To Head Adjustments (59.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -39,9 +39,9 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |      322 | 2025-02-11 | Nouns Esports | L   | 1.000      | -            | -                | -                | -         |    -6.38 | chop, Grizz, Minus, motm, WolfY |
 |            7 |      327 | 2025-02-11 | NRG           | L   | 1.000      | -            | -                | -                | -         |    -2.63 | chop, Grizz, Minus, motm, WolfY |
-|            6 |      350 | 2025-02-10 | M80           | L   | 1.000      | -            | -                | -                | -         |    -2.94 | chop, Minus, motm, steel, WolfY |
+|            6 |      350 | 2025-02-10 | M80           | L   | 1.000      | -            | -                | -                | -         |    -2.96 | chop, Minus, motm, steel, WolfY |
 |            5 |      354 | 2025-02-10 | MCS Gaming    | W   | 1.000      | 0.419        | 0.002 (0.001)    | 0.060 (0.025)    | 0 (0.000) |    15.92 | chop, Minus, motm, steel, WolfY |
-|            4 |      389 | 2025-02-09 | M80           | L   | 1.000      | -            | -                | -                | -         |    -2.80 | chop, Minus, motm, steel, WolfY |
+|            4 |      389 | 2025-02-09 | M80           | L   | 1.000      | -            | -                | -                | -         |    -2.82 | chop, Minus, motm, steel, WolfY |
 |            3 |      419 | 2025-02-08 | Nouns Esports | W   | 1.000      | 0.314        | 0.007 (0.002)    | 0.361 (0.114)    | 0 (0.000) |    26.21 | chop, Grizz, Minus, motm, WolfY |
 |            2 |      423 | 2025-02-08 | Getting Info  | W   | 1.000      | 0.314        | 0.000 (0.000)    | 0.060 (0.019)    | 0 (0.000) |    13.45 | chop, Grizz, Minus, motm, WolfY |
 |            1 |      435 | 2025-02-08 | MCS Gaming    | W   | 1.000      | 0.419        | 0.002 (0.001)    | 0.060 (0.025)    | 0 (0.000) |    18.24 | chop, Minus, motm, steel, WolfY |

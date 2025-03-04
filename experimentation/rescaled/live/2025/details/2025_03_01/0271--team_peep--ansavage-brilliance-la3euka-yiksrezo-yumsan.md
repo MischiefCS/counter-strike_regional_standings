@@ -38,7 +38,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |     2572 | 2024-09-25 | Copenhagen Wolves (American organization) | L   | 0.150      | -            | -                | -                | -         |    -2.07 | aNsavage, Brilliance, la3euka, yiksrezo, YumsaN   |
-|            4 |     2625 | 2024-09-24 | Team Spirit Academy                       | L   | 0.144      | -            | -                | -                | -         |    -0.33 | aNsavage, Brilliance, la3euka, yiksrezo, YumsaN   |
+|            4 |     2625 | 2024-09-24 | Team Spirit Academy                       | L   | 0.144      | -            | -                | -                | -         |    -0.34 | aNsavage, Brilliance, la3euka, yiksrezo, YumsaN   |
 |            3 |     3030 | 2024-09-09 | Passion UA                                | L   | 0.046      | -            | -                | -                | -         |    -0.03 | bogemtdarf, Brilliance, GREATEST, la3euka, YumsaN |
 |            2 |     3079 | 2024-09-07 | UNiTY esports                             | W   | 0.032      | 0.471        | 0.025 (0.000)    | 0.177 (0.003)    | 0 (0.000) |     0.85 | bogemtdarf, Brilliance, GREATEST, la3euka, YumsaN |
 |            1 |     3201 | 2024-09-03 | FLuffy Gangsters                          | L   | 0.006      | -            | -                | -                | -         |    -0.04 | bogemtdarf, Brilliance, GREATEST, la3euka, YumsaN |

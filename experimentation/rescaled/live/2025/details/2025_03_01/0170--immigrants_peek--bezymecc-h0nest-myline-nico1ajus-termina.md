@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      286 | 2025-02-13 | BOSS            | L   | 1.000      | -            | -                | -                | -         |    -7.37 | bezymecc, H0NeST, myline, nico1ajus, Termina   |
+|            7 |      286 | 2025-02-13 | BOSS            | L   | 1.000      | -            | -                | -                | -         |    -7.38 | bezymecc, H0NeST, myline, nico1ajus, Termina   |
 |            6 |      352 | 2025-02-10 | Vagrants        | W   | 1.000      | 0.331        | 0.001 (0.000)    | 0.174 (0.058)    | 0 (0.000) |    15.58 | bezymecc, H0NeST, myline, nico1ajus, Termina   |
 |            5 |      356 | 2025-02-10 | Alter Iron Club | W   | 1.000      | 0.331        | 0.008 (0.003)    | 0.331 (0.110)    | 0 (0.000) |    17.61 | bezymecc, H0NeST, myline, nico1ajus, Termina   |
 |            4 |      386 | 2025-02-09 | Mythic          | W   | 1.000      | 0.331        | 0.000 (0.000)    | 0.029 (0.010)    | 0 (0.000) |     9.15 | bezymecc, H0NeST, myline, nico1ajus, Termina   |
 |            3 |      441 | 2025-02-08 | Vagrants        | L   | 1.000      | -            | -                | -                | -         |   -15.18 | bezymecc, H0NeST, myline, nico1ajus, Termina   |
-|            2 |     1064 | 2024-12-04 | Alter Iron Club | L   | 0.622      | -            | -                | -                | -         |    -9.07 | bezymecc, H0NeST, nico1ajus, Termina, Valter0k |
+|            2 |     1064 | 2024-12-04 | Alter Iron Club | L   | 0.622      | -            | -                | -                | -         |    -9.08 | bezymecc, H0NeST, nico1ajus, Termina, Valter0k |
 |            1 |     1083 | 2024-12-03 | MIGHT           | W   | 0.616      | 0.372        | 0.002 (0.000)    | 0.289 (0.066)    | 0 (0.000) |    11.87 | bezymecc, H0NeST, nico1ajus, Termina, Valter0k |
 
 <br />

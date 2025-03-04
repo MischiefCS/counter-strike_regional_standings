@@ -9,22 +9,22 @@ Regional Rank: [14]( ../../standings_europe_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [5]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1325.0<br />
+Final Rank Value:  1317.9<br />
 <br />
-Final Rank Value (1325.0) = Starting Rank Value (1355.0) + Head To Head Adjustments (-30.0)<br />
+Final Rank Value (1317.9) = Starting Rank Value (1348.0) + Head To Head Adjustments (-30.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.570[<sup>1</sup>](#table2)
 - Bounty Collected: 0.458[<sup>2</sup>](#table1)
-- Opponent Network: 0.268[<sup>2</sup>](#table1)
+- Opponent Network: 0.277[<sup>2</sup>](#table1)
 - LAN Wins: 0.659[<sup>2</sup>](#table1)
 
-The average of these factors is 0.489<br />
+The average of these factors is 0.491<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1355.0
-- 400 + ( ( 0.489 - 0.000 ) / ( 0.819 - 0.000 ) ) * 1600 = 1355.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1348.0
+- 400 + ( ( 0.491 - 0.000 ) / ( 0.828 - 0.000 ) ) * 1600 = 1348.0
 
 
 #### Factors<br />
@@ -40,51 +40,51 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           45 |      255 | 2025-02-17 | BIG                | L   | 1.000      | -            | -                | -                | -         |   -15.10 | JBa, phzy, Sonic, stanislaw, susp  |
-|           44 |      299 | 2025-02-16 | Virtus.pro         | L   | 1.000      | -            | -                | -                | -         |    -5.53 | JBa, phzy, Sonic, stanislaw, susp  |
-|           43 |      354 | 2025-02-15 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |    -1.18 | JBa, phzy, Sonic, stanislaw, susp  |
-|           42 |      394 | 2025-02-14 | MIBR               | W   | 1.000      | 1.000        | 0.139 (0.139)    | 0.562 (0.562)    | 1 (1.000) |    18.19 | JBa, phzy, Sonic, stanislaw, susp  |
-|           41 |      920 | 2025-01-31 | Team Liquid        | L   | 1.000      | -            | -                | -                | -         |    -9.09 | JBa, phzy, Sonic, stanislaw, susp  |
-|           40 |      923 | 2025-01-31 | FURIA              | L   | 1.000      | -            | -                | -                | -         |   -11.26 | JBa, phzy, Sonic, stanislaw, susp  |
-|           39 |      938 | 2025-01-29 | BIG                | W   | 0.992      | 1.000        | 0.221 (0.219)    | 0.519 (0.515)    | 1 (0.992) |    19.35 | JBa, phzy, Sonic, stanislaw, susp  |
-|           38 |     1014 | 2025-01-15 | Astralis           | L   | 0.898      | -            | -                | -                | -         |    -1.94 | JBa, phzy, Sonic, stanislaw, susp  |
-|           37 |     1020 | 2025-01-12 | 9Pandas            | W   | 0.879      | 0.417        | 0.085 (0.031)    | 0.564 (0.207)    | -         |     4.41 | JBa, phzy, Sonic, stanislaw, susp  |
-|           36 |     1023 | 2025-01-11 | SINNERS Esports    | W   | 0.873      | 0.417        | 0.027 (0.010)    | 0.480 (0.175)    | -         |     2.10 | JBa, phzy, Sonic, stanislaw, susp  |
-|           35 |     1027 | 2025-01-10 | Insilio            | W   | 0.867      | 0.417        | -                | 0.527 (0.191)    | -         |     0.90 | JBa, phzy, Sonic, stanislaw, susp  |
-|           34 |     1812 | 2024-12-05 | GamerLegion        | L   | 0.630      | -            | -                | -                | -         |    -4.24 | JBa, phzy, Sonic, stanislaw, susp  |
-|           33 |     1839 | 2024-12-05 | Team Spirit        | L   | 0.624      | -            | -                | -                | -         |    -0.63 | JBa, phzy, Sonic, stanislaw, susp  |
-|           32 |     1851 | 2024-12-04 | FaZe Clan          | L   | 0.623      | -            | -                | -                | -         |    -0.85 | JBa, phzy, Sonic, stanislaw, susp  |
-|           31 |     1942 | 2024-12-03 | Passion UA         | W   | 0.611      | 1.000        | 0.044 (0.027)    | 0.547 (0.334)    | 1 (0.611) |     3.93 | JBa, phzy, Sonic, stanislaw, susp  |
-|           30 |     2007 | 2024-12-02 | Virtus.pro         | W   | 0.604      | 1.000        | 0.268 (0.162)    | 0.509 (0.308)    | 1 (0.604) |    15.97 | JBa, phzy, Sonic, stanislaw, susp  |
-|           29 |     2083 | 2024-11-30 | FURIA              | L   | 0.596      | -            | -                | -                | -         |    -6.50 | JBa, phzy, Sonic, stanislaw, susp  |
-|           28 |     2157 | 2024-11-30 | Team Liquid        | L   | 0.591      | -            | -                | -                | -         |    -4.71 | JBa, phzy, Sonic, stanislaw, susp  |
-|           27 |     2173 | 2024-11-29 | Fnatic             | W   | 0.590      | 1.000        | 0.047 (0.028)    | 0.456 (0.269)    | 1 (0.590) |     3.26 | JBa, phzy, Sonic, stanislaw, susp  |
-|           26 |     2779 | 2024-11-12 | 9z Team            | W   | 0.477      | -            | -                | -                | 1 (0.477) |     0.74 | JBa, phzy, Sonic, stanislaw, susp  |
-|           25 |     2804 | 2024-11-12 | PaiN Gaming        | W   | 0.471      | 0.143        | 0.318 (0.021)    | -                | 1 (0.471) |    12.38 | JBa, phzy, Sonic, stanislaw, susp  |
-|           24 |     2822 | 2024-11-11 | Team Liquid        | W   | 0.469      | 0.143        | 0.186 (0.012)    | -                | 1 (0.469) |    11.41 | JBa, phzy, Sonic, stanislaw, susp  |
-|           23 |     3514 | 2024-10-17 | NRG                | L   | 0.302      | -            | -                | -                | -         |    -8.14 | JBa, phzy, Sonic, stanislaw, susp  |
-|           22 |     3539 | 2024-10-16 | BOSS               | W   | 0.295      | -            | -                | -                | -         |     0.89 | JBa, phzy, Sonic, stanislaw, susp  |
-|           21 |     3564 | 2024-10-15 | Nouns Esports      | L   | 0.288      | -            | -                | -                | -         |    -8.71 | JBa, phzy, Sonic, stanislaw, susp  |
-|           20 |     3626 | 2024-10-09 | Party Astronauts   | L   | 0.249      | -            | -                | -                | -         |    -7.45 | JBa, phzy, Sonic, stanislaw, susp  |
-|           19 |     3633 | 2024-10-09 | Party Astronauts   | L   | 0.248      | -            | -                | -                | -         |    -7.47 | JBa, phzy, Sonic, stanislaw, susp  |
-|           18 |     3689 | 2024-10-08 | M80                | L   | 0.241      | -            | -                | -                | -         |    -6.89 | JBa, phzy, Sonic, stanislaw, susp  |
-|           17 |     3697 | 2024-10-08 | M80                | L   | 0.241      | -            | -                | -                | -         |    -6.93 | JBa, phzy, Sonic, stanislaw, susp  |
-|           16 |     3766 | 2024-10-06 | FlyQuest           | L   | 0.225      | -            | -                | -                | -         |    -5.67 | fr3nd, JBa, Sonic, stanislaw, susp |
-|           15 |     3787 | 2024-10-05 | M80                | W   | 0.219      | 0.500        | 0.038 (0.004)    | 0.536 (0.059)    | 1 (0.219) |     0.57 | fr3nd, JBa, Sonic, stanislaw, susp |
-|           14 |     3811 | 2024-10-04 | ODDIK              | W   | 0.215      | 0.500        | -                | 0.598 (0.064)    | 1 (0.215) |     0.29 | fr3nd, JBa, Sonic, stanislaw, susp |
-|           13 |     3818 | 2024-10-04 | M80                | L   | 0.213      | -            | -                | -                | -         |    -6.19 | fr3nd, JBa, Sonic, stanislaw, susp |
-|           12 |     3926 | 2024-10-01 | BOSS               | W   | 0.195      | -            | -                | -                | -         |     0.43 | JBa, phzy, Sonic, stanislaw, susp  |
-|           11 |     3929 | 2024-10-01 | BOSS               | W   | 0.195      | -            | -                | -                | -         |     0.44 | JBa, phzy, Sonic, stanislaw, susp  |
-|           10 |     4357 | 2024-09-19 | NRG                | L   | 0.115      | -            | -                | -                | -         |    -3.16 | JBa, phzy, Sonic, stanislaw, susp  |
-|            9 |     4359 | 2024-09-19 | NRG                | L   | 0.114      | -            | -                | -                | -         |    -3.16 | JBa, phzy, Sonic, stanislaw, susp  |
-|            8 |     4391 | 2024-09-18 | Familia Maquininha | W   | 0.108      | -            | -                | -                | -         |     0.07 | JBa, phzy, Sonic, stanislaw, susp  |
-|            7 |     4392 | 2024-09-18 | Familia Maquininha | W   | 0.108      | -            | -                | -                | -         |     0.07 | JBa, phzy, Sonic, stanislaw, susp  |
-|            6 |     4398 | 2024-09-18 | Chill Guys         | W   | 0.108      | -            | -                | -                | -         |     0.07 | JBa, phzy, Sonic, stanislaw, susp  |
-|            5 |     4401 | 2024-09-18 | Chill Guys         | W   | 0.107      | -            | -                | -                | -         |     0.07 | JBa, phzy, Sonic, stanislaw, susp  |
-|            4 |     4719 | 2024-09-07 | 3DMAX              | L   | 0.032      | -            | -                | -                | -         |    -0.22 | JBa, phzy, Sonic, stanislaw, susp  |
-|            3 |     4736 | 2024-09-06 | Iberian Soul       | W   | 0.026      | -            | -                | -                | -         |     0.04 | JBa, phzy, Sonic, stanislaw, susp  |
-|            2 |     4783 | 2024-09-05 | 9z Team            | L   | 0.019      | -            | -                | -                | -         |    -0.57 | JBa, phzy, Sonic, stanislaw, susp  |
-|            1 |     4820 | 2024-09-04 | Team Spirit        | L   | 0.011      | -            | -                | -                | -         |    -0.01 | JBa, phzy, Sonic, stanislaw, susp  |
+|           45 |      200 | 2025-02-17 | BIG                | L   | 1.000      | -            | -                | -                | -         |   -14.87 | JBa, phzy, Sonic, stanislaw, susp  |
+|           44 |      215 | 2025-02-16 | Virtus.pro         | L   | 1.000      | -            | -                | -                | -         |    -5.62 | JBa, phzy, Sonic, stanislaw, susp  |
+|           43 |      249 | 2025-02-15 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |    -1.18 | JBa, phzy, Sonic, stanislaw, susp  |
+|           42 |      272 | 2025-02-14 | MIBR               | W   | 1.000      | 1.000        | 0.139 (0.139)    | 0.604 (0.604)    | 1 (1.000) |    17.84 | JBa, phzy, Sonic, stanislaw, susp  |
+|           41 |      621 | 2025-01-31 | Team Liquid        | L   | 1.000      | -            | -                | -                | -         |    -9.04 | JBa, phzy, Sonic, stanislaw, susp  |
+|           40 |      624 | 2025-01-31 | FURIA              | L   | 1.000      | -            | -                | -                | -         |   -11.09 | JBa, phzy, Sonic, stanislaw, susp  |
+|           39 |      637 | 2025-01-29 | BIG                | W   | 0.992      | 1.000        | 0.220 (0.218)    | 0.558 (0.554)    | 1 (0.992) |    19.75 | JBa, phzy, Sonic, stanislaw, susp  |
+|           38 |      687 | 2025-01-15 | Astralis           | L   | 0.898      | -            | -                | -                | -         |    -1.93 | JBa, phzy, Sonic, stanislaw, susp  |
+|           37 |      693 | 2025-01-12 | 9Pandas            | W   | 0.879      | 0.417        | 0.084 (0.031)    | 0.560 (0.205)    | -         |     4.34 | JBa, phzy, Sonic, stanislaw, susp  |
+|           36 |      696 | 2025-01-11 | SINNERS Esports    | W   | 0.873      | 0.417        | 0.027 (0.010)    | 0.448 (0.163)    | -         |     1.94 | JBa, phzy, Sonic, stanislaw, susp  |
+|           35 |      700 | 2025-01-10 | Insilio            | W   | 0.867      | 0.417        | -                | 0.399 (0.144)    | -         |     0.75 | JBa, phzy, Sonic, stanislaw, susp  |
+|           34 |     1026 | 2024-12-05 | GamerLegion        | L   | 0.630      | -            | -                | -                | -         |    -4.14 | JBa, phzy, Sonic, stanislaw, susp  |
+|           33 |     1047 | 2024-12-05 | Team Spirit        | L   | 0.624      | -            | -                | -                | -         |    -0.61 | JBa, phzy, Sonic, stanislaw, susp  |
+|           32 |     1058 | 2024-12-04 | FaZe Clan          | L   | 0.623      | -            | -                | -                | -         |    -0.83 | JBa, phzy, Sonic, stanislaw, susp  |
+|           31 |     1100 | 2024-12-03 | Passion UA         | W   | 0.611      | 1.000        | 0.044 (0.027)    | 0.588 (0.359)    | 1 (0.611) |     3.94 | JBa, phzy, Sonic, stanislaw, susp  |
+|           30 |     1119 | 2024-12-02 | Virtus.pro         | W   | 0.604      | 1.000        | 0.268 (0.162)    | 0.547 (0.331)    | 1 (0.604) |    15.89 | JBa, phzy, Sonic, stanislaw, susp  |
+|           29 |     1143 | 2024-11-30 | FURIA              | L   | 0.596      | -            | -                | -                | -         |    -6.37 | JBa, phzy, Sonic, stanislaw, susp  |
+|           28 |     1166 | 2024-11-30 | Team Liquid        | L   | 0.591      | -            | -                | -                | -         |    -4.66 | JBa, phzy, Sonic, stanislaw, susp  |
+|           27 |     1175 | 2024-11-29 | Fnatic             | W   | 0.590      | 1.000        | 0.047 (0.028)    | 0.490 (0.289)    | 1 (0.590) |     3.24 | JBa, phzy, Sonic, stanislaw, susp  |
+|           26 |     1530 | 2024-11-12 | 9z Team            | W   | 0.477      | -            | -                | -                | 1 (0.477) |     0.75 | JBa, phzy, Sonic, stanislaw, susp  |
+|           25 |     1549 | 2024-11-12 | PaiN Gaming        | W   | 0.471      | 0.143        | 0.318 (0.021)    | -                | 1 (0.471) |    12.43 | JBa, phzy, Sonic, stanislaw, susp  |
+|           24 |     1564 | 2024-11-11 | Team Liquid        | W   | 0.469      | 0.143        | 0.186 (0.012)    | -                | 1 (0.469) |    11.45 | JBa, phzy, Sonic, stanislaw, susp  |
+|           23 |     1899 | 2024-10-17 | NRG                | L   | 0.302      | -            | -                | -                | -         |    -8.14 | JBa, phzy, Sonic, stanislaw, susp  |
+|           22 |     1924 | 2024-10-16 | BOSS               | W   | 0.295      | 0.477        | -                | 0.410 (0.058)    | -         |     0.89 | JBa, phzy, Sonic, stanislaw, susp  |
+|           21 |     1949 | 2024-10-15 | Nouns Esports      | L   | 0.288      | -            | -                | -                | -         |    -8.70 | JBa, phzy, Sonic, stanislaw, susp  |
+|           20 |     2011 | 2024-10-09 | Party Astronauts   | L   | 0.249      | -            | -                | -                | -         |    -7.46 | JBa, phzy, Sonic, stanislaw, susp  |
+|           19 |     2018 | 2024-10-09 | Party Astronauts   | L   | 0.248      | -            | -                | -                | -         |    -7.48 | JBa, phzy, Sonic, stanislaw, susp  |
+|           18 |     2074 | 2024-10-08 | M80                | L   | 0.241      | -            | -                | -                | -         |    -6.88 | JBa, phzy, Sonic, stanislaw, susp  |
+|           17 |     2082 | 2024-10-08 | M80                | L   | 0.241      | -            | -                | -                | -         |    -6.92 | JBa, phzy, Sonic, stanislaw, susp  |
+|           16 |     2151 | 2024-10-06 | FlyQuest           | L   | 0.225      | -            | -                | -                | -         |    -6.10 | fr3nd, JBa, Sonic, stanislaw, susp |
+|           15 |     2172 | 2024-10-05 | M80                | W   | 0.219      | 0.500        | 0.038 (0.004)    | -                | 1 (0.219) |     0.58 | fr3nd, JBa, Sonic, stanislaw, susp |
+|           14 |     2196 | 2024-10-04 | ODDIK              | W   | 0.215      | 0.500        | -                | 0.549 (0.059)    | 1 (0.215) |     0.27 | fr3nd, JBa, Sonic, stanislaw, susp |
+|           13 |     2203 | 2024-10-04 | M80                | L   | 0.213      | -            | -                | -                | -         |    -6.18 | fr3nd, JBa, Sonic, stanislaw, susp |
+|           12 |     2311 | 2024-10-01 | BOSS               | W   | 0.195      | -            | -                | -                | -         |     0.44 | JBa, phzy, Sonic, stanislaw, susp  |
+|           11 |     2314 | 2024-10-01 | BOSS               | W   | 0.195      | -            | -                | -                | -         |     0.44 | JBa, phzy, Sonic, stanislaw, susp  |
+|           10 |     2731 | 2024-09-19 | NRG                | L   | 0.115      | -            | -                | -                | -         |    -3.16 | JBa, phzy, Sonic, stanislaw, susp  |
+|            9 |     2733 | 2024-09-19 | NRG                | L   | 0.114      | -            | -                | -                | -         |    -3.17 | JBa, phzy, Sonic, stanislaw, susp  |
+|            8 |     2761 | 2024-09-18 | Familia Maquininha | W   | 0.108      | -            | -                | -                | -         |     0.07 | JBa, phzy, Sonic, stanislaw, susp  |
+|            7 |     2762 | 2024-09-18 | Familia Maquininha | W   | 0.108      | -            | -                | -                | -         |     0.07 | JBa, phzy, Sonic, stanislaw, susp  |
+|            6 |     2768 | 2024-09-18 | Chill Guys         | W   | 0.108      | -            | -                | -                | -         |     0.06 | JBa, phzy, Sonic, stanislaw, susp  |
+|            5 |     2771 | 2024-09-18 | Chill Guys         | W   | 0.107      | -            | -                | -                | -         |     0.06 | JBa, phzy, Sonic, stanislaw, susp  |
+|            4 |     3081 | 2024-09-07 | 3DMAX              | L   | 0.032      | -            | -                | -                | -         |    -0.22 | JBa, phzy, Sonic, stanislaw, susp  |
+|            3 |     3098 | 2024-09-06 | Iberian Soul       | W   | 0.026      | -            | -                | -                | -         |     0.04 | JBa, phzy, Sonic, stanislaw, susp  |
+|            2 |     3145 | 2024-09-05 | 9z Team            | L   | 0.019      | -            | -                | -                | -         |    -0.57 | JBa, phzy, Sonic, stanislaw, susp  |
+|            1 |     3182 | 2024-09-04 | Team Spirit        | L   | 0.011      | -            | -                | -                | -         |    -0.01 | JBa, phzy, Sonic, stanislaw, susp  |
 
 <br />
 <span id="table2"></span><br />

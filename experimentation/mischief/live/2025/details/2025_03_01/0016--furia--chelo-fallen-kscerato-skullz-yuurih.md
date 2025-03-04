@@ -6,22 +6,22 @@ Global Rank: [16](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [3]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1443.2<br />
+Final Rank Value:  1440.2<br />
 <br />
-Final Rank Value (1443.2) = Starting Rank Value (1429.5) + Head To Head Adjustments (13.6)<br />
+Final Rank Value (1440.2) = Starting Rank Value (1428.1) + Head To Head Adjustments (12.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.493[<sup>1</sup>](#table2)
 - Bounty Collected: 0.571[<sup>2</sup>](#table1)
-- Opponent Network: 0.285[<sup>2</sup>](#table1)
+- Opponent Network: 0.306[<sup>2</sup>](#table1)
 - LAN Wins: 0.759[<sup>2</sup>](#table1)
 
-The average of these factors is 0.527<br />
+The average of these factors is 0.532<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1429.5
-- 400 + ( ( 0.527 - 0.000 ) / ( 0.819 - 0.000 ) ) * 1600 = 1429.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1428.1
+- 400 + ( ( 0.532 - 0.000 ) / ( 0.828 - 0.000 ) ) * 1600 = 1428.1
 
 
 #### Factors<br />
@@ -37,38 +37,38 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |      864 | 2025-02-03 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -4.66 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           31 |      894 | 2025-02-01 | Natus Vincere    | L   | 1.000      | -            | -                | -                | -         |    -5.68 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           30 |      923 | 2025-01-31 | Wildcard         | W   | 1.000      | 1.000        | 0.176 (0.176)    | 0.491 (0.491)    | 1 (1.000) |    11.26 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           29 |      937 | 2025-01-29 | Imperial Female  | W   | 0.993      | 1.000        | 0.134 (0.133)    | 0.195 (0.194)    | 1 (0.993) |     2.78 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           28 |      985 | 2025-01-19 | BetBoom Team     | L   | 0.925      | -            | -                | -                | -         |   -26.01 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           27 |     1005 | 2025-01-17 | Nemiga Gaming    | W   | 0.912      | 0.363        | 0.177 (0.058)    | 0.410 (0.136)    | -         |     2.10 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           26 |     1709 | 2024-12-08 | FaZe Clan        | L   | 0.644      | -            | -                | -                | -         |    -1.87 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           25 |     1769 | 2024-12-07 | PaiN Gaming      | W   | 0.637      | 1.000        | 0.318 (0.203)    | 0.587 (0.374)    | 1 (0.637) |    13.13 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           24 |     1815 | 2024-12-05 | Team Liquid      | L   | 0.629      | -            | -                | -                | -         |    -8.00 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           23 |     1846 | 2024-12-05 | Team Vitality    | L   | 0.624      | -            | -                | -                | -         |    -1.44 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           22 |     1854 | 2024-12-04 | Team Spirit      | W   | 0.623      | 1.000        | 1.000 (0.623)    | 0.791 (0.492)    | 1 (0.623) |    18.50 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           21 |     2025 | 2024-12-01 | BIG              | W   | 0.603      | 1.000        | 0.221 (0.133)    | 0.519 (0.313)    | 1 (0.603) |    10.33 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           20 |     2083 | 2024-11-30 | Wildcard         | W   | 0.596      | 1.000        | 0.176 (0.105)    | 0.491 (0.293)    | 1 (0.596) |     6.50 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           19 |     2154 | 2024-11-30 | Imperial Esports | W   | 0.592      | 1.000        | -                | 0.652 (0.386)    | 1 (0.592) |     1.34 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           18 |     2179 | 2024-11-29 | GamerLegion      | L   | 0.589      | -            | -                | -                | -         |    -6.05 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           17 |     2695 | 2024-11-15 | M80              | W   | 0.492      | -            | -                | -                | 1 (0.492) |     0.97 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           16 |     2705 | 2024-11-15 | 9z Team          | W   | 0.491      | -            | -                | -                | 1 (0.491) |     0.42 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           15 |     2740 | 2024-11-14 | Team Liquid      | L   | 0.484      | -            | -                | -                | -         |    -6.10 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           14 |     2783 | 2024-11-12 | BOSS             | W   | 0.476      | -            | -                | -                | 1 (0.476) |     0.73 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           13 |     2803 | 2024-11-12 | Case Esports     | W   | 0.471      | -            | -                | -                | -         |     0.19 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           12 |     2821 | 2024-11-11 | Legacy           | L   | 0.469      | -            | -                | -                | -         |   -14.26 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           11 |     3593 | 2024-10-12 | MOUZ             | L   | 0.267      | -            | -                | -                | -         |    -0.41 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           10 |     3653 | 2024-10-09 | Natus Vincere    | W   | 0.246      | 0.624        | 0.555 (0.085)    | 0.570 (0.088)    | -         |     6.31 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            9 |     3739 | 2024-10-07 | MOUZ             | W   | 0.233      | 0.624        | 1.000 (0.146)    | -                | -         |     7.01 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            8 |     3749 | 2024-10-07 | FaZe Clan        | W   | 0.232      | 0.624        | 0.744 (0.108)    | 0.575 (0.083)    | -         |     6.82 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            7 |     4444 | 2024-09-17 | Team Spirit      | L   | 0.099      | -            | -                | -                | -         |    -0.12 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            6 |     4488 | 2024-09-15 | RED Canids       | W   | 0.085      | -            | -                | -                | -         |     0.10 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            5 |     4516 | 2024-09-14 | ATOX Esports     | W   | 0.079      | -            | -                | -                | -         |     0.29 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            4 |     4545 | 2024-09-13 | Virtus.pro       | L   | 0.073      | -            | -                | -                | -         |    -0.52 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            3 |     4560 | 2024-09-13 | RED Canids       | W   | 0.071      | -            | -                | -                | -         |     0.08 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            2 |     4585 | 2024-09-12 | Team Vitality    | L   | 0.065      | -            | -                | -                | -         |    -0.13 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|            1 |     4626 | 2024-09-11 | Team Falcons     | W   | 0.058      | -            | -                | -                | -         |     0.03 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           32 |      590 | 2025-02-03 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -4.75 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           31 |      611 | 2025-02-01 | Natus Vincere    | L   | 1.000      | -            | -                | -                | -         |    -5.73 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           30 |      624 | 2025-01-31 | Wildcard         | W   | 1.000      | 1.000        | 0.176 (0.176)    | 0.528 (0.528)    | 1 (1.000) |    11.09 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           29 |      636 | 2025-01-29 | Imperial Female  | W   | 0.993      | 1.000        | 0.134 (0.133)    | 0.210 (0.209)    | 1 (0.993) |     2.71 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           28 |      670 | 2025-01-19 | BetBoom Team     | L   | 0.925      | -            | -                | -                | -         |   -26.69 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           27 |      678 | 2025-01-17 | Nemiga Gaming    | W   | 0.912      | 0.363        | 0.177 (0.058)    | 0.441 (0.146)    | -         |     2.02 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           26 |      967 | 2024-12-08 | FaZe Clan        | L   | 0.644      | -            | -                | -                | -         |    -1.87 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           25 |      996 | 2024-12-07 | PaiN Gaming      | W   | 0.637      | 1.000        | 0.318 (0.203)    | 0.632 (0.403)    | 1 (0.637) |    13.09 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           24 |     1029 | 2024-12-05 | Team Liquid      | L   | 0.629      | -            | -                | -                | -         |    -8.10 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           23 |     1053 | 2024-12-05 | Team Vitality    | L   | 0.624      | -            | -                | -                | -         |    -1.45 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           22 |     1061 | 2024-12-04 | Team Spirit      | W   | 0.623      | 1.000        | 1.000 (0.623)    | 0.850 (0.529)    | 1 (0.623) |    18.51 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           21 |     1125 | 2024-12-01 | BIG              | W   | 0.603      | 1.000        | 0.220 (0.132)    | 0.558 (0.336)    | 1 (0.603) |    10.48 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           20 |     1143 | 2024-11-30 | Wildcard         | W   | 0.596      | 1.000        | 0.176 (0.105)    | 0.528 (0.315)    | 1 (0.596) |     6.37 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           19 |     1163 | 2024-11-30 | Imperial Esports | W   | 0.592      | 1.000        | -                | 0.701 (0.415)    | 1 (0.592) |     1.29 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           18 |     1180 | 2024-11-29 | GamerLegion      | L   | 0.589      | -            | -                | -                | -         |    -6.04 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           17 |     1456 | 2024-11-15 | M80              | W   | 0.492      | -            | -                | -                | 1 (0.492) |     0.96 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           16 |     1466 | 2024-11-15 | 9z Team          | W   | 0.491      | -            | -                | -                | 1 (0.491) |     0.41 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           15 |     1497 | 2024-11-14 | Team Liquid      | L   | 0.484      | -            | -                | -                | -         |    -6.17 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           14 |     1533 | 2024-11-12 | BOSS             | W   | 0.476      | -            | -                | -                | 1 (0.476) |     0.71 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           13 |     1548 | 2024-11-12 | Case Esports     | W   | 0.471      | -            | -                | -                | -         |     0.19 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           12 |     1563 | 2024-11-11 | Legacy           | L   | 0.469      | -            | -                | -                | -         |   -14.28 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           11 |     1978 | 2024-10-12 | MOUZ             | L   | 0.267      | -            | -                | -                | -         |    -0.41 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|           10 |     2038 | 2024-10-09 | Natus Vincere    | W   | 0.246      | 0.624        | 0.555 (0.085)    | 0.613 (0.094)    | -         |     6.29 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            9 |     2124 | 2024-10-07 | MOUZ             | W   | 0.233      | 0.624        | 1.000 (0.146)    | -                | -         |     7.01 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            8 |     2134 | 2024-10-07 | FaZe Clan        | W   | 0.232      | 0.624        | 0.744 (0.108)    | 0.618 (0.089)    | -         |     6.82 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            7 |     2808 | 2024-09-17 | Team Spirit      | L   | 0.099      | -            | -                | -                | -         |    -0.12 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            6 |     2850 | 2024-09-15 | RED Canids       | W   | 0.085      | -            | -                | -                | -         |     0.10 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            5 |     2878 | 2024-09-14 | ATOX Esports     | W   | 0.079      | -            | -                | -                | -         |     0.23 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            4 |     2907 | 2024-09-13 | Virtus.pro       | L   | 0.073      | -            | -                | -                | -         |    -0.55 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            3 |     2922 | 2024-09-13 | RED Canids       | W   | 0.071      | -            | -                | -                | -         |     0.08 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            2 |     2947 | 2024-09-12 | Team Vitality    | L   | 0.065      | -            | -                | -                | -         |    -0.13 | chelo, FalleN, KSCERATO, skullz, yuurih |
+|            1 |     2988 | 2024-09-11 | Team Falcons     | W   | 0.058      | -            | -                | -                | -         |     0.03 | chelo, FalleN, KSCERATO, skullz, yuurih |
 
 <br />
 <span id="table2"></span><br />

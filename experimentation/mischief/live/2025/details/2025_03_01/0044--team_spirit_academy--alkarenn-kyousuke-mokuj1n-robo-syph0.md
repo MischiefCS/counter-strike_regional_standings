@@ -6,22 +6,22 @@ Global Rank: [44](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [31]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  973.9<br />
+Final Rank Value:  955.6<br />
 <br />
-Final Rank Value (973.9) = Starting Rank Value (900.6) + Head To Head Adjustments (73.2)<br />
+Final Rank Value (955.6) = Starting Rank Value (892.0) + Head To Head Adjustments (63.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.461[<sup>1</sup>](#table2)
-- Bounty Collected: 0.355[<sup>2</sup>](#table1)
-- Opponent Network: 0.208[<sup>2</sup>](#table1)
+- Bounty Collected: 0.354[<sup>2</sup>](#table1)
+- Opponent Network: 0.204[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.256<br />
+The average of these factors is 0.255<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 900.6
-- 400 + ( ( 0.256 - 0.000 ) / ( 0.819 - 0.000 ) ) * 1600 = 900.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 892.0
+- 400 + ( ( 0.255 - 0.000 ) / ( 0.828 - 0.000 ) ) * 1600 = 892.0
 
 
 #### Factors<br />
@@ -37,57 +37,57 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           51 |      441 | 2025-02-12 | Dynamo Eclot                              | L   | 1.000      | -            | -                | -                | -         |   -13.12 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           50 |      609 | 2025-02-08 | Alliance                                  | W   | 1.000      | 0.435        | 0.015 (0.007)    | 0.554 (0.241)    | 0 (0.000) |     9.71 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           49 |      678 | 2025-02-06 | Fnatic                                    | L   | 1.000      | -            | -                | -                | -         |   -13.24 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           48 |      851 | 2025-02-04 | MoneyF                                    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.75 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           47 |      870 | 2025-02-02 | ECSTATIC                                  | W   | 1.000      | 0.435        | 0.033 (0.014)    | 0.943 (0.410)    | 0 (0.000) |    11.01 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           46 |     1410 | 2024-12-15 | ECSTATIC                                  | W   | 0.693      | 0.435        | 0.033 (0.010)    | 0.943 (0.284)    | 0 (0.000) |     8.95 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           45 |     1419 | 2024-12-15 | ENCE                                      | W   | 0.692      | 0.435        | 0.136 (0.041)    | -                | 0 (0.000) |    12.76 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           44 |     1467 | 2024-12-14 | Fire Flux Esports                         | W   | 0.686      | -            | -                | -                | 0 (0.000) |     8.09 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           43 |     1480 | 2024-12-14 | Chimera Esports                           | W   | 0.684      | 0.435        | 0.025 (0.008)    | 0.662 (0.197)    | 0 (0.000) |     9.92 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           42 |     1525 | 2024-12-13 | JiJieHao                                  | W   | 0.680      | -            | -                | -                | 0 (0.000) |     4.00 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           41 |     1552 | 2024-12-13 | SINNERS Esports                           | W   | 0.677      | 0.435        | 0.027 (0.008)    | 0.480 (0.141)    | 0 (0.000) |     9.68 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           40 |     1637 | 2024-12-10 | Iberian Soul                              | W   | 0.660      | 0.435        | 0.015 (0.004)    | 0.599 (0.172)    | 0 (0.000) |     8.76 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           39 |     1693 | 2024-12-08 | AMKAL ESPORTS                             | L   | 0.646      | -            | -                | -                | -         |   -13.92 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           38 |     1805 | 2024-12-06 | FLuffy Gangsters                          | W   | 0.631      | 0.435        | -                | 0.560 (0.154)    | -         |     5.52 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           37 |     1823 | 2024-12-05 | Fire Flux Esports                         | L   | 0.626      | -            | -                | -                | -         |   -12.32 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           36 |     1928 | 2024-12-03 | Insilio                                   | W   | 0.612      | 0.435        | -                | 0.527 (0.140)    | -         |     3.09 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           35 |     1986 | 2024-12-02 | Copenhagen Wolves (American organization) | L   | 0.606      | -            | -                | -                | -         |   -12.48 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           34 |     2063 | 2024-12-01 | 500                                       | W   | 0.599      | 0.372        | 0.091 (0.020)    | 1.000 (0.223)    | -         |    10.79 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           33 |     2193 | 2024-11-29 | FLuffy Gangsters                          | W   | 0.586      | 0.372        | -                | 0.560 (0.122)    | -         |     4.74 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           32 |     3050 | 2024-11-06 | Monte                                     | L   | 0.432      | -            | -                | -                | -         |    -9.33 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           31 |     3294 | 2024-10-31 | Rare Atom                                 | W   | 0.392      | -            | -                | -                | -         |     6.62 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           30 |     3327 | 2024-10-30 | Natus Vincere Junior                      | L   | 0.386      | -            | -                | -                | -         |    -5.78 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           29 |     3338 | 2024-10-30 | Rare Atom                                 | W   | 0.385      | -            | -                | -                | -         |     6.55 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           28 |     3587 | 2024-10-13 | FAVBET Team                               | W   | 0.273      | -            | -                | -                | -         |     2.96 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           27 |     3590 | 2024-10-13 | SINNERS Esports                           | W   | 0.271      | -            | -                | -                | -         |     3.90 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           26 |     3600 | 2024-10-12 | 3DMAX                                     | W   | 0.265      | 0.435        | 0.295 (0.034)    | -                | -         |     8.14 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           25 |     3617 | 2024-10-10 | OG                                        | W   | 0.252      | 0.435        | 0.062 (0.007)    | -                | -         |     3.25 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           24 |     3793 | 2024-10-05 | Zero Tenacity                             | W   | 0.219      | -            | -                | -                | -         |     2.95 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           23 |     3861 | 2024-10-03 | Monte                                     | W   | 0.205      | -            | -                | -                | -         |     2.22 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           22 |     3869 | 2024-10-03 | PARIVISION                                | L   | 0.204      | -            | -                | -                | -         |    -4.85 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           21 |     3999 | 2024-09-30 | CYBERSHOKE Esports                        | W   | 0.184      | -            | -                | -                | -         |     2.35 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           20 |     4008 | 2024-09-29 | EYEBALLERS                                | W   | 0.179      | -            | -                | -                | -         |     1.88 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           19 |     4027 | 2024-09-28 | Adventurers                               | W   | 0.172      | -            | -                | -                | -         |     1.37 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           18 |     4122 | 2024-09-26 | Monte                                     | W   | 0.157      | -            | -                | -                | -         |     2.26 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           17 |     4162 | 2024-09-25 | K27                                       | W   | 0.152      | -            | -                | -                | -         |     1.36 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           16 |     4240 | 2024-09-24 | RUSTEC                                    | W   | 0.144      | -            | -                | -                | -         |     0.26 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           15 |     4271 | 2024-09-23 | ALTERNATE aTTaX                           | W   | 0.138      | -            | -                | -                | -         |     2.13 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           14 |     4318 | 2024-09-21 | Natus Vincere Junior                      | L   | 0.125      | -            | -                | -                | -         |    -1.70 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           13 |     4339 | 2024-09-20 | FAVBET Team                               | W   | 0.119      | -            | -                | -                | -         |     1.36 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           12 |     4457 | 2024-09-17 | Natus Vincere Junior                      | L   | 0.097      | -            | -                | -                | -         |    -1.33 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           11 |     4498 | 2024-09-15 | Natus Vincere Junior                      | W   | 0.084      | -            | -                | -                | -         |     1.50 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           10 |     4556 | 2024-09-13 | BC.Game Esports                           | L   | 0.072      | -            | -                | -                | -         |    -0.79 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            9 |     4566 | 2024-09-13 | ADEPTS                                    | W   | 0.070      | -            | -                | -                | -         |     0.23 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            8 |     4616 | 2024-09-11 | Natus Vincere Junior                      | L   | 0.059      | -            | -                | -                | -         |    -0.82 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            7 |     4630 | 2024-09-11 | ENCE Academy                              | W   | 0.058      | -            | -                | -                | -         |     0.61 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            6 |     4671 | 2024-09-09 | FLuffy Gangsters                          | W   | 0.045      | -            | -                | -                | -         |     0.41 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            5 |     4683 | 2024-09-08 | HOTU                                      | W   | 0.039      | -            | -                | -                | -         |     0.30 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            4 |     4713 | 2024-09-07 | Tricked Esport                            | W   | 0.033      | -            | -                | -                | -         |     0.40 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            3 |     4784 | 2024-09-05 | Insilio                                   | W   | 0.019      | -            | -                | -                | -         |     0.13 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            2 |     4812 | 2024-09-04 | RUBY                                      | W   | 0.012      | -            | -                | -                | -         |     0.04 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            1 |     4847 | 2024-09-03 | Young Ninjas                              | W   | 0.006      | -            | -                | -                | -         |     0.01 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           51 |      308 | 2025-02-12 | Dynamo Eclot                              | L   | 1.000      | -            | -                | -                | -         |   -12.68 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           50 |      466 | 2025-02-08 | Alliance                                  | W   | 1.000      | 0.435        | 0.015 (0.007)    | 0.595 (0.259)    | 0 (0.000) |    10.14 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           49 |      514 | 2025-02-06 | Fnatic                                    | L   | 1.000      | -            | -                | -                | -         |   -12.89 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           48 |      584 | 2025-02-04 | MoneyF                                    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.75 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           47 |      596 | 2025-02-02 | ECSTATIC                                  | W   | 1.000      | 0.435        | 0.033 (0.014)    | 1.000 (0.435)    | 0 (0.000) |    10.69 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           46 |      846 | 2024-12-15 | ECSTATIC                                  | W   | 0.693      | 0.435        | 0.033 (0.010)    | 1.000 (0.301)    | 0 (0.000) |     8.90 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           45 |      852 | 2024-12-15 | ENCE                                      | W   | 0.692      | 0.435        | 0.134 (0.040)    | 0.410 (0.123)    | 0 (0.000) |    13.26 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           44 |      874 | 2024-12-14 | Fire Flux Esports                         | W   | 0.686      | -            | -                | -                | 0 (0.000) |     8.12 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           43 |      881 | 2024-12-14 | Chimera Esports                           | W   | 0.684      | 0.435        | 0.018 (0.005)    | 0.534 (0.159)    | 0 (0.000) |     9.32 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           42 |      894 | 2024-12-13 | JiJieHao                                  | W   | 0.680      | -            | -                | -                | 0 (0.000) |     4.05 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           41 |      904 | 2024-12-13 | SINNERS Esports                           | W   | 0.677      | 0.435        | 0.027 (0.008)    | 0.448 (0.132)    | 0 (0.000) |     9.53 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           40 |      940 | 2024-12-10 | Iberian Soul                              | W   | 0.660      | 0.435        | 0.015 (0.004)    | 0.644 (0.185)    | 0 (0.000) |     8.89 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           39 |      964 | 2024-12-08 | AMKAL ESPORTS                             | L   | 0.646      | -            | -                | -                | -         |   -16.24 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           38 |     1020 | 2024-12-06 | FLuffy Gangsters                          | W   | 0.631      | 0.435        | -                | 0.419 (0.115)    | -         |     4.91 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           37 |     1034 | 2024-12-05 | Fire Flux Esports                         | L   | 0.626      | -            | -                | -                | -         |   -12.36 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           36 |     1094 | 2024-12-03 | Insilio                                   | W   | 0.612      | -            | -                | -                | -         |     2.61 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           35 |     1111 | 2024-12-02 | Copenhagen Wolves (American organization) | L   | 0.606      | -            | -                | -                | -         |   -13.34 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           34 |     1132 | 2024-12-01 | 500                                       | W   | 0.599      | 0.372        | 0.086 (0.019)    | 1.000 (0.223)    | -         |    10.51 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           33 |     1191 | 2024-11-29 | FLuffy Gangsters                          | W   | 0.586      | -            | -                | -                | -         |     4.13 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           32 |     1650 | 2024-11-06 | Monte                                     | L   | 0.432      | -            | -                | -                | -         |    -9.22 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           31 |     1751 | 2024-10-31 | Rare Atom                                 | W   | 0.392      | -            | -                | -                | -         |     4.70 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           30 |     1765 | 2024-10-30 | Natus Vincere Junior                      | L   | 0.386      | -            | -                | -                | -         |    -5.79 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           29 |     1773 | 2024-10-30 | Rare Atom                                 | W   | 0.385      | -            | -                | -                | -         |     4.57 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           28 |     1972 | 2024-10-13 | FAVBET Team                               | W   | 0.273      | -            | -                | -                | -         |     2.93 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           27 |     1975 | 2024-10-13 | SINNERS Esports                           | W   | 0.271      | -            | -                | -                | -         |     3.75 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           26 |     1985 | 2024-10-12 | 3DMAX                                     | W   | 0.265      | 0.435        | 0.295 (0.034)    | -                | -         |     8.14 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           25 |     2002 | 2024-10-10 | OG                                        | W   | 0.252      | 0.435        | 0.062 (0.007)    | 0.974 (0.107)    | -         |     3.27 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           24 |     2178 | 2024-10-05 | Zero Tenacity                             | W   | 0.219      | -            | -                | -                | -         |     2.78 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           23 |     2246 | 2024-10-03 | Monte                                     | W   | 0.205      | -            | -                | -                | -         |     2.26 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           22 |     2254 | 2024-10-03 | PARIVISION                                | L   | 0.204      | -            | -                | -                | -         |    -4.82 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           21 |     2384 | 2024-09-30 | CYBERSHOKE Esports                        | W   | 0.184      | -            | -                | -                | -         |     2.39 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           20 |     2393 | 2024-09-29 | EYEBALLERS                                | W   | 0.179      | -            | -                | -                | -         |     1.87 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           19 |     2412 | 2024-09-28 | Adventurers                               | W   | 0.172      | -            | -                | -                | -         |     0.63 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           18 |     2507 | 2024-09-26 | Monte                                     | W   | 0.157      | -            | -                | -                | -         |     1.93 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           17 |     2547 | 2024-09-25 | K27                                       | W   | 0.152      | -            | -                | -                | -         |     1.20 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           16 |     2625 | 2024-09-24 | Team PeeP                                 | W   | 0.144      | -            | -                | -                | -         |     0.42 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           15 |     2656 | 2024-09-23 | ALTERNATE aTTaX                           | W   | 0.138      | -            | -                | -                | -         |     2.10 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           14 |     2698 | 2024-09-21 | Natus Vincere Junior                      | L   | 0.125      | -            | -                | -                | -         |    -1.71 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           13 |     2715 | 2024-09-20 | FAVBET Team                               | W   | 0.119      | -            | -                | -                | -         |     1.36 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           12 |     2819 | 2024-09-17 | Natus Vincere Junior                      | L   | 0.097      | -            | -                | -                | -         |    -1.34 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           11 |     2860 | 2024-09-15 | Natus Vincere Junior                      | W   | 0.084      | -            | -                | -                | -         |     1.49 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           10 |     2918 | 2024-09-13 | BC.Game Esports                           | L   | 0.072      | -            | -                | -                | -         |    -0.79 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            9 |     2928 | 2024-09-13 | ADEPTS                                    | W   | 0.070      | -            | -                | -                | -         |     0.23 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            8 |     2978 | 2024-09-11 | Natus Vincere Junior                      | L   | 0.059      | -            | -                | -                | -         |    -0.83 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            7 |     2992 | 2024-09-11 | ENCE Academy                              | W   | 0.058      | -            | -                | -                | -         |     0.59 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            6 |     3033 | 2024-09-09 | FLuffy Gangsters                          | W   | 0.045      | -            | -                | -                | -         |     0.36 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            5 |     3045 | 2024-09-08 | HOTU                                      | W   | 0.039      | -            | -                | -                | -         |     0.24 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            4 |     3075 | 2024-09-07 | Tricked Esport                            | W   | 0.033      | -            | -                | -                | -         |     0.39 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            3 |     3146 | 2024-09-05 | Insilio                                   | W   | 0.019      | -            | -                | -                | -         |     0.13 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            2 |     3174 | 2024-09-04 | RUBY                                      | W   | 0.012      | -            | -                | -                | -         |     0.04 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            1 |     3209 | 2024-09-03 | Young Ninjas                              | W   | 0.006      | -            | -                | -                | -         |     0.02 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 
 <br />
 <span id="table2"></span><br />

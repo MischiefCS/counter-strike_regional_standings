@@ -6,22 +6,22 @@ Global Rank: [207](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [126]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  620.8<br />
+Final Rank Value:  620.0<br />
 <br />
-Final Rank Value (620.8) = Starting Rank Value (616.6) + Head To Head Adjustments (4.2)<br />
+Final Rank Value (620.0) = Starting Rank Value (615.8) + Head To Head Adjustments (4.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.275[<sup>1</sup>](#table2)
-- Bounty Collected: 0.179[<sup>2</sup>](#table1)
+- Bounty Collected: 0.177[<sup>2</sup>](#table1)
 - Opponent Network: 0.001[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.114<br />
+The average of these factors is 0.113<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 616.6
-- 400 + ( ( 0.114 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 616.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 615.8
+- 400 + ( ( 0.113 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 615.8
 
 
 #### Factors<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     1801 | 2024-10-27 | OneDay                     | W   | 0.367      | 0.359        | 0.000 (0.000)    | 0.060 (0.008)    | 0 (0.000) |     4.03 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
-|            7 |     1881 | 2024-10-18 | ENCE Athena                | W   | 0.306      | 0.430        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.53 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
-|            6 |     2279 | 2024-10-02 | Eco Warriors               | L   | 0.200      | -            | -                | -                | -         |    -1.61 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
-|            5 |     2539 | 2024-09-25 | NIP Impact                 | L   | 0.153      | -            | -                | -                | -         |    -1.87 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
+|            8 |     1801 | 2024-10-27 | OneDay                     | W   | 0.367      | 0.359        | 0.000 (0.000)    | 0.060 (0.008)    | 0 (0.000) |     4.04 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
+|            7 |     1881 | 2024-10-18 | ENCE Athena                | W   | 0.306      | 0.328        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.54 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
+|            6 |     2279 | 2024-10-02 | Eco Warriors               | L   | 0.200      | -            | -                | -                | -         |    -1.63 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
+|            5 |     2539 | 2024-09-25 | NIP Impact                 | L   | 0.153      | -            | -                | -                | -         |    -1.86 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            4 |     2843 | 2024-09-15 | Let Her Cook               | W   | 0.086      | 0.250        | 0.002 (0.000)    | 0.031 (0.001)    | 0 (0.000) |     1.39 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
-|            3 |     2893 | 2024-09-14 | Eco Warriors               | L   | 0.078      | -            | -                | -                | -         |    -0.64 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
+|            3 |     2893 | 2024-09-14 | Eco Warriors               | L   | 0.078      | -            | -                | -                | -         |    -0.65 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            2 |     2974 | 2024-09-11 | Let Her Cook               | L   | 0.060      | -            | -                | -                | -         |    -0.92 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 |            1 |     3168 | 2024-09-04 | Team Denmark (Female team) | W   | 0.013      | 0.328        | 0.008 (0.000)    | 0.067 (0.000)    | 0 (0.000) |     0.24 | AverOna, Jammie, kr4sy, Rony4ka, uulis |
 

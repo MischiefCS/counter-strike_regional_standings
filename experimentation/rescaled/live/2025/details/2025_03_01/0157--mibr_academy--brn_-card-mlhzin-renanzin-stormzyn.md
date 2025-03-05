@@ -6,22 +6,22 @@ Global Rank: [157](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [36]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  699.1<br />
+Final Rank Value:  693.8<br />
 <br />
-Final Rank Value (699.1) = Starting Rank Value (669.7) + Head To Head Adjustments (29.4)<br />
+Final Rank Value (693.8) = Starting Rank Value (665.1) + Head To Head Adjustments (28.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.243[<sup>1</sup>](#table2)
-- Bounty Collected: 0.252[<sup>2</sup>](#table1)
-- Opponent Network: 0.072[<sup>2</sup>](#table1)
+- Bounty Collected: 0.249[<sup>2</sup>](#table1)
+- Opponent Network: 0.065[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.142<br />
+The average of these factors is 0.139<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 669.7
-- 400 + ( ( 0.142 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 669.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 665.1
+- 400 + ( ( 0.139 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 665.1
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      183 | 2025-02-17 | Dusty Roots         | W   | 1.000      | 0.627        | 0.008 (0.005)    | 0.422 (0.264)    | 0 (0.000) |    18.28 | brn$, card, mlhzin, RenanZin, stormzyn |
-|           20 |      228 | 2025-02-15 | AdalYamigos         | W   | 1.000      | 0.627        | 0.003 (0.002)    | 0.226 (0.142)    | 0 (0.000) |    19.97 | brn$, card, mlhzin, RenanZin, stormzyn |
-|           19 |      283 | 2025-02-13 | Swingers            | L   | 1.000      | -            | -                | -                | -         |   -13.88 | brn$, card, mlhzin, RenanZin, stormzyn |
-|           18 |      305 | 2025-02-12 | ODDIK               | L   | 1.000      | -            | -                | -                | -         |    -7.95 | brn$, card, mlhzin, RenanZin, stormzyn |
-|           17 |      359 | 2025-02-10 | Familia Maquininha  | W   | 1.000      | 0.627        | 0.003 (0.002)    | 0.133 (0.083)    | 0 (0.000) |    14.36 | brn$, card, mlhzin, RenanZin, stormzyn |
-|           16 |     1212 | 2024-11-27 | Team Solid          | L   | 0.574      | -            | -                | -                | -         |    -4.08 | brn$, card, diozera, mlhzin, RenanZin  |
-|           15 |     1250 | 2024-11-24 | VELOX Argentina     | W   | 0.555      | 0.505        | 0.000 (0.000)    | 0.121 (0.034)    | 0 (0.000) |     5.32 | brn$, card, diozera, mlhzin, RenanZin  |
-|           14 |     1270 | 2024-11-23 | Nitro.GG            | L   | 0.548      | -            | -                | -                | -         |    -8.10 | brn$, card, diozera, mlhzin, RenanZin  |
-|           13 |     1330 | 2024-11-21 | Yawara E-Sports     | W   | 0.535      | 0.434        | 0.002 (0.000)    | 0.321 (0.074)    | 0 (0.000) |     8.51 | brn$, card, diozera, mlhzin, RenanZin  |
-|           12 |     1372 | 2024-11-19 | BESTIA Academy      | W   | 0.520      | 0.435        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.88 | brn$, card, diozera, mlhzin, RenanZin  |
-|           11 |     1583 | 2024-11-10 | Yawara E-Sports     | L   | 0.461      | -            | -                | -                | -         |    -7.33 | brn$, card, diozera, mlhzin, RenanZin  |
-|           10 |     1591 | 2024-11-09 | RED Canids Academy  | W   | 0.454      | 0.449        | 0.005 (0.001)    | 0.095 (0.019)    | 0 (0.000) |     6.83 | brn$, card, diozera, mlhzin, RenanZin  |
-|            9 |     1629 | 2024-11-07 | Sharks Esports      | L   | 0.442      | -            | -                | -                | -         |    -1.20 | brn$, card, diozera, mlhzin, RenanZin  |
-|            8 |     1659 | 2024-11-05 | Yawara E-Sports     | W   | 0.427      | 0.597        | 0.002 (0.000)    | 0.321 (0.082)    | 0 (0.000) |     6.79 | brn$, card, diozera, mlhzin, RenanZin  |
-|            7 |     1679 | 2024-11-03 | ShindeN             | L   | 0.415      | -            | -                | -                | -         |    -6.05 | brn$, card, diozera, mlhzin, RenanZin  |
-|            6 |     1707 | 2024-11-02 | PaiN Gaming Academy | W   | 0.407      | 0.601        | 0.000 (0.000)    | 0.088 (0.022)    | 0 (0.000) |     2.42 | brn$, card, diozera, mlhzin, RenanZin  |
-|            5 |     1762 | 2024-10-30 | BESTIA Academy      | W   | 0.387      | 0.605        | 0.000 (0.000)    | -                | 0 (0.000) |     2.25 | brn$, card, diozera, mlhzin, RenanZin  |
-|            4 |     1780 | 2024-10-29 | TROPA DO TACO       | L   | 0.380      | -            | -                | -                | -         |    -5.58 | brn$, card, diozera, mlhzin, RenanZin  |
-|            3 |     2144 | 2024-10-06 | Bad News Chickens   | L   | 0.227      | -            | -                | -                | -         |    -3.71 | brn$, diozera, JLK, mlhzin, RenanZin   |
-|            2 |     3077 | 2024-09-07 | Bad News Chickens   | L   | 0.033      | -            | -                | -                | -         |    -0.53 | bobz, brn$, JLK, mlhzin, RenanZin      |
+|           21 |      183 | 2025-02-17 | Dusty Roots         | W   | 1.000      | 0.549        | 0.008 (0.005)    | 0.422 (0.232)    | 0 (0.000) |    18.24 | brn$, card, mlhzin, RenanZin, stormzyn |
+|           20 |      228 | 2025-02-15 | AdalYamigos         | W   | 1.000      | 0.547        | 0.003 (0.002)    | 0.226 (0.124)    | 0 (0.000) |    19.86 | brn$, card, mlhzin, RenanZin, stormzyn |
+|           19 |      283 | 2025-02-13 | Swingers            | L   | 1.000      | -            | -                | -                | -         |   -14.17 | brn$, card, mlhzin, RenanZin, stormzyn |
+|           18 |      305 | 2025-02-12 | ODDIK               | L   | 1.000      | -            | -                | -                | -         |    -8.28 | brn$, card, mlhzin, RenanZin, stormzyn |
+|           17 |      359 | 2025-02-10 | Familia Maquininha  | W   | 1.000      | 0.555        | 0.003 (0.002)    | 0.133 (0.074)    | 0 (0.000) |    14.44 | brn$, card, mlhzin, RenanZin, stormzyn |
+|           16 |     1212 | 2024-11-27 | Team Solid          | L   | 0.574      | -            | -                | -                | -         |    -4.25 | brn$, card, diozera, mlhzin, RenanZin  |
+|           15 |     1250 | 2024-11-24 | VELOX Argentina     | W   | 0.555      | 0.491        | 0.000 (0.000)    | 0.121 (0.033)    | 0 (0.000) |     5.36 | brn$, card, diozera, mlhzin, RenanZin  |
+|           14 |     1270 | 2024-11-23 | Nitro.GG            | L   | 0.548      | -            | -                | -                | -         |    -8.16 | brn$, card, diozera, mlhzin, RenanZin  |
+|           13 |     1330 | 2024-11-21 | Yawara E-Sports     | W   | 0.535      | 0.411        | 0.002 (0.000)    | 0.321 (0.071)    | 0 (0.000) |     8.53 | brn$, card, diozera, mlhzin, RenanZin  |
+|           12 |     1372 | 2024-11-19 | BESTIA Academy      | W   | 0.520      | 0.427        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.94 | brn$, card, diozera, mlhzin, RenanZin  |
+|           11 |     1583 | 2024-11-10 | Yawara E-Sports     | L   | 0.461      | -            | -                | -                | -         |    -7.31 | brn$, card, diozera, mlhzin, RenanZin  |
+|           10 |     1591 | 2024-11-09 | RED Canids Academy  | W   | 0.454      | 0.449        | 0.005 (0.001)    | 0.095 (0.019)    | 0 (0.000) |     6.92 | brn$, card, diozera, mlhzin, RenanZin  |
+|            9 |     1629 | 2024-11-07 | Sharks Esports      | L   | 0.442      | -            | -                | -                | -         |    -1.27 | brn$, card, diozera, mlhzin, RenanZin  |
+|            8 |     1659 | 2024-11-05 | Yawara E-Sports     | W   | 0.427      | 0.589        | 0.002 (0.000)    | 0.321 (0.081)    | 0 (0.000) |     6.81 | brn$, card, diozera, mlhzin, RenanZin  |
+|            7 |     1679 | 2024-11-03 | ShindeN             | L   | 0.415      | -            | -                | -                | -         |    -6.04 | brn$, card, diozera, mlhzin, RenanZin  |
+|            6 |     1707 | 2024-11-02 | PaiN Gaming Academy | W   | 0.407      | 0.593        | 0.000 (0.000)    | 0.088 (0.021)    | 0 (0.000) |     2.47 | brn$, card, diozera, mlhzin, RenanZin  |
+|            5 |     1762 | 2024-10-30 | BESTIA Academy      | W   | 0.387      | 0.597        | 0.000 (0.000)    | -                | 0 (0.000) |     2.29 | brn$, card, diozera, mlhzin, RenanZin  |
+|            4 |     1780 | 2024-10-29 | TROPA DO TACO       | L   | 0.380      | -            | -                | -                | -         |    -5.59 | brn$, card, diozera, mlhzin, RenanZin  |
+|            3 |     2144 | 2024-10-06 | Bad News Chickens   | L   | 0.227      | -            | -                | -                | -         |    -3.72 | brn$, diozera, JLK, mlhzin, RenanZin   |
+|            2 |     3077 | 2024-09-07 | Bad News Chickens   | L   | 0.033      | -            | -                | -                | -         |    -0.54 | bobz, brn$, JLK, mlhzin, RenanZin      |
 |            1 |     3095 | 2024-09-06 | PaiN Gaming Academy | W   | 0.028      | 0.143        | -                | 0.088 (0.000)    | -         |     0.16 | bobz, brn$, JLK, mlhzin, RenanZin      |
 
 <br />

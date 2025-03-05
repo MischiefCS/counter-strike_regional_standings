@@ -6,22 +6,22 @@ Global Rank: [85](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [60]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  885.6<br />
+Final Rank Value:  883.8<br />
 <br />
-Final Rank Value (885.6) = Starting Rank Value (859.9) + Head To Head Adjustments (25.7)<br />
+Final Rank Value (883.8) = Starting Rank Value (858.4) + Head To Head Adjustments (25.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.376[<sup>1</sup>](#table2)
-- Bounty Collected: 0.261[<sup>2</sup>](#table1)
-- Opponent Network: 0.026[<sup>2</sup>](#table1)
+- Bounty Collected: 0.259[<sup>2</sup>](#table1)
+- Opponent Network: 0.024[<sup>2</sup>](#table1)
 - LAN Wins: 0.305[<sup>2</sup>](#table1)
 
-The average of these factors is 0.242<br />
+The average of these factors is 0.241<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 859.9
-- 400 + ( ( 0.242 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 859.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 858.4
+- 400 + ( ( 0.241 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 858.4
 
 
 #### Factors<br />
@@ -37,13 +37,13 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      112 | 2025-02-22 | ENCE Academy      | W   | 1.000      | 0.523        | 0.009 (0.004)    | 0.230 (0.120)    | 1 (1.000) |    11.39 | Aerial, allu, HENU, jelo, Sm1llee |
-|            9 |      132 | 2025-02-21 | Heimo Esports     | W   | 1.000      | 0.523        | 0.004 (0.002)    | 0.111 (0.058)    | 1 (1.000) |     7.82 | Aerial, allu, HENU, jelo, Sm1llee |
-|            8 |     1849 | 2024-10-20 | ENCE Academy      | W   | 0.318      | 0.571        | 0.009 (0.002)    | 0.230 (0.042)    | 1 (0.318) |     4.00 | Aerial, allu, HENU, juho, xseveN  |
-|            7 |     1890 | 2024-10-18 | B8                | L   | 0.305      | -            | -                | -                | -         |    -1.04 | Aerial, allu, HENU, juho, xseveN  |
+|           10 |      112 | 2025-02-22 | ENCE Academy      | W   | 1.000      | 0.470        | 0.009 (0.004)    | 0.230 (0.108)    | 1 (1.000) |    11.29 | Aerial, allu, HENU, jelo, Sm1llee |
+|            9 |      132 | 2025-02-21 | Heimo Esports     | W   | 1.000      | 0.470        | 0.004 (0.002)    | 0.111 (0.052)    | 1 (1.000) |     7.76 | Aerial, allu, HENU, jelo, Sm1llee |
+|            8 |     1849 | 2024-10-20 | ENCE Academy      | W   | 0.318      | 0.571        | 0.009 (0.002)    | 0.230 (0.042)    | 1 (0.318) |     3.98 | Aerial, allu, HENU, juho, xseveN  |
+|            7 |     1890 | 2024-10-18 | B8                | L   | 0.305      | -            | -                | -                | -         |    -1.11 | Aerial, allu, HENU, juho, xseveN  |
 |            6 |     1935 | 2024-10-16 | Ninjas in Pyjamas | W   | 0.293      | 1.000        | 0.022 (0.007)    | 0.124 (0.036)    | 1 (0.293) |     4.71 | Aerial, allu, HENU, juho, xseveN  |
 |            5 |     1944 | 2024-10-16 | The MongolZ       | L   | 0.291      | -            | -                | -                | -         |    -0.03 | Aerial, allu, HENU, juho, xseveN  |
-|            4 |     3052 | 2024-09-08 | Chimera Esports   | L   | 0.038      | -            | -                | -                | -         |    -0.51 | Aerial, allu, HENU, juho, xseveN  |
+|            4 |     3052 | 2024-09-08 | Chimera Esports   | L   | 0.038      | -            | -                | -                | -         |    -0.56 | Aerial, allu, HENU, juho, xseveN  |
 |            3 |     3103 | 2024-09-06 | Revenant Esports  | L   | 0.026      | -            | -                | -                | -         |    -0.73 | Aerial, allu, HENU, juho, xseveN  |
 |            2 |     3188 | 2024-09-04 | Rhyno Esports     | W   | 0.010      | 0.435        | 0.002 (0.000)    | 0.046 (0.000)    | 0 (0.000) |     0.09 | Aerial, allu, HENU, juho, xseveN  |
 |            1 |     3224 | 2024-09-03 | GUN5 Esports      | L   | 0.004      | -            | -                | -                | -         |    -0.03 | Aerial, allu, HENU, juho, xseveN  |

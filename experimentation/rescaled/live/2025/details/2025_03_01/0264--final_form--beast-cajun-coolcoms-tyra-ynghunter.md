@@ -6,9 +6,9 @@ Global Rank: [264](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [82]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  498.4<br />
+Final Rank Value:  498.3<br />
 <br />
-Final Rank Value (498.4) = Starting Rank Value (496.9) + Head To Head Adjustments (1.5)<br />
+Final Rank Value (498.3) = Starting Rank Value (496.9) + Head To Head Adjustments (1.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,11 +38,11 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |     1085 | 2024-12-03 | OutGoing eSports        | L   | 0.616      | -            | -                | -                | -         |    -7.15 | Beast, CAJUN, CoolComs, TyRa, YNGHunter |
-|            7 |     1105 | 2024-12-02 | Ascend                  | W   | 0.609      | 0.372        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.90 | Beast, CAJUN, CoolComs, TyRa, YNGHunter |
-|            6 |     1976 | 2024-10-12 | FLUFFY AIMERS           | L   | 0.268      | -            | -                | -                | -         |    -1.37 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
-|            5 |     2328 | 2024-10-01 | NRG                     | L   | 0.194      | -            | -                | -                | -         |    -0.25 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
+|            7 |     1105 | 2024-12-02 | Ascend                  | W   | 0.609      | 0.372        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.91 | Beast, CAJUN, CoolComs, TyRa, YNGHunter |
+|            6 |     1976 | 2024-10-12 | FLUFFY AIMERS           | L   | 0.268      | -            | -                | -                | -         |    -1.39 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
+|            5 |     2328 | 2024-10-01 | NRG                     | L   | 0.194      | -            | -                | -                | -         |    -0.28 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
 |            4 |     2589 | 2024-09-24 | Jahsdnmasjdm v2         | W   | 0.148      | 0.481        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     2.22 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
-|            3 |     2663 | 2024-09-22 | Familia Maquininha      | L   | 0.135      | -            | -                | -                | -         |    -1.23 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
+|            3 |     2663 | 2024-09-22 | Familia Maquininha      | L   | 0.135      | -            | -                | -                | -         |    -1.24 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
 |            2 |     2706 | 2024-09-20 | Penance (American Team) | W   | 0.121      | 0.371        | 0.000 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     1.40 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
 |            1 |     2868 | 2024-09-14 | Lore Gaming             | W   | 0.082      | 0.371        | 0.000 (0.000)    | 0.023 (0.001)    | 0 (0.000) |     0.94 | CAJUN, CoolComs, Drop, FxRE, YNGHunter  |
 

@@ -4,24 +4,24 @@ Roster: Banjo, paz, S3NSEY, ScrunK, soulfly<br />
 Global Rank: [54](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
-Regional Rank: [40]( ../../standings_europe_2025_03_01.md)<br />
+Regional Rank: [39]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1010.7<br />
+Final Rank Value:  988.1<br />
 <br />
-Final Rank Value (1010.7) = Starting Rank Value (973.5) + Head To Head Adjustments (37.2)<br />
+Final Rank Value (988.1) = Starting Rank Value (951.5) + Head To Head Adjustments (36.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.323[<sup>1</sup>](#table2)
-- Bounty Collected: 0.392[<sup>2</sup>](#table1)
-- Opponent Network: 0.490[<sup>2</sup>](#table1)
+- Bounty Collected: 0.388[<sup>2</sup>](#table1)
+- Opponent Network: 0.449[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.301<br />
+The average of these factors is 0.290<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 973.5
-- 400 + ( ( 0.301 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 973.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 951.5
+- 400 + ( ( 0.290 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 951.5
 
 
 #### Factors<br />
@@ -37,49 +37,49 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           43 |        8 | 2025-02-28 | Iberian Soul                              | L   | 1.000      | -            | -                | -                | -         |   -16.96 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           42 |       41 | 2025-02-25 | Wild Lotus                                | W   | 1.000      | 0.666        | -                | 0.462 (0.308)    | 0 (0.000) |     9.37 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           41 |       57 | 2025-02-24 | Iberian Soul                              | L   | 1.000      | -            | -                | -                | -         |   -18.14 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           40 |       60 | 2025-02-24 | Ninjas in Pyjamas                         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.85 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           39 |      107 | 2025-02-22 | ESC Gaming                                | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.98 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           38 |      123 | 2025-02-21 | RUSH B (Russian team)                     | W   | 1.000      | 0.588        | 0.027 (0.016)    | 0.569 (0.335)    | 0 (0.000) |    12.45 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           37 |      295 | 2025-02-13 | Nexus Gaming                              | L   | 1.000      | -            | -                | -                | -         |   -15.10 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           36 |      399 | 2025-02-09 | SINNERS Esports                           | W   | 1.000      | 1.000        | 0.027 (0.027)    | 0.448 (0.448)    | 0 (0.000) |    13.41 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           35 |      499 | 2025-02-07 | Natus Vincere Junior                      | W   | 1.000      | 1.000        | 0.086 (0.086)    | 0.941 (0.941)    | 0 (0.000) |    18.11 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           34 |      525 | 2025-02-06 | GTZ.ESPORTS                               | L   | 1.000      | -            | -                | -                | -         |   -10.35 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           33 |      571 | 2025-02-04 | B8                                        | L   | 1.000      | -            | -                | -                | -         |    -7.23 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           32 |      599 | 2025-02-02 | 9INE                                      | W   | 1.000      | 1.000        | 0.037 (0.037)    | 0.895 (0.895)    | 0 (0.000) |    18.96 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           31 |      632 | 2025-01-29 | Ninjas in Pyjamas                         | W   | 0.994      | -            | -                | -                | 0 (0.000) |     5.19 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           30 |      659 | 2025-01-25 | ALASKA                                    | W   | 0.964      | 0.639        | 0.030 (0.019)    | 0.626 (0.386)    | 0 (0.000) |    17.33 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           29 |      660 | 2025-01-24 | Betclic Apogee Esports                    | W   | 0.960      | 0.639        | -                | 0.661 (0.406)    | 0 (0.000) |    16.01 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           28 |      843 | 2024-12-15 | CYBERSHOKE Esports                        | L   | 0.694      | -            | -                | -                | -         |   -10.69 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           27 |      874 | 2024-12-14 | Team Spirit Academy                       | L   | 0.686      | -            | -                | -                | -         |    -8.23 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           26 |      895 | 2024-12-13 | Betera Esports                            | W   | 0.680      | -            | -                | -                | -         |     2.43 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           25 |      914 | 2024-12-12 | Insilio                                   | W   | 0.673      | -            | -                | -                | -         |     3.75 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           24 |      923 | 2024-12-11 | Endpoint                                  | W   | 0.667      | -            | -                | -                | -         |     5.99 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           23 |      929 | 2024-12-11 | ECSTATIC                                  | L   | 0.666      | -            | -                | -                | -         |    -9.51 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           22 |      937 | 2024-12-10 | FAVBET Team                               | L   | 0.660      | -            | -                | -                | -         |   -11.50 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           21 |      950 | 2024-12-09 | FAVBET Team                               | W   | 0.652      | 0.988        | 0.029 (0.019)    | 0.608 (0.392)    | -         |     9.32 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           20 |      994 | 2024-12-07 | Tricked Esport                            | W   | 0.637      | 0.993        | 0.033 (0.021)    | 0.673 (0.426)    | -         |     9.58 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           43 |        8 | 2025-02-28 | Iberian Soul                              | L   | 1.000      | -            | -                | -                | -         |   -17.49 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           42 |       41 | 2025-02-25 | Wild Lotus                                | W   | 1.000      | 0.599        | -                | 0.462 (0.277)    | 0 (0.000) |     9.66 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           41 |       57 | 2025-02-24 | Iberian Soul                              | L   | 1.000      | -            | -                | -                | -         |   -18.75 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           40 |       60 | 2025-02-24 | Ninjas in Pyjamas                         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.04 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           39 |      107 | 2025-02-22 | ESC Gaming                                | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.20 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           38 |      123 | 2025-02-21 | RUSH B (Russian team)                     | W   | 1.000      | 0.489        | 0.027 (0.013)    | 0.569 (0.278)    | 0 (0.000) |    12.49 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           37 |      295 | 2025-02-13 | Nexus Gaming                              | L   | 1.000      | -            | -                | -                | -         |   -14.78 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           36 |      399 | 2025-02-09 | SINNERS Esports                           | W   | 1.000      | 1.000        | 0.027 (0.027)    | 0.448 (0.448)    | 0 (0.000) |    13.46 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           35 |      499 | 2025-02-07 | Natus Vincere Junior                      | W   | 1.000      | 1.000        | 0.086 (0.086)    | 0.941 (0.941)    | 0 (0.000) |    18.05 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           34 |      525 | 2025-02-06 | GTZ.ESPORTS                               | L   | 1.000      | -            | -                | -                | -         |   -10.41 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           33 |      571 | 2025-02-04 | B8                                        | L   | 1.000      | -            | -                | -                | -         |    -7.02 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           32 |      599 | 2025-02-02 | 9INE                                      | W   | 1.000      | 1.000        | 0.037 (0.037)    | 0.895 (0.895)    | 0 (0.000) |    18.88 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           31 |      632 | 2025-01-29 | Ninjas in Pyjamas                         | W   | 0.994      | -            | -                | -                | 0 (0.000) |     5.41 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           30 |      659 | 2025-01-25 | ALASKA                                    | W   | 0.964      | 0.488        | 0.030 (0.014)    | 0.626 (0.295)    | 0 (0.000) |    17.26 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           29 |      660 | 2025-01-24 | Betclic Apogee Esports                    | W   | 0.960      | 0.487        | -                | 0.661 (0.309)    | 0 (0.000) |    15.21 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           28 |      843 | 2024-12-15 | CYBERSHOKE Esports                        | L   | 0.694      | -            | -                | -                | -         |   -10.49 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           27 |      874 | 2024-12-14 | Team Spirit Academy                       | L   | 0.686      | -            | -                | -                | -         |    -8.70 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           26 |      895 | 2024-12-13 | Betera Esports                            | W   | 0.680      | -            | -                | -                | -         |     2.69 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           25 |      914 | 2024-12-12 | Insilio                                   | W   | 0.673      | -            | -                | -                | -         |     4.11 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           24 |      923 | 2024-12-11 | Endpoint                                  | W   | 0.667      | -            | -                | -                | -         |     5.97 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           23 |      929 | 2024-12-11 | ECSTATIC                                  | L   | 0.666      | -            | -                | -                | -         |   -10.07 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           22 |      937 | 2024-12-10 | FAVBET Team                               | L   | 0.660      | -            | -                | -                | -         |   -11.45 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           21 |      950 | 2024-12-09 | FAVBET Team                               | W   | 0.652      | 0.883        | 0.029 (0.017)    | 0.608 (0.350)    | -         |     9.38 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           20 |      994 | 2024-12-07 | Tricked Esport                            | W   | 0.637      | 0.885        | 0.033 (0.018)    | 0.673 (0.380)    | -         |     9.40 | Banjo, paz, S3NSEY, ScrunK, soulfly |
 |           19 |     1013 | 2024-12-06 | 500                                       | L   | 0.633      | -            | -                | -                | -         |    -4.33 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           18 |     1034 | 2024-12-05 | Team Spirit Academy                       | W   | 0.626      | 0.819        | 0.068 (0.035)    | 0.718 (0.368)    | -         |    12.19 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           17 |     1038 | 2024-12-05 | Metizport                                 | L   | 0.625      | -            | -                | -                | -         |    -5.58 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           16 |     1066 | 2024-12-04 | GenOne                                    | W   | 0.620      | -            | -                | -                | -         |     6.55 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           15 |     1070 | 2024-12-04 | Endpoint                                  | L   | 0.619      | -            | -                | -                | -         |   -13.81 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           14 |     1088 | 2024-12-03 | FLuffy Gangsters                          | W   | 0.614      | -            | -                | -                | -         |     4.18 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           13 |     1153 | 2024-11-30 | CYBERSHOKE Esports                        | L   | 0.593      | -            | -                | -                | -         |    -8.46 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           12 |     1205 | 2024-11-28 | Kubix Esports                             | W   | 0.579      | 0.814        | 0.031 (0.015)    | -                | -         |     4.06 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           11 |     1242 | 2024-11-25 | Tricked Esport                            | L   | 0.560      | -            | -                | -                | -         |   -10.10 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|           10 |     1257 | 2024-11-24 | Endpoint                                  | L   | 0.552      | -            | -                | -                | -         |   -12.84 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            9 |     1276 | 2024-11-23 | Al-Ittihad                                | W   | 0.547      | -            | -                | -                | -         |     1.19 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            8 |     1427 | 2024-11-16 | Astralis Talent                           | W   | 0.499      | -            | -                | -                | -         |     3.32 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            7 |     1476 | 2024-11-14 | GenOne                                    | W   | 0.487      | -            | -                | -                | -         |     4.75 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            6 |     1506 | 2024-11-13 | ALASKA                                    | W   | 0.480      | -            | -                | -                | -         |     9.31 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            5 |     1623 | 2024-11-08 | 9Pandas                                   | L   | 0.445      | -            | -                | -                | -         |    -4.52 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            4 |     1683 | 2024-11-03 | P0RTUGAL                                  | W   | 0.413      | 0.664        | 0.037 (0.010)    | -                | -         |     3.34 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            3 |     1754 | 2024-10-31 | Copenhagen Wolves (American organization) | W   | 0.391      | -            | -                | -                | -         |     5.62 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            2 |     2484 | 2024-09-26 | B8                                        | L   | 0.159      | -            | -                | -                | -         |    -0.91 | Banjo, paz, S3NSEY, ScrunK, soulfly |
-|            1 |     2491 | 2024-09-26 | Gucci Gang (Russian team)                 | W   | 0.159      | -            | -                | -                | -         |     0.19 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           18 |     1034 | 2024-12-05 | Team Spirit Academy                       | W   | 0.626      | 0.702        | 0.068 (0.030)    | 0.718 (0.316)    | -         |    11.69 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           17 |     1038 | 2024-12-05 | Metizport                                 | L   | 0.625      | -            | -                | -                | -         |    -5.44 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           16 |     1066 | 2024-12-04 | GenOne                                    | W   | 0.620      | -            | -                | -                | -         |     6.67 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           15 |     1070 | 2024-12-04 | Endpoint                                  | L   | 0.619      | -            | -                | -                | -         |   -13.87 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           14 |     1088 | 2024-12-03 | FLuffy Gangsters                          | W   | 0.614      | -            | -                | -                | -         |     4.42 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           13 |     1153 | 2024-11-30 | CYBERSHOKE Esports                        | L   | 0.593      | -            | -                | -                | -         |    -8.26 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           12 |     1205 | 2024-11-28 | Kubix Esports                             | W   | 0.579      | 0.694        | 0.031 (0.013)    | -                | -         |     4.44 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           11 |     1242 | 2024-11-25 | Tricked Esport                            | L   | 0.560      | -            | -                | -                | -         |   -10.19 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|           10 |     1257 | 2024-11-24 | Endpoint                                  | L   | 0.552      | -            | -                | -                | -         |   -12.89 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            9 |     1276 | 2024-11-23 | Al-Ittihad                                | W   | 0.547      | -            | -                | -                | -         |     1.33 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            8 |     1427 | 2024-11-16 | Astralis Talent                           | W   | 0.499      | -            | -                | -                | -         |     3.51 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            7 |     1476 | 2024-11-14 | GenOne                                    | W   | 0.487      | -            | -                | -                | -         |     4.84 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            6 |     1506 | 2024-11-13 | ALASKA                                    | W   | 0.480      | -            | -                | -                | -         |     9.23 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            5 |     1623 | 2024-11-08 | 9Pandas                                   | L   | 0.445      | -            | -                | -                | -         |    -4.49 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            4 |     1683 | 2024-11-03 | P0RTUGAL                                  | W   | 0.413      | 0.622        | 0.037 (0.010)    | -                | -         |     3.43 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            3 |     1754 | 2024-10-31 | Copenhagen Wolves (American organization) | W   | 0.391      | -            | -                | -                | -         |     5.21 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            2 |     2484 | 2024-09-26 | B8                                        | L   | 0.159      | -            | -                | -                | -         |    -0.88 | Banjo, paz, S3NSEY, ScrunK, soulfly |
+|            1 |     2491 | 2024-09-26 | Gucci Gang (Russian team)                 | W   | 0.159      | -            | -                | -                | -         |     0.22 | Banjo, paz, S3NSEY, ScrunK, soulfly |
 
 <br />
 <span id="table2"></span><br />

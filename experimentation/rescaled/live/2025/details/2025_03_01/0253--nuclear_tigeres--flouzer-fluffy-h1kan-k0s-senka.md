@@ -6,9 +6,9 @@ Global Rank: [253](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [141]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  534.8<br />
+Final Rank Value:  534.3<br />
 <br />
-Final Rank Value (534.8) = Starting Rank Value (540.9) + Head To Head Adjustments (-6.0)<br />
+Final Rank Value (534.3) = Starting Rank Value (540.8) + Head To Head Adjustments (-6.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.074<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 540.9
-- 400 + ( ( 0.074 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 540.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 540.8
+- 400 + ( ( 0.074 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 540.8
 
 
 #### Factors<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      205 | 2025-02-16 | K27                   | L   | 1.000      | -            | -                | -                | -         |    -9.39 | flouzer, Fluffy, h1kan, k0s, senka |
-|            5 |     1087 | 2024-12-03 | GenOne                | L   | 0.614      | -            | -                | -                | -         |    -3.29 | flouzer, Fluffy, h1kan, k0s, senka |
-|            4 |     1148 | 2024-11-30 | Leo Team              | L   | 0.594      | -            | -                | -                | -         |    -3.42 | flouzer, Fluffy, h1kan, k0s, senka |
-|            3 |     1198 | 2024-11-28 | GameAgents            | W   | 0.580      | 0.554        | 0.000 (0.000)    | 0.036 (0.011)    | 0 (0.000) |     5.54 | flouzer, Fluffy, h1kan, k0s, senka |
-|            2 |     1226 | 2024-11-26 | Soul's Heart Esport   | W   | 0.567      | 0.556        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.54 | flouzer, Fluffy, h1kan, k0s, senka |
-|            1 |     1726 | 2024-11-01 | RUSH B (Russian team) | L   | 0.400      | -            | -                | -                | -         |    -0.99 | flouzer, Fluffy, h1kan, k0s, senka |
+|            6 |      205 | 2025-02-16 | K27                   | L   | 1.000      | -            | -                | -                | -         |    -9.40 | flouzer, Fluffy, h1kan, k0s, senka |
+|            5 |     1087 | 2024-12-03 | GenOne                | L   | 0.614      | -            | -                | -                | -         |    -3.55 | flouzer, Fluffy, h1kan, k0s, senka |
+|            4 |     1148 | 2024-11-30 | Leo Team              | L   | 0.594      | -            | -                | -                | -         |    -3.53 | flouzer, Fluffy, h1kan, k0s, senka |
+|            3 |     1198 | 2024-11-28 | GameAgents            | W   | 0.580      | 0.512        | 0.000 (0.000)    | 0.036 (0.011)    | 0 (0.000) |     5.55 | flouzer, Fluffy, h1kan, k0s, senka |
+|            2 |     1226 | 2024-11-26 | Soul's Heart Esport   | W   | 0.567      | 0.513        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.54 | flouzer, Fluffy, h1kan, k0s, senka |
+|            1 |     1726 | 2024-11-01 | RUSH B (Russian team) | L   | 0.400      | -            | -                | -                | -         |    -1.11 | flouzer, Fluffy, h1kan, k0s, senka |
 
 <br />
 <span id="table2"></span><br />

@@ -37,9 +37,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     1439 | 2024-11-15 | GTZ.ESPORTS     | L   | 0.493      | -            | -                | -                | -         |    -0.27 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
+|            5 |     1439 | 2024-11-15 | GTZ.ESPORTS     | L   | 0.493      | -            | -                | -                | -         |    -0.31 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
 |            4 |     1447 | 2024-11-15 | Team Chile      | L   | 0.492      | -            | -                | -                | -         |    -7.28 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
-|            3 |     1484 | 2024-11-14 | ALTERNATE aTTaX | L   | 0.486      | -            | -                | -                | -         |    -1.15 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
+|            3 |     1484 | 2024-11-14 | ALTERNATE aTTaX | L   | 0.486      | -            | -                | -                | -         |    -1.18 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
 |            2 |     1489 | 2024-11-14 | Team Hungary    | L   | 0.485      | -            | -                | -                | -         |    -2.35 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
 |            1 |     1494 | 2024-11-14 | Team Kosovo     | W   | 0.485      | 0.617        | 0.000 (0.000)    | 0.022 (0.007)    | 1 (0.485) |     9.37 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
 

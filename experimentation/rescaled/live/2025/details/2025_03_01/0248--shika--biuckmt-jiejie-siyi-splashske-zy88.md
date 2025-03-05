@@ -6,22 +6,22 @@ Global Rank: [248](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [35]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  545.4<br />
+Final Rank Value:  541.6<br />
 <br />
-Final Rank Value (545.4) = Starting Rank Value (517.7) + Head To Head Adjustments (27.7)<br />
+Final Rank Value (541.6) = Starting Rank Value (513.8) + Head To Head Adjustments (27.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.219[<sup>2</sup>](#table1)
-- Opponent Network: 0.028[<sup>2</sup>](#table1)
+- Bounty Collected: 0.215[<sup>2</sup>](#table1)
+- Opponent Network: 0.024[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.062<br />
+The average of these factors is 0.060<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 517.7
-- 400 + ( ( 0.062 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 517.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 513.8
+- 400 + ( ( 0.060 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 513.8
 
 
 #### Factors<br />
@@ -37,13 +37,13 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |       17 | 2025-02-27 | DogEvil                   | L   | 1.000      | -            | -                | -                | -         |   -11.55 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
-|            6 |       26 | 2025-02-26 | Rare Atom                 | L   | 1.000      | -            | -                | -                | -         |    -3.54 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
-|            5 |       39 | 2025-02-25 | Change The Game           | W   | 1.000      | 0.553        | 0.000 (0.000)    | 0.120 (0.066)    | 0 (0.000) |    14.39 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
-|            4 |       64 | 2025-02-24 | Just Swing (Chinese team) | W   | 1.000      | 0.553        | 0.004 (0.002)    | 0.193 (0.107)    | 0 (0.000) |    20.96 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
-|            3 |      385 | 2025-02-09 | Unsettled Resentment      | L   | 1.000      | -            | -                | -                | -         |    -6.34 | Biuckmt, jiejie, S1kura, Siyi, Zy88    |
-|            2 |      417 | 2025-02-08 | Only One Word             | W   | 1.000      | 0.478        | 0.001 (0.000)    | 0.233 (0.111)    | 0 (0.000) |    19.64 | Biuckmt, jiejie, S1kura, Siyi, Zy88    |
-|            1 |      508 | 2025-02-06 | Unsettled Resentment      | L   | 1.000      | -            | -                | -                | -         |    -5.86 | Biuckmt, jiejie, S1kura, Siyi, Zy88    |
+|            7 |       17 | 2025-02-27 | DogEvil                   | L   | 1.000      | -            | -                | -                | -         |   -11.65 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
+|            6 |       26 | 2025-02-26 | Rare Atom                 | L   | 1.000      | -            | -                | -                | -         |    -3.70 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
+|            5 |       39 | 2025-02-25 | Change The Game           | W   | 1.000      | 0.454        | 0.000 (0.000)    | 0.120 (0.054)    | 0 (0.000) |    14.49 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
+|            4 |       64 | 2025-02-24 | Just Swing (Chinese team) | W   | 1.000      | 0.453        | 0.004 (0.002)    | 0.193 (0.087)    | 0 (0.000) |    21.00 | Biuckmt, jiejie, Siyi, splashske, Zy88 |
+|            3 |      385 | 2025-02-09 | Unsettled Resentment      | L   | 1.000      | -            | -                | -                | -         |    -6.33 | Biuckmt, jiejie, S1kura, Siyi, Zy88    |
+|            2 |      417 | 2025-02-08 | Only One Word             | W   | 1.000      | 0.427        | 0.001 (0.000)    | 0.233 (0.099)    | 0 (0.000) |    19.77 | Biuckmt, jiejie, S1kura, Siyi, Zy88    |
+|            1 |      508 | 2025-02-06 | Unsettled Resentment      | L   | 1.000      | -            | -                | -                | -         |    -5.85 | Biuckmt, jiejie, S1kura, Siyi, Zy88    |
 
 <br />
 <span id="table2"></span><br />

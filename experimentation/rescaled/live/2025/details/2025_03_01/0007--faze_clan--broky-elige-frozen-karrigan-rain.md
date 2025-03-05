@@ -6,9 +6,9 @@ Global Rank: [7](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [6]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1842.4<br />
+Final Rank Value:  1841.2<br />
 <br />
-Final Rank Value (1842.4) = Starting Rank Value (1892.5) + Head To Head Adjustments (-50.1)<br />
+Final Rank Value (1841.2) = Starting Rank Value (1892.5) + Head To Head Adjustments (-51.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,40 +37,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           41 |       98 | 2025-02-23 | Astralis          | L   | 1.000      | -            | -                | -                | -         |   -20.67 | broky, EliGE, frozen, karrigan, rain |
-|           40 |      106 | 2025-02-22 | Team Falcons      | L   | 1.000      | -            | -                | -                | -         |   -16.43 | broky, EliGE, frozen, karrigan, rain |
-|           39 |      128 | 2025-02-21 | SAW               | W   | 1.000      | 1.000        | 0.262 (0.262)    | 0.391 (0.391)    | 1 (1.000) |     1.04 | broky, EliGE, frozen, karrigan, rain |
-|           38 |      211 | 2025-02-16 | MOUZ              | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.606 (0.606)    | 1 (1.000) |    15.03 | broky, EliGE, frozen, karrigan, rain |
-|           37 |      245 | 2025-02-15 | Eternal Fire      | W   | 1.000      | 1.000        | 0.588 (0.588)    | 0.635 (0.635)    | 1 (1.000) |    17.14 | broky, EliGE, frozen, karrigan, rain |
-|           36 |      278 | 2025-02-14 | SAW               | W   | 1.000      | 1.000        | 0.262 (0.262)    | 0.391 (0.391)    | 1 (1.000) |     0.96 | broky, EliGE, frozen, karrigan, rain |
-|           35 |      578 | 2025-02-04 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |   -13.51 | broky, EliGE, frozen, karrigan, rain |
-|           34 |      586 | 2025-02-03 | G2 Esports        | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.460 (0.460)    | 1 (1.000) |    14.81 | broky, EliGE, frozen, karrigan, rain |
-|           33 |      597 | 2025-02-02 | Team Vitality     | L   | 1.000      | -            | -                | -                | -         |   -12.69 | broky, EliGE, frozen, karrigan, rain |
-|           32 |      614 | 2025-02-01 | BIG               | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     3.98 | broky, EliGE, frozen, karrigan, rain |
-|           31 |      674 | 2025-01-18 | PaiN Gaming       | L   | 0.919      | -            | -                | -                | -         |   -22.82 | broky, EliGE, frozen, karrigan, rain |
-|           30 |      681 | 2025-01-16 | M80               | W   | 0.906      | 1.000        | -                | 0.456 (0.413)    | -         |     0.25 | broky, EliGE, frozen, karrigan, rain |
+|           41 |       98 | 2025-02-23 | Astralis          | L   | 1.000      | -            | -                | -                | -         |   -21.05 | broky, EliGE, frozen, karrigan, rain |
+|           40 |      106 | 2025-02-22 | Team Falcons      | L   | 1.000      | -            | -                | -                | -         |   -16.50 | broky, EliGE, frozen, karrigan, rain |
+|           39 |      128 | 2025-02-21 | SAW               | W   | 1.000      | 1.000        | 0.262 (0.262)    | 0.391 (0.391)    | 1 (1.000) |     1.02 | broky, EliGE, frozen, karrigan, rain |
+|           38 |      211 | 2025-02-16 | MOUZ              | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.606 (0.606)    | 1 (1.000) |    15.02 | broky, EliGE, frozen, karrigan, rain |
+|           37 |      245 | 2025-02-15 | Eternal Fire      | W   | 1.000      | 1.000        | 0.588 (0.588)    | 0.635 (0.635)    | 1 (1.000) |    17.13 | broky, EliGE, frozen, karrigan, rain |
+|           36 |      278 | 2025-02-14 | SAW               | W   | 1.000      | 1.000        | 0.262 (0.262)    | 0.391 (0.391)    | 1 (1.000) |     0.95 | broky, EliGE, frozen, karrigan, rain |
+|           35 |      578 | 2025-02-04 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |   -13.53 | broky, EliGE, frozen, karrigan, rain |
+|           34 |      586 | 2025-02-03 | G2 Esports        | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.460 (0.460)    | 1 (1.000) |    14.82 | broky, EliGE, frozen, karrigan, rain |
+|           33 |      597 | 2025-02-02 | Team Vitality     | L   | 1.000      | -            | -                | -                | -         |   -12.80 | broky, EliGE, frozen, karrigan, rain |
+|           32 |      614 | 2025-02-01 | BIG               | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     3.96 | broky, EliGE, frozen, karrigan, rain |
+|           31 |      674 | 2025-01-18 | PaiN Gaming       | L   | 0.919      | -            | -                | -                | -         |   -22.92 | broky, EliGE, frozen, karrigan, rain |
+|           30 |      681 | 2025-01-16 | M80               | W   | 0.906      | 1.000        | -                | 0.456 (0.413)    | -         |     0.23 | broky, EliGE, frozen, karrigan, rain |
 |           29 |      857 | 2024-12-15 | Team Spirit       | L   | 0.691      | -            | -                | -                | -         |    -8.24 | broky, frozen, karrigan, rain, ropz  |
 |           28 |      880 | 2024-12-14 | G2 Esports        | W   | 0.685      | 1.000        | 1.000 (0.685)    | -                | 1 (0.685) |    10.29 | broky, frozen, karrigan, rain, ropz  |
-|           27 |      903 | 2024-12-13 | Team Vitality     | W   | 0.678      | 1.000        | 1.000 (0.678)    | 0.570 (0.387)    | 1 (0.678) |    12.59 | broky, frozen, karrigan, rain, ropz  |
-|           26 |      967 | 2024-12-08 | FURIA             | W   | 0.644      | -            | -                | -                | 1 (0.644) |     2.25 | broky, frozen, karrigan, rain, ropz  |
-|           25 |     1003 | 2024-12-06 | G2 Esports        | L   | 0.636      | -            | -                | -                | -         |   -10.58 | broky, frozen, karrigan, rain, ropz  |
+|           27 |      903 | 2024-12-13 | Team Vitality     | W   | 0.678      | 1.000        | 1.000 (0.678)    | 0.570 (0.387)    | 1 (0.678) |    12.50 | broky, frozen, karrigan, rain, ropz  |
+|           26 |      967 | 2024-12-08 | FURIA             | W   | 0.644      | -            | -                | -                | 1 (0.644) |     2.23 | broky, frozen, karrigan, rain, ropz  |
+|           25 |     1003 | 2024-12-06 | G2 Esports        | L   | 0.636      | -            | -                | -                | -         |   -10.57 | broky, frozen, karrigan, rain, ropz  |
 |           24 |     1027 | 2024-12-05 | MOUZ              | W   | 0.629      | 1.000        | 1.000 (0.629)    | 0.606 (0.381)    | 1 (0.629) |    12.05 | broky, frozen, karrigan, rain, ropz  |
-|           23 |     1039 | 2024-12-05 | Team Falcons      | L   | 0.625      | -            | -                | -                | -         |    -9.39 | broky, frozen, karrigan, rain, ropz  |
-|           22 |     1058 | 2024-12-04 | Wildcard          | W   | 0.623      | 1.000        | -                | 0.528 (0.329)    | -         |     1.21 | broky, frozen, karrigan, rain, ropz  |
+|           23 |     1039 | 2024-12-05 | Team Falcons      | L   | 0.625      | -            | -                | -                | -         |    -9.45 | broky, frozen, karrigan, rain, ropz  |
+|           22 |     1058 | 2024-12-04 | Wildcard          | W   | 0.623      | 1.000        | -                | 0.528 (0.329)    | -         |     1.13 | broky, frozen, karrigan, rain, ropz  |
 |           21 |     1374 | 2024-11-19 | Cloud9            | W   | 0.518      | -            | -                | -                | -         |     0.10 | broky, frozen, karrigan, rain, ropz  |
-|           20 |     1376 | 2024-11-19 | Fnatic            | W   | 0.517      | -            | -                | -                | -         |     0.40 | broky, frozen, karrigan, rain, ropz  |
-|           19 |     1387 | 2024-11-18 | Team Vitality     | L   | 0.511      | -            | -                | -                | -         |    -6.85 | broky, frozen, karrigan, rain, ropz  |
+|           20 |     1376 | 2024-11-19 | Fnatic            | W   | 0.517      | -            | -                | -                | -         |     0.32 | broky, frozen, karrigan, rain, ropz  |
+|           19 |     1387 | 2024-11-18 | Team Vitality     | L   | 0.511      | -            | -                | -                | -         |    -6.93 | broky, frozen, karrigan, rain, ropz  |
 |           18 |     1402 | 2024-11-17 | Team Falcons      | W   | 0.505      | -            | -                | -                | -         |     0.03 | broky, frozen, karrigan, rain, ropz  |
 |           17 |     1417 | 2024-11-16 | Cloud9            | W   | 0.503      | -            | -                | -                | -         |     0.08 | broky, frozen, karrigan, rain, ropz  |
 |           16 |     1736 | 2024-11-01 | Team Spirit       | L   | 0.398      | -            | -                | -                | -         |    -4.36 | broky, frozen, karrigan, rain, ropz  |
-|           15 |     1758 | 2024-10-30 | Natus Vincere     | W   | 0.390      | 1.000        | 0.555 (0.217)    | -                | -         |     4.25 | broky, frozen, karrigan, rain, ropz  |
+|           15 |     1758 | 2024-10-30 | Natus Vincere     | W   | 0.390      | 1.000        | 0.555 (0.217)    | -                | -         |     4.24 | broky, frozen, karrigan, rain, ropz  |
 |           14 |     1775 | 2024-10-30 | MOUZ              | L   | 0.384      | -            | -                | -                | -         |    -4.70 | broky, frozen, karrigan, rain, ropz  |
 |           13 |     2035 | 2024-10-09 | MOUZ              | L   | 0.247      | -            | -                | -                | -         |    -3.07 | broky, frozen, karrigan, rain, ropz  |
-|           12 |     2092 | 2024-10-08 | Team Liquid       | W   | 0.240      | -            | -                | -                | -         |     0.94 | broky, frozen, karrigan, rain, ropz  |
-|           11 |     2123 | 2024-10-07 | PaiN Gaming       | W   | 0.233      | -            | -                | -                | -         |     1.77 | broky, frozen, karrigan, rain, ropz  |
+|           12 |     2092 | 2024-10-08 | Team Liquid       | W   | 0.240      | -            | -                | -                | -         |     0.92 | broky, frozen, karrigan, rain, ropz  |
+|           11 |     2123 | 2024-10-07 | PaiN Gaming       | W   | 0.233      | -            | -                | -                | -         |     1.74 | broky, frozen, karrigan, rain, ropz  |
 |           10 |     2134 | 2024-10-07 | FURIA             | L   | 0.232      | -            | -                | -                | -         |    -6.72 | broky, frozen, karrigan, rain, ropz  |
 |            9 |     2408 | 2024-09-28 | Natus Vincere     | L   | 0.173      | -            | -                | -                | -         |    -3.72 | broky, frozen, karrigan, rain, ropz  |
-|            8 |     2448 | 2024-09-27 | Team Liquid       | W   | 0.166      | -            | -                | -                | -         |     0.63 | broky, frozen, karrigan, rain, ropz  |
+|            8 |     2448 | 2024-09-27 | Team Liquid       | W   | 0.166      | -            | -                | -                | -         |     0.61 | broky, frozen, karrigan, rain, ropz  |
 |            7 |     2506 | 2024-09-26 | Team Falcons      | W   | 0.158      | -            | -                | -                | -         |     0.01 | broky, frozen, karrigan, rain, ropz  |
 |            6 |     2557 | 2024-09-25 | G2 Esports        | L   | 0.151      | -            | -                | -                | -         |    -2.89 | broky, frozen, karrigan, rain, ropz  |
 |            5 |     2805 | 2024-09-17 | Complexity        | L   | 0.100      | -            | -                | -                | -         |    -3.08 | broky, frozen, karrigan, rain, ropz  |

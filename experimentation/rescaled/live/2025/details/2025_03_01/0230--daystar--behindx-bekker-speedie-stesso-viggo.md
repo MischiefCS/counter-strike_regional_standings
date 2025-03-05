@@ -6,9 +6,9 @@ Global Rank: [230](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [136]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  597.8<br />
+Final Rank Value:  597.5<br />
 <br />
-Final Rank Value (597.8) = Starting Rank Value (614.7) + Head To Head Adjustments (-17.0)<br />
+Final Rank Value (597.5) = Starting Rank Value (614.7) + Head To Head Adjustments (-17.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,15 +37,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     1500 | 2024-11-14 | HOTU                                      | L   | 0.484      | -            | -                | -                | -         |    -5.86 | BehinDx, bekker, Speedie, Stesso, Viggo |
-|            9 |     1522 | 2024-11-13 | G2 Ares                                   | L   | 0.478      | -            | -                | -                | -         |    -9.03 | BehinDx, mAnGo, Speedie, Stesso, Viggo  |
-|            8 |     2559 | 2024-09-25 | HOTU                                      | L   | 0.151      | -            | -                | -                | -         |    -1.86 | BehinDx, bekker, Speedie, Stesso, Viggo |
-|            7 |     2599 | 2024-09-24 | RUBY                                      | L   | 0.146      | -            | -                | -                | -         |    -2.94 | BehinDx, bekker, Speedie, Stesso, Viggo |
+|           10 |     1500 | 2024-11-14 | HOTU                                      | L   | 0.484      | -            | -                | -                | -         |    -6.04 | BehinDx, bekker, Speedie, Stesso, Viggo |
+|            9 |     1522 | 2024-11-13 | G2 Ares                                   | L   | 0.478      | -            | -                | -                | -         |    -9.04 | BehinDx, mAnGo, Speedie, Stesso, Viggo  |
+|            8 |     2559 | 2024-09-25 | HOTU                                      | L   | 0.151      | -            | -                | -                | -         |    -1.91 | BehinDx, bekker, Speedie, Stesso, Viggo |
+|            7 |     2599 | 2024-09-24 | RUBY                                      | L   | 0.146      | -            | -                | -                | -         |    -2.95 | BehinDx, bekker, Speedie, Stesso, Viggo |
 |            6 |     2909 | 2024-09-13 | Copenhagen Wolves (American organization) | L   | 0.073      | -            | -                | -                | -         |    -1.13 | BehinDx, bekker, Speedie, Stesso, Viggo |
-|            5 |     2972 | 2024-09-11 | 500                                       | W   | 0.060      | 0.536        | 0.086 (0.003)    | 1.000 (0.032)    | 0 (0.000) |     1.82 | BehinDx, bekker, Speedie, Stesso, Viggo |
-|            4 |     3007 | 2024-09-10 | Leo Team                                  | W   | 0.053      | 0.544        | 0.023 (0.001)    | 0.508 (0.015)    | 0 (0.000) |     1.21 | BehinDx, bekker, Speedie, Stesso, Viggo |
-|            3 |     3068 | 2024-09-07 | Dark Cloud Esports                        | W   | 0.033      | 0.372        | 0.027 (0.000)    | 0.320 (0.004)    | 0 (0.000) |     0.73 | BehinDx, bekker, Speedie, Stesso, Viggo |
-|            2 |     3125 | 2024-09-05 | FAVBET Team                               | L   | 0.020      | -            | -                | -                | -         |    -0.09 | BehinDx, bekker, Speedie, Stesso, Viggo |
+|            5 |     2972 | 2024-09-11 | 500                                       | W   | 0.060      | 0.536        | 0.086 (0.003)    | 1.000 (0.032)    | 0 (0.000) |     1.81 | BehinDx, bekker, Speedie, Stesso, Viggo |
+|            4 |     3007 | 2024-09-10 | Leo Team                                  | W   | 0.053      | 0.544        | 0.023 (0.001)    | 0.508 (0.015)    | 0 (0.000) |     1.20 | BehinDx, bekker, Speedie, Stesso, Viggo |
+|            3 |     3068 | 2024-09-07 | Dark Cloud Esports                        | W   | 0.033      | 0.372        | 0.027 (0.000)    | 0.320 (0.004)    | 0 (0.000) |     0.72 | BehinDx, bekker, Speedie, Stesso, Viggo |
+|            2 |     3125 | 2024-09-05 | FAVBET Team                               | L   | 0.020      | -            | -                | -                | -         |    -0.10 | BehinDx, bekker, Speedie, Stesso, Viggo |
 |            1 |     3197 | 2024-09-03 | Passion UA                                | W   | 0.007      | 0.372        | 0.044 (0.000)    | 0.588 (0.001)    | 0 (0.000) |     0.20 | BehinDx, bekker, Speedie, Stesso, Viggo |
 
 <br />

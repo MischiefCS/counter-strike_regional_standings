@@ -6,9 +6,9 @@ Global Rank: [268](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [145]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  491.2<br />
+Final Rank Value:  490.9<br />
 <br />
-Final Rank Value (491.2) = Starting Rank Value (508.9) + Head To Head Adjustments (-17.7)<br />
+Final Rank Value (490.9) = Starting Rank Value (508.9) + Head To Head Adjustments (-18.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -39,17 +39,17 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           14 |     1442 | 2024-11-15 | Team Chile         | L   | 0.493      | -            | -                | -                | -         |    -8.56 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
 |           13 |     1448 | 2024-11-15 | Team Hungary       | L   | 0.492      | -            | -                | -                | -         |    -3.15 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|           12 |     1485 | 2024-11-14 | GTZ.ESPORTS        | L   | 0.486      | -            | -                | -                | -         |    -0.38 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|           11 |     1488 | 2024-11-14 | ALTERNATE aTTaX    | L   | 0.485      | -            | -                | -                | -         |    -1.66 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|           12 |     1485 | 2024-11-14 | GTZ.ESPORTS        | L   | 0.486      | -            | -                | -                | -         |    -0.43 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|           11 |     1488 | 2024-11-14 | ALTERNATE aTTaX    | L   | 0.485      | -            | -                | -                | -         |    -1.70 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
 |           10 |     1494 | 2024-11-14 | Team Jordan        | L   | 0.485      | -            | -                | -                | -         |    -9.37 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            9 |     2414 | 2024-09-28 | FLuffy Gangsters   | L   | 0.172      | -            | -                | -                | -         |    -1.27 | BledarD, cerber, Dementor, HYPERI1, vAloN |
-|            8 |     2464 | 2024-09-27 | Dark Cloud Esports | W   | 0.164      | 0.453        | 0.027 (0.002)    | 0.320 (0.024)    | 0 (0.000) |     4.13 | BledarD, cerber, Dementor, HYPERI1, vAloN |
-|            7 |     2503 | 2024-09-26 | FLuffy Gangsters   | L   | 0.158      | -            | -                | -                | -         |    -1.15 | BledarD, cerber, Dementor, HYPERI1, vAloN |
-|            6 |     2753 | 2024-09-19 | ALTERNATE aTTaX    | L   | 0.111      | -            | -                | -                | -         |    -0.38 | BledarD, cerber, Dementor, HYPERI1, vAloN |
-|            5 |     2804 | 2024-09-17 | 9Pandas            | L   | 0.100      | -            | -                | -                | -         |    -0.11 | BledarD, cerber, Dementor, HYPERI1, vAloN |
+|            9 |     2414 | 2024-09-28 | FLuffy Gangsters   | L   | 0.172      | -            | -                | -                | -         |    -1.32 | BledarD, cerber, Dementor, HYPERI1, vAloN |
+|            8 |     2464 | 2024-09-27 | Dark Cloud Esports | W   | 0.164      | 0.453        | 0.027 (0.002)    | 0.320 (0.024)    | 0 (0.000) |     4.08 | BledarD, cerber, Dementor, HYPERI1, vAloN |
+|            7 |     2503 | 2024-09-26 | FLuffy Gangsters   | L   | 0.158      | -            | -                | -                | -         |    -1.19 | BledarD, cerber, Dementor, HYPERI1, vAloN |
+|            6 |     2753 | 2024-09-19 | ALTERNATE aTTaX    | L   | 0.111      | -            | -                | -                | -         |    -0.39 | BledarD, cerber, Dementor, HYPERI1, vAloN |
+|            5 |     2804 | 2024-09-17 | 9Pandas            | L   | 0.100      | -            | -                | -                | -         |    -0.13 | BledarD, cerber, Dementor, HYPERI1, vAloN |
 |            4 |     2833 | 2024-09-16 | Insilio            | L   | 0.090      | -            | -                | -                | -         |    -0.79 | BledarD, cerber, Dementor, HYPERI1, vAloN |
 |            3 |     2886 | 2024-09-14 | TALON              | W   | 0.078      | 0.143        | 0.000 (0.000)    | 0.127 (0.001)    | 0 (0.000) |     1.19 | BledarD, cerber, Dementor, HYPERI1, vAloN |
-|            2 |     2938 | 2024-09-12 | Alliance           | W   | 0.066      | 0.143        | 0.015 (0.000)    | 0.595 (0.006)    | 0 (0.000) |     1.98 | BledarD, cerber, Dementor, HYPERI1, vAloN |
+|            2 |     2938 | 2024-09-12 | Alliance           | W   | 0.066      | 0.143        | 0.015 (0.000)    | 0.595 (0.006)    | 0 (0.000) |     1.97 | BledarD, cerber, Dementor, HYPERI1, vAloN |
 |            1 |     2976 | 2024-09-11 | Nexus Gaming       | W   | 0.060      | 0.143        | 0.178 (0.002)    | 0.497 (0.004)    | 0 (0.000) |     1.82 | BledarD, cerber, Dementor, HYPERI1, vAloN |
 
 <br />

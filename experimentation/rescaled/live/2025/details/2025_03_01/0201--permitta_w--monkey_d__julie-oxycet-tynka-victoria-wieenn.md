@@ -4,24 +4,24 @@ Roster: Monkey D. Julie, oxycet, Tynka, victoria, wieenn<br />
 Global Rank: [201](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
-Regional Rank: [122]( ../../standings_europe_2025_03_01.md)<br />
+Regional Rank: [123]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  627.6<br />
+Final Rank Value:  626.0<br />
 <br />
-Final Rank Value (627.6) = Starting Rank Value (623.4) + Head To Head Adjustments (4.1)<br />
+Final Rank Value (626.0) = Starting Rank Value (621.9) + Head To Head Adjustments (4.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.280[<sup>1</sup>](#table2)
-- Bounty Collected: 0.188[<sup>2</sup>](#table1)
+- Bounty Collected: 0.185[<sup>2</sup>](#table1)
 - Opponent Network: 0.002[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.117<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 623.4
-- 400 + ( ( 0.117 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 623.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 621.9
+- 400 + ( ( 0.117 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 621.9
 
 
 #### Factors<br />
@@ -37,9 +37,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |      849 | 2024-12-15 | Nomercy (Female team) | W   | 0.693      | 0.435        | 0.002 (0.000)    | 0.070 (0.021)    | 0 (0.000) |    10.30 | Monkey D. Julie, oxycet, Tynka, victoria, wieenn |
+|            5 |      849 | 2024-12-15 | Nomercy (Female team) | W   | 0.693      | 0.357        | 0.002 (0.000)    | 0.070 (0.017)    | 0 (0.000) |    10.35 | Monkey D. Julie, oxycet, Tynka, victoria, wieenn |
 |            4 |     1884 | 2024-10-18 | K27 Female            | L   | 0.306      | -            | -                | -                | -         |    -4.28 | Missy, Monkey D. Julie, oxycet, Tynka, victoria  |
-|            3 |     2280 | 2024-10-02 | Imperial Female       | L   | 0.200      | -            | -                | -                | -         |    -0.64 | Missy, Monkey D. Julie, oxycet, Tynka, victoria  |
+|            3 |     2280 | 2024-10-02 | Imperial Female       | L   | 0.200      | -            | -                | -                | -         |    -0.65 | Missy, Monkey D. Julie, oxycet, Tynka, victoria  |
 |            2 |     2540 | 2024-09-25 | BIG EQUIPA            | L   | 0.153      | -            | -                | -                | -         |    -1.56 | Missy, Monkey D. Julie, oxycet, Tynka, victoria  |
 |            1 |     3132 | 2024-09-05 | Nomercy (Female team) | W   | 0.020      | 0.328        | 0.002 (0.000)    | 0.070 (0.000)    | 0 (0.000) |     0.29 | Missy, Monkey D. Julie, oxycet, Tynka, victoria  |
 

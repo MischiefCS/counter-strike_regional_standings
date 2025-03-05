@@ -6,9 +6,9 @@ Global Rank: [8](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [7]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1822.8<br />
+Final Rank Value:  1822.1<br />
 <br />
-Final Rank Value (1822.8) = Starting Rank Value (1812.9) + Head To Head Adjustments (9.9)<br />
+Final Rank Value (1822.1) = Starting Rank Value (1812.9) + Head To Head Adjustments (9.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,37 +37,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           33 |      586 | 2025-02-03 | FaZe Clan         | L   | 1.000      | -            | -                | -                | -         |   -14.81 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           32 |      601 | 2025-02-02 | Team Falcons      | W   | 1.000      | 1.000        | 0.927 (0.927)    | 0.744 (0.744)    | 1 (1.000) |    15.80 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           31 |      615 | 2025-02-01 | Virtus.pro        | L   | 1.000      | -            | -                | -                | -         |   -24.34 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           30 |      657 | 2025-01-25 | Eternal Fire      | L   | 0.966      | -            | -                | -                | -         |   -12.90 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           29 |      666 | 2025-01-23 | BetBoom Team      | W   | 0.953      | 1.000        | -                | 0.406 (0.387)    | 1 (0.953) |     0.73 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           28 |      668 | 2025-01-19 | BIG               | W   | 0.927      | 1.000        | 0.220 (0.204)    | 0.558 (0.517)    | -         |     3.92 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
-|           27 |      676 | 2025-01-17 | B8                | W   | 0.914      | 1.000        | -                | 0.695 (0.636)    | -         |     0.78 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           33 |      586 | 2025-02-03 | FaZe Clan         | L   | 1.000      | -            | -                | -                | -         |   -14.82 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           32 |      601 | 2025-02-02 | Team Falcons      | W   | 1.000      | 1.000        | 0.927 (0.927)    | 0.744 (0.744)    | 1 (1.000) |    15.74 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           31 |      615 | 2025-02-01 | Virtus.pro        | L   | 1.000      | -            | -                | -                | -         |   -24.49 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           30 |      657 | 2025-01-25 | Eternal Fire      | L   | 0.966      | -            | -                | -                | -         |   -12.92 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           29 |      666 | 2025-01-23 | BetBoom Team      | W   | 0.953      | 1.000        | -                | 0.406 (0.387)    | 1 (0.953) |     0.70 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           28 |      668 | 2025-01-19 | BIG               | W   | 0.927      | 1.000        | 0.220 (0.204)    | 0.558 (0.517)    | -         |     3.91 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
+|           27 |      676 | 2025-01-17 | B8                | W   | 0.914      | 1.000        | -                | 0.695 (0.636)    | -         |     0.72 | HeavyGod, huNter-, m0NESY, malbsMd, Snax |
 |           26 |      880 | 2024-12-14 | FaZe Clan         | L   | 0.685      | -            | -                | -                | -         |   -10.29 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           25 |      906 | 2024-12-12 | Team Falcons      | W   | 0.677      | 1.000        | 0.927 (0.627)    | 0.744 (0.504)    | 1 (0.677) |    11.13 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           24 |     1003 | 2024-12-06 | FaZe Clan         | W   | 0.636      | 1.000        | 0.744 (0.473)    | 0.618 (0.393)    | 1 (0.636) |    10.58 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           23 |     1028 | 2024-12-05 | 3DMAX             | W   | 0.629      | 1.000        | 0.295 (0.186)    | 0.626 (0.394)    | 1 (0.629) |     4.38 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           22 |     1043 | 2024-12-05 | BIG               | W   | 0.625      | 1.000        | -                | 0.558 (0.349)    | 1 (0.625) |     3.33 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           25 |      906 | 2024-12-12 | Team Falcons      | W   | 0.677      | 1.000        | 0.927 (0.627)    | 0.744 (0.504)    | 1 (0.677) |    11.07 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           24 |     1003 | 2024-12-06 | FaZe Clan         | W   | 0.636      | 1.000        | 0.744 (0.473)    | 0.618 (0.393)    | 1 (0.636) |    10.57 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           23 |     1028 | 2024-12-05 | 3DMAX             | W   | 0.629      | 1.000        | 0.295 (0.186)    | 0.626 (0.394)    | 1 (0.629) |     4.35 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           22 |     1043 | 2024-12-05 | BIG               | W   | 0.625      | 1.000        | -                | 0.558 (0.349)    | 1 (0.625) |     3.32 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           21 |     1063 | 2024-12-04 | The MongolZ       | L   | 0.623      | -            | -                | -                | -         |    -7.95 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           20 |     1289 | 2024-11-23 | Team Spirit       | W   | 0.544      | 1.000        | 1.000 (0.544)    | 0.850 (0.463)    | 1 (0.544) |    11.63 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           19 |     1320 | 2024-11-22 | 3DMAX             | L   | 0.538      | -            | -                | -                | -         |   -13.30 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           18 |     1341 | 2024-11-21 | 9Pandas           | W   | 0.531      | -            | -                | -                | 1 (0.531) |     0.36 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           19 |     1320 | 2024-11-22 | 3DMAX             | L   | 0.538      | -            | -                | -                | -         |   -13.32 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           18 |     1341 | 2024-11-21 | 9Pandas           | W   | 0.531      | -            | -                | -                | 1 (0.531) |     0.32 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           17 |     1355 | 2024-11-20 | Ninjas in Pyjamas | W   | 0.530      | -            | -                | -                | 1 (0.530) |     0.07 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           16 |     1697 | 2024-11-03 | Team Spirit       | W   | 0.411      | 1.000        | 1.000 (0.411)    | 0.850 (0.349)    | 1 (0.411) |     9.15 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           15 |     1721 | 2024-11-02 | Team Vitality     | W   | 0.404      | 1.000        | 1.000 (0.404)    | -                | -         |     8.05 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           15 |     1721 | 2024-11-02 | Team Vitality     | W   | 0.404      | 1.000        | 1.000 (0.404)    | -                | -         |     8.00 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           14 |     1748 | 2024-10-31 | Team Spirit       | W   | 0.392      | 1.000        | 1.000 (0.392)    | -                | -         |     8.98 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           13 |     1774 | 2024-10-30 | Team Liquid       | W   | 0.385      | -            | -                | -                | -         |     2.03 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           13 |     1774 | 2024-10-30 | Team Liquid       | W   | 0.385      | -            | -                | -                | -         |     1.97 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           12 |     2098 | 2024-10-08 | Eternal Fire      | L   | 0.239      | -            | -                | -                | -         |    -2.80 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|           11 |     2128 | 2024-10-07 | Team Falcons      | L   | 0.233      | -            | -                | -                | -         |    -2.87 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|           11 |     2128 | 2024-10-07 | Team Falcons      | L   | 0.233      | -            | -                | -                | -         |    -2.89 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |           10 |     2392 | 2024-09-29 | Natus Vincere     | W   | 0.179      | -            | -                | -                | -         |     2.31 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|            9 |     2413 | 2024-09-28 | Team Vitality     | W   | 0.172      | 1.000        | 1.000 (0.172)    | -                | -         |     3.56 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|            9 |     2413 | 2024-09-28 | Team Vitality     | W   | 0.172      | 1.000        | 1.000 (0.172)    | -                | -         |     3.53 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |            8 |     2452 | 2024-09-27 | Team Spirit       | W   | 0.165      | -            | -                | -                | -         |     3.83 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |            7 |     2499 | 2024-09-26 | Natus Vincere     | L   | 0.159      | -            | -                | -                | -         |    -2.95 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |            6 |     2557 | 2024-09-25 | FaZe Clan         | W   | 0.151      | -            | -                | -                | -         |     2.89 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |            5 |     2691 | 2024-09-21 | Natus Vincere     | L   | 0.126      | -            | -                | -                | -         |    -2.38 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|            4 |     2709 | 2024-09-20 | Team Liquid       | W   | 0.120      | -            | -                | -                | -         |     0.64 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
-|            3 |     3044 | 2024-09-08 | MIBR              | W   | 0.040      | -            | -                | -                | -         |     0.18 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|            4 |     2709 | 2024-09-20 | Team Liquid       | W   | 0.120      | -            | -                | -                | -         |     0.62 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
+|            3 |     3044 | 2024-09-08 | MIBR              | W   | 0.040      | -            | -                | -                | -         |     0.17 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |            2 |     3143 | 2024-09-05 | 3DMAX             | W   | 0.019      | -            | -                | -                | -         |     0.16 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 |            1 |     3200 | 2024-09-03 | Iberian Soul      | W   | 0.006      | -            | -                | -                | -         |     0.00 | huNter-, m0NESY, malbsMd, NiKo, Snax     |
 

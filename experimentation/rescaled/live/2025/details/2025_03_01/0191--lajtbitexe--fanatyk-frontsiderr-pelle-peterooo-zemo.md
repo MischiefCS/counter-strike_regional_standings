@@ -6,9 +6,9 @@ Global Rank: [191](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [120]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  639.4<br />
+Final Rank Value:  639.3<br />
 <br />
-Final Rank Value (639.4) = Starting Rank Value (633.1) + Head To Head Adjustments (6.3)<br />
+Final Rank Value (639.3) = Starting Rank Value (633.1) + Head To Head Adjustments (6.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     2700 | 2024-09-21 | 9Pandas               | L   | 0.125      | -            | -                | -                | -         |    -0.29 | fanatyk, Frontsiderr, Pelle, PeTeRoOo, ZEMO       |
-|            4 |     2718 | 2024-09-20 | Johnny Speeds         | L   | 0.118      | -            | -                | -                | -         |    -0.62 | fanatyk, Frontsiderr, karmazynsz, Pelle, PeTeRoOo |
+|            5 |     2700 | 2024-09-21 | 9Pandas               | L   | 0.125      | -            | -                | -                | -         |    -0.32 | fanatyk, Frontsiderr, Pelle, PeTeRoOo, ZEMO       |
+|            4 |     2718 | 2024-09-20 | Johnny Speeds         | L   | 0.118      | -            | -                | -                | -         |    -0.63 | fanatyk, Frontsiderr, karmazynsz, Pelle, PeTeRoOo |
 |            3 |     2748 | 2024-09-19 | BC.Game Esports       | W   | 0.112      | 0.520        | 0.077 (0.005)    | 0.912 (0.053)    | 0 (0.000) |     3.46 | fanatyk, Frontsiderr, Pelle, PeTeRoOo, ZEMO       |
-|            2 |     2882 | 2024-09-14 | 9INE                  | W   | 0.078      | 0.446        | 0.011 (0.000)    | 0.150 (0.005)    | 0 (0.000) |     1.58 | fanatyk, Frontsiderr, Pelle, PeTeRoOo, ZEMO       |
-|            1 |     2898 | 2024-09-14 | RUSH B (Russian team) | W   | 0.077      | 0.446        | 0.027 (0.001)    | 0.569 (0.020)    | 0 (0.000) |     2.14 | fanatyk, Frontsiderr, Pelle, PeTeRoOo, ZEMO       |
+|            2 |     2882 | 2024-09-14 | 9INE                  | W   | 0.078      | 0.446        | 0.011 (0.000)    | 0.150 (0.005)    | 0 (0.000) |     1.57 | fanatyk, Frontsiderr, Pelle, PeTeRoOo, ZEMO       |
+|            1 |     2898 | 2024-09-14 | RUSH B (Russian team) | W   | 0.077      | 0.446        | 0.027 (0.001)    | 0.569 (0.020)    | 0 (0.000) |     2.11 | fanatyk, Frontsiderr, Pelle, PeTeRoOo, ZEMO       |
 
 <br />
 <span id="table2"></span><br />

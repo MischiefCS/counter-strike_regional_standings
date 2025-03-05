@@ -4,24 +4,24 @@ Roster: El1an, MaSvAl, OWNER, sh1nejezzz, tENZY<br />
 Global Rank: [215](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
-Regional Rank: [129]( ../../standings_europe_2025_03_01.md)<br />
+Regional Rank: [128]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  614.1<br />
+Final Rank Value:  611.8<br />
 <br />
-Final Rank Value (614.1) = Starting Rank Value (616.6) + Head To Head Adjustments (-2.4)<br />
+Final Rank Value (611.8) = Starting Rank Value (615.3) + Head To Head Adjustments (-3.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.249[<sup>1</sup>](#table2)
-- Bounty Collected: 0.194[<sup>2</sup>](#table1)
-- Opponent Network: 0.013[<sup>2</sup>](#table1)
+- Bounty Collected: 0.193[<sup>2</sup>](#table1)
+- Opponent Network: 0.011[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.114<br />
+The average of these factors is 0.113<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 616.6
-- 400 + ( ( 0.114 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 616.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 615.3
+- 400 + ( ( 0.113 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 615.3
 
 
 #### Factors<br />
@@ -37,14 +37,14 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |      801 | 2024-12-19 | Monte                  | L   | 0.720      | -            | -                | -                | -         |    -3.44 | El1an, MaSvAl, OWNER, sh1nejezzz, tENZY    |
-|            7 |      844 | 2024-12-15 | FAVBET Team            | L   | 0.694      | -            | -                | -                | -         |    -3.15 | El1an, MaSvAl, OWNER, sh1nejezzz, supra    |
-|            6 |      868 | 2024-12-14 | JiJieHao               | W   | 0.687      | 0.653        | 0.000 (0.000)    | 0.261 (0.117)    | 0 (0.000) |    13.23 | El1an, MaSvAl, OWNER, sh1nejezzz, supra    |
-|            5 |      895 | 2024-12-13 | Fire Flux Esports      | L   | 0.680      | -            | -                | -                | -         |    -2.43 | El1an, MaSvAl, OWNER, sh1nejezzz, supra    |
-|            4 |     1112 | 2024-12-02 | FLuffy Gangsters       | L   | 0.606      | -            | -                | -                | -         |    -6.27 | El1an, MaSvAl, OWNER, sh1nejezzz, tENZY    |
+|            8 |      801 | 2024-12-19 | Monte                  | L   | 0.720      | -            | -                | -                | -         |    -3.52 | El1an, MaSvAl, OWNER, sh1nejezzz, tENZY    |
+|            7 |      844 | 2024-12-15 | FAVBET Team            | L   | 0.694      | -            | -                | -                | -         |    -3.43 | El1an, MaSvAl, OWNER, sh1nejezzz, supra    |
+|            6 |      868 | 2024-12-14 | JiJieHao               | W   | 0.687      | 0.553        | 0.000 (0.000)    | 0.261 (0.099)    | 0 (0.000) |    12.97 | El1an, MaSvAl, OWNER, sh1nejezzz, supra    |
+|            5 |      895 | 2024-12-13 | Fire Flux Esports      | L   | 0.680      | -            | -                | -                | -         |    -2.69 | El1an, MaSvAl, OWNER, sh1nejezzz, supra    |
+|            4 |     1112 | 2024-12-02 | FLuffy Gangsters       | L   | 0.606      | -            | -                | -                | -         |    -6.45 | El1an, MaSvAl, OWNER, sh1nejezzz, tENZY    |
 |            3 |     2276 | 2024-10-02 | Betclic Apogee Esports | L   | 0.200      | -            | -                | -                | -         |    -2.34 | El1an, MaSvAl, OWNER, sh1nejezzz, tripex17 |
-|            2 |     2944 | 2024-09-12 | Rebels Gaming          | W   | 0.066      | 0.500        | 0.009 (0.000)    | 0.318 (0.011)    | 0 (0.000) |     1.51 | El1an, MaSvAl, OWNER, sh1nejezzz, tripex17 |
-|            1 |     3147 | 2024-09-05 | EYEBALLERS             | W   | 0.019      | 0.500        | 0.019 (0.000)    | 0.360 (0.003)    | 0 (0.000) |     0.47 | El1an, MaSvAl, OWNER, sh1nejezzz, tripex17 |
+|            2 |     2944 | 2024-09-12 | Rebels Gaming          | W   | 0.066      | 0.500        | 0.009 (0.000)    | 0.318 (0.011)    | 0 (0.000) |     1.47 | El1an, MaSvAl, OWNER, sh1nejezzz, tripex17 |
+|            1 |     3147 | 2024-09-05 | EYEBALLERS             | W   | 0.019      | 0.500        | 0.019 (0.000)    | 0.360 (0.003)    | 0 (0.000) |     0.46 | El1an, MaSvAl, OWNER, sh1nejezzz, tripex17 |
 
 <br />
 <span id="table2"></span><br />

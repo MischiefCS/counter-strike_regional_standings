@@ -6,22 +6,22 @@ Global Rank: [83](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [59]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  890.7<br />
+Final Rank Value:  884.8<br />
 <br />
-Final Rank Value (890.7) = Starting Rank Value (838.9) + Head To Head Adjustments (51.8)<br />
+Final Rank Value (884.8) = Starting Rank Value (837.2) + Head To Head Adjustments (47.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.395[<sup>1</sup>](#table2)
-- Bounty Collected: 0.361[<sup>2</sup>](#table1)
-- Opponent Network: 0.167[<sup>2</sup>](#table1)
+- Bounty Collected: 0.360[<sup>2</sup>](#table1)
+- Opponent Network: 0.164[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.231<br />
+The average of these factors is 0.230<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 838.9
-- 400 + ( ( 0.231 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 838.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 837.2
+- 400 + ( ( 0.230 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 837.2
 
 
 #### Factors<br />
@@ -37,31 +37,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |      832 | 2024-12-16 | Dynamo Eclot           | L   | 0.699      | -            | -                | -                | -         |    -3.34 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           25 |      902 | 2024-12-13 | Metizport              | L   | 0.678      | -            | -                | -                | -         |    -4.70 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           24 |      941 | 2024-12-10 | Aurora Gaming          | W   | 0.659      | 1.000        | 0.019 (0.013)    | 0.481 (0.317)    | 0 (0.000) |    12.10 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           23 |      949 | 2024-12-09 | GUN5 Esports           | W   | 0.653      | 1.000        | 0.099 (0.064)    | 0.503 (0.328)    | 0 (0.000) |    14.63 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           22 |     1258 | 2024-11-24 | ENCE                   | L   | 0.552      | -            | -                | -                | -         |    -3.44 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           21 |     1586 | 2024-11-10 | FAVBET Team            | W   | 0.459      | 1.000        | 0.029 (0.014)    | 0.608 (0.279)    | 0 (0.000) |     8.87 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           20 |     1637 | 2024-11-07 | 500                    | L   | 0.439      | -            | -                | -                | -         |    -1.86 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           19 |     1650 | 2024-11-06 | Team Spirit Academy    | W   | 0.432      | 0.969        | 0.068 (0.028)    | 0.718 (0.301)    | 0 (0.000) |    10.21 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           26 |      832 | 2024-12-16 | Dynamo Eclot           | L   | 0.699      | -            | -                | -                | -         |    -3.77 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           25 |      902 | 2024-12-13 | Metizport              | L   | 0.678      | -            | -                | -                | -         |    -4.90 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           24 |      941 | 2024-12-10 | Aurora Gaming          | W   | 0.659      | 1.000        | 0.019 (0.013)    | 0.481 (0.317)    | 0 (0.000) |    11.68 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           23 |      949 | 2024-12-09 | GUN5 Esports           | W   | 0.653      | 1.000        | 0.099 (0.064)    | 0.503 (0.328)    | 0 (0.000) |    14.04 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           22 |     1258 | 2024-11-24 | ENCE                   | L   | 0.552      | -            | -                | -                | -         |    -3.80 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           21 |     1586 | 2024-11-10 | FAVBET Team            | W   | 0.459      | 1.000        | 0.029 (0.014)    | 0.608 (0.279)    | 0 (0.000) |     8.55 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           20 |     1637 | 2024-11-07 | 500                    | L   | 0.439      | -            | -                | -                | -         |    -2.04 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           19 |     1650 | 2024-11-06 | Team Spirit Academy    | W   | 0.432      | 0.882        | 0.068 (0.026)    | 0.718 (0.274)    | 0 (0.000) |     9.62 | DemQQ, dycha, hades, KEi, kRaSnaL |
 |           18 |     1811 | 2024-10-27 | SAW                    | L   | 0.365      | -            | -                | -                | -         |    -0.94 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           17 |     1991 | 2024-10-11 | SINNERS Esports        | L   | 0.260      | -            | -                | -                | -         |    -2.79 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           16 |     2139 | 2024-10-07 | Metizport              | W   | 0.231      | 0.849        | 0.074 (0.015)    | 0.654 (0.128)    | 0 (0.000) |     6.17 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           15 |     2182 | 2024-10-05 | Adventurers            | W   | 0.218      | -            | -                | -                | 0 (0.000) |     1.06 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           14 |     2246 | 2024-10-03 | Team Spirit Academy    | L   | 0.205      | -            | -                | -                | -         |    -1.74 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           13 |     2370 | 2024-09-30 | ECSTATIC               | W   | 0.185      | 0.868        | 0.033 (0.005)    | 1.000 (0.161)    | 0 (0.000) |     4.27 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           17 |     1991 | 2024-10-11 | SINNERS Esports        | L   | 0.260      | -            | -                | -                | -         |    -2.99 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           16 |     2139 | 2024-10-07 | Metizport              | W   | 0.231      | 0.849        | 0.074 (0.015)    | 0.654 (0.128)    | 0 (0.000) |     6.11 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           15 |     2182 | 2024-10-05 | Adventurers            | W   | 0.218      | -            | -                | -                | 0 (0.000) |     1.07 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           14 |     2246 | 2024-10-03 | Team Spirit Academy    | L   | 0.205      | -            | -                | -                | -         |    -2.06 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           13 |     2370 | 2024-09-30 | ECSTATIC               | W   | 0.185      | 0.868        | 0.033 (0.005)    | 1.000 (0.161)    | 0 (0.000) |     3.94 | DemQQ, dycha, hades, KEi, kRaSnaL |
 |           12 |     2510 | 2024-09-26 | 3DMAX                  | L   | 0.157      | -            | -                | -                | -         |    -0.06 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|           11 |     2598 | 2024-09-24 | Rebels Gaming          | W   | 0.146      | 0.706        | 0.009 (0.001)    | 0.318 (0.033)    | 0 (0.000) |     1.96 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|           11 |     2598 | 2024-09-24 | Rebels Gaming          | W   | 0.146      | 0.706        | 0.009 (0.001)    | 0.318 (0.033)    | 0 (0.000) |     1.87 | DemQQ, dycha, hades, KEi, kRaSnaL |
 |           10 |     2600 | 2024-09-24 | Betclic Apogee Esports | W   | 0.146      | -            | -                | -                | 0 (0.000) |     1.34 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|            9 |     2620 | 2024-09-24 | BIG                    | W   | 0.145      | 0.846        | 0.220 (0.027)    | 0.558 (0.068)    | 0 (0.000) |     4.47 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|            8 |     2641 | 2024-09-23 | 4wb                    | W   | 0.141      | -            | -                | -                | -         |     0.34 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|            9 |     2620 | 2024-09-24 | BIG                    | W   | 0.145      | 0.846        | 0.220 (0.027)    | 0.558 (0.068)    | 0 (0.000) |     4.48 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|            8 |     2641 | 2024-09-23 | 4wb                    | W   | 0.141      | -            | -                | -                | -         |     0.35 | DemQQ, dycha, hades, KEi, kRaSnaL |
 |            7 |     2658 | 2024-09-23 | PARIVISION             | W   | 0.138      | -            | -                | -                | -         |     1.51 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|            6 |     2755 | 2024-09-19 | Sashi Esport           | W   | 0.111      | 0.557        | 0.013 (0.001)    | 0.582 (0.036)    | -         |     2.99 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|            5 |     2812 | 2024-09-17 | EYEBALLERS             | W   | 0.098      | 0.566        | 0.019 (0.001)    | 0.360 (0.020)    | -         |     1.66 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|            4 |     2953 | 2024-09-12 | Nemiga Gaming          | L   | 0.065      | -            | -                | -                | -         |    -0.42 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|            3 |     3091 | 2024-09-07 | GamerLegion            | L   | 0.030      | -            | -                | -                | -         |    -0.66 | DemQQ, dycha, hades, KEi, kRaSnaL |
-|            2 |     3157 | 2024-09-05 | SINNERS Esports        | W   | 0.017      | -            | -                | -                | -         |     0.38 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|            6 |     2755 | 2024-09-19 | Sashi Esport           | W   | 0.111      | 0.557        | 0.013 (0.001)    | 0.582 (0.036)    | -         |     2.93 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|            5 |     2812 | 2024-09-17 | EYEBALLERS             | W   | 0.098      | 0.566        | 0.019 (0.001)    | 0.360 (0.020)    | -         |     1.56 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|            4 |     2953 | 2024-09-12 | Nemiga Gaming          | L   | 0.065      | -            | -                | -                | -         |    -0.44 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|            3 |     3091 | 2024-09-07 | GamerLegion            | L   | 0.030      | -            | -                | -                | -         |    -0.65 | DemQQ, dycha, hades, KEi, kRaSnaL |
+|            2 |     3157 | 2024-09-05 | SINNERS Esports        | W   | 0.017      | -            | -                | -                | -         |     0.36 | DemQQ, dycha, hades, KEi, kRaSnaL |
 |            1 |     3184 | 2024-09-04 | PARIVISION             | L   | 0.011      | -            | -                | -                | -         |    -0.23 | DemQQ, dycha, hades, KEi, kRaSnaL |
 
 <br />

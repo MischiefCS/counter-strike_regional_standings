@@ -40,8 +40,8 @@ Note:<br />
 |            5 |     1442 | 2024-11-15 | Team Kosovo     | W   | 0.493      | 0.617        | 0.000 (0.000)    | 0.022 (0.007)    | 1 (0.493) |     8.56 | alexer, DOPWEEK, KratZen, OrphaN, wait |
 |            4 |     1447 | 2024-11-15 | Team Jordan     | W   | 0.492      | 0.617        | 0.000 (0.000)    | 0.029 (0.009)    | 1 (0.492) |     7.28 | alexer, DOPWEEK, KratZen, OrphaN, wait |
 |            3 |     1486 | 2024-11-14 | Team Hungary    | L   | 0.486      | -            | -                | -                | -         |    -2.52 | alexer, DOPWEEK, KratZen, OrphaN, wait |
-|            2 |     1490 | 2024-11-14 | GTZ.ESPORTS     | L   | 0.485      | -            | -                | -                | -         |    -0.29 | alexer, DOPWEEK, KratZen, OrphaN, wait |
-|            1 |     1493 | 2024-11-14 | ALTERNATE aTTaX | L   | 0.485      | -            | -                | -                | -         |    -1.30 | alexer, DOPWEEK, KratZen, OrphaN, wait |
+|            2 |     1490 | 2024-11-14 | GTZ.ESPORTS     | L   | 0.485      | -            | -                | -                | -         |    -0.33 | alexer, DOPWEEK, KratZen, OrphaN, wait |
+|            1 |     1493 | 2024-11-14 | ALTERNATE aTTaX | L   | 0.485      | -            | -                | -                | -         |    -1.33 | alexer, DOPWEEK, KratZen, OrphaN, wait |
 
 <br />
 <span id="table2"></span><br />

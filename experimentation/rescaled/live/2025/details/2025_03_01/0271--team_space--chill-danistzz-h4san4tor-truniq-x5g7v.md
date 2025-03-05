@@ -6,9 +6,9 @@ Global Rank: [271](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [147]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  487.9<br />
+Final Rank Value:  487.7<br />
 <br />
-Final Rank Value (487.9) = Starting Rank Value (485.2) + Head To Head Adjustments (2.7)<br />
+Final Rank Value (487.7) = Starting Rank Value (485.2) + Head To Head Adjustments (2.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,15 +37,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     2371 | 2024-09-30 | Insilio                | L   | 0.185      | -            | -                | -                | -         |    -1.42 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
-|           15 |     2458 | 2024-09-27 | EYEBALLERS             | L   | 0.164      | -            | -                | -                | -         |    -0.59 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
-|           14 |     2485 | 2024-09-26 | Nexus Gaming           | L   | 0.159      | -            | -                | -                | -         |    -0.13 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
+|           16 |     2371 | 2024-09-30 | Insilio                | L   | 0.185      | -            | -                | -                | -         |    -1.43 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
+|           15 |     2458 | 2024-09-27 | EYEBALLERS             | L   | 0.164      | -            | -                | -                | -         |    -0.66 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
+|           14 |     2485 | 2024-09-26 | Nexus Gaming           | L   | 0.159      | -            | -                | -                | -         |    -0.14 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
 |           13 |     2676 | 2024-09-22 | Revenant Esports       | W   | 0.131      | 0.552        | 0.000 (0.000)    | 0.008 (0.001)    | 0 (0.000) |     2.13 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
 |           12 |     2720 | 2024-09-20 | Ex-ENTERPRISE esports  | W   | 0.118      | 0.559        | 0.003 (0.000)    | 0.068 (0.004)    | 0 (0.000) |     2.93 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
-|           11 |     2915 | 2024-09-13 | GUN5 Esports           | L   | 0.072      | -            | -                | -                | -         |    -0.09 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
-|           10 |     2920 | 2024-09-13 | FLuffy Gangsters       | L   | 0.072      | -            | -                | -                | -         |    -0.46 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
-|            9 |     3005 | 2024-09-10 | Monte                  | L   | 0.053      | -            | -                | -                | -         |    -0.14 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
-|            8 |     3028 | 2024-09-09 | FLuffy Gangsters       | W   | 0.046      | 0.143        | 0.005 (0.000)    | 0.419 (0.003)    | 0 (0.000) |     1.16 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
+|           11 |     2915 | 2024-09-13 | GUN5 Esports           | L   | 0.072      | -            | -                | -                | -         |    -0.10 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
+|           10 |     2920 | 2024-09-13 | FLuffy Gangsters       | L   | 0.072      | -            | -                | -                | -         |    -0.47 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
+|            9 |     3005 | 2024-09-10 | Monte                  | L   | 0.053      | -            | -                | -                | -         |    -0.15 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
+|            8 |     3028 | 2024-09-09 | FLuffy Gangsters       | W   | 0.046      | 0.143        | 0.005 (0.000)    | 0.419 (0.003)    | 0 (0.000) |     1.15 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
 |            7 |     3102 | 2024-09-06 | Insilio                | L   | 0.026      | -            | -                | -                | -         |    -0.21 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
 |            6 |     3114 | 2024-09-06 | Los kogutos            | L   | 0.024      | -            | -                | -                | -         |    -0.05 | Chill, danistzz, H4SAN4TOR, TruNiQ, X5G7V |
 |            5 |     3118 | 2024-09-06 | Rhyno Esports          | L   | 0.024      | -            | -                | -                | -         |    -0.19 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |

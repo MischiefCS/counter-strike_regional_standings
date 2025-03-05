@@ -6,22 +6,22 @@ Global Rank: [229](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [30]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  598.9<br />
+Final Rank Value:  597.9<br />
 <br />
-Final Rank Value (598.9) = Starting Rank Value (627.7) + Head To Head Adjustments (-28.8)<br />
+Final Rank Value (597.9) = Starting Rank Value (627.3) + Head To Head Adjustments (-29.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.258[<sup>1</sup>](#table2)
 - Bounty Collected: 0.198[<sup>2</sup>](#table1)
-- Opponent Network: 0.023[<sup>2</sup>](#table1)
+- Opponent Network: 0.022[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.120<br />
+The average of these factors is 0.119<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 627.7
-- 400 + ( ( 0.120 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 627.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 627.3
+- 400 + ( ( 0.119 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 627.3
 
 
 #### Factors<br />
@@ -37,22 +37,22 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      219 | 2025-02-15 | KZG                         | W   | 1.000      | 0.336        | 0.001 (0.000)    | 0.211 (0.071)    | 0 (0.000) |    15.28 | apocdud, BRACE, damyo, pz, yourwombat        |
-|           17 |      254 | 2025-02-14 | Vantage Esports             | L   | 1.000      | -            | -                | -                | -         |   -18.07 | apocdud, BRACE, damyo, pz, yourwombat        |
-|           16 |      258 | 2025-02-14 | BBBCBMBS                    | W   | 1.000      | 0.336        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.69 | apocdud, BRACE, damyo, pz, yourwombat        |
-|           15 |      418 | 2025-02-08 | DogEvil                     | L   | 1.000      | -            | -                | -                | -         |   -16.49 | apocdud, BRACE, damyo, pz, yourwombat        |
-|           14 |      479 | 2025-02-07 | JiJieHao                    | L   | 1.000      | -            | -                | -                | -         |   -12.54 | apocdud, BRACE, damyo, pz, yourwombat        |
+|           18 |      219 | 2025-02-15 | KZG                         | W   | 1.000      | 0.317        | 0.001 (0.000)    | 0.211 (0.067)    | 0 (0.000) |    15.30 | apocdud, BRACE, damyo, pz, yourwombat        |
+|           17 |      254 | 2025-02-14 | Vantage Esports             | L   | 1.000      | -            | -                | -                | -         |   -18.08 | apocdud, BRACE, damyo, pz, yourwombat        |
+|           16 |      258 | 2025-02-14 | BBBCBMBS                    | W   | 1.000      | 0.317        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.72 | apocdud, BRACE, damyo, pz, yourwombat        |
+|           15 |      418 | 2025-02-08 | DogEvil                     | L   | 1.000      | -            | -                | -                | -         |   -16.74 | apocdud, BRACE, damyo, pz, yourwombat        |
+|           14 |      479 | 2025-02-07 | JiJieHao                    | L   | 1.000      | -            | -                | -                | -         |   -12.96 | apocdud, BRACE, damyo, pz, yourwombat        |
 |           13 |     1870 | 2024-10-19 | Mindfreak (Australian team) | L   | 0.310      | -            | -                | -                | -         |    -3.54 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |           12 |     1895 | 2024-10-18 | Only One Word               | W   | 0.304      | 0.960        | 0.001 (0.000)    | 0.233 (0.068)    | 0 (0.000) |     4.89 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |           11 |     1920 | 2024-10-17 | KZG                         | W   | 0.297      | 0.964        | 0.001 (0.000)    | 0.211 (0.060)    | 0 (0.000) |     4.60 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |           10 |     2190 | 2024-10-04 | Only One Word               | L   | 0.217      | -            | -                | -                | -         |    -3.39 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|            9 |     2193 | 2024-10-04 | Mindfreak (Australian team) | L   | 0.216      | -            | -                | -                | -         |    -2.52 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|            9 |     2193 | 2024-10-04 | Mindfreak (Australian team) | L   | 0.216      | -            | -                | -                | -         |    -2.51 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |            8 |     2350 | 2024-10-01 | KZG                         | L   | 0.191      | -            | -                | -                | -         |    -3.12 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |            7 |     2356 | 2024-10-01 | KZG                         | W   | 0.191      | 0.583        | 0.001 (0.000)    | 0.211 (0.023)    | 0 (0.000) |     2.94 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |            6 |     2505 | 2024-09-26 | FlyQuest                    | L   | 0.158      | -            | -                | -                | -         |    -0.46 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |            5 |     2508 | 2024-09-26 | FlyQuest                    | L   | 0.157      | -            | -                | -                | -         |    -0.46 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|            4 |     2562 | 2024-09-25 | Rooster                     | L   | 0.151      | -            | -                | -                | -         |    -2.17 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|            3 |     2570 | 2024-09-25 | Rooster                     | L   | 0.151      | -            | -                | -                | -         |    -2.19 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|            4 |     2562 | 2024-09-25 | Rooster                     | L   | 0.151      | -            | -                | -                | -         |    -2.19 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|            3 |     2570 | 2024-09-25 | Rooster                     | L   | 0.151      | -            | -                | -                | -         |    -2.21 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |            2 |     2787 | 2024-09-18 | Mindfreak (Australian team) | L   | 0.104      | -            | -                | -                | -         |    -1.26 | apocdud, BRACE, damyo, Omichella, yourwombat |
 |            1 |     2788 | 2024-09-18 | Mindfreak (Australian team) | W   | 0.104      | 0.333        | 0.002 (0.000)    | 0.092 (0.003)    | 0 (0.000) |     2.03 | apocdud, BRACE, damyo, Omichella, yourwombat |
 

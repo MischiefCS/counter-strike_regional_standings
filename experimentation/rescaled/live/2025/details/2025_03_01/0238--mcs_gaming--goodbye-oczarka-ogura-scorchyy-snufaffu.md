@@ -6,9 +6,9 @@ Global Rank: [238](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [73]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  581.1<br />
+Final Rank Value:  580.5<br />
 <br />
-Final Rank Value (581.1) = Starting Rank Value (617.7) + Head To Head Adjustments (-36.5)<br />
+Final Rank Value (580.5) = Starting Rank Value (617.3) + Head To Head Adjustments (-36.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.114<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 617.7
-- 400 + ( ( 0.114 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 617.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 617.3
+- 400 + ( ( 0.114 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 617.3
 
 
 #### Factors<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      354 | 2025-02-10 | Marsborne            | L   | 1.000      | -            | -                | -                | -         |   -15.50 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
-|            5 |      394 | 2025-02-09 | Bad News Capybaras   | W   | 1.000      | 0.392        | 0.001 (0.000)    | 0.148 (0.058)    | 0 (0.000) |    18.19 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
-|            4 |      435 | 2025-02-08 | Marsborne            | L   | 1.000      | -            | -                | -                | -         |   -17.82 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
-|            3 |     1032 | 2024-12-05 | Bad Boys             | L   | 0.629      | -            | -                | -                | -         |    -8.48 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
-|            2 |     1103 | 2024-12-02 | Chicken Coop Esports | L   | 0.609      | -            | -                | -                | -         |    -8.54 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
-|            1 |     1853 | 2024-10-19 | Timbermen            | L   | 0.316      | -            | -                | -                | -         |    -4.37 | GibbyATL, Goodbye, ogura, Scorchyy, snufaffu |
+|            6 |      354 | 2025-02-10 | Marsborne            | L   | 1.000      | -            | -                | -                | -         |   -15.62 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
+|            5 |      394 | 2025-02-09 | Bad News Capybaras   | W   | 1.000      | 0.376        | 0.001 (0.000)    | 0.148 (0.056)    | 0 (0.000) |    18.15 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
+|            4 |      435 | 2025-02-08 | Marsborne            | L   | 1.000      | -            | -                | -                | -         |   -17.93 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
+|            3 |     1032 | 2024-12-05 | Bad Boys             | L   | 0.629      | -            | -                | -                | -         |    -8.47 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
+|            2 |     1103 | 2024-12-02 | Chicken Coop Esports | L   | 0.609      | -            | -                | -                | -         |    -8.55 | Goodbye, Oczarka, ogura, Scorchyy, snufaffu  |
+|            1 |     1853 | 2024-10-19 | Timbermen            | L   | 0.316      | -            | -                | -                | -         |    -4.36 | GibbyATL, Goodbye, ogura, Scorchyy, snufaffu |
 
 <br />
 <span id="table2"></span><br />

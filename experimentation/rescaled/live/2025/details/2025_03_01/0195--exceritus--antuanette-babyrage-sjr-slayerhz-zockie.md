@@ -4,24 +4,24 @@ Roster: Antuanette, BabyRage, SJR, Slayerhz, zockie<br />
 Global Rank: [195](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
-Regional Rank: [51]( ../../standings_americas_2025_03_01.md)<br />
+Regional Rank: [52]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  634.0<br />
+Final Rank Value:  631.8<br />
 <br />
-Final Rank Value (634.0) = Starting Rank Value (622.8) + Head To Head Adjustments (11.2)<br />
+Final Rank Value (631.8) = Starting Rank Value (620.8) + Head To Head Adjustments (11.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.220[<sup>1</sup>](#table2)
-- Bounty Collected: 0.233[<sup>2</sup>](#table1)
-- Opponent Network: 0.016[<sup>2</sup>](#table1)
+- Bounty Collected: 0.230[<sup>2</sup>](#table1)
+- Opponent Network: 0.014[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.117<br />
+The average of these factors is 0.116<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 622.8
-- 400 + ( ( 0.117 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 622.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 620.8
+- 400 + ( ( 0.116 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 620.8
 
 
 #### Factors<br />
@@ -37,15 +37,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |      291 | 2025-02-13 | NRG                       | L   | 1.000      | -            | -                | -                | -         |    -2.46 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            8 |      349 | 2025-02-10 | Chill Guys                | W   | 1.000      | 0.524        | 0.002 (0.001)    | 0.173 (0.091)    | 0 (0.000) |    17.16 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            7 |      355 | 2025-02-10 | InControl                 | W   | 1.000      | 0.524        | 0.001 (0.001)    | 0.075 (0.039)    | 0 (0.000) |    15.85 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            6 |      392 | 2025-02-09 | FlyQuest RED              | W   | 1.000      | 0.524        | 0.007 (0.003)    | 0.052 (0.027)    | 0 (0.000) |    16.49 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            5 |      440 | 2025-02-08 | Chill Guys                | L   | 1.000      | -            | -                | -                | -         |   -12.98 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            4 |      839 | 2024-12-15 | Nitro.GG                  | L   | 0.695      | -            | -                | -                | -         |    -8.43 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            3 |      865 | 2024-12-14 | 9z Academy                | L   | 0.687      | -            | -                | -                | -         |   -13.66 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            2 |     2903 | 2024-09-13 | Undefined (American team) | L   | 0.075      | -            | -                | -                | -         |    -1.23 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
-|            1 |     2965 | 2024-09-11 | Orbital vsat online       | W   | 0.062      | 0.372        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.43 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            9 |      291 | 2025-02-13 | NRG                       | L   | 1.000      | -            | -                | -                | -         |    -2.63 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            8 |      349 | 2025-02-10 | Chill Guys                | W   | 1.000      | 0.471        | 0.002 (0.001)    | 0.173 (0.082)    | 0 (0.000) |    17.18 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            7 |      355 | 2025-02-10 | InControl                 | W   | 1.000      | 0.471        | 0.001 (0.001)    | 0.075 (0.035)    | 0 (0.000) |    15.88 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            6 |      392 | 2025-02-09 | FlyQuest RED              | W   | 1.000      | 0.470        | 0.007 (0.003)    | 0.052 (0.024)    | 0 (0.000) |    16.57 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            5 |      440 | 2025-02-08 | Chill Guys                | L   | 1.000      | -            | -                | -                | -         |   -12.94 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            4 |      839 | 2024-12-15 | Nitro.GG                  | L   | 0.695      | -            | -                | -                | -         |    -8.57 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            3 |      865 | 2024-12-14 | 9z Academy                | L   | 0.687      | -            | -                | -                | -         |   -13.69 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            2 |     2903 | 2024-09-13 | Undefined (American team) | L   | 0.075      | -            | -                | -                | -         |    -1.22 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
+|            1 |     2965 | 2024-09-11 | Orbital vsat online       | W   | 0.062      | 0.372        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.44 | Antuanette, BabyRage, SJR, Slayerhz, zockie |
 
 <br />
 <span id="table2"></span><br />

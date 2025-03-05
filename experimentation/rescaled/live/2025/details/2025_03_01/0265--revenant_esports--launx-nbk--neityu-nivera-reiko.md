@@ -6,9 +6,9 @@ Global Rank: [265](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [144]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  497.4<br />
+Final Rank Value:  497.3<br />
 <br />
-Final Rank Value (497.4) = Starting Rank Value (496.5) + Head To Head Adjustments (0.9)<br />
+Final Rank Value (497.3) = Starting Rank Value (496.5) + Head To Head Adjustments (0.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,13 +38,13 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |     2676 | 2024-09-22 | Team Space         | L   | 0.131      | -            | -                | -                | -         |    -2.13 | lauNX, NBK-, Nivera, reiko, tiziaN |
-|            8 |     2696 | 2024-09-21 | GUN5 Esports       | L   | 0.125      | -            | -                | -                | -         |    -0.17 | lauNX, NBK-, Nivera, reiko, tiziaN |
-|            7 |     2876 | 2024-09-14 | SINNERS Esports    | W   | 0.079      | 0.384        | 0.027 (0.001)    | 0.448 (0.014)    | 0 (0.000) |     2.33 | lauNX, NBK-, Neityu, Nivera, reiko |
+|            8 |     2696 | 2024-09-21 | GUN5 Esports       | L   | 0.125      | -            | -                | -                | -         |    -0.20 | lauNX, NBK-, Nivera, reiko, tiziaN |
+|            7 |     2876 | 2024-09-14 | SINNERS Esports    | W   | 0.079      | 0.384        | 0.027 (0.001)    | 0.448 (0.014)    | 0 (0.000) |     2.32 | lauNX, NBK-, Neityu, Nivera, reiko |
 |            6 |     3008 | 2024-09-10 | Insilio            | L   | 0.052      | -            | -                | -                | -         |    -0.44 | lauNX, NBK-, Nivera, reiko, tiziaN |
-|            5 |     3029 | 2024-09-09 | EYEBALLERS         | L   | 0.046      | -            | -                | -                | -         |    -0.16 | lauNX, NBK-, Nivera, reiko, tiziaN |
-|            4 |     3089 | 2024-09-07 | AMKAL ESPORTS      | W   | 0.031      | 0.384        | 0.000 (0.000)    | 0.407 (0.005)    | 0 (0.000) |     0.77 | 0SAMAS, lauNX, NBK-, Nivera, reiko |
+|            5 |     3029 | 2024-09-09 | EYEBALLERS         | L   | 0.046      | -            | -                | -                | -         |    -0.18 | lauNX, NBK-, Nivera, reiko, tiziaN |
+|            4 |     3089 | 2024-09-07 | AMKAL ESPORTS      | W   | 0.031      | 0.384        | 0.000 (0.000)    | 0.407 (0.005)    | 0 (0.000) |     0.74 | 0SAMAS, lauNX, NBK-, Nivera, reiko |
 |            3 |     3103 | 2024-09-06 | JANO Esports       | W   | 0.026      | 0.435        | 0.022 (0.000)    | 0.138 (0.002)    | 0 (0.000) |     0.73 | lauNX, NBK-, Nivera, reiko, tiziaN |
-|            2 |     3159 | 2024-09-05 | Tricked Esport     | L   | 0.017      | -            | -                | -                | -         |    -0.04 | lauNX, NBK-, Nivera, reiko, tiziaN |
+|            2 |     3159 | 2024-09-05 | Tricked Esport     | L   | 0.017      | -            | -                | -                | -         |    -0.05 | lauNX, NBK-, Nivera, reiko, tiziaN |
 |            1 |     3221 | 2024-09-03 | CYBERSHOKE Esports | L   | 0.004      | -            | -                | -                | -         |    -0.01 | lauNX, NBK-, Nivera, reiko, tiziaN |
 
 <br />

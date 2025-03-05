@@ -6,9 +6,9 @@ Global Rank: [94](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [66]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  835.8<br />
+Final Rank Value:  835.7<br />
 <br />
-Final Rank Value (835.8) = Starting Rank Value (841.2) + Head To Head Adjustments (-5.3)<br />
+Final Rank Value (835.7) = Starting Rank Value (841.2) + Head To Head Adjustments (-5.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,8 +37,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      598 | 2025-02-02 | Permitta W                   | W   | 1.000      | 0.669        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.33 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
-|            6 |      610 | 2025-02-01 | Eco Warriors                 | L   | 1.000      | -            | -                | -                | -         |   -16.79 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
+|            7 |      598 | 2025-02-02 | Permitta W                   | W   | 1.000      | 0.546        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.34 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
+|            6 |      610 | 2025-02-01 | Eco Warriors                 | L   | 1.000      | -            | -                | -                | -         |   -16.93 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
 |            5 |     1479 | 2024-11-14 | Team Poland (Female team)    | L   | 0.486      | -            | -                | -                | -         |    -6.36 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
 |            4 |     1499 | 2024-11-14 | Team Portugal (Female team)  | W   | 0.484      | 0.557        | 0.029 (0.008)    | 0.086 (0.023)    | 1 (0.484) |     6.94 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
 |            3 |     1523 | 2024-11-13 | Team Denmark (Female team)   | W   | 0.477      | 0.557        | 0.008 (0.002)    | 0.067 (0.018)    | 1 (0.477) |     4.31 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |

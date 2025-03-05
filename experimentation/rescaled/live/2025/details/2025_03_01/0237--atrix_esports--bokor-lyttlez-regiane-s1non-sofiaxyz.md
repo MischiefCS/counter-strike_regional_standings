@@ -6,9 +6,9 @@ Global Rank: [237](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [72]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  581.6<br />
+Final Rank Value:  581.1<br />
 <br />
-Final Rank Value (581.6) = Starting Rank Value (613.9) + Head To Head Adjustments (-32.3)<br />
+Final Rank Value (581.1) = Starting Rank Value (613.9) + Head To Head Adjustments (-32.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      289 | 2025-02-13 | Players (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |    -9.83 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
-|           11 |      334 | 2025-02-11 | ShindeN                  | L   | 1.000      | -            | -                | -                | -         |   -11.73 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
-|           10 |      390 | 2025-02-09 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |   -12.56 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
+|           12 |      289 | 2025-02-13 | Players (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -10.09 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
+|           11 |      334 | 2025-02-11 | ShindeN                  | L   | 1.000      | -            | -                | -                | -         |   -11.90 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
+|           10 |      390 | 2025-02-09 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |   -12.64 | bokor, LyttleZ, REGIANE, s1non, sofiaxyz |
 |            9 |     1878 | 2024-10-18 | Thekillaz                | W   | 0.307      | 0.531        | 0.001 (0.000)    | 0.026 (0.004)    | 0 (0.000) |     4.72 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            8 |     2237 | 2024-10-03 | InSanitY Female          | L   | 0.207      | -            | -                | -                | -         |    -3.34 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
-|            7 |     2444 | 2024-09-27 | Fluxo Demons             | L   | 0.167      | -            | -                | -                | -         |    -1.71 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
+|            7 |     2444 | 2024-09-27 | Fluxo Demons             | L   | 0.167      | -            | -                | -                | -         |    -1.72 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            6 |     2534 | 2024-09-25 | Peak Academy Female      | W   | 0.154      | 0.323        | 0.001 (0.000)    | 0.018 (0.001)    | 0 (0.000) |     2.30 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            5 |     2634 | 2024-09-23 | MIBR Female              | L   | 0.142      | -            | -                | -                | -         |    -2.14 | bokor, LyttleZ, mari, s1non, sofiaxyz    |
 |            4 |     2639 | 2024-09-23 | Fluxo Demons             | W   | 0.141      | 0.143        | 0.016 (0.000)    | 0.100 (0.002)    | 0 (0.000) |     3.01 | bokor, LyttleZ, mari, s1non, sofiaxyz    |

@@ -6,22 +6,22 @@ Global Rank: [6](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [5]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1848.7<br />
+Final Rank Value:  1846.4<br />
 <br />
-Final Rank Value (1848.7) = Starting Rank Value (1902.2) + Head To Head Adjustments (-53.4)<br />
+Final Rank Value (1846.4) = Starting Rank Value (1899.9) + Head To Head Adjustments (-53.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.968[<sup>1</sup>](#table2)
 - Bounty Collected: 0.744[<sup>2</sup>](#table1)
-- Opponent Network: 0.516[<sup>2</sup>](#table1)
+- Opponent Network: 0.511[<sup>2</sup>](#table1)
 - LAN Wins: 0.930[<sup>2</sup>](#table1)
 
-The average of these factors is 0.789<br />
+The average of these factors is 0.788<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1902.2
-- 400 + ( ( 0.789 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1902.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1899.9
+- 400 + ( ( 0.788 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1899.9
 
 
 #### Factors<br />
@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           40 |       81 | 2025-02-23 | MOUZ               | L   | 1.000      | -            | -                | -                | -         |   -15.41 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           39 |      106 | 2025-02-22 | FaZe Clan          | W   | 1.000      | 1.000        | 0.744 (0.744)    | 0.618 (0.618)    | 1 (1.000) |    16.43 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           38 |      145 | 2025-02-21 | Eternal Fire       | W   | 1.000      | 1.000        | 0.588 (0.588)    | 0.635 (0.635)    | 1 (1.000) |    17.44 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           37 |      201 | 2025-02-17 | MOUZ               | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.606 (0.606)    | 1 (1.000) |    16.50 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           36 |      214 | 2025-02-16 | Astralis           | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |    12.81 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           35 |      233 | 2025-02-15 | PaiN Gaming        | L   | 1.000      | -            | -                | -                | -         |   -23.34 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           34 |      276 | 2025-02-14 | FlyQuest           | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.52 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           33 |      366 | 2025-02-10 | BetBoom Team       | W   | 1.000      | 1.000        | -                | 0.406 (0.406)    | -         |     0.87 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           40 |       81 | 2025-02-23 | MOUZ               | L   | 1.000      | -            | -                | -                | -         |   -15.38 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           39 |      106 | 2025-02-22 | FaZe Clan          | W   | 1.000      | 1.000        | 0.744 (0.744)    | 0.618 (0.618)    | 1 (1.000) |    16.50 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           38 |      145 | 2025-02-21 | Eternal Fire       | W   | 1.000      | 1.000        | 0.588 (0.588)    | 0.635 (0.635)    | 1 (1.000) |    17.50 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           37 |      201 | 2025-02-17 | MOUZ               | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.606 (0.606)    | 1 (1.000) |    16.56 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           36 |      214 | 2025-02-16 | Astralis           | W   | 1.000      | 1.000        | 0.609 (0.609)    | 1.000 (1.000)    | 1 (1.000) |    12.39 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           35 |      233 | 2025-02-15 | PaiN Gaming        | L   | 1.000      | -            | -                | -                | -         |   -23.43 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           34 |      276 | 2025-02-14 | FlyQuest           | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.53 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           33 |      366 | 2025-02-10 | BetBoom Team       | W   | 1.000      | 0.947        | -                | 0.406 (0.384)    | -         |     0.84 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           32 |      376 | 2025-02-10 | TEAM NEXT LEVEL    | W   | 1.000      | -            | -                | -                | -         |     0.06 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           31 |      601 | 2025-02-02 | G2 Esports         | L   | 1.000      | -            | -                | -                | -         |   -15.80 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           30 |      618 | 2025-02-01 | Eternal Fire       | L   | 1.000      | -            | -                | -                | -         |   -12.90 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           29 |      671 | 2025-01-19 | Eternal Fire       | L   | 0.925      | -            | -                | -                | -         |   -13.81 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           28 |      685 | 2025-01-15 | ENCE               | W   | 0.899      | 1.000        | -                | 0.410 (0.369)    | -         |     0.43 | degster, kyxsan, Magisk, NiKo, TeSeS  |
-|           27 |      906 | 2024-12-12 | G2 Esports         | L   | 0.677      | -            | -                | -                | -         |   -11.13 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           26 |      970 | 2024-12-07 | Natus Vincere      | W   | 0.643      | 1.000        | 0.555 (0.357)    | 0.613 (0.395)    | 1 (0.643) |     6.56 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           25 |      997 | 2024-12-07 | Team Spirit        | L   | 0.637      | -            | -                | -                | -         |    -8.00 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           24 |     1023 | 2024-12-06 | The MongolZ        | L   | 0.631      | -            | -                | -                | -         |    -8.72 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           23 |     1039 | 2024-12-05 | FaZe Clan          | W   | 0.625      | 1.000        | 0.744 (0.465)    | 0.618 (0.386)    | 1 (0.625) |     9.39 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           22 |     1056 | 2024-12-04 | BIG                | W   | 0.623      | 1.000        | 0.220 (0.137)    | 0.558 (0.348)    | 1 (0.623) |     2.79 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           31 |      601 | 2025-02-02 | G2 Esports         | L   | 1.000      | -            | -                | -                | -         |   -15.74 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           30 |      618 | 2025-02-01 | Eternal Fire       | L   | 1.000      | -            | -                | -                | -         |   -12.85 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           29 |      671 | 2025-01-19 | Eternal Fire       | L   | 0.925      | -            | -                | -                | -         |   -13.74 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           28 |      685 | 2025-01-15 | ENCE               | W   | 0.899      | 1.000        | -                | 0.410 (0.369)    | -         |     0.38 | degster, kyxsan, Magisk, NiKo, TeSeS  |
+|           27 |      906 | 2024-12-12 | G2 Esports         | L   | 0.677      | -            | -                | -                | -         |   -11.07 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           26 |      970 | 2024-12-07 | Natus Vincere      | W   | 0.643      | 1.000        | 0.555 (0.357)    | 0.613 (0.395)    | 1 (0.643) |     6.59 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           25 |      997 | 2024-12-07 | Team Spirit        | L   | 0.637      | -            | -                | -                | -         |    -7.95 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           24 |     1023 | 2024-12-06 | The MongolZ        | L   | 0.631      | -            | -                | -                | -         |    -8.67 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           23 |     1039 | 2024-12-05 | FaZe Clan          | W   | 0.625      | 1.000        | 0.744 (0.465)    | 0.618 (0.386)    | 1 (0.625) |     9.45 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           22 |     1056 | 2024-12-04 | BIG                | W   | 0.623      | 1.000        | 0.220 (0.137)    | 0.558 (0.348)    | 1 (0.623) |     2.82 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |           21 |     1294 | 2024-11-22 | Passion UA         | W   | 0.544      | -            | -                | -                | 1 (0.544) |     0.41 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |           20 |     1326 | 2024-11-21 | Ninjas in Pyjamas  | W   | 0.536      | -            | -                | -                | 1 (0.536) |     0.06 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           19 |     1336 | 2024-11-21 | BIG                | L   | 0.532      | -            | -                | -                | -         |   -14.46 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           19 |     1336 | 2024-11-21 | BIG                | L   | 0.532      | -            | -                | -                | -         |   -14.44 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |           18 |     1351 | 2024-11-20 | PARIVISION         | W   | 0.530      | -            | -                | -                | -         |     0.03 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           17 |     1686 | 2024-11-03 | The MongolZ        | L   | 0.413      | -            | -                | -                | -         |    -6.45 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           16 |     1709 | 2024-11-02 | OG                 | W   | 0.406      | 1.000        | -                | 0.974 (0.396)    | -         |     0.12 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           15 |     1847 | 2024-10-20 | ENCE               | L   | 0.319      | -            | -                | -                | -         |    -9.93 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           14 |     1860 | 2024-10-19 | B8                 | W   | 0.313      | -            | -                | -                | -         |     0.23 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           13 |     1909 | 2024-10-17 | ENCE               | W   | 0.299      | -            | -                | -                | -         |     0.10 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           17 |     1686 | 2024-11-03 | The MongolZ        | L   | 0.413      | -            | -                | -                | -         |    -6.40 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           16 |     1709 | 2024-11-02 | OG                 | W   | 0.406      | 0.934        | -                | 0.974 (0.370)    | -         |     0.10 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           15 |     1847 | 2024-10-20 | ENCE               | L   | 0.319      | -            | -                | -                | -         |    -9.94 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           14 |     1860 | 2024-10-19 | B8                 | W   | 0.313      | -            | -                | -                | -         |     0.22 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           13 |     1909 | 2024-10-17 | ENCE               | W   | 0.299      | -            | -                | -                | -         |     0.09 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |           12 |     1915 | 2024-10-17 | Rebels Gaming      | W   | 0.297      | -            | -                | -                | -         |     0.02 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           11 |     1983 | 2024-10-12 | Natus Vincere      | L   | 0.266      | -            | -                | -                | -         |    -5.92 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|           10 |     2039 | 2024-10-09 | Team Vitality      | W   | 0.246      | 1.000        | 1.000 (0.246)    | -                | -         |     4.15 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|            9 |     2096 | 2024-10-08 | Astralis           | W   | 0.240      | 1.000        | 0.609 (0.146)    | -                | -         |     3.73 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|            8 |     2128 | 2024-10-07 | G2 Esports         | W   | 0.233      | 1.000        | 1.000 (0.233)    | -                | -         |     2.87 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|            7 |     2784 | 2024-09-18 | MIBR               | L   | 0.104      | -            | -                | -                | -         |    -2.99 | degster, kyxsan, NertZ, sjuush, TeSeS |
-|            6 |     2813 | 2024-09-17 | Virtus.pro         | W   | 0.098      | -            | -                | -                | -         |     0.61 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           11 |     1983 | 2024-10-12 | Natus Vincere      | L   | 0.266      | -            | -                | -                | -         |    -5.89 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|           10 |     2039 | 2024-10-09 | Team Vitality      | W   | 0.246      | 1.000        | 1.000 (0.246)    | -                | -         |     4.13 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|            9 |     2096 | 2024-10-08 | Astralis           | W   | 0.240      | 1.000        | 0.609 (0.146)    | -                | -         |     3.58 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|            8 |     2128 | 2024-10-07 | G2 Esports         | W   | 0.233      | 1.000        | 1.000 (0.233)    | -                | -         |     2.89 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|            7 |     2784 | 2024-09-18 | MIBR               | L   | 0.104      | -            | -                | -                | -         |    -3.00 | degster, kyxsan, NertZ, sjuush, TeSeS |
+|            6 |     2813 | 2024-09-17 | Virtus.pro         | W   | 0.098      | -            | -                | -                | -         |     0.60 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |            5 |     3049 | 2024-09-08 | HEROIC             | W   | 0.039      | -            | -                | -                | -         |     0.04 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |            4 |     3080 | 2024-09-07 | Ninjas in Pyjamas  | W   | 0.032      | -            | -                | -                | -         |     0.00 | degster, kyxsan, NertZ, sjuush, TeSeS |
 |            3 |     3134 | 2024-09-05 | HEROIC             | L   | 0.020      | -            | -                | -                | -         |    -0.60 | degster, kyxsan, NertZ, sjuush, TeSeS |

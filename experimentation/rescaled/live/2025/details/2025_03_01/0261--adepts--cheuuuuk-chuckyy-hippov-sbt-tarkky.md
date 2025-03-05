@@ -6,22 +6,22 @@ Global Rank: [261](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [143]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  515.4<br />
+Final Rank Value:  513.6<br />
 <br />
-Final Rank Value (515.4) = Starting Rank Value (509.7) + Head To Head Adjustments (5.7)<br />
+Final Rank Value (513.6) = Starting Rank Value (508.5) + Head To Head Adjustments (5.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.221[<sup>2</sup>](#table1)
+- Bounty Collected: 0.220[<sup>2</sup>](#table1)
 - Opponent Network: 0.009[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.058<br />
+The average of these factors is 0.057<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 509.7
-- 400 + ( ( 0.058 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 509.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 508.5
+- 400 + ( ( 0.057 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 508.5
 
 
 #### Factors<br />
@@ -37,13 +37,13 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      768 | 2024-12-22 | WOPA Esport         | L   | 0.739      | -            | -                | -                | -         |    -3.44 | cHeuuuuk, Chuckyy, HippoV, SBT, Tarkky   |
-|            6 |      783 | 2024-12-21 | KONO.ECF            | L   | 0.732      | -            | -                | -                | -         |    -4.54 | cHeuuuuk, Chuckyy, SBT, Tarkky, xReal    |
-|            5 |      806 | 2024-12-19 | Preasy Esport       | W   | 0.718      | 0.624        | 0.007 (0.003)    | 0.206 (0.092)    | 0 (0.000) |    17.03 | cHeuuuuk, Chuckyy, HippoV, SBT, Tarkky   |
-|            4 |     1867 | 2024-10-19 | Viperio             | L   | 0.311      | -            | -                | -                | -         |    -3.27 | cHeuuuuk, Chuckyy, Oxbrandd, SBT, Tarkky |
-|            3 |     2890 | 2024-09-14 | Astralis Talent     | L   | 0.078      | -            | -                | -                | -         |    -0.51 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            2 |     2928 | 2024-09-13 | Team Spirit Academy | L   | 0.070      | -            | -                | -                | -         |    -0.11 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
-|            1 |     3019 | 2024-09-10 | 9INE Academy        | W   | 0.051      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.56 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            7 |      768 | 2024-12-22 | WOPA Esport         | L   | 0.739      | -            | -                | -                | -         |    -3.60 | cHeuuuuk, Chuckyy, HippoV, SBT, Tarkky   |
+|            6 |      783 | 2024-12-21 | KONO.ECF            | L   | 0.732      | -            | -                | -                | -         |    -4.74 | cHeuuuuk, Chuckyy, SBT, Tarkky, xReal    |
+|            5 |      806 | 2024-12-19 | Preasy Esport       | W   | 0.718      | 0.574        | 0.007 (0.003)    | 0.206 (0.085)    | 0 (0.000) |    16.90 | cHeuuuuk, Chuckyy, HippoV, SBT, Tarkky   |
+|            4 |     1867 | 2024-10-19 | Viperio             | L   | 0.311      | -            | -                | -                | -         |    -3.30 | cHeuuuuk, Chuckyy, Oxbrandd, SBT, Tarkky |
+|            3 |     2890 | 2024-09-14 | Astralis Talent     | L   | 0.078      | -            | -                | -                | -         |    -0.53 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            2 |     2928 | 2024-09-13 | Team Spirit Academy | L   | 0.070      | -            | -                | -                | -         |    -0.14 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
+|            1 |     3019 | 2024-09-10 | 9INE Academy        | W   | 0.051      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.57 | cHeuuuuk, Chuckyy, Oxbrandd, prn, Tarkky |
 
 <br />
 <span id="table2"></span><br />

@@ -6,9 +6,9 @@ Global Rank: [258](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [79]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  528.3<br />
+Final Rank Value:  528.1<br />
 <br />
-Final Rank Value (528.3) = Starting Rank Value (537.7) + Head To Head Adjustments (-9.4)<br />
+Final Rank Value (528.1) = Starting Rank Value (537.6) + Head To Head Adjustments (-9.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.072<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 537.7
-- 400 + ( ( 0.072 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 537.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 537.6
+- 400 + ( ( 0.072 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 537.6
 
 
 #### Factors<br />
@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1455 | 2024-11-15 | Metizport                   | L   | 0.492      | -            | -                | -                | -         |    -0.45 | Gabie, J0LZ, Melio, Pluto, YuZ     |
+|           12 |     1455 | 2024-11-15 | Metizport                   | L   | 0.492      | -            | -                | -                | -         |    -0.49 | Gabie, J0LZ, Melio, Pluto, YuZ     |
 |           11 |     1462 | 2024-11-15 | Mindfreak (Australian team) | L   | 0.491      | -            | -                | -                | -         |    -4.21 | Gabie, J0LZ, Melio, Pluto, YuZ     |
-|           10 |     1475 | 2024-11-14 | Team Norway                 | L   | 0.487      | -            | -                | -                | -         |    -6.60 | Gabie, J0LZ, Melio, Pluto, YuZ     |
-|            9 |     1515 | 2024-11-13 | Los kogutos                 | L   | 0.479      | -            | -                | -                | -         |    -1.57 | Gabie, J0LZ, Melio, Pluto, YuZ     |
-|            8 |     1518 | 2024-11-13 | Team Turkey                 | W   | 0.479      | 0.736        | 0.000 (0.000)    | 0.058 (0.020)    | 1 (0.479) |     8.86 | Gabie, J0LZ, Melio, Pluto, YuZ     |
+|           10 |     1475 | 2024-11-14 | Team Norway                 | L   | 0.487      | -            | -                | -                | -         |    -6.61 | Gabie, J0LZ, Melio, Pluto, YuZ     |
+|            9 |     1515 | 2024-11-13 | Los kogutos                 | L   | 0.479      | -            | -                | -                | -         |    -1.63 | Gabie, J0LZ, Melio, Pluto, YuZ     |
+|            8 |     1518 | 2024-11-13 | Team Turkey                 | W   | 0.479      | 0.698        | 0.000 (0.000)    | 0.058 (0.019)    | 1 (0.479) |     8.82 | Gabie, J0LZ, Melio, Pluto, YuZ     |
 |            7 |     2596 | 2024-09-24 | Team Aether                 | L   | 0.147      | -            | -                | -                | -         |    -2.68 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
 |            6 |     2637 | 2024-09-23 | Mythic                      | L   | 0.141      | -            | -                | -                | -         |    -2.52 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
 |            5 |     2729 | 2024-09-19 | Jahsdnmasjdm v2             | W   | 0.115      | 0.371        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     1.53 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
 |            4 |     2801 | 2024-09-17 | Akimbo Esports              | L   | 0.101      | -            | -                | -                | -         |    -1.21 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
-|            3 |     2837 | 2024-09-15 | MIGHT                       | L   | 0.088      | -            | -                | -                | -         |    -0.65 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
+|            3 |     2837 | 2024-09-15 | MIGHT                       | L   | 0.088      | -            | -                | -                | -         |    -0.66 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
 |            2 |     2931 | 2024-09-12 | Lore Gaming                 | W   | 0.068      | 0.371        | 0.000 (0.000)    | 0.023 (0.001)    | 0 (0.000) |     0.68 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
 |            1 |     3024 | 2024-09-09 | Akimbo Esports              | L   | 0.049      | -            | -                | -                | -         |    -0.59 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
 

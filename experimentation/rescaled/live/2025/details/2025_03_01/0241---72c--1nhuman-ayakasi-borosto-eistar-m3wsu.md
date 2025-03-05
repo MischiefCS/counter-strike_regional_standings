@@ -6,9 +6,9 @@ Global Rank: [241](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [137]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  565.2<br />
+Final Rank Value:  565.0<br />
 <br />
-Final Rank Value (565.2) = Starting Rank Value (561.6) + Head To Head Adjustments (3.6)<br />
+Final Rank Value (565.0) = Starting Rank Value (561.6) + Head To Head Adjustments (3.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,16 +38,16 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           11 |     1963 | 2024-10-15 | Ex-GR Gaming       | L   | 0.285      | -            | -                | -                | -         |    -2.21 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|           10 |     2042 | 2024-10-09 | Chinggis Warriors  | L   | 0.245      | -            | -                | -                | -         |    -1.07 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|            9 |     2048 | 2024-10-09 | Chinggis Warriors  | L   | 0.245      | -            | -                | -                | -         |    -1.08 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|           10 |     2042 | 2024-10-09 | Chinggis Warriors  | L   | 0.245      | -            | -                | -                | -         |    -1.11 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|            9 |     2048 | 2024-10-09 | Chinggis Warriors  | L   | 0.245      | -            | -                | -                | -         |    -1.12 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
 |            8 |     2102 | 2024-10-08 | Noobs But Diligent | W   | 0.238      | 0.417        | 0.000 (0.000)    | 0.015 (0.001)    | 1 (0.238) |     3.08 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
 |            7 |     2108 | 2024-10-08 | Noobs But Diligent | W   | 0.238      | 0.417        | 0.000 (0.000)    | 0.015 (0.001)    | 1 (0.238) |     3.14 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|            6 |     2374 | 2024-09-30 | TYLOO              | L   | 0.185      | -            | -                | -                | -         |    -0.95 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|            5 |     2375 | 2024-09-30 | TYLOO              | L   | 0.185      | -            | -                | -                | -         |    -0.96 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|            4 |     2548 | 2024-09-25 | The Huns Esports   | L   | 0.152      | -            | -                | -                | -         |    -0.29 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|            3 |     2553 | 2024-09-25 | The Huns Esports   | L   | 0.151      | -            | -                | -                | -         |    -0.29 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|            2 |     2605 | 2024-09-24 | Clutch Gaming      | W   | 0.145      | 0.417        | 0.000 (0.000)    | 0.056 (0.003)    | 1 (0.145) |     2.09 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
-|            1 |     2615 | 2024-09-24 | Clutch Gaming      | W   | 0.145      | 0.417        | 0.000 (0.000)    | 0.056 (0.003)    | 1 (0.145) |     2.11 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|            6 |     2374 | 2024-09-30 | TYLOO              | L   | 0.185      | -            | -                | -                | -         |    -0.96 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|            5 |     2375 | 2024-09-30 | TYLOO              | L   | 0.185      | -            | -                | -                | -         |    -0.97 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|            4 |     2548 | 2024-09-25 | The Huns Esports   | L   | 0.152      | -            | -                | -                | -         |    -0.32 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|            3 |     2553 | 2024-09-25 | The Huns Esports   | L   | 0.151      | -            | -                | -                | -         |    -0.32 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|            2 |     2605 | 2024-09-24 | Clutch Gaming      | W   | 0.145      | 0.417        | 0.000 (0.000)    | 0.056 (0.003)    | 1 (0.145) |     2.08 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
+|            1 |     2615 | 2024-09-24 | Clutch Gaming      | W   | 0.145      | 0.417        | 0.000 (0.000)    | 0.056 (0.003)    | 1 (0.145) |     2.10 | 1nhuman, ayakasi, borosto, eistar, m3wsu |
 
 <br />
 <span id="table2"></span><br />

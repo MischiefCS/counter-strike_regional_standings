@@ -6,22 +6,22 @@ Global Rank: [240](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [75]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  572.9<br />
+Final Rank Value:  569.4<br />
 <br />
-Final Rank Value (572.9) = Starting Rank Value (534.6) + Head To Head Adjustments (38.4)<br />
+Final Rank Value (569.4) = Starting Rank Value (531.1) + Head To Head Adjustments (38.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.259[<sup>2</sup>](#table1)
-- Opponent Network: 0.024[<sup>2</sup>](#table1)
+- Bounty Collected: 0.255[<sup>2</sup>](#table1)
+- Opponent Network: 0.021[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.071<br />
+The average of these factors is 0.069<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 534.6
-- 400 + ( ( 0.071 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 534.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 531.1
+- 400 + ( ( 0.069 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 531.1
 
 
 #### Factors<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      496 | 2025-02-07 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -3.81 | diozera, fREQ, lash, short, zede    |
-|            5 |      511 | 2025-02-06 | 9z Team      | W   | 1.000      | 0.878        | 0.015 (0.014)    | 0.135 (0.119)    | 0 (0.000) |    24.86 | diozera, fREQ, lash, short, zede    |
-|            4 |      523 | 2025-02-06 | Tropa do VSM | W   | 1.000      | 0.878        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.32 | diozera, fREQ, lash, short, zede    |
-|            3 |      549 | 2025-02-05 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -3.53 | diozera, fREQ, lash, short, zede    |
-|            2 |      699 | 2025-01-10 | BESTIA       | L   | 0.867      | -            | -                | -                | -         |    -2.22 | desh, fREQ, Leomonster, short, zede |
-|            1 |      711 | 2025-01-09 | 9z Academy   | W   | 0.859      | 0.688        | 0.000 (0.000)    | 0.210 (0.124)    | 0 (0.000) |    13.74 | desh, fREQ, Leomonster, short, zede |
+|            6 |      496 | 2025-02-07 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -3.85 | diozera, fREQ, lash, short, zede    |
+|            5 |      511 | 2025-02-06 | 9z Team      | W   | 1.000      | 0.769        | 0.015 (0.012)    | 0.135 (0.104)    | 0 (0.000) |    24.90 | diozera, fREQ, lash, short, zede    |
+|            4 |      523 | 2025-02-06 | Tropa do VSM | W   | 1.000      | 0.769        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.45 | diozera, fREQ, lash, short, zede    |
+|            3 |      549 | 2025-02-05 | RED Canids   | L   | 1.000      | -            | -                | -                | -         |    -3.56 | diozera, fREQ, lash, short, zede    |
+|            2 |      699 | 2025-01-10 | BESTIA       | L   | 0.867      | -            | -                | -                | -         |    -2.36 | desh, fREQ, Leomonster, short, zede |
+|            1 |      711 | 2025-01-09 | 9z Academy   | W   | 0.859      | 0.573        | 0.000 (0.000)    | 0.210 (0.103)    | 0 (0.000) |    13.75 | desh, fREQ, Leomonster, short, zede |
 
 <br />
 <span id="table2"></span><br />

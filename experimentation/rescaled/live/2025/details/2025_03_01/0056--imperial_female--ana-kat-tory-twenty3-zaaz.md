@@ -6,22 +6,22 @@ Global Rank: [56](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [41]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  982.0<br />
+Final Rank Value:  979.0<br />
 <br />
-Final Rank Value (982.0) = Starting Rank Value (1010.2) + Head To Head Adjustments (-28.2)<br />
+Final Rank Value (979.0) = Starting Rank Value (1007.3) + Head To Head Adjustments (-28.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.534[<sup>1</sup>](#table2)
-- Bounty Collected: 0.322[<sup>2</sup>](#table1)
-- Opponent Network: 0.035[<sup>2</sup>](#table1)
+- Bounty Collected: 0.318[<sup>2</sup>](#table1)
+- Opponent Network: 0.032[<sup>2</sup>](#table1)
 - LAN Wins: 0.392[<sup>2</sup>](#table1)
 
-The average of these factors is 0.321<br />
+The average of these factors is 0.319<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1010.2
-- 400 + ( ( 0.321 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1010.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1007.3
+- 400 + ( ( 0.319 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1007.3
 
 
 #### Factors<br />
@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      212 | 2025-02-16 | Complexity            | L   | 1.000      | -            | -                | -                | -         |    -8.55 | ANa, Kat, tory, twenty3, zAAz   |
-|           22 |      244 | 2025-02-15 | MIBR                  | L   | 1.000      | -            | -                | -                | -         |    -2.52 | ANa, Kat, tory, twenty3, zAAz   |
+|           23 |      212 | 2025-02-16 | Complexity            | L   | 1.000      | -            | -                | -                | -         |    -8.49 | ANa, Kat, tory, twenty3, zAAz   |
+|           22 |      244 | 2025-02-15 | MIBR                  | L   | 1.000      | -            | -                | -                | -         |    -2.61 | ANa, Kat, tory, twenty3, zAAz   |
 |           21 |      268 | 2025-02-14 | Eternal Fire          | L   | 1.000      | -            | -                | -                | -         |    -0.20 | ANa, Kat, tory, twenty3, zAAz   |
-|           20 |      558 | 2025-02-05 | Nemiga Gaming         | L   | 1.000      | -            | -                | -                | -         |   -11.69 | ANa, Kat, tory, twenty3, zAAz   |
-|           19 |      567 | 2025-02-05 | PARIVISION            | L   | 1.000      | -            | -                | -                | -         |   -20.46 | ANa, Kat, tory, twenty3, zAAz   |
-|           18 |      627 | 2025-01-30 | BIG                   | L   | 1.000      | -            | -                | -                | -         |    -2.06 | ANa, bubble, Kat, twenty3, zAAz |
+|           20 |      558 | 2025-02-05 | Nemiga Gaming         | L   | 1.000      | -            | -                | -                | -         |   -12.03 | ANa, Kat, tory, twenty3, zAAz   |
+|           19 |      567 | 2025-02-05 | PARIVISION            | L   | 1.000      | -            | -                | -                | -         |   -20.60 | ANa, Kat, tory, twenty3, zAAz   |
+|           18 |      627 | 2025-01-30 | BIG                   | L   | 1.000      | -            | -                | -                | -         |    -2.04 | ANa, bubble, Kat, twenty3, zAAz |
 |           17 |      636 | 2025-01-29 | FURIA                 | L   | 0.993      | -            | -                | -                | -         |    -2.49 | ANa, bubble, Kat, twenty3, zAAz |
-|           16 |      680 | 2025-01-16 | Natus Vincere         | L   | 0.907      | -            | -                | -                | -         |    -0.54 | ANa, Kat, tory, twenty3, zAAz   |
-|           15 |     1127 | 2024-12-01 | FURIA Esports Female  | L   | 0.601      | -            | -                | -                | -         |   -10.17 | ANa, Kat, tory, twenty3, zAAz   |
-|           14 |     1147 | 2024-11-30 | FURIA Esports Female  | W   | 0.594      | 0.970        | 0.064 (0.037)    | 0.219 (0.126)    | 1 (0.594) |     8.73 | ANa, Kat, tory, twenty3, zAAz   |
-|           13 |     1186 | 2024-11-29 | MIBR Female           | W   | 0.587      | 0.973        | 0.004 (0.002)    | 0.052 (0.030)    | 1 (0.587) |     1.86 | ANa, Kat, tory, twenty3, zAAz   |
-|           12 |     1256 | 2024-11-24 | FURIA Esports Female  | W   | 0.553      | 0.558        | 0.064 (0.020)    | 0.219 (0.067)    | 1 (0.553) |     8.51 | ANa, Kat, tory, twenty3, zAAz   |
-|           11 |     1265 | 2024-11-24 | BIG EQUIPA            | W   | 0.551      | 0.559        | 0.021 (0.007)    | 0.073 (0.022)    | 1 (0.551) |     3.37 | ANa, Kat, tory, twenty3, zAAz   |
-|           10 |     1307 | 2024-11-22 | Fluxo Demons          | W   | 0.539      | 0.560        | 0.016 (0.005)    | 0.100 (0.030)    | 1 (0.539) |     3.13 | ANa, Kat, tory, twenty3, zAAz   |
-|            9 |     1321 | 2024-11-22 | Eco Warriors          | W   | 0.537      | 0.560        | 0.022 (0.007)    | 0.191 (0.057)    | 1 (0.537) |     4.04 | ANa, Kat, tory, twenty3, zAAz   |
-|            8 |     1886 | 2024-10-18 | Nomercy (Female team) | W   | 0.306      | 0.337        | 0.002 (0.000)    | 0.070 (0.007)    | 0 (0.000) |     0.91 | ANa, Kat, tory, twenty3, zAAz   |
-|            7 |     2280 | 2024-10-02 | Permitta W            | W   | 0.200      | 0.328        | 0.003 (0.000)    | 0.042 (0.003)    | 0 (0.000) |     0.64 | ANa, Kat, tory, twenty3, zAAz   |
+|           16 |      680 | 2025-01-16 | Natus Vincere         | L   | 0.907      | -            | -                | -                | -         |    -0.53 | ANa, Kat, tory, twenty3, zAAz   |
+|           15 |     1127 | 2024-12-01 | FURIA Esports Female  | L   | 0.601      | -            | -                | -                | -         |   -10.11 | ANa, Kat, tory, twenty3, zAAz   |
+|           14 |     1147 | 2024-11-30 | FURIA Esports Female  | W   | 0.594      | 0.882        | 0.064 (0.033)    | 0.219 (0.115)    | 1 (0.594) |     8.80 | ANa, Kat, tory, twenty3, zAAz   |
+|           13 |     1186 | 2024-11-29 | MIBR Female           | W   | 0.587      | 0.883        | 0.004 (0.002)    | 0.052 (0.027)    | 1 (0.587) |     1.89 | ANa, Kat, tory, twenty3, zAAz   |
+|           12 |     1256 | 2024-11-24 | FURIA Esports Female  | W   | 0.553      | 0.524        | 0.064 (0.018)    | 0.219 (0.063)    | 1 (0.553) |     8.58 | ANa, Kat, tory, twenty3, zAAz   |
+|           11 |     1265 | 2024-11-24 | BIG EQUIPA            | W   | 0.551      | 0.524        | 0.021 (0.006)    | 0.073 (0.021)    | 1 (0.551) |     3.40 | ANa, Kat, tory, twenty3, zAAz   |
+|           10 |     1307 | 2024-11-22 | Fluxo Demons          | W   | 0.539      | 0.524        | 0.016 (0.004)    | 0.100 (0.028)    | 1 (0.539) |     3.17 | ANa, Kat, tory, twenty3, zAAz   |
+|            9 |     1321 | 2024-11-22 | Eco Warriors          | W   | 0.537      | 0.524        | 0.022 (0.006)    | 0.191 (0.054)    | 1 (0.537) |     4.03 | ANa, Kat, tory, twenty3, zAAz   |
+|            8 |     1886 | 2024-10-18 | Nomercy (Female team) | W   | 0.306      | 0.337        | 0.002 (0.000)    | 0.070 (0.007)    | 0 (0.000) |     0.92 | ANa, Kat, tory, twenty3, zAAz   |
+|            7 |     2280 | 2024-10-02 | Permitta W            | W   | 0.200      | 0.328        | 0.003 (0.000)    | 0.042 (0.003)    | 0 (0.000) |     0.65 | ANa, Kat, tory, twenty3, zAAz   |
 |            6 |     2744 | 2024-09-19 | HSG                   | W   | 0.113      | -            | -                | -                | 0 (0.000) |     0.38 | ANa, Kat, tory, twenty3, zAAz   |
 |            5 |     2857 | 2024-09-15 | Eco Warriors          | L   | 0.085      | -            | -                | -                | -         |    -2.03 | ANa, Kat, tory, twenty3, zAAz   |
 |            4 |     2884 | 2024-09-14 | K27 Female            | W   | 0.078      | 0.294        | 0.007 (0.000)    | 0.052 (0.001)    | 0 (0.000) |     0.31 | ANa, Kat, tory, twenty3, zAAz   |
 |            3 |     2895 | 2024-09-14 | HSG                   | W   | 0.078      | -            | -                | -                | -         |     0.26 | ANa, Kat, tory, twenty3, zAAz   |
-|            2 |     2975 | 2024-09-11 | BIG EQUIPA            | W   | 0.060      | 0.328        | 0.021 (0.000)    | 0.073 (0.001)    | -         |     0.36 | ANa, Kat, tory, twenty3, zAAz   |
+|            2 |     2975 | 2024-09-11 | BIG EQUIPA            | W   | 0.060      | 0.328        | 0.021 (0.000)    | 0.073 (0.001)    | -         |     0.37 | ANa, Kat, tory, twenty3, zAAz   |
 |            1 |     3169 | 2024-09-04 | K27 Female            | W   | 0.013      | -            | -                | -                | -         |     0.05 | ANa, Kat, tory, twenty3, zAAz   |
 
 <br />

@@ -6,22 +6,22 @@ Global Rank: [232](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [68]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  592.4<br />
+Final Rank Value:  590.2<br />
 <br />
-Final Rank Value (592.4) = Starting Rank Value (635.6) + Head To Head Adjustments (-43.2)<br />
+Final Rank Value (590.2) = Starting Rank Value (633.9) + Head To Head Adjustments (-43.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.257[<sup>1</sup>](#table2)
-- Bounty Collected: 0.211[<sup>2</sup>](#table1)
-- Opponent Network: 0.027[<sup>2</sup>](#table1)
+- Bounty Collected: 0.210[<sup>2</sup>](#table1)
+- Opponent Network: 0.025[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.124<br />
+The average of these factors is 0.123<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 635.6
-- 400 + ( ( 0.124 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 635.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 633.9
+- 400 + ( ( 0.123 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 633.9
 
 
 #### Factors<br />
@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      800 | 2024-12-19 | 9z Academy               | L   | 0.720      | -            | -                | -                | -         |   -13.70 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|           12 |      826 | 2024-12-17 | Game Hunters             | L   | 0.706      | -            | -                | -                | -         |    -9.36 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|           13 |      800 | 2024-12-19 | 9z Academy               | L   | 0.720      | -            | -                | -                | -         |   -13.72 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|           12 |      826 | 2024-12-17 | Game Hunters             | L   | 0.706      | -            | -                | -                | -         |    -9.42 | Demonos, lealziNho, Roz, swarmyzz, voltera |
 |           11 |      828 | 2024-12-16 | LaChampionsLiga          | L   | 0.701      | -            | -                | -                | -         |   -10.66 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|           10 |      890 | 2024-12-13 | Players (Brazilian team) | L   | 0.681      | -            | -                | -                | -         |    -6.96 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            9 |      910 | 2024-12-12 | 9z Academy               | W   | 0.674      | 0.426        | 0.000 (0.000)    | 0.210 (0.060)    | 0 (0.000) |     7.54 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            8 |     1201 | 2024-11-28 | Sharks Esports           | L   | 0.580      | -            | -                | -                | -         |    -1.36 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            7 |     1233 | 2024-11-26 | Patins da Ferrari        | W   | 0.566      | 0.631        | 0.000 (0.000)    | 0.115 (0.041)    | 0 (0.000) |     5.91 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            6 |     1244 | 2024-11-25 | ShindeN                  | W   | 0.560      | 0.632        | 0.005 (0.002)    | 0.377 (0.133)    | 0 (0.000) |    10.21 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            5 |     1284 | 2024-11-23 | Players (Brazilian team) | L   | 0.546      | -            | -                | -                | -         |    -5.62 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            4 |     1334 | 2024-11-21 | Game Hunters             | L   | 0.532      | -            | -                | -                | -         |   -11.18 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            3 |     1370 | 2024-11-19 | Joga de terno            | W   | 0.522      | 0.614        | 0.000 (0.000)    | 0.111 (0.035)    | 0 (0.000) |     5.29 | Demonos, lealziNho, Roz, swarmyzz, voltera |
-|            2 |     1593 | 2024-11-09 | Yawara E-Sports          | L   | 0.454      | -            | -                | -                | -         |    -6.50 | Demonos, kln, proSHOW, Roz, voltera        |
-|            1 |     1729 | 2024-11-01 | Intense Game             | L   | 0.400      | -            | -                | -                | -         |    -6.79 | Demonos, proSHOW, Roz, suNday, voltera     |
+|           10 |      890 | 2024-12-13 | Players (Brazilian team) | L   | 0.681      | -            | -                | -                | -         |    -7.12 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            9 |      910 | 2024-12-12 | 9z Academy               | W   | 0.674      | 0.396        | 0.000 (0.000)    | 0.210 (0.056)    | 0 (0.000) |     7.51 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            8 |     1201 | 2024-11-28 | Sharks Esports           | L   | 0.580      | -            | -                | -                | -         |    -1.46 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            7 |     1233 | 2024-11-26 | Patins da Ferrari        | W   | 0.566      | 0.584        | 0.000 (0.000)    | 0.115 (0.038)    | 0 (0.000) |     5.94 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            6 |     1244 | 2024-11-25 | ShindeN                  | W   | 0.560      | 0.585        | 0.005 (0.002)    | 0.377 (0.124)    | 0 (0.000) |    10.16 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            5 |     1284 | 2024-11-23 | Players (Brazilian team) | L   | 0.546      | -            | -                | -                | -         |    -5.76 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            4 |     1334 | 2024-11-21 | Game Hunters             | L   | 0.532      | -            | -                | -                | -         |   -11.15 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            3 |     1370 | 2024-11-19 | Joga de terno            | W   | 0.522      | 0.559        | 0.000 (0.000)    | 0.111 (0.032)    | 0 (0.000) |     5.29 | Demonos, lealziNho, Roz, swarmyzz, voltera |
+|            2 |     1593 | 2024-11-09 | Yawara E-Sports          | L   | 0.454      | -            | -                | -                | -         |    -6.54 | Demonos, kln, proSHOW, Roz, voltera        |
+|            1 |     1729 | 2024-11-01 | Intense Game             | L   | 0.400      | -            | -                | -                | -         |    -6.76 | Demonos, proSHOW, Roz, suNday, voltera     |
 
 <br />
 <span id="table2"></span><br />

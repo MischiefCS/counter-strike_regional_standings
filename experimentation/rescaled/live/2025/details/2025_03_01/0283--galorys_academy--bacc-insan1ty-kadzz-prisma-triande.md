@@ -6,9 +6,9 @@ Global Rank: [283](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [92]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  393.7<br />
+Final Rank Value:  393.4<br />
 <br />
-Final Rank Value (393.7) = Starting Rank Value (400.0) + Head To Head Adjustments (-6.3)<br />
+Final Rank Value (393.4) = Starting Rank Value (400.0) + Head To Head Adjustments (-6.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,10 +37,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |      803 | 2024-12-19 | Nitro.GG           | L   | 0.719      | -            | -                | -                | -         |    -3.74 | bacc, insan1ty, Kadzz, prisma, triande |
-|            4 |      823 | 2024-12-17 | América eSports    | W   | 0.706      | 0.462        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.10 | bacc, insan1ty, Kadzz, prisma, triande |
-|            3 |      850 | 2024-12-15 | Patins da Ferrari  | L   | 0.692      | -            | -                | -                | -         |    -6.93 | bacc, insan1ty, Kadzz, prisma, triande |
-|            2 |      891 | 2024-12-13 | UNO MILLE          | L   | 0.681      | -            | -                | -                | -         |    -3.02 | bacc, insan1ty, Kadzz, prisma, triande |
+|            5 |      803 | 2024-12-19 | Nitro.GG           | L   | 0.719      | -            | -                | -                | -         |    -3.86 | bacc, insan1ty, Kadzz, prisma, triande |
+|            4 |      823 | 2024-12-17 | América eSports    | W   | 0.706      | 0.384        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.10 | bacc, insan1ty, Kadzz, prisma, triande |
+|            3 |      850 | 2024-12-15 | Patins da Ferrari  | L   | 0.692      | -            | -                | -                | -         |    -7.03 | bacc, insan1ty, Kadzz, prisma, triande |
+|            2 |      891 | 2024-12-13 | UNO MILLE          | L   | 0.681      | -            | -                | -                | -         |    -3.11 | bacc, insan1ty, Kadzz, prisma, triande |
 |            1 |     1185 | 2024-11-29 | RED Canids Academy | L   | 0.587      | -            | -                | -                | -         |    -3.72 | bacc, insan1ty, Kadzz, prisma, triande |
 
 <br />

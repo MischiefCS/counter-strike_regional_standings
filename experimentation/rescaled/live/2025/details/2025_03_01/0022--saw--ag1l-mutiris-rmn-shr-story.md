@@ -6,22 +6,22 @@ Global Rank: [22](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [17]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1274.7<br />
+Final Rank Value:  1270.8<br />
 <br />
-Final Rank Value (1274.7) = Starting Rank Value (1300.3) + Head To Head Adjustments (-25.5)<br />
+Final Rank Value (1270.8) = Starting Rank Value (1298.2) + Head To Head Adjustments (-27.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.633[<sup>1</sup>](#table2)
 - Bounty Collected: 0.455[<sup>2</sup>](#table1)
-- Opponent Network: 0.200[<sup>2</sup>](#table1)
+- Opponent Network: 0.197[<sup>2</sup>](#table1)
 - LAN Wins: 0.604[<sup>2</sup>](#table1)
 
-The average of these factors is 0.473<br />
+The average of these factors is 0.472<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1300.3
-- 400 + ( ( 0.473 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1300.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1298.2
+- 400 + ( ( 0.472 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1298.2
 
 
 #### Factors<br />
@@ -37,31 +37,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |      128 | 2025-02-21 | FaZe Clan       | L   | 1.000      | -            | -                | -                | -         |    -1.04 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           27 |      175 | 2025-02-18 | 3DMAX           | W   | 1.000      | 1.000        | 0.295 (0.295)    | 0.626 (0.626)    | 1 (1.000) |    27.46 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           26 |      182 | 2025-02-17 | Complexity      | W   | 1.000      | 1.000        | 0.097 (0.097)    | 0.233 (0.233)    | 1 (1.000) |    12.21 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           25 |      210 | 2025-02-16 | FlyQuest        | W   | 1.000      | 1.000        | 0.105 (0.105)    | 0.223 (0.223)    | 1 (1.000) |     9.67 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           24 |      235 | 2025-02-15 | Astralis        | L   | 1.000      | -            | -                | -                | -         |    -1.64 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           23 |      278 | 2025-02-14 | FaZe Clan       | L   | 1.000      | -            | -                | -                | -         |    -0.96 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           22 |      529 | 2025-02-06 | 500             | L   | 1.000      | -            | -                | -                | -         |   -18.68 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           21 |      557 | 2025-02-05 | Eco Warriors    | W   | 1.000      | 1.000        | 0.022 (0.022)    | 0.191 (0.191)    | 0 (0.000) |     2.67 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           20 |      565 | 2025-02-05 | BC.Game Esports | L   | 1.000      | -            | -                | -                | -         |   -12.60 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           19 |      631 | 2025-01-30 | Virtus.pro      | L   | 0.998      | -            | -                | -                | -         |    -4.24 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           18 |      639 | 2025-01-29 | GamerLegion     | L   | 0.992      | -            | -                | -                | -         |    -4.74 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           17 |      686 | 2025-01-15 | BIG             | L   | 0.899      | -            | -                | -                | -         |    -5.54 | Ag1l, MUTiRiS, rmn, shr, story          |
-|           16 |     1369 | 2024-11-19 | BetBoom Team    | L   | 0.522      | -            | -                | -                | -         |   -11.33 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|           15 |     1378 | 2024-11-18 | Natus Vincere   | L   | 0.516      | -            | -                | -                | -         |    -1.10 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|           14 |     1391 | 2024-11-17 | Team Falcons    | W   | 0.510      | 1.000        | 0.008 (0.004)    | -                | 1 (0.510) |     0.85 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|           13 |     1401 | 2024-11-17 | UNiTY esports   | W   | 0.505      | 1.000        | 0.025 (0.013)    | 0.177 (0.089)    | 1 (0.505) |     1.07 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|           12 |     1415 | 2024-11-16 | SINNERS Esports | L   | 0.503      | -            | -                | -                | -         |   -13.52 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|           11 |     1802 | 2024-10-27 | B8              | W   | 0.367      | 1.000        | 0.124 (0.046)    | 0.695 (0.255)    | 1 (0.367) |     5.09 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|           10 |     1811 | 2024-10-27 | Monte           | W   | 0.365      | 1.000        | 0.029 (0.011)    | 0.227 (0.083)    | 1 (0.365) |     0.94 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|           28 |      128 | 2025-02-21 | FaZe Clan       | L   | 1.000      | -            | -                | -                | -         |    -1.02 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           27 |      175 | 2025-02-18 | 3DMAX           | W   | 1.000      | 1.000        | 0.295 (0.295)    | 0.626 (0.626)    | 1 (1.000) |    27.49 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           26 |      182 | 2025-02-17 | Complexity      | W   | 1.000      | 1.000        | 0.097 (0.097)    | 0.233 (0.233)    | 1 (1.000) |    12.31 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           25 |      210 | 2025-02-16 | FlyQuest        | W   | 1.000      | 1.000        | 0.105 (0.105)    | 0.223 (0.223)    | 1 (1.000) |     9.80 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           24 |      235 | 2025-02-15 | Astralis        | L   | 1.000      | -            | -                | -                | -         |    -1.71 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           23 |      278 | 2025-02-14 | FaZe Clan       | L   | 1.000      | -            | -                | -                | -         |    -0.95 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           22 |      529 | 2025-02-06 | 500             | L   | 1.000      | -            | -                | -                | -         |   -19.44 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           21 |      557 | 2025-02-05 | Eco Warriors    | W   | 1.000      | 0.834        | 0.022 (0.018)    | 0.191 (0.159)    | 0 (0.000) |     2.66 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           20 |      565 | 2025-02-05 | BC.Game Esports | L   | 1.000      | -            | -                | -                | -         |   -13.01 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           19 |      631 | 2025-01-30 | Virtus.pro      | L   | 0.998      | -            | -                | -                | -         |    -4.29 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           18 |      639 | 2025-01-29 | GamerLegion     | L   | 0.992      | -            | -                | -                | -         |    -4.90 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           17 |      686 | 2025-01-15 | BIG             | L   | 0.899      | -            | -                | -                | -         |    -5.49 | Ag1l, MUTiRiS, rmn, shr, story          |
+|           16 |     1369 | 2024-11-19 | BetBoom Team    | L   | 0.522      | -            | -                | -                | -         |   -11.44 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|           15 |     1378 | 2024-11-18 | Natus Vincere   | L   | 0.516      | -            | -                | -                | -         |    -1.09 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|           14 |     1391 | 2024-11-17 | Team Falcons    | W   | 0.510      | 1.000        | 0.008 (0.004)    | -                | 1 (0.510) |     0.86 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|           13 |     1401 | 2024-11-17 | UNiTY esports   | W   | 0.505      | 1.000        | 0.025 (0.013)    | 0.177 (0.089)    | 1 (0.505) |     1.04 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|           12 |     1415 | 2024-11-16 | SINNERS Esports | L   | 0.503      | -            | -                | -                | -         |   -13.72 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|           11 |     1802 | 2024-10-27 | B8              | W   | 0.367      | 0.986        | 0.124 (0.045)    | 0.695 (0.251)    | 1 (0.367) |     4.89 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|           10 |     1811 | 2024-10-27 | Monte           | W   | 0.365      | 0.987        | 0.029 (0.011)    | 0.227 (0.082)    | 1 (0.365) |     0.94 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
 |            9 |     1887 | 2024-10-18 | 3DMAX           | L   | 0.306      | -            | -                | -                | -         |    -1.45 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|            8 |     1905 | 2024-10-17 | 9Pandas         | W   | 0.299      | 1.000        | 0.084 (0.025)    | 0.560 (0.168)    | -         |     2.40 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|            7 |     1933 | 2024-10-16 | HEROIC          | L   | 0.293      | -            | -                | -                | -         |    -4.68 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
-|            6 |     2146 | 2024-10-06 | BIG             | L   | 0.226      | -            | -                | -                | -         |    -1.34 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
-|            5 |     2169 | 2024-10-05 | BetBoom Team    | W   | 0.220      | 1.000        | 0.086 (0.019)    | 0.406 (0.089)    | 1 (0.220) |     2.14 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
-|            4 |     2201 | 2024-10-04 | FlyQuest        | L   | 0.214      | -            | -                | -                | -         |    -5.45 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
+|            8 |     1905 | 2024-10-17 | 9Pandas         | W   | 0.299      | 1.000        | 0.084 (0.025)    | 0.560 (0.168)    | -         |     2.22 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|            7 |     1933 | 2024-10-16 | HEROIC          | L   | 0.293      | -            | -                | -                | -         |    -4.72 | Ag1l, ewjerkz, MUTiRiS, rmn, story      |
+|            6 |     2146 | 2024-10-06 | BIG             | L   | 0.226      | -            | -                | -                | -         |    -1.33 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
+|            5 |     2169 | 2024-10-05 | BetBoom Team    | W   | 0.220      | 1.000        | 0.086 (0.019)    | 0.406 (0.089)    | 1 (0.220) |     2.10 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
+|            4 |     2201 | 2024-10-04 | FlyQuest        | L   | 0.214      | -            | -                | -                | -         |    -5.44 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
 |            3 |     2209 | 2024-10-04 | Rooster         | W   | 0.212      | 1.000        | -                | 0.219 (0.046)    | 1 (0.212) |     0.18 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
 |            2 |     2958 | 2024-09-12 | Insilio         | L   | 0.064      | -            | -                | -                | -         |    -1.97 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |
 |            1 |     3017 | 2024-09-10 | TSM             | W   | 0.051      | -            | -                | -                | -         |     0.07 | arrozdoce, ewjerkz, MUTiRiS, rmn, story |

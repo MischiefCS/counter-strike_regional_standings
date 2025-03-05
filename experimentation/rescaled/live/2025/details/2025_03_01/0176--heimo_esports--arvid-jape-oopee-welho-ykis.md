@@ -6,22 +6,22 @@ Global Rank: [176](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [117]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  668.7<br />
+Final Rank Value:  665.1<br />
 <br />
-Final Rank Value (668.7) = Starting Rank Value (685.2) + Head To Head Adjustments (-16.5)<br />
+Final Rank Value (665.1) = Starting Rank Value (683.2) + Head To Head Adjustments (-18.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.292[<sup>1</sup>](#table2)
-- Bounty Collected: 0.262[<sup>2</sup>](#table1)
-- Opponent Network: 0.045[<sup>2</sup>](#table1)
+- Bounty Collected: 0.261[<sup>2</sup>](#table1)
+- Opponent Network: 0.042[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.150<br />
+The average of these factors is 0.149<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 685.2
-- 400 + ( ( 0.150 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 685.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 683.2
+- 400 + ( ( 0.149 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 683.2
 
 
 #### Factors<br />
@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      132 | 2025-02-21 | JANO Esports         | L   | 1.000      | -            | -                | -                | -         |    -7.82 | arvid, japE, oopee, Welho, ykis   |
-|           10 |      729 | 2025-01-04 | BRUTE                | L   | 0.825      | -            | -                | -                | -         |   -13.56 | arvid, japE, oopee, spargo, Welho |
-|            9 |      735 | 2024-12-29 | Insilio              | L   | 0.787      | -            | -                | -                | -         |   -12.94 | arvid, japE, oopee, spargo, Welho |
-|            8 |      760 | 2024-12-23 | WOPA Esport          | L   | 0.744      | -            | -                | -                | -         |    -7.71 | arvid, japE, oopee, spargo, Welho |
-|            7 |      773 | 2024-12-22 | ALASKA               | L   | 0.738      | -            | -                | -                | -         |    -3.53 | arvid, japE, oopee, spargo, Welho |
-|            6 |      794 | 2024-12-20 | WOPA Esport          | W   | 0.725      | 0.650        | 0.028 (0.013)    | 0.499 (0.235)    | 0 (0.000) |    14.39 | arvid, japE, oopee, spargo, Welho |
-|            5 |      819 | 2024-12-18 | Astralis Talent      | W   | 0.711      | 0.652        | 0.002 (0.001)    | 0.388 (0.180)    | 0 (0.000) |    12.41 | arvid, japE, oopee, spargo, Welho |
-|            4 |     2163 | 2024-10-06 | Natus Vincere Junior | L   | 0.224      | -            | -                | -                | -         |    -0.61 | arvid, japE, oopee, spargo, Welho |
-|            3 |     2187 | 2024-10-05 | Preasy Esport        | W   | 0.217      | 0.742        | 0.007 (0.001)    | 0.206 (0.033)    | 0 (0.000) |     3.87 | arvid, japE, oopee, spargo, Welho |
-|            2 |     2255 | 2024-10-03 | Anonymo Esports      | W   | 0.204      | 0.750        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.09 | arvid, japE, oopee, Welho, ykis   |
-|            1 |     2355 | 2024-10-01 | Leo Team             | L   | 0.191      | -            | -                | -                | -         |    -2.14 | arvid, japE, oopee, Welho, ykis   |
+|           11 |      132 | 2025-02-21 | JANO Esports         | L   | 1.000      | -            | -                | -                | -         |    -7.76 | arvid, japE, oopee, Welho, ykis   |
+|           10 |      729 | 2025-01-04 | BRUTE                | L   | 0.825      | -            | -                | -                | -         |   -13.57 | arvid, japE, oopee, spargo, Welho |
+|            9 |      735 | 2024-12-29 | Insilio              | L   | 0.787      | -            | -                | -                | -         |   -13.31 | arvid, japE, oopee, spargo, Welho |
+|            8 |      760 | 2024-12-23 | WOPA Esport          | L   | 0.744      | -            | -                | -                | -         |    -7.93 | arvid, japE, oopee, spargo, Welho |
+|            7 |      773 | 2024-12-22 | ALASKA               | L   | 0.738      | -            | -                | -                | -         |    -3.91 | arvid, japE, oopee, spargo, Welho |
+|            6 |      794 | 2024-12-20 | WOPA Esport          | W   | 0.725      | 0.613        | 0.028 (0.013)    | 0.499 (0.222)    | 0 (0.000) |    14.14 | arvid, japE, oopee, spargo, Welho |
+|            5 |      819 | 2024-12-18 | Astralis Talent      | W   | 0.711      | 0.614        | 0.002 (0.001)    | 0.388 (0.169)    | 0 (0.000) |    12.16 | arvid, japE, oopee, spargo, Welho |
+|            4 |     2163 | 2024-10-06 | Natus Vincere Junior | L   | 0.224      | -            | -                | -                | -         |    -0.67 | arvid, japE, oopee, spargo, Welho |
+|            3 |     2187 | 2024-10-05 | Preasy Esport        | W   | 0.217      | 0.742        | 0.007 (0.001)    | 0.206 (0.033)    | 0 (0.000) |     3.83 | arvid, japE, oopee, spargo, Welho |
+|            2 |     2255 | 2024-10-03 | Anonymo Esports      | W   | 0.204      | 0.750        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.10 | arvid, japE, oopee, Welho, ykis   |
+|            1 |     2355 | 2024-10-01 | Leo Team             | L   | 0.191      | -            | -                | -                | -         |    -2.16 | arvid, japE, oopee, Welho, ykis   |
 
 <br />
 <span id="table2"></span><br />

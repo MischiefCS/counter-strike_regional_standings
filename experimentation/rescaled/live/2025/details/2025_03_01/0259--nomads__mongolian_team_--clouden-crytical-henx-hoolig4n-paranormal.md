@@ -6,22 +6,22 @@ Global Rank: [259](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [40]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  528.0<br />
+Final Rank Value:  524.2<br />
 <br />
-Final Rank Value (528.0) = Starting Rank Value (524.7) + Head To Head Adjustments (3.3)<br />
+Final Rank Value (524.2) = Starting Rank Value (521.3) + Head To Head Adjustments (2.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.242[<sup>2</sup>](#table1)
-- Opponent Network: 0.020[<sup>2</sup>](#table1)
+- Bounty Collected: 0.238[<sup>2</sup>](#table1)
+- Opponent Network: 0.017[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.066<br />
+The average of these factors is 0.064<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 524.7
-- 400 + ( ( 0.066 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 524.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 521.3
+- 400 + ( ( 0.064 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 521.3
 
 
 #### Factors<br />
@@ -37,12 +37,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |       32 | 2025-02-25 | Eruption                  | L   | 1.000      | -            | -                | -                | -         |    -3.27 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|            5 |       47 | 2025-02-25 | HOTU                      | L   | 1.000      | -            | -                | -                | -         |    -7.91 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|            4 |       72 | 2025-02-23 | Gods Reign                | W   | 1.000      | 0.546        | 0.014 (0.008)    | 0.360 (0.197)    | 0 (0.000) |    27.83 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|            3 |      474 | 2025-02-08 | IHC Esports               | L   | 1.000      | -            | -                | -                | -         |    -7.57 | CRYTICAL, HenX, hoolig4n, KRST, shinobi       |
-|            2 |     1076 | 2024-12-04 | ATOX Esports              | L   | 0.618      | -            | -                | -                | -         |    -0.68 | CRYTICAL, HenX, hoolig4n, Randyyyy, shinobi   |
-|            1 |     1080 | 2024-12-03 | Just Swing (Chinese team) | L   | 0.617      | -            | -                | -                | -         |    -5.08 | CRYTICAL, HenX, hoolig4n, Randyyyy, shinobi   |
+|            6 |       32 | 2025-02-25 | Eruption                  | L   | 1.000      | -            | -                | -                | -         |    -3.37 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|            5 |       47 | 2025-02-25 | HOTU                      | L   | 1.000      | -            | -                | -                | -         |    -8.11 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|            4 |       72 | 2025-02-23 | Gods Reign                | W   | 1.000      | 0.464        | 0.014 (0.006)    | 0.360 (0.167)    | 0 (0.000) |    27.83 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|            3 |      474 | 2025-02-08 | IHC Esports               | L   | 1.000      | -            | -                | -                | -         |    -7.68 | CRYTICAL, HenX, hoolig4n, KRST, shinobi       |
+|            2 |     1076 | 2024-12-04 | ATOX Esports              | L   | 0.618      | -            | -                | -                | -         |    -0.78 | CRYTICAL, HenX, hoolig4n, Randyyyy, shinobi   |
+|            1 |     1080 | 2024-12-03 | Just Swing (Chinese team) | L   | 0.617      | -            | -                | -                | -         |    -5.06 | CRYTICAL, HenX, hoolig4n, Randyyyy, shinobi   |
 
 <br />
 <span id="table2"></span><br />

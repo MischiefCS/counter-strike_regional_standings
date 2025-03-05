@@ -6,22 +6,22 @@ Global Rank: [190](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [23]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  644.0<br />
+Final Rank Value:  643.0<br />
 <br />
-Final Rank Value (644.0) = Starting Rank Value (640.0) + Head To Head Adjustments (4.0)<br />
+Final Rank Value (643.0) = Starting Rank Value (639.0) + Head To Head Adjustments (3.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.266[<sup>1</sup>](#table2)
-- Bounty Collected: 0.228[<sup>2</sup>](#table1)
-- Opponent Network: 0.011[<sup>2</sup>](#table1)
+- Bounty Collected: 0.227[<sup>2</sup>](#table1)
+- Opponent Network: 0.010[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.126<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 640.0
-- 400 + ( ( 0.126 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 640.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 639.0
+- 400 + ( ( 0.126 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 639.0
 
 
 #### Factors<br />
@@ -38,10 +38,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |      885 | 2024-12-13 | Big W          | L   | 0.683      | -            | -                | -                | -         |    -9.47 | Ang3l10wow, Bloody, hf, pavast4r, Sharpshooter    |
-|            4 |     1377 | 2024-11-18 | Gods Reign     | W   | 0.517      | 0.553        | 0.014 (0.004)    | 0.360 (0.103)    | 0 (0.000) |    13.20 | Bloody, crony, hf, pavast4r, Sharpshooter         |
-|            3 |     1817 | 2024-10-26 | Gods Reign     | L   | 0.363      | -            | -                | -                | -         |    -1.88 | Ang3l10wow, Bloody, Empera, Scoffic, Sharpshooter |
+|            4 |     1377 | 2024-11-18 | Gods Reign     | W   | 0.517      | 0.519        | 0.014 (0.004)    | 0.360 (0.097)    | 0 (0.000) |    13.16 | Bloody, crony, hf, pavast4r, Sharpshooter         |
+|            3 |     1817 | 2024-10-26 | Gods Reign     | L   | 0.363      | -            | -                | -                | -         |    -1.91 | Ang3l10wow, Bloody, Empera, Scoffic, Sharpshooter |
 |            2 |     2681 | 2024-09-21 | Gods Reign     | L   | 0.130      | -            | -                | -                | -         |    -0.61 | Ang3l10wow, Bloody, hf, Scoffic, Sharpshooter     |
-|            1 |     2683 | 2024-09-21 | Victores Sumus | W   | 0.130      | 0.262        | 0.005 (0.000)    | 0.120 (0.004)    | 0 (0.000) |     2.76 | Ang3l10wow, Bloody, hf, Scoffic, Sharpshooter     |
+|            1 |     2683 | 2024-09-21 | Victores Sumus | W   | 0.130      | 0.262        | 0.005 (0.000)    | 0.120 (0.004)    | 0 (0.000) |     2.75 | Ang3l10wow, Bloody, hf, Scoffic, Sharpshooter     |
 
 <br />
 <span id="table2"></span><br />

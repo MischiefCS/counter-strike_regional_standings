@@ -6,9 +6,9 @@ Global Rank: [244](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [76]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  557.6<br />
+Final Rank Value:  557.0<br />
 <br />
-Final Rank Value (557.6) = Starting Rank Value (613.5) + Head To Head Adjustments (-55.9)<br />
+Final Rank Value (557.0) = Starting Rank Value (613.3) + Head To Head Adjustments (-56.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.112<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 613.5
-- 400 + ( ( 0.112 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 613.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 613.3
+- 400 + ( ( 0.112 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 613.3
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |      396 | 2025-02-09 | MIGHT                | L   | 1.000      | -            | -                | -                | -         |    -9.25 | alula, Experative, spud, TR0JN, Weeza   |
-|           21 |      436 | 2025-02-08 | Chicken Coop Esports | L   | 1.000      | -            | -                | -                | -         |   -13.44 | alula, Experative, spud, TR0JN, Weeza   |
+|           22 |      396 | 2025-02-09 | MIGHT                | L   | 1.000      | -            | -                | -                | -         |    -9.36 | alula, Experative, spud, TR0JN, Weeza   |
+|           21 |      436 | 2025-02-08 | Chicken Coop Esports | L   | 1.000      | -            | -                | -                | -         |   -13.45 | alula, Experative, spud, TR0JN, Weeza   |
 |           20 |      861 | 2024-12-14 | Alter Iron Club      | L   | 0.689      | -            | -                | -                | -         |    -7.55 | Experative, Nyyx, rayxts, TR0JN, Weeza  |
-|           19 |      888 | 2024-12-13 | Bad News Capybaras   | L   | 0.682      | -            | -                | -                | -         |    -8.56 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|           18 |     2007 | 2024-10-09 | Bad News Capybaras   | W   | 0.249      | 0.597        | 0.001 (0.000)    | 0.148 (0.022)    | 0 (0.000) |     4.67 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|           19 |      888 | 2024-12-13 | Bad News Capybaras   | L   | 0.682      | -            | -                | -                | -         |    -8.57 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|           18 |     2007 | 2024-10-09 | Bad News Capybaras   | W   | 0.249      | 0.549        | 0.001 (0.000)    | 0.148 (0.020)    | 0 (0.000) |     4.67 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           17 |     2016 | 2024-10-09 | Bad News Capybaras   | L   | 0.248      | -            | -                | -                | -         |    -3.21 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|           16 |     2195 | 2024-10-04 | Legacy               | L   | 0.215      | -            | -                | -                | -         |    -0.62 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|           16 |     2195 | 2024-10-04 | Legacy               | L   | 0.215      | -            | -                | -                | -         |    -0.68 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           15 |     2225 | 2024-10-03 | Chill Guys           | L   | 0.209      | -            | -                | -                | -         |    -2.88 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           14 |     2230 | 2024-10-03 | Chill Guys           | L   | 0.208      | -            | -                | -                | -         |    -2.93 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           13 |     2308 | 2024-10-01 | Mythic               | L   | 0.195      | -            | -                | -                | -         |    -3.99 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|           12 |     2313 | 2024-10-01 | Mythic               | L   | 0.195      | -            | -                | -                | -         |    -4.05 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|           12 |     2313 | 2024-10-01 | Mythic               | L   | 0.195      | -            | -                | -                | -         |    -4.04 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           11 |     2387 | 2024-09-29 | Akimbo Esports       | W   | 0.181      | 0.675        | 0.003 (0.000)    | 0.090 (0.011)    | 0 (0.000) |     3.02 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |           10 |     2512 | 2024-09-25 | Nouns Esports        | L   | 0.155      | -            | -                | -                | -         |    -1.62 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |            9 |     2519 | 2024-09-25 | Nouns Esports        | L   | 0.155      | -            | -                | -                | -         |    -1.64 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|            8 |     2627 | 2024-09-23 | FLUFFY AIMERS        | L   | 0.142      | -            | -                | -                | -         |    -1.17 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|            7 |     2631 | 2024-09-23 | FLUFFY AIMERS        | L   | 0.142      | -            | -                | -                | -         |    -1.18 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|            6 |     2727 | 2024-09-19 | Legacy               | L   | 0.115      | -            | -                | -                | -         |    -0.39 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|            5 |     2728 | 2024-09-19 | Legacy               | L   | 0.115      | -            | -                | -                | -         |    -0.39 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|            4 |     2792 | 2024-09-17 | NRG                  | L   | 0.102      | -            | -                | -                | -         |    -0.25 | Experative, nicx, rayxts, TR0JN, Weeza  |
-|            3 |     2795 | 2024-09-17 | NRG                  | L   | 0.102      | -            | -                | -                | -         |    -0.25 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|            8 |     2627 | 2024-09-23 | FLUFFY AIMERS        | L   | 0.142      | -            | -                | -                | -         |    -1.19 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|            7 |     2631 | 2024-09-23 | FLUFFY AIMERS        | L   | 0.142      | -            | -                | -                | -         |    -1.20 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|            6 |     2727 | 2024-09-19 | Legacy               | L   | 0.115      | -            | -                | -                | -         |    -0.43 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|            5 |     2728 | 2024-09-19 | Legacy               | L   | 0.115      | -            | -                | -                | -         |    -0.43 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|            4 |     2792 | 2024-09-17 | NRG                  | L   | 0.102      | -            | -                | -                | -         |    -0.27 | Experative, nicx, rayxts, TR0JN, Weeza  |
+|            3 |     2795 | 2024-09-17 | NRG                  | L   | 0.102      | -            | -                | -                | -         |    -0.27 | Experative, nicx, rayxts, TR0JN, Weeza  |
 |            2 |     3059 | 2024-09-07 | Vagrants             | L   | 0.035      | -            | -                | -                | -         |    -0.48 | Experative, nicx, ogwizard, spud, Weeza |
 |            1 |     3072 | 2024-09-07 | NuTorious            | W   | 0.033      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.033) |     0.24 | Experative, nicx, ogwizard, spud, Weeza |
 

@@ -6,22 +6,22 @@ Global Rank: [247](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [77]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  549.4<br />
+Final Rank Value:  545.4<br />
 <br />
-Final Rank Value (549.4) = Starting Rank Value (527.2) + Head To Head Adjustments (22.2)<br />
+Final Rank Value (545.4) = Starting Rank Value (523.5) + Head To Head Adjustments (22.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.227[<sup>2</sup>](#table1)
-- Opponent Network: 0.041[<sup>2</sup>](#table1)
+- Bounty Collected: 0.224[<sup>2</sup>](#table1)
+- Opponent Network: 0.036[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.067<br />
+The average of these factors is 0.065<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 527.2
-- 400 + ( ( 0.067 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 527.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 523.5
+- 400 + ( ( 0.065 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 523.5
 
 
 #### Factors<br />
@@ -38,11 +38,11 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |      706 | 2025-01-09 | ShindeN                  | L   | 0.861      | -            | -                | -                | -         |    -8.77 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
-|            5 |      777 | 2024-12-21 | Nitro.GG                 | W   | 0.733      | 0.587        | 0.001 (0.001)    | 0.358 (0.154)    | 0 (0.000) |    15.68 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
-|            4 |      786 | 2024-12-20 | UNO MILLE                | L   | 0.727      | -            | -                | -                | -         |    -6.29 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
-|            3 |      821 | 2024-12-17 | Players (Brazilian team) | W   | 0.708      | 0.590        | 0.008 (0.003)    | 0.566 (0.236)    | 0 (0.000) |    17.06 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
-|            2 |      850 | 2024-12-15 | Galorys Academy          | W   | 0.692      | 0.591        | 0.000 (0.000)    | 0.042 (0.017)    | 0 (0.000) |     6.93 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
-|            1 |      889 | 2024-12-13 | Team Solid               | L   | 0.681      | -            | -                | -                | -         |    -2.40 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
+|            5 |      777 | 2024-12-21 | Nitro.GG                 | W   | 0.733      | 0.518        | 0.001 (0.001)    | 0.358 (0.136)    | 0 (0.000) |    15.60 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
+|            4 |      786 | 2024-12-20 | UNO MILLE                | L   | 0.727      | -            | -                | -                | -         |    -6.34 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
+|            3 |      821 | 2024-12-17 | Players (Brazilian team) | W   | 0.708      | 0.517        | 0.008 (0.003)    | 0.566 (0.207)    | 0 (0.000) |    16.97 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
+|            2 |      850 | 2024-12-15 | Galorys Academy          | W   | 0.692      | 0.517        | 0.000 (0.000)    | 0.042 (0.015)    | 0 (0.000) |     7.03 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
+|            1 |      889 | 2024-12-13 | Team Solid               | L   | 0.681      | -            | -                | -                | -         |    -2.52 | CutzMeretz, Jotag3, perez, proSHOW, rainny |
 
 <br />
 <span id="table2"></span><br />

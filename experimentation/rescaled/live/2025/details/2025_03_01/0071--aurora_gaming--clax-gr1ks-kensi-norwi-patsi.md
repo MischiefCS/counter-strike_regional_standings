@@ -4,24 +4,24 @@ Roster: clax, gr1ks, KENSi, Norwi, Patsi<br />
 Global Rank: [71](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
-Regional Rank: [53]( ../../standings_europe_2025_03_01.md)<br />
+Regional Rank: [52]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  933.5<br />
+Final Rank Value:  914.2<br />
 <br />
-Final Rank Value (933.5) = Starting Rank Value (920.1) + Head To Head Adjustments (13.4)<br />
+Final Rank Value (914.2) = Starting Rank Value (899.6) + Head To Head Adjustments (14.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.368[<sup>1</sup>](#table2)
-- Bounty Collected: 0.367[<sup>2</sup>](#table1)
-- Opponent Network: 0.296[<sup>2</sup>](#table1)
+- Bounty Collected: 0.360[<sup>2</sup>](#table1)
+- Opponent Network: 0.259[<sup>2</sup>](#table1)
 - LAN Wins: 0.062[<sup>2</sup>](#table1)
 
-The average of these factors is 0.273<br />
+The average of these factors is 0.263<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 920.1
-- 400 + ( ( 0.273 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 920.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 899.6
+- 400 + ( ( 0.263 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 899.6
 
 
 #### Factors<br />
@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |        2 | 2025-03-01 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |    -9.79 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           34 |       37 | 2025-02-25 | Iberian Soul         | W   | 1.000      | 0.596        | 0.015 (0.009)    | 0.644 (0.384)    | 0 (0.000) |    18.31 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           33 |       56 | 2025-02-24 | Wild Lotus           | W   | 1.000      | 0.596        | -                | 0.462 (0.275)    | 0 (0.000) |    14.15 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           32 |       78 | 2025-02-23 | BC.Game Esports      | L   | 1.000      | -            | -                | -                | -         |    -2.58 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           31 |      117 | 2025-02-22 | EYEBALLERS           | W   | 1.000      | 1.000        | 0.019 (0.019)    | 0.360 (0.360)    | 0 (0.000) |    14.02 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           30 |      146 | 2025-02-21 | OG                   | L   | 1.000      | -            | -                | -                | -         |    -9.62 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           29 |      410 | 2025-02-09 | ALASKA               | L   | 1.000      | -            | -                | -                | -         |   -11.02 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           28 |      551 | 2025-02-05 | UNiTY esports        | W   | 1.000      | 0.760        | 0.025 (0.019)    | 0.177 (0.134)    | 0 (0.000) |    10.80 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           27 |      575 | 2025-02-04 | Ninjas in Pyjamas    | W   | 1.000      | 0.760        | -                | 0.477 (0.363)    | 0 (0.000) |     7.56 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           26 |      645 | 2025-01-28 | Ninjas in Pyjamas    | L   | 0.986      | -            | -                | -                | -         |   -23.99 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           25 |      649 | 2025-01-27 | FAVBET Team          | L   | 0.980      | -            | -                | -                | -         |   -14.57 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           24 |      654 | 2025-01-26 | Ninjas in Pyjamas    | W   | 0.971      | 0.750        | -                | 0.477 (0.348)    | 0 (0.000) |     5.52 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           23 |      926 | 2024-12-11 | GUN5 Esports         | L   | 0.667      | -            | -                | -                | -         |    -7.22 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           22 |      941 | 2024-12-10 | Monte                | L   | 0.659      | -            | -                | -                | -         |   -12.10 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           21 |      946 | 2024-12-09 | Sashi Esport         | W   | 0.653      | 0.876        | 0.013 (0.008)    | 0.582 (0.333)    | 0 (0.000) |    15.94 | clax, gr1ks, KENSi, Norwi, Patsi |
-|           20 |     1298 | 2024-11-22 | 9Pandas              | L   | 0.543      | -            | -                | -                | -         |    -3.85 | clax, deko, KENSi, Lack1, Norwi  |
+|           35 |        2 | 2025-03-01 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |    -9.38 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           34 |       37 | 2025-02-25 | Iberian Soul         | W   | 1.000      | 0.542        | 0.015 (0.008)    | 0.644 (0.350)    | 0 (0.000) |    17.63 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           33 |       56 | 2025-02-24 | Wild Lotus           | W   | 1.000      | 0.541        | -                | 0.462 (0.250)    | 0 (0.000) |    14.36 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           32 |       78 | 2025-02-23 | BC.Game Esports      | L   | 1.000      | -            | -                | -                | -         |    -2.52 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           31 |      117 | 2025-02-22 | EYEBALLERS           | W   | 1.000      | 1.000        | 0.019 (0.019)    | 0.360 (0.360)    | 0 (0.000) |    13.94 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           30 |      146 | 2025-02-21 | OG                   | L   | 1.000      | -            | -                | -                | -         |    -9.89 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           29 |      410 | 2025-02-09 | ALASKA               | L   | 1.000      | -            | -                | -                | -         |   -11.30 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           28 |      551 | 2025-02-05 | UNiTY esports        | W   | 1.000      | 0.618        | 0.025 (0.016)    | -                | 0 (0.000) |    11.17 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           27 |      575 | 2025-02-04 | Ninjas in Pyjamas    | W   | 1.000      | 0.616        | -                | 0.477 (0.294)    | 0 (0.000) |     7.73 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           26 |      645 | 2025-01-28 | Ninjas in Pyjamas    | L   | 0.986      | -            | -                | -                | -         |   -23.81 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           25 |      649 | 2025-01-27 | FAVBET Team          | L   | 0.980      | -            | -                | -                | -         |   -14.56 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           24 |      654 | 2025-01-26 | Ninjas in Pyjamas    | W   | 0.971      | 0.595        | -                | 0.477 (0.276)    | 0 (0.000) |     5.67 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           23 |      926 | 2024-12-11 | GUN5 Esports         | L   | 0.667      | -            | -                | -                | -         |    -7.45 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           22 |      941 | 2024-12-10 | Monte                | L   | 0.659      | -            | -                | -                | -         |   -11.68 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           21 |      946 | 2024-12-09 | Sashi Esport         | W   | 0.653      | 0.670        | 0.013 (0.006)    | 0.582 (0.255)    | 0 (0.000) |    15.89 | clax, gr1ks, KENSi, Norwi, Patsi |
+|           20 |     1298 | 2024-11-22 | 9Pandas              | L   | 0.543      | -            | -                | -                | -         |    -3.88 | clax, deko, KENSi, Lack1, Norwi  |
 |           19 |     1329 | 2024-11-21 | Team Spirit          | L   | 0.536      | -            | -                | -                | -         |    -0.05 | clax, deko, KENSi, Lack1, Norwi  |
-|           18 |     1340 | 2024-11-21 | B8                   | W   | 0.531      | 1.000        | 0.124 (0.066)    | 0.695 (0.369)    | 1 (0.531) |    14.23 | clax, deko, KENSi, Lack1, Norwi  |
-|           17 |     1353 | 2024-11-20 | Eternal Fire         | L   | 0.530      | -            | -                | -                | -         |    -0.07 | clax, deko, KENSi, Lack1, Norwi  |
-|           16 |     1624 | 2024-11-08 | Natus Vincere Junior | L   | 0.445      | -            | -                | -                | -         |    -3.75 | clax, deko, KENSi, Lack1, Norwi  |
-|           15 |     1635 | 2024-11-07 | 9Pandas              | W   | 0.439      | 1.000        | 0.084 (0.037)    | 0.560 (0.246)    | 0 (0.000) |    10.39 | clax, deko, KENSi, Lack1, Norwi  |
-|           14 |     1663 | 2024-11-05 | 9INE                 | W   | 0.425      | 1.000        | 0.011 (0.005)    | -                | 0 (0.000) |     4.07 | clax, deko, KENSi, Lack1, Norwi  |
-|           13 |     1918 | 2024-10-17 | Nemiga Gaming        | L   | 0.297      | -            | -                | -                | -         |    -2.63 | clax, deko, KENSi, Lack1, Norwi  |
-|           12 |     1946 | 2024-10-16 | Fluxo                | L   | 0.290      | -            | -                | -                | -         |    -2.90 | clax, deko, KENSi, Lack1, Norwi  |
-|           11 |     1960 | 2024-10-15 | PARIVISION           | L   | 0.286      | -            | -                | -                | -         |    -6.72 | clax, deko, KENSi, Lack1, Norwi  |
+|           18 |     1340 | 2024-11-21 | B8                   | W   | 0.531      | 1.000        | 0.124 (0.066)    | 0.695 (0.369)    | 1 (0.531) |    14.29 | clax, deko, KENSi, Lack1, Norwi  |
+|           17 |     1353 | 2024-11-20 | Eternal Fire         | L   | 0.530      | -            | -                | -                | -         |    -0.06 | clax, deko, KENSi, Lack1, Norwi  |
+|           16 |     1624 | 2024-11-08 | Natus Vincere Junior | L   | 0.445      | -            | -                | -                | -         |    -3.80 | clax, deko, KENSi, Lack1, Norwi  |
+|           15 |     1635 | 2024-11-07 | 9Pandas              | W   | 0.439      | 0.733        | 0.084 (0.027)    | 0.560 (0.180)    | 0 (0.000) |    10.37 | clax, deko, KENSi, Lack1, Norwi  |
+|           14 |     1663 | 2024-11-05 | 9INE                 | W   | 0.425      | 0.825        | 0.011 (0.004)    | -                | 0 (0.000) |     4.29 | clax, deko, KENSi, Lack1, Norwi  |
+|           13 |     1918 | 2024-10-17 | Nemiga Gaming        | L   | 0.297      | -            | -                | -                | -         |    -2.54 | clax, deko, KENSi, Lack1, Norwi  |
+|           12 |     1946 | 2024-10-16 | Fluxo                | L   | 0.290      | -            | -                | -                | -         |    -2.86 | clax, deko, KENSi, Lack1, Norwi  |
+|           11 |     1960 | 2024-10-15 | PARIVISION           | L   | 0.286      | -            | -                | -                | -         |    -6.54 | clax, deko, KENSi, Lack1, Norwi  |
 |           10 |     1974 | 2024-10-13 | FAVBET Team          | L   | 0.272      | -            | -                | -                | -         |    -4.16 | clax, deko, KENSi, Lack1, Norwi  |
-|            9 |     1986 | 2024-10-12 | Metizport            | W   | 0.265      | 0.769        | 0.074 (0.015)    | -                | -         |     6.59 | clax, deko, KENSi, Lack1, Norwi  |
-|            8 |     2006 | 2024-10-10 | Zero Tenacity        | W   | 0.250      | 0.776        | 0.026 (0.005)    | -                | -         |     3.88 | clax, deko, KENSi, Lack1, Norwi  |
-|            7 |     2215 | 2024-10-04 | Passion UA           | L   | 0.211      | -            | -                | -                | -         |    -1.16 | clax, deko, KENSi, Lack1, Norwi  |
-|            6 |     2415 | 2024-09-28 | GamerLegion          | L   | 0.172      | -            | -                | -                | -         |    -4.17 | clax, deko, KENSi, Lack1, Norwi  |
-|            5 |     2451 | 2024-09-27 | ECSTATIC             | W   | 0.165      | 0.895        | 0.033 (0.005)    | 1.000 (0.148)    | -         |     3.42 | clax, deko, KENSi, Lack1, Norwi  |
-|            4 |     2495 | 2024-09-26 | 3DMAX                | L   | 0.159      | -            | -                | -                | -         |    -0.10 | clax, deko, KENSi, Lack1, Norwi  |
-|            3 |     2502 | 2024-09-26 | Wild Lotus           | W   | 0.158      | -            | -                | -                | -         |     1.94 | clax, deko, KENSi, Lack1, Norwi  |
-|            2 |     2541 | 2024-09-25 | Endpoint             | W   | 0.153      | -            | -                | -                | -         |     1.66 | clax, deko, KENSi, Lack1, Norwi  |
-|            1 |     2601 | 2024-09-24 | AMKAL ESPORTS        | W   | 0.146      | -            | -                | -                | -         |     1.36 | clax, deko, KENSi, Lack1, Norwi  |
+|            9 |     1986 | 2024-10-12 | Metizport            | W   | 0.265      | 0.651        | 0.074 (0.013)    | 0.654 (0.113)    | -         |     6.63 | clax, deko, KENSi, Lack1, Norwi  |
+|            8 |     2006 | 2024-10-10 | Zero Tenacity        | W   | 0.250      | 0.654        | 0.026 (0.004)    | -                | -         |     4.02 | clax, deko, KENSi, Lack1, Norwi  |
+|            7 |     2215 | 2024-10-04 | Passion UA           | L   | 0.211      | -            | -                | -                | -         |    -1.06 | clax, deko, KENSi, Lack1, Norwi  |
+|            6 |     2415 | 2024-09-28 | GamerLegion          | L   | 0.172      | -            | -                | -                | -         |    -4.05 | clax, deko, KENSi, Lack1, Norwi  |
+|            5 |     2451 | 2024-09-27 | ECSTATIC             | W   | 0.165      | 0.895        | 0.033 (0.005)    | 1.000 (0.148)    | -         |     3.22 | clax, deko, KENSi, Lack1, Norwi  |
+|            4 |     2495 | 2024-09-26 | 3DMAX                | L   | 0.159      | -            | -                | -                | -         |    -0.09 | clax, deko, KENSi, Lack1, Norwi  |
+|            3 |     2502 | 2024-09-26 | Wild Lotus           | W   | 0.158      | -            | -                | -                | -         |     2.00 | clax, deko, KENSi, Lack1, Norwi  |
+|            2 |     2541 | 2024-09-25 | Endpoint             | W   | 0.153      | -            | -                | -                | -         |     1.63 | clax, deko, KENSi, Lack1, Norwi  |
+|            1 |     2601 | 2024-09-24 | AMKAL ESPORTS        | W   | 0.146      | -            | -                | -                | -         |     1.48 | clax, deko, KENSi, Lack1, Norwi  |
 
 <br />
 <span id="table2"></span><br />

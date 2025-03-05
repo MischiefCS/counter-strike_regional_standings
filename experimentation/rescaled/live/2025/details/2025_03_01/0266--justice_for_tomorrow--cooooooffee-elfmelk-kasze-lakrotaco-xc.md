@@ -6,22 +6,22 @@ Global Rank: [266](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [42]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  495.9<br />
+Final Rank Value:  495.1<br />
 <br />
-Final Rank Value (495.9) = Starting Rank Value (493.2) + Head To Head Adjustments (2.7)<br />
+Final Rank Value (495.1) = Starting Rank Value (492.4) + Head To Head Adjustments (2.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.184[<sup>2</sup>](#table1)
-- Opponent Network: 0.012[<sup>2</sup>](#table1)
+- Bounty Collected: 0.183[<sup>2</sup>](#table1)
+- Opponent Network: 0.011[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.049<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 493.2
-- 400 + ( ( 0.049 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 493.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 492.4
+- 400 + ( ( 0.049 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 492.4
 
 
 #### Factors<br />
@@ -38,10 +38,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |       52 | 2025-02-24 | Only One Word    | L   | 1.000      | -            | -                | -                | -         |   -11.83 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc       |
-|            4 |       71 | 2025-02-23 | KZG              | L   | 1.000      | -            | -                | -                | -         |   -12.27 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc       |
-|            3 |      218 | 2025-02-15 | MANTRA           | W   | 1.000      | 0.353        | 0.000 (0.000)    | 0.129 (0.045)    | 0 (0.000) |    18.86 | bixiaoxi, COOOOOOFFEE, ELFMELK, kasze, LakroTaco |
-|            2 |      253 | 2025-02-14 | SemperFi Esports | L   | 1.000      | -            | -                | -                | -         |   -11.89 | bixiaoxi, COOOOOOFFEE, ELFMELK, kasze, LakroTaco |
-|            1 |      256 | 2025-02-14 | KZG              | W   | 1.000      | 0.353        | 0.001 (0.000)    | 0.211 (0.074)    | 0 (0.000) |    19.86 | bixiaoxi, COOOOOOFFEE, ELFMELK, kasze, LakroTaco |
+|            4 |       71 | 2025-02-23 | KZG              | L   | 1.000      | -            | -                | -                | -         |   -12.25 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc       |
+|            3 |      218 | 2025-02-15 | MANTRA           | W   | 1.000      | 0.332        | 0.000 (0.000)    | 0.129 (0.043)    | 0 (0.000) |    18.86 | bixiaoxi, COOOOOOFFEE, ELFMELK, kasze, LakroTaco |
+|            2 |      253 | 2025-02-14 | SemperFi Esports | L   | 1.000      | -            | -                | -                | -         |   -11.96 | bixiaoxi, COOOOOOFFEE, ELFMELK, kasze, LakroTaco |
+|            1 |      256 | 2025-02-14 | KZG              | W   | 1.000      | 0.331        | 0.001 (0.000)    | 0.211 (0.070)    | 0 (0.000) |    19.87 | bixiaoxi, COOOOOOFFEE, ELFMELK, kasze, LakroTaco |
 
 <br />
 <span id="table2"></span><br />

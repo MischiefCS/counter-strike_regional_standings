@@ -38,10 +38,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |     1106 | 2024-12-02 | Bad Boys           | L   | 0.609      | -            | -                | -                | -         |    -4.02 | dvrk, emothug, Halen, sasha, Zucar    |
-|            4 |     2705 | 2024-09-20 | InControl          | L   | 0.122      | -            | -                | -                | -         |    -0.84 | dvrk, hunger, Pose1doNN, sasha, Zucar |
+|            4 |     2705 | 2024-09-20 | InControl          | L   | 0.122      | -            | -                | -                | -         |    -0.85 | dvrk, hunger, Pose1doNN, sasha, Zucar |
 |            3 |     2838 | 2024-09-15 | What's for Dinner  | W   | 0.088      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.39 | dvrk, hunger, Pose1doNN, sasha, Zucar |
 |            2 |     2932 | 2024-09-12 | MIGHT              | L   | 0.068      | -            | -                | -                | -         |    -0.27 | dvrk, hunger, Pose1doNN, sasha, Zucar |
-|            1 |     3000 | 2024-09-10 | Familia Maquininha | L   | 0.054      | -            | -                | -                | -         |    -0.32 | dvrk, hunger, Pose1doNN, sasha, Zucar |
+|            1 |     3000 | 2024-09-10 | Familia Maquininha | L   | 0.054      | -            | -                | -                | -         |    -0.33 | dvrk, hunger, Pose1doNN, sasha, Zucar |
 
 <br />
 <span id="table2"></span><br />

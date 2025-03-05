@@ -6,9 +6,9 @@ Global Rank: [254](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [142]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  534.7<br />
+Final Rank Value:  533.2<br />
 <br />
-Final Rank Value (534.7) = Starting Rank Value (533.2) + Head To Head Adjustments (1.5)<br />
+Final Rank Value (533.2) = Starting Rank Value (533.2) + Head To Head Adjustments (-0.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      561 | 2025-02-05 | RUSH B (Russian team) | L   | 1.000      | -            | -                | -                | -         |    -2.80 | hAdji, k1to, meztal, OWNER, Woro2k        |
-|           11 |      577 | 2025-02-04 | KONO.ECF              | L   | 1.000      | -            | -                | -                | -         |    -7.88 | hAdji, k1to, meztal, OWNER, Woro2k        |
-|           10 |      650 | 2025-01-27 | Zero Tenacity         | L   | 0.979      | -            | -                | -                | -         |    -4.04 | adamS, hAdji, juanflatroo, meztal, Woro2k |
-|            9 |     2155 | 2024-10-06 | FAVBET Team           | L   | 0.225      | -            | -                | -                | -         |    -0.77 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
-|            8 |     2182 | 2024-10-05 | Monte                 | L   | 0.218      | -            | -                | -                | -         |    -1.06 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
+|           12 |      561 | 2025-02-05 | RUSH B (Russian team) | L   | 1.000      | -            | -                | -                | -         |    -3.09 | hAdji, k1to, meztal, OWNER, Woro2k        |
+|           11 |      577 | 2025-02-04 | KONO.ECF              | L   | 1.000      | -            | -                | -                | -         |    -8.62 | hAdji, k1to, meztal, OWNER, Woro2k        |
+|           10 |      650 | 2025-01-27 | Zero Tenacity         | L   | 0.979      | -            | -                | -                | -         |    -4.27 | adamS, hAdji, juanflatroo, meztal, Woro2k |
+|            9 |     2155 | 2024-10-06 | FAVBET Team           | L   | 0.225      | -            | -                | -                | -         |    -0.85 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
+|            8 |     2182 | 2024-10-05 | Monte                 | L   | 0.218      | -            | -                | -                | -         |    -1.07 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
 |            7 |     2204 | 2024-10-04 | GamerLegion           | L   | 0.213      | -            | -                | -                | -         |    -0.02 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
-|            6 |     2305 | 2024-10-02 | Los kogutos           | W   | 0.197      | 0.570        | 0.027 (0.003)    | 0.387 (0.043)    | 0 (0.000) |     5.60 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
-|            5 |     2368 | 2024-09-30 | ALTERNATE aTTaX       | W   | 0.186      | 0.683        | 0.020 (0.003)    | 0.351 (0.045)    | 0 (0.000) |     5.11 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
-|            4 |     2377 | 2024-09-30 | TSM                   | L   | 0.185      | -            | -                | -                | -         |    -1.33 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
-|            3 |     2412 | 2024-09-28 | Team Spirit Academy   | L   | 0.172      | -            | -                | -                | -         |    -0.32 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
-|            2 |     2500 | 2024-09-26 | FAVBET Team           | W   | 0.158      | 0.700        | 0.029 (0.003)    | 0.608 (0.067)    | 0 (0.000) |     4.51 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
+|            6 |     2305 | 2024-10-02 | Los kogutos           | W   | 0.197      | 0.570        | 0.027 (0.003)    | 0.387 (0.043)    | 0 (0.000) |     5.58 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
+|            5 |     2368 | 2024-09-30 | ALTERNATE aTTaX       | W   | 0.186      | 0.683        | 0.020 (0.003)    | 0.351 (0.045)    | 0 (0.000) |     5.09 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
+|            4 |     2377 | 2024-09-30 | TSM                   | L   | 0.185      | -            | -                | -                | -         |    -1.34 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
+|            3 |     2412 | 2024-09-28 | Team Spirit Academy   | L   | 0.172      | -            | -                | -                | -         |    -0.41 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
+|            2 |     2500 | 2024-09-26 | FAVBET Team           | W   | 0.158      | 0.700        | 0.029 (0.003)    | 0.608 (0.067)    | 0 (0.000) |     4.46 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
 |            1 |     2603 | 2024-09-24 | Passion UA            | W   | 0.146      | 0.709        | 0.044 (0.005)    | 0.588 (0.061)    | 0 (0.000) |     4.48 | AMSALEM, hAdji, Kvem, meztal, Woro2k      |
 
 <br />

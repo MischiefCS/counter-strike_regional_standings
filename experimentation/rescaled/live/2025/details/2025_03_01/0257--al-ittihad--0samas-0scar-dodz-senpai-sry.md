@@ -6,9 +6,9 @@ Global Rank: [257](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [39]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  530.7<br />
+Final Rank Value:  529.8<br />
 <br />
-Final Rank Value (530.7) = Starting Rank Value (530.9) + Head To Head Adjustments (-0.2)<br />
+Final Rank Value (529.8) = Starting Rank Value (530.8) + Head To Head Adjustments (-1.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.069<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 530.9
-- 400 + ( ( 0.069 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 530.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 530.8
+- 400 + ( ( 0.069 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 530.8
 
 
 #### Factors<br />
@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |       24 | 2025-02-26 | JiJieHao          | L   | 1.000      | -            | -                | -                | -         |    -9.32 | 0SAMAS, 0scar, dodz, Senpai, sry  |
-|            4 |       27 | 2025-02-26 | Mindshock         | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.060 (0.020)    | 0 (0.000) |    10.07 | 0SAMAS, 0scar, dodz, Senpai, sry  |
-|            3 |       40 | 2025-02-25 | JiJieHao          | L   | 1.000      | -            | -                | -                | -         |    -9.65 | 0SAMAS, 0scar, dodz, Senpai, sry  |
-|            2 |       61 | 2025-02-24 | Mindshock         | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.060 (0.020)    | 0 (0.000) |     9.88 | 0SAMAS, 0scar, dodz, Senpai, sry  |
-|            1 |     1276 | 2024-11-23 | Fire Flux Esports | L   | 0.547      | -            | -                | -                | -         |    -1.19 | 0SAMAS, 0scar, Dodal, NAKO, ViTaL |
+|            5 |       24 | 2025-02-26 | JiJieHao          | L   | 1.000      | -            | -                | -                | -         |    -9.64 | 0SAMAS, 0scar, dodz, Senpai, sry  |
+|            4 |       27 | 2025-02-26 | Mindshock         | W   | 1.000      | 0.318        | 0.000 (0.000)    | 0.060 (0.019)    | 0 (0.000) |    10.10 | 0SAMAS, 0scar, dodz, Senpai, sry  |
+|            3 |       40 | 2025-02-25 | JiJieHao          | L   | 1.000      | -            | -                | -                | -         |   -10.00 | 0SAMAS, 0scar, dodz, Senpai, sry  |
+|            2 |       61 | 2025-02-24 | Mindshock         | W   | 1.000      | 0.317        | 0.000 (0.000)    | 0.060 (0.019)    | 0 (0.000) |     9.89 | 0SAMAS, 0scar, dodz, Senpai, sry  |
+|            1 |     1276 | 2024-11-23 | Fire Flux Esports | L   | 0.547      | -            | -                | -                | -         |    -1.33 | 0SAMAS, 0scar, Dodal, NAKO, ViTaL |
 
 <br />
 <span id="table2"></span><br />

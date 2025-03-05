@@ -40,7 +40,7 @@ Note:<br />
 |            5 |     1855 | 2024-10-19 | Fisher College    | L   | 0.315      | -            | -                | -                | -         |    -1.24 | CoJoMo, Gabe, mds, Outback, REKMEISTER |
 |            4 |     2667 | 2024-09-22 | Lore Gaming       | L   | 0.133      | -            | -                | -                | -         |    -2.10 | CoJoMo, Gabe, Louie, mds, shutout      |
 |            3 |     2706 | 2024-09-20 | Final Form        | L   | 0.121      | -            | -                | -                | -         |    -1.40 | CoJoMo, Gabe, Louie, mds, shutout      |
-|            2 |     2821 | 2024-09-16 | Undone            | L   | 0.094      | -            | -                | -                | -         |    -0.33 | CoJoMo, Gabe, Louie, mds, shutout      |
+|            2 |     2821 | 2024-09-16 | Undone            | L   | 0.094      | -            | -                | -                | -         |    -0.34 | CoJoMo, Gabe, Louie, mds, shutout      |
 |            1 |     2905 | 2024-09-13 | What's for Dinner | W   | 0.075      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.18 | CoJoMo, Gabe, Louie, mds, shutout      |
 
 <br />

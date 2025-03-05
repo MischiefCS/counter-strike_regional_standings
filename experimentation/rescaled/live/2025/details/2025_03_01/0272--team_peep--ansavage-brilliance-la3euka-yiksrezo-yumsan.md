@@ -6,9 +6,9 @@ Global Rank: [272](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [148]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  485.0<br />
+Final Rank Value:  484.9<br />
 <br />
-Final Rank Value (485.0) = Starting Rank Value (486.4) + Head To Head Adjustments (-1.4)<br />
+Final Rank Value (484.9) = Starting Rank Value (486.4) + Head To Head Adjustments (-1.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,10 +37,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     2572 | 2024-09-25 | Copenhagen Wolves (American organization) | L   | 0.150      | -            | -                | -                | -         |    -1.99 | aNsavage, Brilliance, la3euka, yiksrezo, YumsaN   |
-|            4 |     2625 | 2024-09-24 | Team Spirit Academy                       | L   | 0.144      | -            | -                | -                | -         |    -0.20 | aNsavage, Brilliance, la3euka, yiksrezo, YumsaN   |
+|            5 |     2572 | 2024-09-25 | Copenhagen Wolves (American organization) | L   | 0.150      | -            | -                | -                | -         |    -2.00 | aNsavage, Brilliance, la3euka, yiksrezo, YumsaN   |
+|            4 |     2625 | 2024-09-24 | Team Spirit Academy                       | L   | 0.144      | -            | -                | -                | -         |    -0.26 | aNsavage, Brilliance, la3euka, yiksrezo, YumsaN   |
 |            3 |     3030 | 2024-09-09 | Passion UA                                | L   | 0.046      | -            | -                | -                | -         |    -0.03 | bogemtdarf, Brilliance, GREATEST, la3euka, YumsaN |
-|            2 |     3079 | 2024-09-07 | UNiTY esports                             | W   | 0.032      | 0.372        | 0.025 (0.000)    | 0.177 (0.002)    | 0 (0.000) |     0.88 | bogemtdarf, Brilliance, GREATEST, la3euka, YumsaN |
+|            2 |     3079 | 2024-09-07 | UNiTY esports                             | W   | 0.032      | 0.372        | 0.025 (0.000)    | 0.177 (0.002)    | 0 (0.000) |     0.87 | bogemtdarf, Brilliance, GREATEST, la3euka, YumsaN |
 |            1 |     3201 | 2024-09-03 | FLuffy Gangsters                          | L   | 0.006      | -            | -                | -                | -         |    -0.04 | bogemtdarf, Brilliance, GREATEST, la3euka, YumsaN |
 
 <br />

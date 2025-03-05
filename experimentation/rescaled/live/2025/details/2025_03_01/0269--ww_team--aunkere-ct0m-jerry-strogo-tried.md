@@ -6,9 +6,9 @@ Global Rank: [269](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [146]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  489.7<br />
+Final Rank Value:  489.2<br />
 <br />
-Final Rank Value (489.7) = Starting Rank Value (495.7) + Head To Head Adjustments (-6.1)<br />
+Final Rank Value (489.2) = Starting Rank Value (495.7) + Head To Head Adjustments (-6.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,15 +37,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1544 | 2024-11-12 | BC.Game Esports    | L   | 0.472      | -            | -                | -                | -         |    -2.35 | Aunkere, ct0m, Jerry, StRoGo, tried  |
-|           10 |     1566 | 2024-11-11 | FLuffy Gangsters   | L   | 0.467      | -            | -                | -                | -         |    -3.34 | Aunkere, ct0m, Jerry, StRoGo, tried  |
+|           11 |     1544 | 2024-11-12 | BC.Game Esports    | L   | 0.472      | -            | -                | -                | -         |    -2.53 | Aunkere, ct0m, Jerry, StRoGo, tried  |
+|           10 |     1566 | 2024-11-11 | FLuffy Gangsters   | L   | 0.467      | -            | -                | -                | -         |    -3.46 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            9 |     2391 | 2024-09-29 | Monte Gen          | L   | 0.179      | -            | -                | -                | -         |    -3.58 | Aunkere, ct0m, kelieN, StRoGo, tried |
-|            8 |     2461 | 2024-09-27 | Endpoint           | W   | 0.164      | 0.654        | 0.009 (0.001)    | 0.233 (0.025)    | 0 (0.000) |     4.39 | Aunkere, ct0m, Jerry, StRoGo, tried  |
+|            8 |     2461 | 2024-09-27 | Endpoint           | W   | 0.164      | 0.654        | 0.009 (0.001)    | 0.233 (0.025)    | 0 (0.000) |     4.29 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            7 |     2566 | 2024-09-25 | Passion UA         | L   | 0.151      | -            | -                | -                | -         |    -0.09 | Aunkere, ct0m, Jerry, StRoGo, tried  |
-|            6 |     2652 | 2024-09-23 | FAVBET Team        | L   | 0.139      | -            | -                | -                | -         |    -0.33 | Aunkere, ct0m, Jerry, StRoGo, tried  |
+|            6 |     2652 | 2024-09-23 | FAVBET Team        | L   | 0.139      | -            | -                | -                | -         |    -0.37 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            5 |     2823 | 2024-09-16 | CYBERSHOKE Esports | L   | 0.093      | -            | -                | -                | -         |    -0.95 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            4 |     2826 | 2024-09-16 | BOGATYRI           | W   | 0.092      | 0.487        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.07 | Aunkere, ct0m, Jerry, StRoGo, tried  |
-|            3 |     2831 | 2024-09-16 | CYBERSHOKE Esports | L   | 0.091      | -            | -                | -                | -         |    -0.15 | Aunkere, ct0m, Jerry, StRoGo, tried  |
+|            3 |     2831 | 2024-09-16 | CYBERSHOKE Esports | L   | 0.091      | -            | -                | -                | -         |    -0.16 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            2 |     3022 | 2024-09-10 | GTZ.ESPORTS        | L   | 0.050      | -            | -                | -                | -         |    -0.04 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 |            1 |     3039 | 2024-09-09 | TALON              | L   | 0.044      | -            | -                | -                | -         |    -0.68 | Aunkere, ct0m, Jerry, StRoGo, tried  |
 

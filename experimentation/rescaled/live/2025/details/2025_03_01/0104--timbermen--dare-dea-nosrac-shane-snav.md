@@ -6,22 +6,22 @@ Global Rank: [104](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [21]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  773.3<br />
+Final Rank Value:  811.4<br />
 <br />
-Final Rank Value (773.3) = Starting Rank Value (730.0) + Head To Head Adjustments (43.3)<br />
+Final Rank Value (811.4) = Starting Rank Value (771.3) + Head To Head Adjustments (40.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.338[<sup>1</sup>](#table2)
-- Bounty Collected: 0.279[<sup>2</sup>](#table1)
-- Opponent Network: 0.064[<sup>2</sup>](#table1)
+- Bounty Collected: 0.305[<sup>2</sup>](#table1)
+- Opponent Network: 0.125[<sup>2</sup>](#table1)
 - LAN Wins: 0.013[<sup>2</sup>](#table1)
 
-The average of these factors is 0.173<br />
+The average of these factors is 0.195<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 730.0
-- 400 + ( ( 0.173 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 730.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 771.3
+- 400 + ( ( 0.195 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 771.3
 
 
 #### Factors<br />
@@ -37,30 +37,30 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           24 |      837 | 2024-12-15 | NRG                 | W   | 0.695      | 0.464        | 0.049 (0.016)    | 0.559 (0.181)    | 0 (0.000) |    17.77 | dare, dea, nosraC, shane, snav  |
-|           23 |      840 | 2024-12-15 | Nouns Esports       | W   | 0.695      | 0.464        | 0.007 (0.002)    | 0.361 (0.116)    | 0 (0.000) |    14.36 | dare, dea, nosraC, shane, snav  |
-|           22 |      859 | 2024-12-14 | BOSS                | W   | 0.689      | 0.464        | 0.014 (0.005)    | 0.410 (0.131)    | 0 (0.000) |    15.71 | dare, dea, nosraC, shane, snav  |
-|           21 |     1252 | 2024-11-24 | NRG                 | L   | 0.554      | -            | -                | -                | -         |    -3.10 | dare, dea, nosraC, shane, snav  |
-|           20 |     1272 | 2024-11-23 | Party Astronauts    | W   | 0.548      | 0.445        | 0.008 (0.002)    | 0.430 (0.105)    | 0 (0.000) |    10.31 | dare, dea, nosraC, shane, snav  |
-|           19 |     1950 | 2024-10-15 | Familia Maquininha  | L   | 0.288      | -            | -                | -                | -         |    -5.24 | aleph, dare, nero, shane, snav  |
-|           18 |     2010 | 2024-10-09 | Vagrants            | W   | 0.249      | 0.500        | 0.001 (0.000)    | 0.174 (0.022)    | 0 (0.000) |     3.16 | aleph, dare, nero, shane, snav  |
-|           17 |     2017 | 2024-10-09 | Vagrants            | L   | 0.248      | -            | -                | -                | -         |    -4.75 | aleph, dare, nero, shane, snav  |
-|           16 |     2065 | 2024-10-08 | FLUFFY AIMERS       | W   | 0.242      | 0.500        | 0.005 (0.001)    | 0.223 (0.027)    | 0 (0.000) |     4.64 | aleph, dare, nero, shane, snav  |
-|           15 |     2071 | 2024-10-08 | FLUFFY AIMERS       | L   | 0.242      | -            | -                | -                | -         |    -3.02 | aleph, dare, nero, shane, snav  |
-|           14 |     2226 | 2024-10-03 | Party Astronauts    | L   | 0.209      | -            | -                | -                | -         |    -2.87 | aleph, dare, nero, shane, snav  |
-|           13 |     2232 | 2024-10-03 | Party Astronauts    | W   | 0.208      | 0.500        | 0.008 (0.001)    | 0.430 (0.045)    | 0 (0.000) |     3.75 | aleph, dare, nero, shane, snav  |
-|           12 |     2366 | 2024-09-30 | Familia Maquininha  | W   | 0.188      | 0.371        | 0.003 (0.000)    | 0.133 (0.009)    | -         |     2.50 | aleph, dare, nero, shane, snav  |
-|           11 |     2467 | 2024-09-26 | M80                 | L   | 0.162      | -            | -                | -                | -         |    -1.11 | aleph, dare, nero, shane, snav  |
-|           10 |     2468 | 2024-09-26 | M80                 | L   | 0.162      | -            | -                | -                | -         |    -1.12 | aleph, dare, nero, shane, snav  |
-|            9 |     2576 | 2024-09-24 | NRG                 | L   | 0.149      | -            | -                | -                | -         |    -0.75 | aleph, dare, nero, shane, snav  |
-|            8 |     2580 | 2024-09-24 | NRG                 | L   | 0.148      | -            | -                | -                | -         |    -0.75 | aleph, dare, nero, shane, snav  |
-|            7 |     2628 | 2024-09-23 | Familia Maquininha  | L   | 0.142      | -            | -                | -                | -         |    -2.63 | aleph, dare, nero, shane, snav  |
-|            6 |     2632 | 2024-09-23 | Familia Maquininha  | L   | 0.142      | -            | -                | -                | -         |    -2.66 | aleph, dare, nero, shane, snav  |
-|            5 |     2687 | 2024-09-21 | BOSS                | L   | 0.128      | -            | -                | -                | -         |    -1.07 | dare, dea, intra, shane, snav   |
-|            4 |     3040 | 2024-09-08 | Nouns Esports       | L   | 0.042      | -            | -                | -                | -         |    -0.68 | dare, dea, Peeping, shane, snav |
-|            3 |     3041 | 2024-09-08 | Bad News Capybaras  | W   | 0.041      | 0.333        | 0.001 (0.000)    | 0.148 (0.002)    | 1 (0.041) |     0.52 | dare, dea, Peeping, shane, snav |
-|            2 |     3061 | 2024-09-07 | BHOP Esports        | W   | 0.035      | 0.333        | 0.000 (0.000)    | 0.002 (0.000)    | 1 (0.035) |     0.15 | dare, dea, Peeping, shane, snav |
-|            1 |     3062 | 2024-09-07 | MMM (American team) | W   | 0.034      | -            | -                | -                | 1 (0.034) |     0.14 | dare, dea, Peeping, shane, snav |
+|           24 |      837 | 2024-12-15 | NRG                 | W   | 0.695      | 0.949        | 0.049 (0.032)    | 0.559 (0.369)    | 0 (0.000) |    17.89 | dare, dea, nosraC, shane, snav  |
+|           23 |      840 | 2024-12-15 | Nouns Esports       | W   | 0.695      | 0.949        | 0.007 (0.004)    | 0.361 (0.238)    | 0 (0.000) |    14.36 | dare, dea, nosraC, shane, snav  |
+|           22 |      859 | 2024-12-14 | BOSS                | W   | 0.689      | 0.951        | 0.014 (0.009)    | 0.410 (0.269)    | 0 (0.000) |    15.56 | dare, dea, nosraC, shane, snav  |
+|           21 |     1252 | 2024-11-24 | NRG                 | L   | 0.554      | -            | -                | -                | -         |    -3.00 | dare, dea, nosraC, shane, snav  |
+|           20 |     1272 | 2024-11-23 | Party Astronauts    | W   | 0.548      | 0.895        | 0.008 (0.004)    | 0.430 (0.211)    | 0 (0.000) |     9.97 | dare, dea, nosraC, shane, snav  |
+|           19 |     1950 | 2024-10-15 | Familia Maquininha  | L   | 0.288      | -            | -                | -                | -         |    -5.67 | aleph, dare, nero, shane, snav  |
+|           18 |     2010 | 2024-10-09 | Vagrants            | W   | 0.249      | 0.827        | 0.001 (0.000)    | 0.174 (0.036)    | 0 (0.000) |     2.85 | aleph, dare, nero, shane, snav  |
+|           17 |     2017 | 2024-10-09 | Vagrants            | L   | 0.248      | -            | -                | -                | -         |    -5.06 | aleph, dare, nero, shane, snav  |
+|           16 |     2065 | 2024-10-08 | FLUFFY AIMERS       | W   | 0.242      | 0.831        | 0.005 (0.001)    | 0.223 (0.045)    | 0 (0.000) |     4.31 | aleph, dare, nero, shane, snav  |
+|           15 |     2071 | 2024-10-08 | FLUFFY AIMERS       | L   | 0.242      | -            | -                | -                | -         |    -3.36 | aleph, dare, nero, shane, snav  |
+|           14 |     2226 | 2024-10-03 | Party Astronauts    | L   | 0.209      | -            | -                | -                | -         |    -3.02 | aleph, dare, nero, shane, snav  |
+|           13 |     2232 | 2024-10-03 | Party Astronauts    | W   | 0.208      | 0.789        | 0.008 (0.001)    | 0.430 (0.071)    | 0 (0.000) |     3.60 | aleph, dare, nero, shane, snav  |
+|           12 |     2366 | 2024-09-30 | Familia Maquininha  | W   | 0.188      | 0.371        | 0.003 (0.000)    | 0.133 (0.009)    | -         |     2.19 | aleph, dare, nero, shane, snav  |
+|           11 |     2467 | 2024-09-26 | M80                 | L   | 0.162      | -            | -                | -                | -         |    -1.06 | aleph, dare, nero, shane, snav  |
+|           10 |     2468 | 2024-09-26 | M80                 | L   | 0.162      | -            | -                | -                | -         |    -1.07 | aleph, dare, nero, shane, snav  |
+|            9 |     2576 | 2024-09-24 | NRG                 | L   | 0.149      | -            | -                | -                | -         |    -0.73 | aleph, dare, nero, shane, snav  |
+|            8 |     2580 | 2024-09-24 | NRG                 | L   | 0.148      | -            | -                | -                | -         |    -0.74 | aleph, dare, nero, shane, snav  |
+|            7 |     2628 | 2024-09-23 | Familia Maquininha  | L   | 0.142      | -            | -                | -                | -         |    -2.87 | aleph, dare, nero, shane, snav  |
+|            6 |     2632 | 2024-09-23 | Familia Maquininha  | L   | 0.142      | -            | -                | -                | -         |    -2.89 | aleph, dare, nero, shane, snav  |
+|            5 |     2687 | 2024-09-21 | BOSS                | L   | 0.128      | -            | -                | -                | -         |    -1.11 | dare, dea, intra, shane, snav   |
+|            4 |     3040 | 2024-09-08 | Nouns Esports       | L   | 0.042      | -            | -                | -                | -         |    -0.74 | dare, dea, Peeping, shane, snav |
+|            3 |     3041 | 2024-09-08 | Bad News Capybaras  | W   | 0.041      | 0.333        | 0.001 (0.000)    | 0.148 (0.002)    | 1 (0.041) |     0.46 | dare, dea, Peeping, shane, snav |
+|            2 |     3061 | 2024-09-07 | BHOP Esports        | W   | 0.035      | 0.333        | 0.000 (0.000)    | 0.002 (0.000)    | 1 (0.035) |     0.12 | dare, dea, Peeping, shane, snav |
+|            1 |     3062 | 2024-09-07 | MMM (American team) | W   | 0.034      | -            | -                | -                | 1 (0.034) |     0.12 | dare, dea, Peeping, shane, snav |
 
 <br />
 <span id="table2"></span><br />

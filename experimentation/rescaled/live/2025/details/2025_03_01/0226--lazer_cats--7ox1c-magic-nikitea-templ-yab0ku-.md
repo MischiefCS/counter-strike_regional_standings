@@ -6,22 +6,22 @@ Global Rank: [226](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [134]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  597.3<br />
+Final Rank Value:  601.5<br />
 <br />
-Final Rank Value (597.3) = Starting Rank Value (599.4) + Head To Head Adjustments (-2.0)<br />
+Final Rank Value (601.5) = Starting Rank Value (602.9) + Head To Head Adjustments (-1.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.222[<sup>1</sup>](#table2)
-- Bounty Collected: 0.196[<sup>2</sup>](#table1)
-- Opponent Network: 0.001[<sup>2</sup>](#table1)
+- Bounty Collected: 0.203[<sup>2</sup>](#table1)
+- Opponent Network: 0.002[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.105<br />
+The average of these factors is 0.107<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 599.4
-- 400 + ( ( 0.105 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 599.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 602.9
+- 400 + ( ( 0.107 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 602.9
 
 
 #### Factors<br />
@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     1161 | 2024-11-30 | Nexus Gaming     | L   | 0.592      | -            | -                | -                | -         |    -1.10 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
-|            4 |     1216 | 2024-11-27 | Partizan Esports | L   | 0.573      | -            | -                | -                | -         |    -1.08 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
-|            3 |     2492 | 2024-09-26 | Astralis Talent  | L   | 0.159      | -            | -                | -                | -         |    -1.67 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
-|            2 |     2841 | 2024-09-15 | Passion UA       | L   | 0.086      | -            | -                | -                | -         |    -0.12 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
-|            1 |     2855 | 2024-09-15 | KONO.ECF         | W   | 0.085      | 0.457        | 0.020 (0.001)    | 0.361 (0.014)    | 0 (0.000) |     1.96 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
+|            5 |     1161 | 2024-11-30 | Nexus Gaming     | L   | 0.592      | -            | -                | -                | -         |    -0.94 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
+|            4 |     1216 | 2024-11-27 | Partizan Esports | L   | 0.573      | -            | -                | -                | -         |    -0.85 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
+|            3 |     2492 | 2024-09-26 | Astralis Talent  | L   | 0.159      | -            | -                | -                | -         |    -1.56 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
+|            2 |     2841 | 2024-09-15 | Passion UA       | L   | 0.086      | -            | -                | -                | -         |    -0.09 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
+|            1 |     2855 | 2024-09-15 | KONO.ECF         | W   | 0.085      | 0.683        | 0.020 (0.001)    | 0.361 (0.021)    | 0 (0.000) |     2.02 | 7oX1C, Magic, nikitea, Templ, yab0ku- |
 
 <br />
 <span id="table2"></span><br />

@@ -4,24 +4,24 @@ Roster: bnc, Leomonster, realz1n, rem1x, zmb<br />
 Global Rank: [137](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
-Regional Rank: [31]( ../../standings_americas_2025_03_01.md)<br />
+Regional Rank: [30]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  719.7<br />
+Final Rank Value:  741.1<br />
 <br />
-Final Rank Value (719.7) = Starting Rank Value (693.9) + Head To Head Adjustments (25.8)<br />
+Final Rank Value (741.1) = Starting Rank Value (710.8) + Head To Head Adjustments (30.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.311[<sup>1</sup>](#table2)
-- Bounty Collected: 0.238[<sup>2</sup>](#table1)
-- Opponent Network: 0.068[<sup>2</sup>](#table1)
+- Bounty Collected: 0.245[<sup>2</sup>](#table1)
+- Opponent Network: 0.097[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.154<br />
+The average of these factors is 0.163<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 693.9
-- 400 + ( ( 0.154 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 693.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 710.8
+- 400 + ( ( 0.163 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 710.8
 
 
 #### Factors<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      152 | 2025-02-20 | Legacy                 | L   | 1.000      | -            | -                | -                | -         |    -5.23 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           20 |      203 | 2025-02-16 | ShindeN                | W   | 1.000      | 0.461        | 0.005 (0.002)    | 0.377 (0.174)    | 0 (0.000) |    14.70 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           19 |      259 | 2025-02-14 | ODDIK                  | L   | 1.000      | -            | -                | -                | -         |   -10.64 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           18 |      307 | 2025-02-12 | KRÜ Esports            | W   | 1.000      | 0.461        | 0.001 (0.001)    | 0.169 (0.078)    | 0 (0.000) |    13.88 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           17 |      348 | 2025-02-10 | Bounty Hunters Esports | W   | 1.000      | 0.461        | 0.001 (0.001)    | 0.240 (0.111)    | 0 (0.000) |    14.95 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           16 |      486 | 2025-02-07 | Legacy                 | L   | 1.000      | -            | -                | -                | -         |    -6.52 | bnc, Leomonster, realz1n, rem1x, zmb |
-|           15 |      709 | 2025-01-09 | Team Solid             | L   | 0.860      | -            | -                | -                | -         |    -8.73 | bnc, max, realz1n, rem1x, zmb        |
-|           14 |      786 | 2024-12-20 | Patins da Ferrari      | W   | 0.727      | 0.387        | 0.000 (0.000)    | 0.128 (0.036)    | 0 (0.000) |     6.47 | bnc, max, realz1n, rem1x, zmb        |
-|           13 |      815 | 2024-12-18 | Nitro.GG               | W   | 0.712      | 0.387        | 0.001 (0.000)    | 0.358 (0.099)    | 0 (0.000) |    10.40 | bnc, max, realz1n, rem1x, zmb        |
-|           12 |      829 | 2024-12-16 | Bad News Chickens      | L   | 0.701      | -            | -                | -                | -         |   -12.64 | bnc, max, realz1n, rem1x, zmb        |
-|           11 |      891 | 2024-12-13 | Galorys Academy        | W   | 0.681      | 0.387        | 0.000 (0.000)    | -                | 0 (0.000) |     3.28 | bnc, max, realz1n, rem1x, zmb        |
-|           10 |     1214 | 2024-11-27 | Nitro.GG               | L   | 0.573      | -            | -                | -                | -         |    -9.69 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            9 |     1633 | 2024-11-07 | ODDIK                  | L   | 0.440      | -            | -                | -                | -         |    -5.34 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            8 |     1671 | 2024-11-04 | Joga de terno          | W   | 0.421      | 0.405        | -                | 0.111 (0.019)    | 0 (0.000) |     3.07 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            7 |     1681 | 2024-11-03 | RED Canids Academy     | W   | 0.413      | 0.352        | 0.005 (0.001)    | -                | 0 (0.000) |     5.53 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            6 |     1700 | 2024-11-02 | TROPA DO TACO          | L   | 0.408      | -            | -                | -                | -         |    -6.87 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            5 |     1703 | 2024-11-02 | Bounty Hunters Esports | W   | 0.407      | 0.352        | 0.001 (0.000)    | 0.240 (0.034)    | 0 (0.000) |     5.99 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            4 |     1725 | 2024-11-01 | Dusty Roots            | W   | 0.401      | 0.352        | 0.008 (0.001)    | 0.422 (0.060)    | 0 (0.000) |     7.23 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            3 |     1744 | 2024-10-31 | VELOX Argentina        | W   | 0.393      | 0.405        | -                | 0.121 (0.019)    | -         |     3.27 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            2 |     1794 | 2024-10-28 | Nitro.GG               | W   | 0.372      | 0.405        | 0.001 (0.000)    | 0.358 (0.054)    | -         |     5.48 | lukiz, pancc, realz1n, rem1x, zmb    |
-|            1 |     2473 | 2024-09-26 | Case Esports           | L   | 0.161      | -            | -                | -                | -         |    -2.77 | honda, lukiz, realz1n, rem1x, zmb    |
+|           21 |      152 | 2025-02-20 | Legacy                 | L   | 1.000      | -            | -                | -                | -         |    -4.12 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           20 |      203 | 2025-02-16 | ShindeN                | W   | 1.000      | 0.718        | 0.005 (0.004)    | 0.377 (0.271)    | 0 (0.000) |    14.21 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           19 |      259 | 2025-02-14 | ODDIK                  | L   | 1.000      | -            | -                | -                | -         |    -9.66 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           18 |      307 | 2025-02-12 | KRÜ Esports            | W   | 1.000      | 0.718        | 0.001 (0.001)    | 0.169 (0.122)    | 0 (0.000) |    13.49 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           17 |      348 | 2025-02-10 | Bounty Hunters Esports | W   | 1.000      | 0.718        | 0.001 (0.001)    | 0.240 (0.172)    | 0 (0.000) |    15.65 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           16 |      486 | 2025-02-07 | Legacy                 | L   | 1.000      | -            | -                | -                | -         |    -5.04 | bnc, Leomonster, realz1n, rem1x, zmb |
+|           15 |      709 | 2025-01-09 | Team Solid             | L   | 0.860      | -            | -                | -                | -         |    -7.57 | bnc, max, realz1n, rem1x, zmb        |
+|           14 |      786 | 2024-12-20 | Patins da Ferrari      | W   | 0.727      | 0.531        | 0.000 (0.000)    | 0.128 (0.049)    | 0 (0.000) |     6.29 | bnc, max, realz1n, rem1x, zmb        |
+|           13 |      815 | 2024-12-18 | Nitro.GG               | W   | 0.712      | 0.533        | 0.001 (0.001)    | 0.358 (0.136)    | 0 (0.000) |    10.58 | bnc, max, realz1n, rem1x, zmb        |
+|           12 |      829 | 2024-12-16 | Bad News Chickens      | L   | 0.701      | -            | -                | -                | -         |   -12.88 | bnc, max, realz1n, rem1x, zmb        |
+|           11 |      891 | 2024-12-13 | Galorys Academy        | W   | 0.681      | 0.535        | 0.000 (0.000)    | -                | 0 (0.000) |     3.02 | bnc, max, realz1n, rem1x, zmb        |
+|           10 |     1214 | 2024-11-27 | Nitro.GG               | L   | 0.573      | -            | -                | -                | -         |    -9.54 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            9 |     1633 | 2024-11-07 | ODDIK                  | L   | 0.440      | -            | -                | -                | -         |    -4.74 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            8 |     1671 | 2024-11-04 | Joga de terno          | W   | 0.421      | 0.552        | -                | 0.111 (0.026)    | 0 (0.000) |     2.88 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            7 |     1681 | 2024-11-03 | RED Canids Academy     | W   | 0.413      | 0.333        | 0.005 (0.001)    | -                | 0 (0.000) |     5.27 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            6 |     1700 | 2024-11-02 | TROPA DO TACO          | L   | 0.408      | -            | -                | -                | -         |    -6.93 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            5 |     1703 | 2024-11-02 | Bounty Hunters Esports | W   | 0.407      | 0.333        | 0.001 (0.000)    | 0.240 (0.033)    | 0 (0.000) |     6.32 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            4 |     1725 | 2024-11-01 | Dusty Roots            | W   | 0.401      | 0.333        | 0.008 (0.001)    | 0.422 (0.056)    | 0 (0.000) |     7.17 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            3 |     1744 | 2024-10-31 | VELOX Argentina        | W   | 0.393      | 0.557        | -                | 0.121 (0.026)    | -         |     3.14 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            2 |     1794 | 2024-10-28 | Nitro.GG               | W   | 0.372      | 0.561        | 0.001 (0.000)    | 0.358 (0.075)    | -         |     5.61 | lukiz, pancc, realz1n, rem1x, zmb    |
+|            1 |     2473 | 2024-09-26 | Case Esports           | L   | 0.161      | -            | -                | -                | -         |    -2.82 | honda, lukiz, realz1n, rem1x, zmb    |
 
 <br />
 <span id="table2"></span><br />

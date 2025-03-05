@@ -6,9 +6,9 @@ Global Rank: [280](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [89]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  398.6<br />
+Final Rank Value:  399.9<br />
 <br />
-Final Rank Value (398.6) = Starting Rank Value (402.1) + Head To Head Adjustments (-3.5)<br />
+Final Rank Value (399.9) = Starting Rank Value (402.1) + Head To Head Adjustments (-2.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      489 | 2025-02-07 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |    -5.86 | deemO, legy, Markz, PremiuM, Tatu |
-|           10 |     1223 | 2024-11-26 | Yawara E-Sports          | L   | 0.568      | -            | -                | -                | -         |    -3.58 | deemO, legy, Markz, Tatu, tsug    |
-|            9 |     1253 | 2024-11-24 | 9z Academy               | W   | 0.554      | 0.371        | 0.000 (0.000)    | 0.210 (0.043)    | 0 (0.000) |    11.64 | deemO, legy, Markz, Tatu, tsug    |
-|            8 |     1304 | 2024-11-22 | BeBold.gg                | W   | 0.540      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.47 | deemO, legy, Markz, Tatu, tsug    |
-|            7 |     1361 | 2024-11-20 | VELOX Argentina          | L   | 0.526      | -            | -                | -                | -         |    -5.87 | deemO, legy, Markz, Tatu, tsug    |
-|            6 |     1384 | 2024-11-18 | Players (Brazilian team) | L   | 0.513      | -            | -                | -                | -         |    -2.20 | deemO, legy, Markz, Tatu, tsug    |
-|            5 |     1673 | 2024-11-04 | VELOX Argentina          | L   | 0.420      | -            | -                | -                | -         |    -4.64 | deemO, legy, Markz, Tatu, tsug    |
-|            4 |     1707 | 2024-11-02 | MIBR Academy             | L   | 0.407      | -            | -                | -                | -         |    -2.58 | deemO, legy, Markz, Tatu, tsug    |
-|            3 |     1741 | 2024-10-31 | Joga de terno            | L   | 0.395      | -            | -                | -                | -         |    -4.65 | deemO, legy, Markz, Tatu, tsug    |
+|           11 |      489 | 2025-02-07 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |    -5.61 | deemO, legy, Markz, PremiuM, Tatu |
+|           10 |     1223 | 2024-11-26 | Yawara E-Sports          | L   | 0.568      | -            | -                | -                | -         |    -3.41 | deemO, legy, Markz, Tatu, tsug    |
+|            9 |     1253 | 2024-11-24 | 9z Academy               | W   | 0.554      | 0.379        | 0.000 (0.000)    | 0.210 (0.044)    | 0 (0.000) |    11.82 | deemO, legy, Markz, Tatu, tsug    |
+|            8 |     1304 | 2024-11-22 | BeBold.gg                | W   | 0.540      | 0.380        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.46 | deemO, legy, Markz, Tatu, tsug    |
+|            7 |     1361 | 2024-11-20 | VELOX Argentina          | L   | 0.526      | -            | -                | -                | -         |    -5.75 | deemO, legy, Markz, Tatu, tsug    |
+|            6 |     1384 | 2024-11-18 | Players (Brazilian team) | L   | 0.513      | -            | -                | -                | -         |    -1.96 | deemO, legy, Markz, Tatu, tsug    |
+|            5 |     1673 | 2024-11-04 | VELOX Argentina          | L   | 0.420      | -            | -                | -                | -         |    -4.53 | deemO, legy, Markz, Tatu, tsug    |
+|            4 |     1707 | 2024-11-02 | MIBR Academy             | L   | 0.407      | -            | -                | -                | -         |    -2.42 | deemO, legy, Markz, Tatu, tsug    |
+|            3 |     1741 | 2024-10-31 | Joga de terno            | L   | 0.395      | -            | -                | -                | -         |    -4.63 | deemO, legy, Markz, Tatu, tsug    |
 |            2 |     1777 | 2024-10-29 | BeBold.gg                | W   | 0.382      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.94 | deemO, legy, Markz, Tatu, tsug    |
-|            1 |     3095 | 2024-09-06 | MIBR Academy             | L   | 0.028      | -            | -                | -                | -         |    -0.17 | deemO, hug1, legy, Markz, Tatu    |
+|            1 |     3095 | 2024-09-06 | MIBR Academy             | L   | 0.028      | -            | -                | -                | -         |    -0.16 | deemO, hug1, legy, Markz, Tatu    |
 
 <br />
 <span id="table2"></span><br />

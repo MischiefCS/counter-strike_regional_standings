@@ -4,24 +4,24 @@ Roster: Inzane, klipp, marsyA, neorah, Sys<br />
 Global Rank: [245](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
-Regional Rank: [33]( ../../standings_asia_2025_03_01.md)<br />
+Regional Rank: [34]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  552.5<br />
+Final Rank Value:  555.1<br />
 <br />
-Final Rank Value (552.5) = Starting Rank Value (539.0) + Head To Head Adjustments (13.5)<br />
+Final Rank Value (555.1) = Starting Rank Value (540.8) + Head To Head Adjustments (14.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.221[<sup>2</sup>](#table1)
-- Opponent Network: 0.009[<sup>2</sup>](#table1)
+- Bounty Collected: 0.223[<sup>2</sup>](#table1)
+- Opponent Network: 0.010[<sup>2</sup>](#table1)
 - LAN Wins: 0.062[<sup>2</sup>](#table1)
 
-The average of these factors is 0.073<br />
+The average of these factors is 0.074<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 539.0
-- 400 + ( ( 0.073 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 539.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 540.8
+- 400 + ( ( 0.074 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 540.8
 
 
 #### Factors<br />
@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1640 | 2024-11-07 | Chinggis Warriors  | L   | 0.438      | -            | -                | -                | -         |    -2.02 | Inzane, klipp, marsyA, neorah, Sys |
-|           10 |     1655 | 2024-11-05 | The Huns Esports   | L   | 0.430      | -            | -                | -                | -         |    -1.06 | Inzane, klipp, marsyA, neorah, Sys |
-|            9 |     1656 | 2024-11-05 | Clutch Gaming      | W   | 0.430      | 0.419        | 0.000 (0.000)    | 0.056 (0.010)    | 0 (0.000) |     6.36 | Inzane, klipp, marsyA, neorah, Sys |
-|            8 |     2045 | 2024-10-09 | Gods Reign         | W   | 0.245      | 0.449        | 0.014 (0.002)    | 0.360 (0.040)    | 1 (0.245) |     6.94 | klipp, marsyA, neorah, RiseN, Sys  |
-|            7 |     2051 | 2024-10-09 | Gods Reign         | L   | 0.245      | -            | -                | -                | -         |    -0.78 | klipp, marsyA, neorah, RiseN, Sys  |
-|            6 |     2103 | 2024-10-08 | Chinggis Warriors  | L   | 0.238      | -            | -                | -                | -         |    -1.02 | klipp, marsyA, neorah, RiseN, Sys  |
-|            5 |     2109 | 2024-10-08 | Chinggis Warriors  | L   | 0.238      | -            | -                | -                | -         |    -1.03 | klipp, marsyA, neorah, RiseN, Sys  |
+|           11 |     1640 | 2024-11-07 | Chinggis Warriors  | L   | 0.438      | -            | -                | -                | -         |    -1.89 | Inzane, klipp, marsyA, neorah, Sys |
+|           10 |     1655 | 2024-11-05 | The Huns Esports   | L   | 0.430      | -            | -                | -                | -         |    -0.84 | Inzane, klipp, marsyA, neorah, Sys |
+|            9 |     1656 | 2024-11-05 | Clutch Gaming      | W   | 0.430      | 0.613        | 0.000 (0.000)    | 0.056 (0.015)    | 0 (0.000) |     6.36 | Inzane, klipp, marsyA, neorah, Sys |
+|            8 |     2045 | 2024-10-09 | Gods Reign         | W   | 0.245      | 0.490        | 0.014 (0.002)    | 0.360 (0.043)    | 1 (0.245) |     6.97 | klipp, marsyA, neorah, RiseN, Sys  |
+|            7 |     2051 | 2024-10-09 | Gods Reign         | L   | 0.245      | -            | -                | -                | -         |    -0.75 | klipp, marsyA, neorah, RiseN, Sys  |
+|            6 |     2103 | 2024-10-08 | Chinggis Warriors  | L   | 0.238      | -            | -                | -                | -         |    -0.94 | klipp, marsyA, neorah, RiseN, Sys  |
+|            5 |     2109 | 2024-10-08 | Chinggis Warriors  | L   | 0.238      | -            | -                | -                | -         |    -0.95 | klipp, marsyA, neorah, RiseN, Sys  |
 |            4 |     2286 | 2024-10-02 | TYLOO              | L   | 0.198      | -            | -                | -                | -         |    -0.93 | klipp, marsyA, neorah, RiseN, Sys  |
-|            3 |     2291 | 2024-10-02 | TYLOO              | L   | 0.198      | -            | -                | -                | -         |    -0.94 | klipp, marsyA, neorah, RiseN, Sys  |
-|            2 |     2608 | 2024-09-24 | Lynn Vision Gaming | W   | 0.145      | 0.449        | 0.011 (0.001)    | 0.301 (0.020)    | 1 (0.145) |     4.00 | klipp, marsyA, neorah, RiseN, Sys  |
-|            1 |     2613 | 2024-09-24 | Lynn Vision Gaming | W   | 0.145      | 0.449        | 0.011 (0.001)    | 0.301 (0.020)    | 1 (0.145) |     4.02 | klipp, marsyA, neorah, RiseN, Sys  |
+|            3 |     2291 | 2024-10-02 | TYLOO              | L   | 0.198      | -            | -                | -                | -         |    -0.93 | klipp, marsyA, neorah, RiseN, Sys  |
+|            2 |     2608 | 2024-09-24 | Lynn Vision Gaming | W   | 0.145      | 0.519        | 0.011 (0.001)    | 0.301 (0.023)    | 1 (0.145) |     4.11 | klipp, marsyA, neorah, RiseN, Sys  |
+|            1 |     2613 | 2024-09-24 | Lynn Vision Gaming | W   | 0.145      | 0.519        | 0.011 (0.001)    | 0.301 (0.023)    | 1 (0.145) |     4.12 | klipp, marsyA, neorah, RiseN, Sys  |
 
 <br />
 <span id="table2"></span><br />

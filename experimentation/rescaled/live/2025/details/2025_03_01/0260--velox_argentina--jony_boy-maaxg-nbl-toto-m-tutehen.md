@@ -6,22 +6,22 @@ Global Rank: [260](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [80]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  515.5<br />
+Final Rank Value:  522.7<br />
 <br />
-Final Rank Value (515.5) = Starting Rank Value (506.9) + Head To Head Adjustments (8.6)<br />
+Final Rank Value (522.7) = Starting Rank Value (513.9) + Head To Head Adjustments (8.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.208[<sup>2</sup>](#table1)
-- Opponent Network: 0.017[<sup>2</sup>](#table1)
+- Bounty Collected: 0.215[<sup>2</sup>](#table1)
+- Opponent Network: 0.025[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.056<br />
+The average of these factors is 0.060<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 506.9
-- 400 + ( ( 0.056 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 506.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 513.9
+- 400 + ( ( 0.060 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 513.9
 
 
 #### Factors<br />
@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1197 | 2024-11-28 | ODDIK               | L   | 0.581      | -            | -                | -                | -         |    -3.18 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|           10 |     1224 | 2024-11-26 | Joga de terno       | W   | 0.567      | 0.406        | 0.000 (0.000)    | 0.111 (0.025)    | 0 (0.000) |     8.45 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            9 |     1250 | 2024-11-24 | MIBR Academy        | L   | 0.555      | -            | -                | -                | -         |    -5.46 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            8 |     1302 | 2024-11-22 | ShindeN             | W   | 0.541      | 0.406        | 0.005 (0.001)    | 0.377 (0.083)    | 0 (0.000) |    12.28 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            7 |     1361 | 2024-11-20 | PaiN Gaming Academy | W   | 0.526      | 0.406        | 0.000 (0.000)    | 0.088 (0.019)    | 0 (0.000) |     5.87 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            6 |     1385 | 2024-11-18 | Game Hunters        | L   | 0.512      | -            | -                | -                | -         |    -8.36 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            5 |     1658 | 2024-11-05 | Patins da Ferrari   | L   | 0.428      | -            | -                | -                | -         |    -6.89 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            4 |     1673 | 2024-11-04 | PaiN Gaming Academy | W   | 0.420      | 0.371        | 0.000 (0.000)    | 0.088 (0.014)    | 0 (0.000) |     4.64 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            3 |     1702 | 2024-11-02 | ShindeN             | L   | 0.407      | -            | -                | -                | -         |    -3.59 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            2 |     1744 | 2024-10-31 | UNO MILLE           | L   | 0.393      | -            | -                | -                | -         |    -3.27 | JonY BoY, maaxg, nbl, toto-m, tutehen |
-|            1 |     1786 | 2024-10-29 | LaChampionsLiga     | W   | 0.379      | 0.371        | 0.003 (0.000)    | 0.199 (0.028)    | 0 (0.000) |     8.10 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|           11 |     1197 | 2024-11-28 | ODDIK               | L   | 0.581      | -            | -                | -                | -         |    -2.60 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|           10 |     1224 | 2024-11-26 | Joga de terno       | W   | 0.567      | 0.608        | 0.000 (0.000)    | 0.111 (0.038)    | 0 (0.000) |     8.33 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            9 |     1250 | 2024-11-24 | MIBR Academy        | L   | 0.555      | -            | -                | -                | -         |    -5.32 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            8 |     1302 | 2024-11-22 | ShindeN             | W   | 0.541      | 0.587        | 0.005 (0.002)    | 0.377 (0.120)    | 0 (0.000) |    12.27 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            7 |     1361 | 2024-11-20 | PaiN Gaming Academy | W   | 0.526      | 0.589        | 0.000 (0.000)    | 0.088 (0.027)    | 0 (0.000) |     5.75 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            6 |     1385 | 2024-11-18 | Game Hunters        | L   | 0.512      | -            | -                | -                | -         |    -8.50 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            5 |     1658 | 2024-11-05 | Patins da Ferrari   | L   | 0.428      | -            | -                | -                | -         |    -7.04 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            4 |     1673 | 2024-11-04 | PaiN Gaming Academy | W   | 0.420      | 0.580        | 0.000 (0.000)    | 0.088 (0.022)    | 0 (0.000) |     4.53 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            3 |     1702 | 2024-11-02 | ShindeN             | L   | 0.407      | -            | -                | -                | -         |    -3.61 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            2 |     1744 | 2024-10-31 | UNO MILLE           | L   | 0.393      | -            | -                | -                | -         |    -3.14 | JonY BoY, maaxg, nbl, toto-m, tutehen |
+|            1 |     1786 | 2024-10-29 | LaChampionsLiga     | W   | 0.379      | 0.533        | 0.003 (0.001)    | 0.199 (0.040)    | 0 (0.000) |     8.10 | JonY BoY, maaxg, nbl, toto-m, tutehen |
 
 <br />
 <span id="table2"></span><br />

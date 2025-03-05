@@ -6,9 +6,9 @@ Global Rank: [278](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [43]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  425.6<br />
+Final Rank Value:  425.5<br />
 <br />
-Final Rank Value (425.6) = Starting Rank Value (427.2) + Head To Head Adjustments (-1.6)<br />
+Final Rank Value (425.5) = Starting Rank Value (427.2) + Head To Head Adjustments (-1.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     1439 | 2024-11-15 | GTZ.ESPORTS     | L   | 0.493      | -            | -                | -                | -         |    -0.37 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
-|            4 |     1447 | 2024-11-15 | Team Chile      | L   | 0.492      | -            | -                | -                | -         |    -7.29 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
-|            3 |     1484 | 2024-11-14 | ALTERNATE aTTaX | L   | 0.486      | -            | -                | -                | -         |    -1.21 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
-|            2 |     1489 | 2024-11-14 | Team Hungary    | L   | 0.485      | -            | -                | -                | -         |    -2.31 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
-|            1 |     1494 | 2024-11-14 | Team Kosovo     | W   | 0.485      | 0.617        | 0.000 (0.000)    | 0.022 (0.007)    | 1 (0.485) |     9.58 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
+|            5 |     1439 | 2024-11-15 | GTZ.ESPORTS     | L   | 0.493      | -            | -                | -                | -         |    -0.27 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
+|            4 |     1447 | 2024-11-15 | Team Chile      | L   | 0.492      | -            | -                | -                | -         |    -7.28 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
+|            3 |     1484 | 2024-11-14 | ALTERNATE aTTaX | L   | 0.486      | -            | -                | -                | -         |    -1.15 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
+|            2 |     1489 | 2024-11-14 | Team Hungary    | L   | 0.485      | -            | -                | -                | -         |    -2.35 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
+|            1 |     1494 | 2024-11-14 | Team Kosovo     | W   | 0.485      | 0.617        | 0.000 (0.000)    | 0.022 (0.007)    | 1 (0.485) |     9.37 | BOROS, HuNt3R, REAL1ZE, sprantos, tr1 |
 
 <br />
 <span id="table2"></span><br />

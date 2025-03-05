@@ -4,24 +4,24 @@ Roster: dumau, latto, lux, n1ssim, saadzin<br />
 Global Rank: [45](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
-Regional Rank: [12]( ../../standings_americas_2025_03_01.md)<br />
+Regional Rank: [10]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1001.3<br />
+Final Rank Value:  1071.2<br />
 <br />
-Final Rank Value (1001.3) = Starting Rank Value (888.2) + Head To Head Adjustments (113.1)<br />
+Final Rank Value (1071.2) = Starting Rank Value (987.9) + Head To Head Adjustments (83.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.403[<sup>1</sup>](#table2)
-- Bounty Collected: 0.357[<sup>2</sup>](#table1)
-- Opponent Network: 0.211[<sup>2</sup>](#table1)
+- Bounty Collected: 0.395[<sup>2</sup>](#table1)
+- Opponent Network: 0.383[<sup>2</sup>](#table1)
 - LAN Wins: 0.055[<sup>2</sup>](#table1)
 
-The average of these factors is 0.256<br />
+The average of these factors is 0.309<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 888.2
-- 400 + ( ( 0.256 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 888.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 987.9
+- 400 + ( ( 0.309 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 987.9
 
 
 #### Factors<br />
@@ -37,55 +37,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           49 |      119 | 2025-02-21 | Imperial Esports   | L   | 1.000      | -            | -                | -                | -         |   -11.80 | dumau, latto, lux, n1ssim, saadzin   |
-|           48 |      152 | 2025-02-20 | UNO MILLE          | W   | 1.000      | 0.468        | -                | 0.404 (0.189)    | 0 (0.000) |     5.23 | dumau, latto, lux, n1ssim, saadzin   |
-|           47 |      302 | 2025-02-12 | Fluxo              | W   | 1.000      | 0.509        | 0.054 (0.028)    | 0.394 (0.201)    | 0 (0.000) |    16.57 | dumau, latto, lux, n1ssim, saadzin   |
-|           46 |      323 | 2025-02-11 | Fluxo              | W   | 1.000      | 0.509        | 0.054 (0.028)    | 0.394 (0.201)    | 0 (0.000) |    17.39 | dumau, latto, lux, n1ssim, saadzin   |
-|           45 |      330 | 2025-02-11 | Sharks Esports     | W   | 1.000      | 0.509        | 0.054 (0.028)    | 0.661 (0.337)    | 0 (0.000) |    17.39 | dumau, latto, lux, n1ssim, saadzin   |
-|           44 |      427 | 2025-02-08 | BESTIA             | W   | 1.000      | 0.440        | 0.045 (0.020)    | 0.572 (0.252)    | 0 (0.000) |    15.75 | dumau, latto, lux, n1ssim, saadzin   |
-|           43 |      429 | 2025-02-08 | LaChampionsLiga    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.38 | dumau, latto, lux, n1ssim, saadzin   |
-|           42 |      448 | 2025-02-08 | MIBR               | L   | 1.000      | -            | -                | -                | -         |    -1.85 | dumau, latto, lux, n1ssim, saadzin   |
-|           41 |      486 | 2025-02-07 | UNO MILLE          | W   | 1.000      | 0.440        | -                | 0.404 (0.178)    | 0 (0.000) |     6.52 | dumau, latto, lux, n1ssim, saadzin   |
-|           40 |      495 | 2025-02-07 | Team Solid         | W   | 1.000      | 0.386        | 0.023 (0.009)    | 0.571 (0.220)    | 0 (0.000) |    12.15 | dumau, latto, lux, n1ssim, saadzin   |
-|           39 |      538 | 2025-02-05 | Team Solid         | W   | 1.000      | 0.386        | 0.023 (0.009)    | 0.571 (0.220)    | 0 (0.000) |    12.71 | dumau, latto, lux, n1ssim, saadzin   |
-|           38 |      547 | 2025-02-05 | Familia Maquininha | W   | 1.000      | -            | -                | -                | -         |     6.35 | dumau, latto, lux, n1ssim, saadzin   |
-|           37 |      692 | 2025-01-12 | BESTIA             | L   | 0.881      | -            | -                | -                | -         |   -12.21 | dumau, latto, lux, n1ssim, saadzin   |
-|           36 |      694 | 2025-01-11 | Dusty Roots        | W   | 0.875      | 0.448        | -                | 0.422 (0.165)    | -         |     8.28 | dumau, latto, lux, n1ssim, saadzin   |
-|           35 |      698 | 2025-01-10 | ShindeN            | W   | 0.868      | 0.448        | -                | 0.377 (0.147)    | -         |     6.21 | dumau, latto, lux, n1ssim, saadzin   |
-|           34 |     1496 | 2024-11-14 | RED Canids         | L   | 0.484      | -            | -                | -                | -         |    -8.29 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           33 |     1534 | 2024-11-12 | M80                | L   | 0.476      | -            | -                | -                | -         |    -6.14 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           32 |     1551 | 2024-11-12 | 9z Team            | L   | 0.471      | -            | -                | -                | -         |    -9.75 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           31 |     1563 | 2024-11-11 | FURIA              | W   | 0.469      | 0.564        | 0.094 (0.025)    | -                | 1 (0.469) |    14.09 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           30 |     1857 | 2024-10-19 | NRG                | L   | 0.315      | -            | -                | -                | -         |    -3.75 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           29 |     1897 | 2024-10-17 | M80                | L   | 0.302      | -            | -                | -                | -         |    -4.04 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           28 |     1922 | 2024-10-16 | Nouns Esports      | W   | 0.295      | -            | -                | -                | -         |     2.72 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           27 |     2013 | 2024-10-09 | Familia Maquininha | W   | 0.249      | -            | -                | -                | -         |     1.59 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           26 |     2020 | 2024-10-09 | Familia Maquininha | W   | 0.248      | -            | -                | -                | -         |     1.61 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           25 |     2062 | 2024-10-08 | M80                | L   | 0.242      | -            | -                | -                | -         |    -3.29 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           24 |     2068 | 2024-10-08 | M80                | W   | 0.242      | 0.510        | 0.038 (0.005)    | -                | -         |     4.39 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           23 |     2168 | 2024-10-05 | FLUFFY AIMERS      | L   | 0.221      | -            | -                | -                | -         |    -4.60 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           22 |     2195 | 2024-10-04 | LAG Gaming         | W   | 0.215      | -            | -                | -                | -         |     0.96 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           21 |     2228 | 2024-10-03 | Vagrants           | W   | 0.209      | -            | -                | -                | -         |     1.19 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           20 |     2233 | 2024-10-03 | Vagrants           | W   | 0.208      | -            | -                | -                | -         |     1.21 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           19 |     2271 | 2024-10-02 | Lore Gaming        | W   | 0.201      | -            | -                | -                | -         |     0.35 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           18 |     2309 | 2024-10-01 | NRG                | W   | 0.195      | 0.510        | 0.049 (0.005)    | -                | -         |     3.96 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           17 |     2315 | 2024-10-01 | NRG                | W   | 0.195      | 0.510        | 0.049 (0.005)    | -                | -         |     4.02 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           16 |     2430 | 2024-09-27 | NRG                | W   | 0.168      | -            | -                | -                | -         |     3.50 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           15 |     2435 | 2024-09-27 | BOSS               | W   | 0.168      | -            | -                | -                | -         |     2.70 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           14 |     2515 | 2024-09-25 | Bad News Capybaras | W   | 0.155      | -            | -                | -                | -         |     1.03 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           13 |     2520 | 2024-09-25 | Bad News Capybaras | W   | 0.155      | -            | -                | -                | -         |     1.04 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           12 |     2575 | 2024-09-24 | Chill Guys         | W   | 0.149      | -            | -                | -                | -         |     0.91 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           11 |     2582 | 2024-09-24 | Chill Guys         | W   | 0.148      | -            | -                | -                | -         |     0.92 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|           10 |     2629 | 2024-09-23 | Nouns Esports      | W   | 0.142      | -            | -                | -                | -         |     1.26 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            9 |     2633 | 2024-09-23 | Nouns Esports      | W   | 0.142      | -            | -                | -                | -         |     1.27 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            8 |     2690 | 2024-09-21 | FLUFFY AIMERS      | L   | 0.128      | -            | -                | -                | -         |    -2.58 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            7 |     2727 | 2024-09-19 | LAG Gaming         | W   | 0.115      | -            | -                | -                | -         |     0.62 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            6 |     2728 | 2024-09-19 | LAG Gaming         | W   | 0.115      | -            | -                | -                | -         |     0.62 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            5 |     2759 | 2024-09-18 | Party Astronauts   | W   | 0.109      | -            | -                | -                | -         |     1.14 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            4 |     2764 | 2024-09-18 | Party Astronauts   | W   | 0.108      | -            | -                | -                | -         |     1.15 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            3 |     3190 | 2024-09-03 | FLUFFY AIMERS      | W   | 0.009      | -            | -                | -                | -         |     0.10 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            2 |     3192 | 2024-09-03 | FLUFFY AIMERS      | W   | 0.008      | -            | -                | -                | -         |     0.10 | b4rtiN, dumau, latto, NEKIZ, saadzin |
-|            1 |     3225 | 2024-09-02 | BOSS               | W   | 0.002      | -            | -                | -                | -         |     0.03 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           49 |      119 | 2025-02-21 | Imperial Esports   | L   | 1.000      | -            | -                | -                | -         |   -12.06 | dumau, latto, lux, n1ssim, saadzin   |
+|           48 |      152 | 2025-02-20 | UNO MILLE          | W   | 1.000      | 0.977        | -                | 0.404 (0.395)    | 0 (0.000) |     4.12 | dumau, latto, lux, n1ssim, saadzin   |
+|           47 |      302 | 2025-02-12 | Fluxo              | W   | 1.000      | 1.000        | 0.054 (0.054)    | 0.394 (0.394)    | 0 (0.000) |    16.60 | dumau, latto, lux, n1ssim, saadzin   |
+|           46 |      323 | 2025-02-11 | Fluxo              | W   | 1.000      | 1.000        | 0.054 (0.054)    | 0.394 (0.394)    | 0 (0.000) |    17.45 | dumau, latto, lux, n1ssim, saadzin   |
+|           45 |      330 | 2025-02-11 | Sharks Esports     | W   | 1.000      | 1.000        | 0.054 (0.054)    | 0.661 (0.661)    | 0 (0.000) |    16.88 | dumau, latto, lux, n1ssim, saadzin   |
+|           44 |      427 | 2025-02-08 | BESTIA             | W   | 1.000      | 0.768        | 0.045 (0.034)    | 0.572 (0.440)    | 0 (0.000) |    14.65 | dumau, latto, lux, n1ssim, saadzin   |
+|           43 |      429 | 2025-02-08 | LaChampionsLiga    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.19 | dumau, latto, lux, n1ssim, saadzin   |
+|           42 |      448 | 2025-02-08 | MIBR               | L   | 1.000      | -            | -                | -                | -         |    -2.29 | dumau, latto, lux, n1ssim, saadzin   |
+|           41 |      486 | 2025-02-07 | UNO MILLE          | W   | 1.000      | 0.768        | -                | 0.404 (0.311)    | 0 (0.000) |     5.04 | dumau, latto, lux, n1ssim, saadzin   |
+|           40 |      495 | 2025-02-07 | Team Solid         | W   | 1.000      | 0.661        | 0.023 (0.015)    | 0.571 (0.377)    | 0 (0.000) |    11.09 | dumau, latto, lux, n1ssim, saadzin   |
+|           39 |      538 | 2025-02-05 | Team Solid         | W   | 1.000      | 0.661        | 0.023 (0.015)    | 0.571 (0.377)    | 0 (0.000) |    11.59 | dumau, latto, lux, n1ssim, saadzin   |
+|           38 |      547 | 2025-02-05 | Familia Maquininha | W   | 1.000      | -            | -                | -                | -         |     4.54 | dumau, latto, lux, n1ssim, saadzin   |
+|           37 |      692 | 2025-01-12 | BESTIA             | L   | 0.881      | -            | -                | -                | -         |   -13.50 | dumau, latto, lux, n1ssim, saadzin   |
+|           36 |      694 | 2025-01-11 | Dusty Roots        | W   | 0.875      | 0.684        | -                | 0.422 (0.253)    | -         |     6.28 | dumau, latto, lux, n1ssim, saadzin   |
+|           35 |      698 | 2025-01-10 | ShindeN            | W   | 0.868      | -            | -                | -                | -         |     4.38 | dumau, latto, lux, n1ssim, saadzin   |
+|           34 |     1496 | 2024-11-14 | RED Canids         | L   | 0.484      | -            | -                | -                | -         |    -9.34 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           33 |     1534 | 2024-11-12 | M80                | L   | 0.476      | -            | -                | -                | -         |    -6.89 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           32 |     1551 | 2024-11-12 | 9z Team            | L   | 0.471      | -            | -                | -                | -         |   -11.11 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           31 |     1563 | 2024-11-11 | FURIA              | W   | 0.469      | 1.000        | 0.094 (0.044)    | 0.493 (0.231)    | 1 (0.469) |    13.76 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           30 |     1857 | 2024-10-19 | NRG                | L   | 0.315      | -            | -                | -                | -         |    -4.34 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           29 |     1897 | 2024-10-17 | M80                | L   | 0.302      | -            | -                | -                | -         |    -4.56 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           28 |     1922 | 2024-10-16 | Nouns Esports      | W   | 0.295      | -            | -                | -                | -         |     1.94 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           27 |     2013 | 2024-10-09 | Familia Maquininha | W   | 0.249      | -            | -                | -                | -         |     1.06 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           26 |     2020 | 2024-10-09 | Familia Maquininha | W   | 0.248      | -            | -                | -                | -         |     1.07 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           25 |     2062 | 2024-10-08 | M80                | L   | 0.242      | -            | -                | -                | -         |    -3.73 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           24 |     2068 | 2024-10-08 | M80                | W   | 0.242      | 0.845        | 0.038 (0.008)    | -                | -         |     3.95 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           23 |     2168 | 2024-10-05 | FLUFFY AIMERS      | L   | 0.221      | -            | -                | -                | -         |    -5.30 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           22 |     2195 | 2024-10-04 | LAG Gaming         | W   | 0.215      | -            | -                | -                | -         |     0.62 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           21 |     2228 | 2024-10-03 | Vagrants           | W   | 0.209      | -            | -                | -                | -         |     0.80 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           20 |     2233 | 2024-10-03 | Vagrants           | W   | 0.208      | -            | -                | -                | -         |     0.80 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           19 |     2271 | 2024-10-02 | Lore Gaming        | W   | 0.201      | -            | -                | -                | -         |     0.21 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           18 |     2309 | 2024-10-01 | NRG                | W   | 0.195      | 0.770        | 0.049 (0.007)    | -                | -         |     3.56 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           17 |     2315 | 2024-10-01 | NRG                | W   | 0.195      | 0.771        | 0.049 (0.007)    | -                | -         |     3.62 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           16 |     2430 | 2024-09-27 | NRG                | W   | 0.168      | -            | -                | -                | -         |     3.16 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           15 |     2435 | 2024-09-27 | BOSS               | W   | 0.168      | -            | -                | -                | -         |     2.23 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           14 |     2515 | 2024-09-25 | Bad News Capybaras | W   | 0.155      | -            | -                | -                | -         |     0.68 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           13 |     2520 | 2024-09-25 | Bad News Capybaras | W   | 0.155      | -            | -                | -                | -         |     0.68 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           12 |     2575 | 2024-09-24 | Chill Guys         | W   | 0.149      | -            | -                | -                | -         |     0.60 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           11 |     2582 | 2024-09-24 | Chill Guys         | W   | 0.148      | -            | -                | -                | -         |     0.60 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|           10 |     2629 | 2024-09-23 | Nouns Esports      | W   | 0.142      | -            | -                | -                | -         |     0.86 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            9 |     2633 | 2024-09-23 | Nouns Esports      | W   | 0.142      | -            | -                | -                | -         |     0.87 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            8 |     2690 | 2024-09-21 | FLUFFY AIMERS      | L   | 0.128      | -            | -                | -                | -         |    -3.02 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            7 |     2727 | 2024-09-19 | LAG Gaming         | W   | 0.115      | -            | -                | -                | -         |     0.39 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            6 |     2728 | 2024-09-19 | LAG Gaming         | W   | 0.115      | -            | -                | -                | -         |     0.39 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            5 |     2759 | 2024-09-18 | Party Astronauts   | W   | 0.109      | -            | -                | -                | -         |     0.84 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            4 |     2764 | 2024-09-18 | Party Astronauts   | W   | 0.108      | -            | -                | -                | -         |     0.85 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            3 |     3190 | 2024-09-03 | FLUFFY AIMERS      | W   | 0.009      | -            | -                | -                | -         |     0.07 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            2 |     3192 | 2024-09-03 | FLUFFY AIMERS      | W   | 0.008      | -            | -                | -                | -         |     0.07 | b4rtiN, dumau, latto, NEKIZ, saadzin |
+|            1 |     3225 | 2024-09-02 | BOSS               | W   | 0.002      | -            | -                | -                | -         |     0.02 | b4rtiN, dumau, latto, NEKIZ, saadzin |
 
 <br />
 <span id="table2"></span><br />

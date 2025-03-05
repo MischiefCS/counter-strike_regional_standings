@@ -6,22 +6,22 @@ Global Rank: [270](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [84]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  487.1<br />
+Final Rank Value:  489.3<br />
 <br />
-Final Rank Value (487.1) = Starting Rank Value (494.0) + Head To Head Adjustments (-6.9)<br />
+Final Rank Value (489.3) = Starting Rank Value (495.4) + Head To Head Adjustments (-6.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.190[<sup>2</sup>](#table1)
-- Opponent Network: 0.007[<sup>2</sup>](#table1)
+- Bounty Collected: 0.192[<sup>2</sup>](#table1)
+- Opponent Network: 0.008[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.049<br />
+The average of these factors is 0.050<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 494.0
-- 400 + ( ( 0.049 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 494.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 495.4
+- 400 + ( ( 0.050 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 495.4
 
 
 #### Factors<br />
@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1224 | 2024-11-26 | VELOX Argentina     | L   | 0.567      | -            | -                | -                | -         |    -8.45 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
-|           10 |     1238 | 2024-11-25 | Game Hunters        | L   | 0.561      | -            | -                | -                | -         |    -8.73 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
-|            9 |     1300 | 2024-11-22 | Patins da Ferrari   | W   | 0.542      | 0.371        | 0.000 (0.000)    | 0.115 (0.023)    | 0 (0.000) |     8.71 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
-|            8 |     1360 | 2024-11-20 | LaChampionsLiga     | W   | 0.527      | 0.371        | 0.003 (0.001)    | 0.199 (0.039)    | 0 (0.000) |    11.11 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
-|            7 |     1370 | 2024-11-19 | 20/70               | L   | 0.522      | -            | -                | -                | -         |    -5.37 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
-|            6 |     1661 | 2024-11-05 | 9z Academy          | L   | 0.426      | -            | -                | -                | -         |    -6.08 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
-|            5 |     1671 | 2024-11-04 | UNO MILLE           | L   | 0.421      | -            | -                | -                | -         |    -3.07 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
-|            4 |     1723 | 2024-11-01 | Game Hunters        | L   | 0.402      | -            | -                | -                | -         |    -3.72 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
-|            3 |     1741 | 2024-10-31 | PaiN Gaming Academy | W   | 0.395      | 0.371        | 0.000 (0.000)    | 0.088 (0.013)    | 0 (0.000) |     4.65 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
-|            2 |     1778 | 2024-10-29 | BESTIA Academy      | W   | 0.381      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.43 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
-|            1 |     2443 | 2024-09-27 | Fluxo               | L   | 0.167      | -            | -                | -                | -         |    -0.35 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
+|           11 |     1224 | 2024-11-26 | VELOX Argentina     | L   | 0.567      | -            | -                | -                | -         |    -8.33 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
+|           10 |     1238 | 2024-11-25 | Game Hunters        | L   | 0.561      | -            | -                | -                | -         |    -8.75 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
+|            9 |     1300 | 2024-11-22 | Patins da Ferrari   | W   | 0.542      | 0.425        | 0.000 (0.000)    | 0.115 (0.026)    | 0 (0.000) |     8.66 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
+|            8 |     1360 | 2024-11-20 | LaChampionsLiga     | W   | 0.527      | 0.426        | 0.003 (0.001)    | 0.199 (0.045)    | 0 (0.000) |    11.21 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
+|            7 |     1370 | 2024-11-19 | 20/70               | L   | 0.522      | -            | -                | -                | -         |    -5.29 | ALENNNCARrx, BALEROSTYLE, Brnz1k, Lukita, Sakamoto |
+|            6 |     1661 | 2024-11-05 | 9z Academy          | L   | 0.426      | -            | -                | -                | -         |    -5.95 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
+|            5 |     1671 | 2024-11-04 | UNO MILLE           | L   | 0.421      | -            | -                | -                | -         |    -2.88 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
+|            4 |     1723 | 2024-11-01 | Game Hunters        | L   | 0.402      | -            | -                | -                | -         |    -3.59 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
+|            3 |     1741 | 2024-10-31 | PaiN Gaming Academy | W   | 0.395      | 0.371        | 0.000 (0.000)    | 0.088 (0.013)    | 0 (0.000) |     4.63 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
+|            2 |     1778 | 2024-10-29 | BESTIA Academy      | W   | 0.381      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.41 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
+|            1 |     2443 | 2024-09-27 | Fluxo               | L   | 0.167      | -            | -                | -                | -         |    -0.23 | Brnz1k, lealziNho, Lukita, Sakamoto, swarmyzz      |
 
 <br />
 <span id="table2"></span><br />

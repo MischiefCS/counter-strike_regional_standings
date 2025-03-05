@@ -6,22 +6,22 @@ Global Rank: [273](../../standings_global_2025_03_01.md)<br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
 Regional Rank: [149]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  482.2<br />
+Final Rank Value:  480.9<br />
 <br />
-Final Rank Value (482.2) = Starting Rank Value (481.8) + Head To Head Adjustments (0.4)<br />
+Final Rank Value (480.9) = Starting Rank Value (480.4) + Head To Head Adjustments (0.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.171[<sup>2</sup>](#table1)
+- Bounty Collected: 0.169[<sup>2</sup>](#table1)
 - Opponent Network: 0.000[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.043<br />
+The average of these factors is 0.042<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 481.8
-- 400 + ( ( 0.043 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 481.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 480.4
+- 400 + ( ( 0.042 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 480.4
 
 
 #### Factors<br />
@@ -37,11 +37,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     3057 | 2024-09-08 | CYBERSHOKE Esports  | L   | 0.037      | -            | -                | -                | -         |    -0.09 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|            5 |     3090 | 2024-09-07 | GUN5 Esports        | L   | 0.031      | -            | -                | -                | -         |    -0.07 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|            4 |     3116 | 2024-09-06 | Zero Tenacity       | L   | 0.024      | -            | -                | -                | -         |    -0.08 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|            3 |     3177 | 2024-09-04 | Alliance            | W   | 0.012      | 0.583        | 0.015 (0.000)    | 0.595 (0.004)    | 0 (0.000) |     0.35 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|            2 |     3185 | 2024-09-04 | TSM                 | W   | 0.011      | 0.408        | 0.009 (0.000)    | 0.167 (0.001)    | 0 (0.000) |     0.28 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|            6 |     3057 | 2024-09-08 | CYBERSHOKE Esports  | L   | 0.037      | -            | -                | -                | -         |    -0.06 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|            5 |     3090 | 2024-09-07 | GUN5 Esports        | L   | 0.031      | -            | -                | -                | -         |    -0.04 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|            4 |     3116 | 2024-09-06 | Zero Tenacity       | L   | 0.024      | -            | -                | -                | -         |    -0.07 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|            3 |     3177 | 2024-09-04 | Alliance            | W   | 0.012      | 0.435        | 0.015 (0.000)    | 0.595 (0.003)    | 0 (0.000) |     0.36 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|            2 |     3185 | 2024-09-04 | TSM                 | W   | 0.011      | 0.384        | 0.009 (0.000)    | 0.167 (0.001)    | 0 (0.000) |     0.28 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
 |            1 |     3209 | 2024-09-03 | Team Spirit Academy | L   | 0.006      | -            | -                | -                | -         |    -0.01 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
 
 <br />

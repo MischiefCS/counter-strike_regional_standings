@@ -6,22 +6,22 @@ Global Rank: [33](../../standings_global_2025_03_01.md)<br />
 Region: [Asia]( ../../standings_asia_2025_03_01.md)<br />
 Regional Rank: [3]( ../../standings_asia_2025_03_01.md)<br />
 <br />
-Final Rank Value:  1087.8<br />
+Final Rank Value:  1135.2<br />
 <br />
-Final Rank Value (1087.8) = Starting Rank Value (1060.5) + Head To Head Adjustments (27.3)<br />
+Final Rank Value (1135.2) = Starting Rank Value (1121.6) + Head To Head Adjustments (13.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.447[<sup>1</sup>](#table2)
-- Bounty Collected: 0.331[<sup>2</sup>](#table1)
-- Opponent Network: 0.188[<sup>2</sup>](#table1)
+- Bounty Collected: 0.353[<sup>2</sup>](#table1)
+- Opponent Network: 0.295[<sup>2</sup>](#table1)
 - LAN Wins: 0.422[<sup>2</sup>](#table1)
 
-The average of these factors is 0.347<br />
+The average of these factors is 0.379<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1060.5
-- 400 + ( ( 0.347 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1060.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1121.6
+- 400 + ( ( 0.379 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1121.6
 
 
 #### Factors<br />
@@ -37,37 +37,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           31 |       16 | 2025-02-27 | HOTU                      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.23 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           30 |       21 | 2025-02-26 | Eruption                  | W   | 1.000      | 0.439        | 0.014 (0.006)    | 0.379 (0.166)    | 0 (0.000) |     7.81 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           29 |       35 | 2025-02-25 | The Huns Esports          | W   | 1.000      | 0.439        | 0.025 (0.011)    | 0.516 (0.227)    | 0 (0.000) |     9.83 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           28 |       53 | 2025-02-24 | Gods Reign                | W   | 1.000      | 0.439        | -                | 0.360 (0.158)    | -         |     7.58 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           27 |       75 | 2025-02-23 | HOTU                      | L   | 1.000      | -            | -                | -                | -         |   -28.27 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           26 |      297 | 2025-02-13 | The Huns Esports          | W   | 1.000      | 0.443        | 0.025 (0.011)    | 0.516 (0.229)    | -         |    10.08 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           25 |      300 | 2025-02-12 | Rare Atom                 | W   | 1.000      | 0.443        | 0.028 (0.012)    | 0.405 (0.180)    | -         |     8.25 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           24 |      313 | 2025-02-12 | Lynn Vision Gaming        | L   | 1.000      | -            | -                | -                | -         |   -22.05 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           23 |      336 | 2025-02-11 | The Huns Esports          | W   | 1.000      | 0.441        | 0.025 (0.011)    | 0.516 (0.228)    | -         |     9.99 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           22 |      344 | 2025-02-11 | TYLOO                     | W   | 1.000      | 0.441        | 0.018 (0.008)    | -                | -         |     7.42 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           21 |      347 | 2025-02-10 | Rooster                   | W   | 1.000      | -            | -                | -                | -         |     2.86 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           20 |      739 | 2024-12-29 | Eruption                  | W   | 0.784      | 0.480        | -                | 0.379 (0.142)    | 1 (0.784) |     7.04 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           19 |      740 | 2024-12-28 | Rare Atom                 | W   | 0.783      | 0.480        | 0.028 (0.010)    | 0.405 (0.152)    | 1 (0.783) |     6.12 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           18 |      746 | 2024-12-28 | The Huns Esports          | W   | 0.777      | 0.480        | 0.025 (0.009)    | 0.516 (0.193)    | 1 (0.777) |     8.46 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           17 |      747 | 2024-12-27 | Chinggis Warriors         | W   | 0.777      | 0.480        | 0.016 (0.006)    | 0.555 (0.207)    | 1 (0.777) |     5.37 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           16 |      753 | 2024-12-26 | Eruption                  | L   | 0.770      | -            | -                | -                | -         |   -17.56 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           15 |     1016 | 2024-12-06 | Chinggis Warriors         | W   | 0.632      | -            | -                | -                | -         |     4.38 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           14 |     1022 | 2024-12-06 | DogEvil                   | W   | 0.631      | -            | -                | -                | -         |     1.19 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           13 |     1075 | 2024-12-04 | Just Swing (Chinese team) | W   | 0.618      | -            | -                | -                | -         |     2.27 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           12 |     1076 | 2024-12-04 | Nomads (Mongolian team)   | W   | 0.618      | -            | -                | -                | -         |     0.90 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           11 |     1081 | 2024-12-03 | IHC Esports               | L   | 0.617      | -            | -                | -                | -         |   -17.24 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|           10 |     1288 | 2024-11-23 | Just Swing (Chinese team) | W   | 0.544      | -            | -                | -                | -         |     1.93 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|            9 |     1296 | 2024-11-22 | CatEvil                   | W   | 0.543      | -            | -                | -                | -         |     0.85 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|            8 |     1365 | 2024-11-19 | IHC Esports               | W   | 0.524      | -            | -                | -                | -         |     1.77 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|            7 |     1366 | 2024-11-19 | Chinggis Warriors         | W   | 0.523      | -            | -                | -                | -         |     4.01 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
-|            6 |     2217 | 2024-10-04 | Clutch Gaming             | W   | 0.211      | -            | -                | -                | 1 (0.211) |     0.32 | cool4st, dobu, kabal, MiQ, yAmi      |
-|            5 |     2223 | 2024-10-03 | Chinggis Warriors         | W   | 0.210      | -            | -                | -                | 1 (0.210) |     1.74 | cool4st, dobu, kabal, MiQ, yAmi      |
-|            4 |     2878 | 2024-09-14 | FURIA                     | L   | 0.079      | -            | -                | -                | -         |    -0.27 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
-|            3 |     2911 | 2024-09-13 | ENCE                      | W   | 0.073      | 1.000        | 0.134 (0.010)    | -                | 1 (0.073) |     1.05 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
-|            2 |     2956 | 2024-09-12 | Team Falcons              | L   | 0.065      | -            | -                | -                | -         |    -1.73 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
-|            1 |     2989 | 2024-09-11 | Team Vitality             | L   | 0.058      | -            | -                | -                | -         |    -0.01 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
+|           31 |       16 | 2025-02-27 | HOTU                      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.87 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           30 |       21 | 2025-02-26 | Eruption                  | W   | 1.000      | 0.638        | 0.014 (0.009)    | 0.379 (0.242)    | 0 (0.000) |     7.24 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           29 |       35 | 2025-02-25 | The Huns Esports          | W   | 1.000      | 0.638        | 0.025 (0.016)    | 0.516 (0.329)    | 0 (0.000) |     9.52 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           28 |       53 | 2025-02-24 | Gods Reign                | W   | 1.000      | 0.638        | 0.014 (0.009)    | 0.360 (0.230)    | -         |     6.40 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           27 |       75 | 2025-02-23 | HOTU                      | L   | 1.000      | -            | -                | -                | -         |   -28.67 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           26 |      297 | 2025-02-13 | The Huns Esports          | W   | 1.000      | 0.752        | 0.025 (0.019)    | 0.516 (0.388)    | -         |     9.73 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           25 |      300 | 2025-02-12 | Rare Atom                 | W   | 1.000      | 0.752        | 0.028 (0.021)    | 0.405 (0.305)    | -         |     7.72 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           24 |      313 | 2025-02-12 | Lynn Vision Gaming        | L   | 1.000      | -            | -                | -                | -         |   -22.55 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           23 |      336 | 2025-02-11 | The Huns Esports          | W   | 1.000      | 0.802        | 0.025 (0.020)    | 0.516 (0.414)    | -         |     9.62 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           22 |      344 | 2025-02-11 | TYLOO                     | W   | 1.000      | 0.802        | 0.018 (0.015)    | -                | -         |     6.08 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           21 |      347 | 2025-02-10 | Rooster                   | W   | 1.000      | -            | -                | -                | -         |     2.27 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           20 |      739 | 2024-12-29 | Eruption                  | W   | 0.784      | 0.722        | -                | 0.379 (0.214)    | 1 (0.784) |     6.40 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           19 |      740 | 2024-12-28 | Rare Atom                 | W   | 0.783      | 0.722        | 0.028 (0.016)    | 0.405 (0.229)    | 1 (0.783) |     5.68 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           18 |      746 | 2024-12-28 | The Huns Esports          | W   | 0.777      | 0.723        | 0.025 (0.014)    | 0.516 (0.290)    | 1 (0.777) |     8.07 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           17 |      747 | 2024-12-27 | Chinggis Warriors         | W   | 0.777      | 0.723        | 0.016 (0.009)    | 0.555 (0.312)    | 1 (0.777) |     4.55 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           16 |      753 | 2024-12-26 | Eruption                  | L   | 0.770      | -            | -                | -                | -         |   -18.26 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           15 |     1016 | 2024-12-06 | Chinggis Warriors         | W   | 0.632      | -            | -                | -                | -         |     3.66 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           14 |     1022 | 2024-12-06 | DogEvil                   | W   | 0.631      | -            | -                | -                | -         |     0.94 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           13 |     1075 | 2024-12-04 | Just Swing (Chinese team) | W   | 0.618      | -            | -                | -                | -         |     1.78 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           12 |     1076 | 2024-12-04 | Nomads (Mongolian team)   | W   | 0.618      | -            | -                | -                | -         |     0.68 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           11 |     1081 | 2024-12-03 | IHC Esports               | L   | 0.617      | -            | -                | -                | -         |   -17.65 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|           10 |     1288 | 2024-11-23 | Just Swing (Chinese team) | W   | 0.544      | -            | -                | -                | -         |     1.49 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|            9 |     1296 | 2024-11-22 | CatEvil                   | W   | 0.543      | -            | -                | -                | -         |     0.64 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|            8 |     1365 | 2024-11-19 | IHC Esports               | W   | 0.524      | -            | -                | -                | -         |     1.42 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|            7 |     1366 | 2024-11-19 | Chinggis Warriors         | W   | 0.523      | -            | -                | -                | -         |     3.31 | AccuracyTG, dobu, kabal, MiQ, Zesta  |
+|            6 |     2217 | 2024-10-04 | Clutch Gaming             | W   | 0.211      | -            | -                | -                | 1 (0.211) |     0.23 | cool4st, dobu, kabal, MiQ, yAmi      |
+|            5 |     2223 | 2024-10-03 | Chinggis Warriors         | W   | 0.210      | -            | -                | -                | 1 (0.210) |     1.44 | cool4st, dobu, kabal, MiQ, yAmi      |
+|            4 |     2878 | 2024-09-14 | FURIA                     | L   | 0.079      | -            | -                | -                | -         |    -0.34 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
+|            3 |     2911 | 2024-09-13 | ENCE                      | W   | 0.073      | -            | -                | -                | 1 (0.073) |     1.07 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
+|            2 |     2956 | 2024-09-12 | Team Falcons              | L   | 0.065      | -            | -                | -                | -         |    -1.80 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
+|            1 |     2989 | 2024-09-11 | Team Vitality             | L   | 0.058      | -            | -                | -                | -         |    -0.02 | ANNIHILATION, dobu, kabal, MiQ, yAmi |
 
 <br />
 <span id="table2"></span><br />

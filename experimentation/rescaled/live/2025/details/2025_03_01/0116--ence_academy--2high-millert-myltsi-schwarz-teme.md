@@ -4,24 +4,24 @@ Roster: 2high, millert, myltsi, Schwarz, teme<br />
 Global Rank: [116](../../standings_global_2025_03_01.md)<br />
 <br />
 Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
-Regional Rank: [81]( ../../standings_europe_2025_03_01.md)<br />
+Regional Rank: [83]( ../../standings_europe_2025_03_01.md)<br />
 <br />
-Final Rank Value:  756.5<br />
+Final Rank Value:  772.9<br />
 <br />
-Final Rank Value (756.5) = Starting Rank Value (775.0) + Head To Head Adjustments (-18.5)<br />
+Final Rank Value (772.9) = Starting Rank Value (788.8) + Head To Head Adjustments (-15.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.326[<sup>1</sup>](#table2)
-- Bounty Collected: 0.283[<sup>2</sup>](#table1)
-- Opponent Network: 0.063[<sup>2</sup>](#table1)
+- Bounty Collected: 0.291[<sup>2</sup>](#table1)
+- Opponent Network: 0.084[<sup>2</sup>](#table1)
 - LAN Wins: 0.117[<sup>2</sup>](#table1)
 
-The average of these factors is 0.197<br />
+The average of these factors is 0.204<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 775.0
-- 400 + ( ( 0.197 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 775.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 788.8
+- 400 + ( ( 0.204 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 788.8
 
 
 #### Factors<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |      112 | 2025-02-22 | JANO Esports                              | L   | 1.000      | -            | -                | -                | -         |   -11.04 | 2high, millert, myltsi, Schwarz, teme |
-|           21 |      122 | 2025-02-21 | HAVU                                      | W   | 1.000      | 0.380        | 0.002 (0.001)    | 0.000 (0.000)    | 1 (1.000) |     6.44 | 2high, millert, myltsi, Schwarz, teme |
-|           20 |      757 | 2024-12-24 | WOPA Esport                               | L   | 0.752      | -            | -                | -                | -         |   -10.13 | 2high, millert, myltsi, Schwarz, teme |
-|           19 |      761 | 2024-12-23 | KONO.ECF                                  | L   | 0.744      | -            | -                | -                | -         |   -12.16 | 2high, millert, myltsi, Schwarz, teme |
-|           18 |      809 | 2024-12-19 | ESC Gaming                                | W   | 0.718      | 0.475        | 0.000 (0.000)    | 0.207 (0.070)    | 0 (0.000) |     5.29 | 2high, millert, myltsi, Schwarz, teme |
-|           17 |      818 | 2024-12-18 | ALASKA                                    | W   | 0.712      | 0.475        | 0.030 (0.010)    | 0.626 (0.212)    | 0 (0.000) |    17.44 | 2high, millert, myltsi, Schwarz, teme |
-|           16 |     1113 | 2024-12-02 | Illuminar Gaming                          | L   | 0.606      | -            | -                | -                | -         |    -9.72 | 2high, millert, myltsi, Schwarz, teme |
-|           15 |     1190 | 2024-11-29 | Astralis Talent                           | W   | 0.586      | 0.409        | 0.002 (0.001)    | 0.388 (0.093)    | 0 (0.000) |     7.95 | 2high, millert, myltsi, Schwarz, teme |
-|           14 |     1208 | 2024-11-28 | Dark Cloud Esports                        | L   | 0.578      | -            | -                | -                | -         |    -9.92 | 2high, millert, myltsi, Schwarz, teme |
-|           13 |     1849 | 2024-10-20 | JANO Esports                              | L   | 0.318      | -            | -                | -                | -         |    -3.90 | 2high, millert, myltsi, Schwarz, teme |
-|           12 |     2181 | 2024-10-05 | Johnny Speeds                             | L   | 0.218      | -            | -                | -                | -         |    -2.36 | 2high, millert, myltsi, Schwarz, teme |
-|           11 |     2207 | 2024-10-04 | 500                                       | W   | 0.213      | 0.578        | 0.086 (0.011)    | 1.000 (0.123)    | 0 (0.000) |     5.76 | 2high, millert, myltsi, Schwarz, teme |
-|           10 |     2247 | 2024-10-03 | Los kogutos                               | W   | 0.205      | 0.578        | 0.027 (0.003)    | 0.387 (0.046)    | 0 (0.000) |     4.50 | 2high, millert, myltsi, Schwarz, teme |
-|            9 |     2284 | 2024-10-02 | Tricked Esport                            | W   | 0.199      | 0.578        | 0.033 (0.004)    | 0.673 (0.077)    | 0 (0.000) |     3.87 | 2high, millert, myltsi, Schwarz, teme |
-|            8 |     2420 | 2024-09-28 | HOTU                                      | L   | 0.171      | -            | -                | -                | -         |    -3.39 | 2high, millert, myltsi, Schwarz, teme |
-|            7 |     2543 | 2024-09-25 | RUBY                                      | L   | 0.153      | -            | -                | -                | -         |    -3.89 | 2high, millert, myltsi, Schwarz, teme |
-|            6 |     2604 | 2024-09-24 | HOTU                                      | W   | 0.145      | 0.220        | 0.000 (0.000)    | 0.217 (0.007)    | 0 (0.000) |     1.68 | 2high, millert, myltsi, Schwarz, teme |
-|            5 |     2900 | 2024-09-14 | Betclic Apogee Esports                    | L   | 0.077      | -            | -                | -                | -         |    -1.53 | 2high, millert, myltsi, Schwarz, teme |
-|            4 |     2951 | 2024-09-12 | 9INE Academy                              | W   | 0.065      | 0.466        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.23 | 2high, millert, myltsi, Schwarz, teme |
-|            3 |     2961 | 2024-09-12 | RUBY                                      | L   | 0.064      | -            | -                | -                | -         |    -1.63 | 2high, millert, myltsi, Schwarz, teme |
-|            2 |     2992 | 2024-09-11 | Team Spirit Academy                       | L   | 0.058      | -            | -                | -                | -         |    -0.52 | 2high, millert, myltsi, Schwarz, teme |
+|           22 |      112 | 2025-02-22 | JANO Esports                              | L   | 1.000      | -            | -                | -                | -         |   -11.39 | 2high, millert, myltsi, Schwarz, teme |
+|           21 |      122 | 2025-02-21 | HAVU                                      | W   | 1.000      | 0.634        | 0.002 (0.001)    | 0.000 (0.000)    | 1 (1.000) |     5.97 | 2high, millert, myltsi, Schwarz, teme |
+|           20 |      757 | 2024-12-24 | WOPA Esport                               | L   | 0.752      | -            | -                | -                | -         |    -9.93 | 2high, millert, myltsi, Schwarz, teme |
+|           19 |      761 | 2024-12-23 | KONO.ECF                                  | L   | 0.744      | -            | -                | -                | -         |   -11.87 | 2high, millert, myltsi, Schwarz, teme |
+|           18 |      809 | 2024-12-19 | ESC Gaming                                | W   | 0.718      | 0.634        | 0.000 (0.000)    | 0.207 (0.094)    | 0 (0.000) |     5.57 | 2high, millert, myltsi, Schwarz, teme |
+|           17 |      818 | 2024-12-18 | ALASKA                                    | W   | 0.712      | 0.635        | 0.030 (0.014)    | 0.626 (0.283)    | 0 (0.000) |    18.21 | 2high, millert, myltsi, Schwarz, teme |
+|           16 |     1113 | 2024-12-02 | Illuminar Gaming                          | L   | 0.606      | -            | -                | -                | -         |    -9.39 | 2high, millert, myltsi, Schwarz, teme |
+|           15 |     1190 | 2024-11-29 | Astralis Talent                           | W   | 0.586      | 0.717        | 0.002 (0.001)    | 0.388 (0.163)    | 0 (0.000) |     8.23 | 2high, millert, myltsi, Schwarz, teme |
+|           14 |     1208 | 2024-11-28 | Dark Cloud Esports                        | L   | 0.578      | -            | -                | -                | -         |    -9.78 | 2high, millert, myltsi, Schwarz, teme |
+|           13 |     1849 | 2024-10-20 | JANO Esports                              | L   | 0.318      | -            | -                | -                | -         |    -4.00 | 2high, millert, myltsi, Schwarz, teme |
+|           12 |     2181 | 2024-10-05 | Johnny Speeds                             | L   | 0.218      | -            | -                | -                | -         |    -2.19 | 2high, millert, myltsi, Schwarz, teme |
+|           11 |     2207 | 2024-10-04 | 500                                       | W   | 0.213      | 0.691        | 0.086 (0.013)    | 1.000 (0.147)    | 0 (0.000) |     6.11 | 2high, millert, myltsi, Schwarz, teme |
+|           10 |     2247 | 2024-10-03 | Los kogutos                               | W   | 0.205      | 0.662        | 0.027 (0.004)    | 0.387 (0.053)    | 0 (0.000) |     4.58 | 2high, millert, myltsi, Schwarz, teme |
+|            9 |     2284 | 2024-10-02 | Tricked Esport                            | W   | 0.199      | 0.665        | 0.033 (0.004)    | 0.673 (0.089)    | 0 (0.000) |     4.33 | 2high, millert, myltsi, Schwarz, teme |
+|            8 |     2420 | 2024-09-28 | HOTU                                      | L   | 0.171      | -            | -                | -                | -         |    -3.33 | 2high, millert, myltsi, Schwarz, teme |
+|            7 |     2543 | 2024-09-25 | RUBY                                      | L   | 0.153      | -            | -                | -                | -         |    -3.92 | 2high, millert, myltsi, Schwarz, teme |
+|            6 |     2604 | 2024-09-24 | HOTU                                      | W   | 0.145      | 0.416        | 0.000 (0.000)    | 0.217 (0.013)    | 0 (0.000) |     1.74 | 2high, millert, myltsi, Schwarz, teme |
+|            5 |     2900 | 2024-09-14 | Betclic Apogee Esports                    | L   | 0.077      | -            | -                | -                | -         |    -1.56 | 2high, millert, myltsi, Schwarz, teme |
+|            4 |     2951 | 2024-09-12 | 9INE Academy                              | W   | 0.065      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.21 | 2high, millert, myltsi, Schwarz, teme |
+|            3 |     2961 | 2024-09-12 | RUBY                                      | L   | 0.064      | -            | -                | -                | -         |    -1.65 | 2high, millert, myltsi, Schwarz, teme |
+|            2 |     2992 | 2024-09-11 | Team Spirit Academy                       | L   | 0.058      | -            | -                | -                | -         |    -0.37 | 2high, millert, myltsi, Schwarz, teme |
 |            1 |     2994 | 2024-09-11 | Copenhagen Wolves (American organization) | L   | 0.057      | -            | -                | -                | -         |    -1.45 | 2high, millert, myltsi, Schwarz, teme |
 
 <br />

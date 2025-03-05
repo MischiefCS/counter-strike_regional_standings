@@ -6,22 +6,22 @@ Global Rank: [274](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [85]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  479.3<br />
+Final Rank Value:  480.2<br />
 <br />
-Final Rank Value (479.3) = Starting Rank Value (480.0) + Head To Head Adjustments (-0.7)<br />
+Final Rank Value (480.2) = Starting Rank Value (480.8) + Head To Head Adjustments (-0.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.167[<sup>2</sup>](#table1)
+- Bounty Collected: 0.168[<sup>2</sup>](#table1)
 - Opponent Network: 0.001[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.042<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 480.0
-- 400 + ( ( 0.042 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 480.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 480.8
+- 400 + ( ( 0.042 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 480.8
 
 
 #### Factors<br />
@@ -38,10 +38,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |     2589 | 2024-09-24 | Final Form                | L   | 0.148      | -            | -                | -                | -         |    -2.22 | cypress, intra, LEARSI, raw1, sacrifice |
-|            5 |     2665 | 2024-09-22 | Vagrants                  | W   | 0.134      | 0.371        | 0.001 (0.000)    | 0.174 (0.009)    | 0 (0.000) |     3.05 | calamity, dea, intra, LEARSI, sacrifice |
+|            5 |     2665 | 2024-09-22 | Vagrants                  | W   | 0.134      | 0.433        | 0.001 (0.000)    | 0.174 (0.010)    | 0 (0.000) |     3.08 | calamity, dea, intra, LEARSI, sacrifice |
 |            4 |     2729 | 2024-09-19 | Team Canada               | L   | 0.115      | -            | -                | -                | -         |    -1.53 | cypress, intra, LEARSI, raw1, sacrifice |
 |            3 |     2797 | 2024-09-17 | Familia Maquininha        | L   | 0.102      | -            | -                | -                | -         |    -0.86 | cypress, intra, LEARSI, raw1, sacrifice |
-|            2 |     2935 | 2024-09-12 | Chill Guys                | W   | 0.068      | 0.371        | 0.002 (0.000)    | 0.173 (0.004)    | 0 (0.000) |     1.51 | cypress, intra, LEARSI, raw1, sacrifice |
+|            2 |     2935 | 2024-09-12 | Chill Guys                | W   | 0.068      | 0.398        | 0.002 (0.000)    | 0.173 (0.005)    | 0 (0.000) |     1.52 | cypress, intra, LEARSI, raw1, sacrifice |
 |            1 |     2966 | 2024-09-11 | Undefined (American team) | L   | 0.062      | -            | -                | -                | -         |    -0.64 | calamity, cypress, intra, LEARSI, raw1  |
 
 <br />

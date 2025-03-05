@@ -6,22 +6,22 @@ Global Rank: [275](../../standings_global_2025_03_01.md)<br />
 Region: [Americas]( ../../standings_americas_2025_03_01.md)<br />
 Regional Rank: [86]( ../../standings_americas_2025_03_01.md)<br />
 <br />
-Final Rank Value:  474.0<br />
+Final Rank Value:  477.4<br />
 <br />
-Final Rank Value (474.0) = Starting Rank Value (472.4) + Head To Head Adjustments (1.7)<br />
+Final Rank Value (477.4) = Starting Rank Value (475.6) + Head To Head Adjustments (1.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.152[<sup>2</sup>](#table1)
+- Bounty Collected: 0.159[<sup>2</sup>](#table1)
 - Opponent Network: 0.000[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.038<br />
+The average of these factors is 0.040<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 472.4
-- 400 + ( ( 0.038 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 472.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 475.6
+- 400 + ( ( 0.040 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 475.6
 
 
 #### Factors<br />
@@ -37,10 +37,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     2258 | 2024-10-02 | Nouns Esports              | L   | 0.202      | -            | -                | -                | -         |    -1.21 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
-|            4 |     2431 | 2024-09-27 | Party Astronauts           | L   | 0.168      | -            | -                | -                | -         |    -0.85 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
-|            3 |     2596 | 2024-09-24 | Team Canada                | W   | 0.147      | 0.371        | 0.000 (0.000)    | 0.040 (0.002)    | 0 (0.000) |     2.70 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
-|            2 |     2685 | 2024-09-21 | Dangerous (Ukrainian team) | W   | 0.128      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.61 | AtomiK, Frost, Izik, LUKE4k, SolGoat |
+|            5 |     2258 | 2024-10-02 | Nouns Esports              | L   | 0.202      | -            | -                | -                | -         |    -1.18 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
+|            4 |     2431 | 2024-09-27 | Party Astronauts           | L   | 0.168      | -            | -                | -                | -         |    -0.78 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
+|            3 |     2596 | 2024-09-24 | Team Canada                | W   | 0.147      | 0.707        | 0.000 (0.000)    | 0.040 (0.004)    | 0 (0.000) |     2.68 | AtomiK, Drew, Frost, LUKE4k, SolGoat |
+|            2 |     2685 | 2024-09-21 | Dangerous (Ukrainian team) | W   | 0.128      | 0.551        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.60 | AtomiK, Frost, Izik, LUKE4k, SolGoat |
 |            1 |     2967 | 2024-09-11 | Akimbo Esports             | L   | 0.062      | -            | -                | -                | -         |    -0.59 | AtomiK, Frost, LUKE4k, RiFT, SolGoat |
 
 <br />

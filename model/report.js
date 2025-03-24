@@ -27,8 +27,8 @@ function generateOutput( teams, regions = [0,1,2], strDate ){
     let fileDate = strDate.replaceAll('-','_');
     let year = fileDate.slice(0,4);
     let dayOfMonth = Number( strDate.slice(-2) );
-    let invitationFolder = `../invitation/${year}/`;  
-    let liveFolder= `../live/${year}/`
+    let invitationFolder = `../testing/match_time/invitation/${year}/`;  
+    let liveFolder= `../testing/match_time/live/${year}/`
 
     if ( dayOfMonth < 8 ) {                  
         if ( !fs.existsSync( invitationFolder + `${ summaryFolder }${ fileDate }/` ) )

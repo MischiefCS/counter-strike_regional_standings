@@ -1,0 +1,105 @@
+### Roster Details<br />
+Team Name: Astralis<br />
+Roster: cadiaN, dev1ce, jabbi, Staehr, stavn<br />
+Global Rank: [10](../../standings_global_2025_03_01.md)<br />
+<br />
+Region: [Europe]( ../../standings_europe_2025_03_01.md)<br />
+Regional Rank: [9]( ../../standings_europe_2025_03_01.md)<br />
+<br />
+Final Rank Value:  1691.8<br />
+<br />
+Final Rank Value (1691.8) = Starting Rank Value (1834.8) + Head To Head Adjustments (-143.0)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.823[<sup>1</sup>](#table2)
+- Bounty Collected: 0.686[<sup>2</sup>](#table1)
+- Opponent Network: 0.462[<sup>2</sup>](#table1)
+- LAN Wins: 1.000[<sup>2</sup>](#table1)
+
+The average of these factors is 0.743<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1834.8
+- 400 + ( ( 0.743 - 0.000 ) / ( 0.828 - 0.000 ) ) * 1600 = 1834.8
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|           41 |       98 | 2025-02-23 | FaZe Clan       | W   | 1.000      | 1.000        | 0.745 (0.745)    | 0.618 (0.618)    | 1 (1.000) |    22.78 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           40 |      113 | 2025-02-22 | MOUZ            | L   | 1.000      | -            | -                | -                | -         |    -8.40 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           39 |      148 | 2025-02-21 | The MongolZ     | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.625 (0.625)    | 1 (1.000) |    25.18 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           38 |      159 | 2025-02-20 | HEROIC          | L   | 1.000      | -            | -                | -                | -         |   -29.65 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           37 |      176 | 2025-02-17 | BIG             | W   | 1.000      | 1.000        | 0.220 (0.220)    | 0.558 (0.558)    | 1 (1.000) |     4.31 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           36 |      199 | 2025-02-17 | MIBR            | W   | 1.000      | 1.000        | 0.139 (0.139)    | 0.604 (0.604)    | 1 (1.000) |     4.65 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           35 |      215 | 2025-02-15 | Team Falcons    | L   | 1.000      | -            | -                | -                | -         |   -10.84 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           34 |      239 | 2025-02-15 | SAW             | W   | 1.000      | 1.000        | 0.263 (0.263)    | 0.391 (0.391)    | 1 (1.000) |     1.77 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           33 |      274 | 2025-02-14 | PaiN Gaming     | L   | 1.000      | -            | -                | -                | -         |   -21.54 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           32 |      332 | 2025-02-11 | BetBoom Team    | W   | 1.000      | -            | -                | -                | -         |     0.73 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           31 |      340 | 2025-02-11 | Zero Tenacity   | W   | 1.000      | -            | -                | -                | -         |     0.18 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           30 |      364 | 2025-02-10 | BC.Game Esports | L   | 1.000      | -            | -                | -                | -         |   -30.71 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           29 |      373 | 2025-02-09 | OG              | W   | 1.000      | -            | -                | -                | -         |     0.23 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           28 |      402 | 2025-02-09 | PARIVISION      | W   | 1.000      | -            | -                | -                | -         |     0.13 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           27 |      406 | 2025-02-09 | 500             | W   | 1.000      | -            | -                | -                | -         |     0.63 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           26 |      463 | 2025-02-08 | 9INE            | W   | 1.000      | -            | -                | -                | -         |     0.34 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           25 |      582 | 2025-02-04 | GamerLegion     | L   | 1.000      | -            | -                | -                | -         |   -21.87 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           24 |      590 | 2025-02-03 | FURIA           | W   | 1.000      | 1.000        | 0.094 (0.094)    | 0.493 (0.493)    | 1 (1.000) |     4.75 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           23 |      602 | 2025-02-02 | Team Spirit     | L   | 1.000      | -            | -                | -                | -         |    -6.57 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           22 |      620 | 2025-01-31 | PaiN Gaming     | W   | 1.000      | 1.000        | 0.318 (0.318)    | 0.632 (0.632)    | 1 (1.000) |     8.67 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           21 |      629 | 2025-01-30 | FlyQuest        | W   | 0.999      | 1.000        | 0.105 (0.105)    | 0.223 (0.223)    | 1 (0.999) |     0.66 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           20 |      639 | 2025-01-29 | MIBR            | L   | 0.992      | -            | -                | -                | -         |   -27.27 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           19 |      672 | 2025-01-18 | Natus Vincere   | L   | 0.920      | -            | -                | -                | -         |   -17.84 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           18 |      687 | 2025-01-15 | Wildcard        | W   | 0.898      | -            | -                | -                | -         |     1.93 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           17 |     1268 | 2024-11-23 | Passion UA      | L   | 0.550      | -            | -                | -                | -         |   -17.08 | br0, cadiaN, jabbi, Staehr, stavn    |
+|           16 |     1290 | 2024-11-22 | Eternal Fire    | W   | 0.544      | -            | -                | -                | 1 (0.544) |     9.43 | br0, cadiaN, jabbi, Staehr, stavn    |
+|           15 |     1320 | 2024-11-21 | B8              | W   | 0.537      | -            | -                | -                | 1 (0.537) |     0.23 | br0, cadiaN, jabbi, Staehr, stavn    |
+|           14 |     1338 | 2024-11-21 | Sashi Esport    | L   | 0.532      | -            | -                | -                | -         |   -16.65 | br0, cadiaN, jabbi, Staehr, stavn    |
+|           13 |     1350 | 2024-11-20 | 9Pandas         | L   | 0.530      | -            | -                | -                | -         |   -16.54 | br0, cadiaN, jabbi, Staehr, stavn    |
+|           12 |     1716 | 2024-11-02 | Team Spirit     | L   | 0.405      | -            | -                | -                | -         |    -3.74 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           11 |     1755 | 2024-10-30 | MOUZ            | W   | 0.391      | 1.000        | 1.000 (0.391)    | 0.606 (0.237)    | -         |     8.59 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           10 |     1776 | 2024-10-29 | Natus Vincere   | W   | 0.383      | 1.000        | 0.555 (0.213)    | 0.613 (0.235)    | -         |     4.25 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|            9 |     2048 | 2024-10-09 | Virtus.pro      | L   | 0.245      | -            | -                | -                | -         |    -5.75 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|            8 |     2096 | 2024-10-08 | Team Falcons    | L   | 0.240      | -            | -                | -                | -         |    -3.05 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|            7 |     2123 | 2024-10-07 | Eternal Fire    | W   | 0.233      | -            | -                | -                | -         |     4.16 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|            6 |     2497 | 2024-09-26 | Team Spirit     | L   | 0.159      | -            | -                | -                | -         |    -1.42 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|            5 |     2545 | 2024-09-25 | Team Vitality   | L   | 0.152      | -            | -                | -                | -         |    -1.88 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|            4 |     2880 | 2024-09-14 | Complexity      | L   | 0.078      | -            | -                | -                | -         |    -2.42 | br0, dev1ce, jabbi, Staehr, stavn    |
+|            3 |     2914 | 2024-09-13 | Rooster         | W   | 0.072      | -            | -                | -                | -         |     0.00 | br0, dev1ce, jabbi, Staehr, stavn    |
+|            2 |     2979 | 2024-09-11 | Complexity      | L   | 0.059      | -            | -                | -                | -         |    -1.82 | br0, dev1ce, jabbi, Staehr, stavn    |
+|            1 |     3018 | 2024-09-09 | Fnatic          | L   | 0.051      | -            | -                | -                | -         |    -1.59 | br0, dev1ce, jabbi, Staehr, stavn    |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($204,946.02)
+- Divide that value by the 5th highest value among all rosters ($336,045.79)
+- The final value (0.61) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+Top ten winnings for this roster:<br />
+
+| Event Date | Age Weight | Prize Winnings | Scaled Winnings |
+| :- | -: | :- | :- |
+| 2025-02-23 |      1.000 | $150,000.00    | $150,000.00     |
+| 2025-02-09 |      1.000 | $16,000.00     | $16,000.00      |
+| 2024-11-02 |      0.410 | $85,000.00     | $34,889.35      |
+| 2024-10-13 |      0.272 | $5,000.00      | $1,360.19       |
+| 2024-09-29 |      0.178 | $10,000.00     | $1,778.70       |
+| 2024-09-22 |      0.131 | $7,000.00      | $917.78         |
+
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by HLTV.org_<br />
